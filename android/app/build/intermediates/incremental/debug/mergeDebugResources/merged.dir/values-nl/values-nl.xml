@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25x</item>
+    <item>0,5x</item>
+    <item>0,75x</item>
+    <item>Normaal</item>
+    <item>1,25x</item>
+    <item>1,5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">%d seconde vooruitspoelen</item>
+    <item quantity="other">%d seconden vooruitspoelen</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">%d seconde terugspoelen</item>
+    <item quantity="other">%d seconden terugspoelen</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nieuwe melding</item>
+    <item quantity="other">%d nieuwe meldingen</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Klaar"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alles tonen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"UIT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AAN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Functie +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spatie"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="bottomsheet_action_collapse">Het blad onderaan samenvouwen</string>
+    <string name="bottomsheet_action_expand">Het blad onderaan uitvouwen</string>
+    <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
+    <string name="bottomsheet_drag_handle_clicked">Dubbelgetikt op handgreep voor slepen</string>
+    <string name="bottomsheet_drag_handle_content_description">Handgreep voor slepen</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Beantwoorden"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Weigeren"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Ophangen"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Inkomend gesprek"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Actief gesprek"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Een inkomend gesprek screenen"</string>
+    <string name="character_counter_content_description">%1$d van %2$d tekens opgegeven</string>
+    <string name="character_counter_overflowed_content_description">Tekenlimiet heeft %1$d van %2$d overschreden</string>
+    <string name="clear_text_end_icon_content_description">Tekst wissen</string>
+    <string msgid="406453423630273620" name="close_drawer">"Navigatiemenu sluiten"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Blad sluiten"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aanzetten</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play-services aanzetten</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installeren</string>
+    <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_notification_channel_name">Beschikbaarheid van Google Play-services</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Updaten</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_play_services_updating_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="common_google_play_services_wear_update_text">Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ongeldige invoer"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Pop-upvenster"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Dropdownmenu"</string>
+    <string name="error_icon_content_description">Fout</string>
+    <string name="exo_controls_cc_disabled_description">Ondertiteling aanzetten</string>
+    <string name="exo_controls_cc_enabled_description">Ondertiteling uitzetten</string>
+    <string name="exo_controls_fastforward_description">Vooruitspoelen</string>
+    <string name="exo_controls_fullscreen_enter_description">Volledig scherm openen</string>
+    <string name="exo_controls_fullscreen_exit_description">Volledig scherm sluiten</string>
+    <string name="exo_controls_hide">Afspeelbediening verbergen</string>
+    <string name="exo_controls_next_description">Volgende</string>
+    <string name="exo_controls_overflow_hide_description">Aanvullende instellingen verbergen</string>
+    <string name="exo_controls_overflow_show_description">Aanvullende instellingen tonen</string>
+    <string name="exo_controls_pause_description">Pauzeren</string>
+    <string name="exo_controls_play_description">Afspelen</string>
+    <string name="exo_controls_playback_speed">Snelheid</string>
+    <string name="exo_controls_previous_description">Vorige</string>
+    <string name="exo_controls_repeat_all_description">Huidige modus: Alles herhalen. Herhaalmodus schakelen.</string>
+    <string name="exo_controls_repeat_off_description">Huidige modus: Niets herhalen. Herhaalmodus schakelen.</string>
+    <string name="exo_controls_repeat_one_description">Huidige modus: 1 herhalen. Herhaalmodus schakelen.</string>
+    <string name="exo_controls_rewind_description">Terugspoelen</string>
+    <string name="exo_controls_seek_bar_description">Afspeelvoortgang</string>
+    <string name="exo_controls_settings_description">Instellingen</string>
+    <string name="exo_controls_show">Afspeelbediening tonen</string>
+    <string name="exo_controls_shuffle_off_description">Shuffle aanzetten</string>
+    <string name="exo_controls_shuffle_on_description">Shuffle uitzetten</string>
+    <string name="exo_controls_stop_description">Stoppen</string>
+    <string name="exo_controls_vr_description">VR-modus</string>
+    <string name="exo_download_completed">Downloaden voltooid</string>
+    <string name="exo_download_description">Downloaden</string>
+    <string name="exo_download_downloading">Downloaden</string>
+    <string name="exo_download_failed">Downloaden mislukt</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads gepauzeerd</string>
+    <string name="exo_download_paused_for_network">Downloads wachten op netwerk</string>
+    <string name="exo_download_paused_for_wifi">Downloads wachten op wifi</string>
+    <string name="exo_download_removing">Downloads verwijderen</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternatief</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Commentaar</string>
+    <string name="exo_track_role_supplementary">Aanvullend</string>
+    <string name="exo_track_selection_auto">Auto</string>
+    <string name="exo_track_selection_none">Geen</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Tekst</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround sound</string>
+    <string name="exo_track_surround_5_point_1">5.1 surroundgeluid</string>
+    <string name="exo_track_surround_7_point_1">7.1 surroundgeluid</string>
+    <string name="exo_track_unknown">Onbekend</string>
+    <string name="exo_track_unknown_name">Onbekend (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">Dropdownmenu tonen</string>
+    <string name="icon_content_description">Icoon voor dialoogvenster</string>
+    <string msgid="6827826412747255547" name="in_progress">"Bezig"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Gedeeltelijk aangevinkt"</string>
+    <string name="intercom_access_background_location_message">Ga naar je apparaatinstellingen om de app toestemming te bieden om op de achtergrond je locatie te gebruiken</string>
+    <string name="intercom_access_background_location_title">Altijd toegang tot je locatie toestaan</string>
+    <string name="intercom_access_device_settings">Ga naar de instellingen van uw apparaat om toegang tot uw foto\'s toe te staan</string>
+    <string name="intercom_access_photos">Toegang tot uw foto\'s</string>
+    <string name="intercom_active_15m_ago">Actief in de afgelopen {minutes} minuten</string>
+    <string name="intercom_active_day_ago">{days} dagen geleden actief</string>
+    <string name="intercom_active_hour_ago">{hours} uur geleden actief</string>
+    <string name="intercom_active_minute_ago">{minutes} minuten geleden actief</string>
+    <string name="intercom_active_state">Actief</string>
+    <string name="intercom_active_week_ago">Meer dan 1 week geleden actief</string>
+    <string name="intercom_add">Toevoegen</string>
+    <string name="intercom_ai_answer">AI-antwoord</string>
+    <string name="intercom_ai_answer_information">AI-antwoord, informatie</string>
+    <string name="intercom_ai_bot">AI-bot</string>
+    <string name="intercom_allow_access">Toegang geven</string>
+    <string name="intercom_allow_storage_access">Geef toegang tot opslag om uw foto\'s te bekijken</string>
+    <string name="intercom_almost_there">Bijna klaar ...</string>
+    <string name="intercom_also_in_this_conversation">Neemt ook aan het gesprek deel</string>
+    <string name="intercom_android_activated_message">Je Android-app is nu geïntegreerd met het Intercom-platform</string>
+    <string name="intercom_answer">Antwoord</string>
+    <string name="intercom_app_settings">Instellingen app</string>
+    <string name="intercom_article_double_author">Door {author_first_name1} en {author_first_name2}</string>
+    <string name="intercom_article_load_error">Kon het artikel niet laden</string>
+    <string name="intercom_article_multiple_authors">Door {author_first_name1} en {number_of_other_authors} anderen</string>
+    <string name="intercom_article_question">Was dit een antwoord op uw vraag?</string>
+    <string name="intercom_article_response">Je reageerde met</string>
+    <string name="intercom_article_search_hint_text">Artikelen zoeken ...</string>
+    <string name="intercom_article_search_search_results">Zoekresultaten</string>
+    <string name="intercom_article_single_author">Door {author_first_name}</string>
+    <string name="intercom_ask_a_question">Stel een vraag</string>
+    <string name="intercom_ask_a_question_with_ellipsis">Stel een vraag ...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">Stel nog een vraag ...</string>
+    <string name="intercom_ask_our_bot_a_question">Stel onze bot een vraag</string>
+    <string name="intercom_asked_about">Betreffende</string>
+    <string name="intercom_assigned_to_admin">Toegewezen aan {admin}</string>
+    <string name="intercom_attribute_collector_negative">Nee</string>
+    <string name="intercom_attribute_collector_positive">Ja</string>
+    <string name="intercom_available_teammates">Beschikbare teamgenoten: {available_teammates}</string>
+    <string name="intercom_avatar">Avatar</string>
+    <string name="intercom_avatars">Avatars</string>
+    <string name="intercom_away_state">Niet aanwezig</string>
+    <string name="intercom_bot">Bot</string>
+    <string name="intercom_bot_answers_instantly">De bot antwoordt onmiddellijk</string>
+    <string name="intercom_bot_expectation_text">Onze bot kan tal van veelgestelde vragen beantwoorden</string>
+    <string name="intercom_bot_is_still_thinking">De bot denkt nog steeds na ...</string>
+    <string name="intercom_bot_is_thinking">De bot denkt na ...</string>
+    <string name="intercom_browse_all_help_topics">Door alle hulponderwerpen bladeren</string>
+    <string name="intercom_browse_collections">Door collecties bladeren</string>
+    <string name="intercom_cancel">Annuleren</string>
+    <string name="intercom_chat_with_us">Chat met ons</string>
+    <string name="intercom_check_later_for_updates">Kom later terug voor updates.</string>
+    <string name="intercom_checklist_card_first_step">Eerste stap</string>
+    <string name="intercom_checklist_card_next_step">Volgende stap</string>
+    <string name="intercom_checklist_completed">Voltooid</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">Nog ongeveer {minutes} minuten</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">Nog ongeveer 1 minuut</string>
+    <string name="intercom_checklist_mark_step_as_complete">Markeren als voltooid</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">Ongeveer {minutes} minuten</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">Ongeveer 1 minuut</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} stappen</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">{steps_completed} van {total_steps} voltooid</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">1 van {total_steps} voltooid</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 stap</string>
+    <string name="intercom_checklist_sender_name">Gedeeld door {name}</string>
+    <string name="intercom_checklist_step_action_button">Actieknop voor stap</string>
+    <string name="intercom_checklist_step_completed">Voltooid</string>
+    <string name="intercom_choose_one">Kies een…</string>
+    <string name="intercom_choose_the_date">Choose the date…</string>
+    <string name="intercom_clear">Wissen</string>
+    <string name="intercom_close">Sluiten</string>
+    <string name="intercom_congratulations">Gefeliciteerd</string>
+    <string name="intercom_connected">Je hebt verbinding</string>
+    <string name="intercom_contact_support">Neem contact op met de klantenservice</string>
+    <string name="intercom_contact_us">Neem contact met ons op</string>
+    <string name="intercom_continue_the_conversation">Gesprek voortzetten</string>
+    <string name="intercom_conversation_card_office_hours_header">We zijn weer online</string>
+    <string name="intercom_conversation_card_reply_time_header">Onze gebruikelijke reactietijd</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">Gebruikelijke antwoordtijd</string>
+    <string name="intercom_conversation_has_ended">Je gesprek is beëindigd</string>
+    <string name="intercom_conversation_number_and_description">Gespreksnummer {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">Gesprekken</string>
+    <string name="intercom_conversations_space_title">Gesprekken</string>
+    <string name="intercom_conversations_with_app">Gesprekken met {name}</string>
+    <string name="intercom_copied_to_clipboard">Gekopieerd naar klembord</string>
+    <string name="intercom_couldnt_complete_action">Kon deze actie niet voltooien</string>
+    <string name="intercom_couldnt_load_apps">Kon apps niet laden.</string>
+    <string name="intercom_couldnt_load_content">Kon de inhoud niet laden</string>
+    <string name="intercom_couldnt_load_messenger">Kon Messenger niet laden.</string>
+    <string name="intercom_create_a_ticket">Maak een ticket</string>
+    <string name="intercom_currently_no_help_articles">Er zijn momenteel geen Help-artikelen beschikbaar.</string>
+    <string name="intercom_delete_attachment">Bijlage verwijderen</string>
+    <string name="intercom_delivered">Geleverd</string>
+    <string name="intercom_disappointed_face_emoji">Teleurgesteld gezicht</string>
+    <string name="intercom_dismiss">Negeren</string>
+    <string name="intercom_empty_conversations">Berichten van het team worden hier weergegeven</string>
+    <string name="intercom_enter_text_placeholder">Voer tekst in ...</string>
+    <string name="intercom_error_loading_conversation">Kan het gesprek niet laden</string>
+    <string name="intercom_error_loading_ticket">Het ticket kon niet worden geladen</string>
+    <string name="intercom_expected_response_delay_10800">minder dan 3 uur</string>
+    <string name="intercom_expected_response_delay_120">minder dan 2 minuten</string>
+    <string name="intercom_expected_response_delay_1200">minder dan 20 minuten</string>
+    <string name="intercom_expected_response_delay_14400">minder dan 4 uur</string>
+    <string name="intercom_expected_response_delay_172800">2 dagen</string>
+    <string name="intercom_expected_response_delay_180">minder dan 3 minuten</string>
+    <string name="intercom_expected_response_delay_1800">minder dan 30 minuten</string>
+    <string name="intercom_expected_response_delay_18000">minder dan 5 uur</string>
+    <string name="intercom_expected_response_delay_21600">minder dan 6 uur</string>
+    <string name="intercom_expected_response_delay_240">minder dan 4 minuten</string>
+    <string name="intercom_expected_response_delay_259200">3 dagen</string>
+    <string name="intercom_expected_response_delay_300">minder dan 5 minuten</string>
+    <string name="intercom_expected_response_delay_345600">4 dagen</string>
+    <string name="intercom_expected_response_delay_3600">minder dan 1 uur</string>
+    <string name="intercom_expected_response_delay_43200">binnen 12 uur</string>
+    <string name="intercom_expected_response_delay_432000">5 dagen</string>
+    <string name="intercom_expected_response_delay_518400">6 dagen</string>
+    <string name="intercom_expected_response_delay_60">minder dan 1 minuut</string>
+    <string name="intercom_expected_response_delay_600">minder dan 10 minuten</string>
+    <string name="intercom_expected_response_delay_604800">minder dan 1 week</string>
+    <string name="intercom_expected_response_delay_7200">minder dan 2 uur</string>
+    <string name="intercom_expected_response_delay_86400">1 dag</string>
+    <string name="intercom_expected_response_delay_900">binnen 15 minuten</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} labels</string>
+    <string name="intercom_facebook_like">Like ons op Facebook</string>
+    <string name="intercom_failed_delivery">Kan het bericht niet afleveren</string>
+    <string name="intercom_failed_to_load_conversation">Kan je gesprekken niet laden</string>
+    <string name="intercom_failed_to_load_tickets">Uw tickets konden niet worden geladen</string>
+    <string name="intercom_failed_to_load_tickets_with_app">Uw tickets konden niet worden geladen met {app_name}</string>
+    <string name="intercom_failed_to_send">Kan niet versturen</string>
+    <string name="intercom_field_is_required">Veld {field_name} is verplicht</string>
+    <string name="intercom_file_access_failed">Kan dat bestand niet openen</string>
+    <string name="intercom_file_max_limit">Maximaal {limit} bestanden</string>
+    <string name="intercom_file_saved">Bestand opgeslagen</string>
+    <string name="intercom_file_too_big">Kan geen bestanden van meer dan {limit} MB versturen</string>
+    <string name="intercom_file_type_not_allowed">Bestandstype is niet toegestaan</string>
+    <string name="intercom_files">Bestanden</string>
+    <string name="intercom_gallery">Galerie</string>
+    <string name="intercom_generating_answer">Bezig met het genereren van een antwoord ...</string>
+    <string name="intercom_get_help">Hulp</string>
+    <string name="intercom_get_notified_by_email">Blijf op de hoogte per e-mail</string>
+    <string name="intercom_gif_attribution">via {providername}</string>
+    <string name="intercom_gifs_load_error">Kon GIF\'s niet laden</string>
+    <string name="intercom_give_it_another_try">Probeer het nog eens</string>
+    <string name="intercom_go_to_device_settings">Ga naar het toestemmingsmenu van je app-instellingen om toegang te geven</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">Lachend gezicht met grote ogen</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+1 ander</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+{other_participant_count} anderen</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">{other_participant_count} anderen nemen ook deel</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name} neemt ook deel</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} en 1 ander nemen ook deel</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} en {other_participant_count} anderen nemen ook deel</string>
+    <string name="intercom_group_conversation_one_person_also_participating">1 ander neemt ook deel</string>
+    <string name="intercom_help_center">Hulpcentrum</string>
+    <string name="intercom_help_space_title">Help</string>
+    <string name="intercom_home_space_title">Home</string>
+    <string name="intercom_how_can_we_help">Hoe kunnen we u helpen?</string>
+    <string name="intercom_how_would_you_rate_this">Hoe zou u dit beoordelen?</string>
+    <string name="intercom_image_attached">(afbeelding bijgevoegd)</string>
+    <string name="intercom_inbox_error_state_title">Er is iets fout gegaan</string>
+    <string name="intercom_last_active_hours_ago">Laatst actief {mins} uur geleden</string>
+    <string name="intercom_last_active_mins_ago">Laatst actief: {mins} min. geleden</string>
+    <string name="intercom_last_active_over_a_week">Laatst actief: meer dan 1 week geleden</string>
+    <string name="intercom_learn_more">Meer informatie</string>
+    <string name="intercom_loading">Aan het laden</string>
+    <string name="intercom_message_failed_try_again">Kan niet versturen, tik om opnieuw te proberen</string>
+    <string name="intercom_message_placeholder">Typ een bericht …</string>
+    <string name="intercom_message_seen">Gezien</string>
+    <string name="intercom_message_state_sending">Versturen…</string>
+    <string name="intercom_message_summary">Samenvatting van het bericht: {summary}, naam van teamgenoot: {name}, bericht verzonden om: {sentTime}. </string>
+    <string name="intercom_message_summary_with_teammate_status">Samenvatting van het bericht: {summary}, naam van teamgenoot: {name}, status van teamgenoot: {adminStatus}, bericht verzonden om: {sentTime}. </string>
+    <string name="intercom_message_unread">Bericht is ongelezen.</string>
+    <string name="intercom_message_unseen">Nog niet gezien</string>
+    <string name="intercom_messages_space_title">Berichten</string>
+    <string name="intercom_messenger_bot_reply_time">Onze bot zal direct reageren</string>
+    <string name="intercom_multiple_articles">{total_articles} artikelen</string>
+    <string name="intercom_multiple_collections">{total_collection} collecties</string>
+    <string name="intercom_name_and_1_other">{name} en nog een</string>
+    <string name="intercom_name_and_x_others">{name} en nog {count}</string>
+    <string name="intercom_navigation_back">Terug</string>
+    <string name="intercom_need_camera_access">{app_name} heeft toegang tot de camera nodig zodat u foto\'s en video\'s kunt maken. Tik op \'Instellingen\' > \'Machtigingen\' en schakel \'Camera\' in.</string>
+    <string name="intercom_neutral_face_emoji">Neutraal gezicht</string>
+    <string name="intercom_new_conversation">Nieuw gesprek</string>
+    <string name="intercom_new_message">Nieuw bericht</string>
+    <string name="intercom_new_messages">Je hebt {n} nieuwe berichten</string>
+    <string name="intercom_new_notifications">Nieuwe meldingen</string>
+    <string name="intercom_news">Nieuws</string>
+    <string name="intercom_news_empty_title">Nog geen nieuws</string>
+    <string name="intercom_news_latest_subtitle">Van team {team_name}</string>
+    <string name="intercom_news_latest_title">Laatste nieuws</string>
+    <string name="intercom_news_older_title">Ouder</string>
+    <string name="intercom_news_space_title">Nieuws</string>
+    <string name="intercom_no_articles_to_display">Nog geen artikelen</string>
+    <string name="intercom_no_conversations">Geen gesprekken</string>
+    <string name="intercom_no_gifs_found">Geen GIF\'s gevonden</string>
+    <string name="intercom_no_gifs_matching_query">We vonden geen GIF\'s die voldoen aan uw zoekcriterium</string>
+    <string name="intercom_no_help_articles_to_display">Geen Help-artikelen</string>
+    <string name="intercom_no_messages_from_the_team">Geen berichten van het team</string>
+    <string name="intercom_no_network_connection">Geen netwerkverbinding</string>
+    <string name="intercom_no_photos">Geen foto\'s</string>
+    <string name="intercom_no_photos_on_device">Er zijn geen foto\'s beschikbaar op dit apparaat</string>
+    <string name="intercom_no_results_for_searchterm">Geen resultaten voor {searchTerm}</string>
+    <string name="intercom_no_tasks">Geen taken</string>
+    <string name="intercom_no_tasks_available_currently">Er zijn momenteel geen taken beschikbaar.</string>
+    <string name="intercom_not_now">Nu niet</string>
+    <string name="intercom_nothing_to_see_here_yet">Nog niets te zien hier</string>
+    <string name="intercom_notification_channel_actions_description">Bevat links om een actie uit te voeren in deze app</string>
+    <string name="intercom_notification_channel_actions_title">Acties</string>
+    <string name="intercom_notification_channel_chat_replies_description">Antwoordmeldingen van chats in deze app</string>
+    <string name="intercom_notification_channel_chat_replies_title">Chatantwoorden</string>
+    <string name="intercom_notification_channel_new_chats_description">Nieuwe chatberichten verstuurd vanuit deze app</string>
+    <string name="intercom_notification_channel_new_chats_title">Nieuwe chats</string>
+    <string name="intercom_number_is_incorrect">Dit nummer ziet er niet helemaal goed uit</string>
+    <string name="intercom_ok">OK</string>
+    <string name="intercom_one_new_message">Je hebt een nieuw bericht</string>
+    <string name="intercom_our_bot_answers_instantly">Onze bot reageert direct</string>
+    <string name="intercom_page_not_found">Die pagina bestaat niet meer</string>
+    <string name="intercom_permission_denied">Deze toestemming is geweigerd</string>
+    <string name="intercom_photo_access_denied">Je hebt toegang tot jouw foto\'s geblokkeerd</string>
+    <string name="intercom_photo_and_video_library">Foto- en videobibliotheek</string>
+    <string name="intercom_placeholder_datepicker">DD-MM-JJJJ</string>
+    <string name="intercom_placeholder_email_input">Voer hier uw e-mailadres in...</string>
+    <string name="intercom_placeholder_numerical_inputs">Voer hier een nummer in...</string>
+    <string name="intercom_placeholder_text_inputs">Voer hier tekst in...</string>
+    <string name="intercom_please_select">Selecteer...</string>
+    <string name="intercom_plus_x_more">+nog {n}</string>
+    <string name="intercom_powered_by_intercom">Mogelijk gemaakt door Intercom</string>
+    <string name="intercom_profile_location">{time} in {location}</string>
+    <string name="intercom_rate_your_conversation">Beoordeel het gesprek</string>
+    <string name="intercom_recent_ticket">Recent ticket</string>
+    <string name="intercom_recent_tickets">Recente tickets</string>
+    <string name="intercom_record_a_video">Video opnemen</string>
+    <string name="intercom_reload">Laad opnieuw</string>
+    <string name="intercom_reply">Beantwoorden</string>
+    <string name="intercom_reply_from_admin">Antwoord van {name}</string>
+    <string name="intercom_reply_to_conversation">Een antwoord schrijven</string>
+    <string name="intercom_retry">Opnieuw proberen</string>
+    <string name="intercom_saving">Bezig met opslaan ...</string>
+    <string name="intercom_search_browse_empty_state_text">Helaas kunnen we daarvoor geen resultaten vinden. Probeer andere zoektermen te gebruiken.</string>
+    <string name="intercom_search_for_help">Hulp zoeken</string>
+    <string name="intercom_search_gif">GIF\'s zoeken…</string>
+    <string name="intercom_search_help_articles">Hulpartikelen zoeken</string>
+    <string name="intercom_see_all">Zie alles</string>
+    <string name="intercom_see_all_conversations">Alle gesprekken weergeven</string>
+    <string name="intercom_see_past_conversations">Zie vorige gesprekken</string>
+    <string name="intercom_see_previous_conversations">Eerdere gesprekken bekijken</string>
+    <string name="intercom_send">Versturen</string>
+    <string name="intercom_send_a_message_reply_time">Gebruikelijke antwoordtijd is</string>
+    <string name="intercom_send_us_a_message">Stuur ons een bericht</string>
+    <string name="intercom_send_us_a_message_bot">Stuur ons een bericht; onze bot zal direct reageren</string>
+    <string name="intercom_settings">Instellingen</string>
+    <string name="intercom_shared_by">Gedeeld door</string>
+    <string name="intercom_show_less">Minder tonen</string>
+    <string name="intercom_single_article">1 artikel</string>
+    <string name="intercom_single_collection">1 collectie</string>
+    <string name="intercom_some_things_failed_to_load">Sommige dingen konden niet worden geladen. Probeer het opnieuw.</string>
+    <string name="intercom_something_went_wrong_try_again">Er is iets fout gelopen. Probeer opnieuw.</string>
+    <string name="intercom_source">Bron</string>
+    <string name="intercom_sources">Bronnen</string>
+    <string name="intercom_spaces_error_description">Inhoud kon niet worden geladen</string>
+    <string name="intercom_spaces_error_title">Er is iets misgegaan</string>
+    <string name="intercom_start_a_conversation">Start een gesprek</string>
+    <string name="intercom_start_another_conversation">Nieuw gesprek starten</string>
+    <string name="intercom_start_conversation">Een gesprek starten</string>
+    <string name="intercom_status">Status</string>
+    <string name="intercom_still_generating_answer">Nog steeds bezig met het genereren van een antwoord ...</string>
+    <string name="intercom_still_thinking">Ik denk nog steeds na ...</string>
+    <string name="intercom_still_working_on_it">Ik ben er nog steeds mee bezig ...</string>
+    <string name="intercom_stop_upload">Stoppen met uploaden</string>
+    <string name="intercom_storage_access_request">Om uw foto\'s te bekijken moet u toegang hebben tot opslag</string>
+    <string name="intercom_string_is_incorrect">Dit ziet er niet helemaal goed uit</string>
+    <string name="intercom_submit">Verzenden</string>
+    <string name="intercom_suggested_articles">Voorgestelde artikelen</string>
+    <string name="intercom_surveys_all_options_response_hint">Selecteer alle opties die van toepassing zijn</string>
+    <string name="intercom_surveys_dismiss">Enquête negeren</string>
+    <string name="intercom_surveys_done_button">Klaar</string>
+    <string name="intercom_surveys_dropdown_default_option">Selecteer een antwoord...</string>
+    <string name="intercom_surveys_email_error">Voer een geldig e-mailadres in</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">Selecteer {response_count} opties</string>
+    <string name="intercom_surveys_from_company">Enquête van {company}</string>
+    <string name="intercom_surveys_from_teammate">Enquête door {sender_name} van {company}</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">Voor deze vraag moeten ten minste {response_count} opties zijn geselecteerd</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">Voor deze vraag moeten {response_count} opties zijn geselecteerd</string>
+    <string name="intercom_surveys_multi_star_rating">{count} sterren</string>
+    <string name="intercom_surveys_multiselect_other_option">Anders (specificeer aub)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">Specificeer aub</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">Antwoord invoeren</string>
+    <string name="intercom_surveys_multiselect_other_option_value">Anders</string>
+    <string name="intercom_surveys_next_button">Volgende</string>
+    <string name="intercom_surveys_nps_lower_label">Onwaarschijnlijk</string>
+    <string name="intercom_surveys_nps_upper_label">Zeer waarschijnlijk</string>
+    <string name="intercom_surveys_number_error">Voer een nummer in</string>
+    <string name="intercom_surveys_one_star_rating">1 ster</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">Vraag {questioin_number} van {question_count}</string>
+    <string name="intercom_surveys_required_question">Dit is een verplichte vraag</string>
+    <string name="intercom_surveys_required_response">Dit is een verplicht antwoord</string>
+    <string name="intercom_surveys_response_range_response_hint">Selecteer minimaal {minimum_response_count} en maximaal {maximum_response_count} opties</string>
+    <string name="intercom_surveys_response_too_long">Gebruik maximaal {character_count} tekens in uw antwoord</string>
+    <string name="intercom_surveys_response_too_short">Zorg ervoor dat antwoorden minimaal {character_count} tekens bevatten</string>
+    <string name="intercom_surveys_sender_image">Afbeelding van een afzender van de enquête</string>
+    <string name="intercom_surveys_single_response_hint">Selecteer 1 optie</string>
+    <string name="intercom_surveys_telephone_error">Voer een geldig telefoonnummer in</string>
+    <string name="intercom_surveys_text_input_question_placeholder">Typ hier uw reactie...</string>
+    <string name="intercom_take_a_photo">Foto nemen</string>
+    <string name="intercom_tap_to_send_image">Tik om een foto te verzenden</string>
+    <string name="intercom_tasks_space_title">Taken</string>
+    <string name="intercom_team_name_custom_response_delay_2">{app_name} antwoordt meestal binnen 24 uur</string>
+    <string name="intercom_team_name_custom_response_delay_3">{app_name} antwoordt meestal binnen een week</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} reageert meestal binnen één werkdag</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} reageert meestal binnen twee werkdagen</string>
+    <string name="intercom_teammate_from_company">{name} van {company}</string>
+    <string name="intercom_tell_us_more">Vertel ons nog meer…</string>
+    <string name="intercom_tell_us_what_you_need">Vertel ons waar u hulp bij nodig hebt. Onze bot doet zijn best om uw vraag te beantwoorden</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">Bedankt! Het team antwoordt binnen één werkdag</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">Bedankt! Het team antwoordt binnen twee werkdagen</string>
+    <string name="intercom_thanks_for_letting_us_know">Bedankt om ons dit te laten weten</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">Bedankt, het team zal je zo snel mogelijk antwoorden.</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">Deze landcode lijkt niet goed</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">Dit e-mailadres lijkt niet helemaal goed</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">Dit telefoonnummer lijkt niet helemaal goed</string>
+    <string name="intercom_that_number_has_too_many_digits">Dit telefoonnummer is te lang</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">Dit telefoonnummer is te kort</string>
+    <string name="intercom_that_number_needs_a_prefix">Dit telefoonnummer heeft een voornummer nodig (+ of 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">Het team kan zo nodig helpen</string>
+    <string name="intercom_the_team_typically_replies_in_hours">Het team antwoordt meestal binnen enkele uren.</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">Het team antwoordt doorgaans binnen één werkdag.</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">Het team antwoordt meestal binnen twee werkdagen</string>
+    <string name="intercom_thinking">Even nadenken ...</string>
+    <string name="intercom_ticket_could_not_be_created">Ticket kon niet worden aangemaakt</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">Maak {ticket_type_title} ticket</string>
+    <string name="intercom_ticket_current_status">Huidige status: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">Huidige status: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">Ticketkenmerken;</string>
+    <string name="intercom_ticket_details_for_title">Ticketdetails voor {title}</string>
+    <string name="intercom_ticket_details_notification_detail">Je wordt hier en via e-mail ingelicht over</string>
+    <string name="intercom_ticket_has_been_created">Ticket is gemaakt</string>
+    <string name="intercom_ticket_has_been_updated">Ticket is bijgewerkt</string>
+    <string name="intercom_ticket_sla_details">SLA-details: {sla_details}</string>
+    <string name="intercom_ticket_status_details">Statusdetails: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">Ticket verplaatst naar {status} • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} heeft het ticket verplaatst naar {status} • {timestamp}</string>
+    <string name="intercom_tickets_add_file">Bestand toevoegen</string>
+    <string name="intercom_tickets_add_files">Bestanden toevoegen</string>
+    <string name="intercom_tickets_create_ticket">Ticket maken</string>
+    <string name="intercom_tickets_create_ticket_fallback">Reageer met de volgende informatie. We nemen dan spoedig contact met u op.</string>
+    <string name="intercom_tickets_created_confirmation_header">Ticket aangemaakt</string>
+    <string name="intercom_tickets_cta_text">Hebt je een vraag over dit ticket?</string>
+    <string name="intercom_tickets_email_copy">Antwoorden en ticketupdates worden naar dit e-mailadres verzonden</string>
+    <string name="intercom_tickets_email_subject">Uw {ticket_type_name}-ticket</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">Uw {ticket_type_name} ticket met nr. {ticket_id}</string>
+    <string name="intercom_tickets_empty_state_text">Uw tickets worden hier weergegeven</string>
+    <string name="intercom_tickets_empty_state_title">Geen tickets</string>
+    <string name="intercom_tickets_estimated_resolution">Geschatte tijd tot oplossing: {duration}</string>
+    <string name="intercom_tickets_files_added">Bestanden toegevoegd</string>
+    <string name="intercom_tickets_have_a_question">Hebt je een vraag over dit probleem?</string>
+    <string name="intercom_tickets_in_progress_status_detail">We zijn ermee bezig. 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} werkt hieraan!</string>
+    <string name="intercom_tickets_is_resolved">Is dit ticket opgelost?</string>
+    <string name="intercom_tickets_log_a_ticket">Ticket registreren</string>
+    <string name="intercom_tickets_resolved_status_detail">We hebben je ticket afgerond</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} heeft je ticket voltooid</string>
+    <string name="intercom_tickets_sla">Naar verwachting opgelost binnen {time}</string>
+    <string name="intercom_tickets_space_title">Tickets</string>
+    <string name="intercom_tickets_status_change_event">Ticket is nu {status} • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">We hebben je ticket afgehandeld</string>
+    <string name="intercom_tickets_status_description_more_info">We hebben meer informatie nodig</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} verplaatste uw ticket naar</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} heeft uw ticket met nr. {ticket_id} gewijzigd in</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">Uw ticket is verplaatst naar</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">Uw ticket met nr. {ticket_id} is gewijzigd in</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">Uw ticket is</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">Uw ticket met nr. {ticket_id} is</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">We nemen je ticket zo snel mogelijk in behandeling</string>
+    <string name="intercom_tickets_status_description_working_on">We werken aan je ticket</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} heeft je ticket {timestamp} gewijzigd in {status}</string>
+    <string name="intercom_tickets_status_event_moved_automation">Ticket {timestamp} gewijzigd naar \'{status}\'</string>
+    <string name="intercom_tickets_status_event_submitted">Ticket is {submitted_status} • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">In behandeling</string>
+    <string name="intercom_tickets_status_resolved">Opgelost</string>
+    <string name="intercom_tickets_status_submitted">Ingediend</string>
+    <string name="intercom_tickets_status_waiting_on_you">Reactie vereist</string>
+    <string name="intercom_tickets_submitted_confirmation_header">Ticket ingediend</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">We laten het je weten zodra er nieuws is over je ticket</string>
+    <string name="intercom_tickets_submitted_status_detail">We zullen dit snel oppakken</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} zal dit binnenkort oppakken</string>
+    <string name="intercom_tickets_unread">Tickets. U hebt ongelezen ticketupdates.</string>
+    <string name="intercom_tickets_updates_prompt">Je ontvangt updates in de Messenger en via e-mail</string>
+    <string name="intercom_tickets_view_ticket">Ticketdetails weergeven</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">We hebben meer informatie van je nodig</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} heeft meer informatie nodig</string>
+    <string name="intercom_time_day_ago">{delta} dagen geleden</string>
+    <string name="intercom_time_future_1h">1 uur</string>
+    <string name="intercom_time_future_2h">2 uur</string>
+    <string name="intercom_time_future_30m">30 minuten</string>
+    <string name="intercom_time_future_3h">3 uur</string>
+    <string name="intercom_time_future_day_0">maandag</string>
+    <string name="intercom_time_future_day_1">dinsdag</string>
+    <string name="intercom_time_future_day_2">woensdag</string>
+    <string name="intercom_time_future_day_3">donderdag</string>
+    <string name="intercom_time_future_day_4">vrijdag</string>
+    <string name="intercom_time_future_day_5">zaterdag</string>
+    <string name="intercom_time_future_day_6">zondag</string>
+    <string name="intercom_time_future_later_today">Later vandaag</string>
+    <string name="intercom_time_future_next_week">Volgend week</string>
+    <string name="intercom_time_future_tomorrow">Morgen</string>
+    <string name="intercom_time_hour_ago">{delta} uur geleden</string>
+    <string name="intercom_time_just_now">Zojuist</string>
+    <string name="intercom_time_minute_ago">{delta} min. geleden</string>
+    <string name="intercom_time_week_ago">{delta} wk. geleden</string>
+    <string name="intercom_time_yesterday">gisteren</string>
+    <string name="intercom_try_again">Opnieuw proberen</string>
+    <string name="intercom_try_again_minute">Probeer het na een minuut opnieuw.</string>
+    <string name="intercom_try_use_different_keywords">Probeer andere trefwoorden te gebruiken of typ uw volledige vraag</string>
+    <string name="intercom_twitter_follow">Volg ons op Twitter</string>
+    <string name="intercom_two_business_days">Twee werkdagen</string>
+    <string name="intercom_type_a_number">Voer een nummer in…</string>
+    <string name="intercom_typically_replies_in_one_business_day">Reageert meestal binnen één werkdag</string>
+    <string name="intercom_typically_replies_in_two_business_days">Reageert meestal binnen twee werkdagen</string>
+    <string name="intercom_unread_message_count">{unread_count} ongelezen</string>
+    <string name="intercom_upfront_collection_form_close_out">U kunt altijd terugkomen om reacties te zien en updates te delen.</string>
+    <string name="intercom_upfront_collection_form_introduction">Deel wat context zodat het team beter en sneller kan reageren</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">Bedankt voor het delen van deze context. Voeg gerust wat meer details toe, zodat u later tijd bespaart.</string>
+    <string name="intercom_upfront_collection_form_subtitle">Geef het team wat context</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">Men houdt deze dan in het achterhoofd</string>
+    <string name="intercom_upfront_collection_form_title">Word sneller geholpen</string>
+    <string name="intercom_upfront_collection_form_title_submitted">Verzonden naar het team!</string>
+    <string name="intercom_upload_failed">Upload mislukt</string>
+    <string name="intercom_upload_max_files_allowed">Maximaal {limit} bestanden toegestaan</string>
+    <string name="intercom_upload_max_files_size">Maximale bestandsgrootte is {limit} MB</string>
+    <string name="intercom_user_avatar_image">Afbeelding van gebruikersavatar</string>
+    <string name="intercom_view_all">Alles weergeven</string>
+    <string name="intercom_view_conversation">Gesprek weergeven</string>
+    <string name="intercom_view_more_details">Meer details weergeven</string>
+    <string name="intercom_view_post">Bericht weergeven</string>
+    <string name="intercom_we_run_on_intercom">Wij gebruiken Intercom</string>
+    <string name="intercom_working_on_it">Ik ben er mee bezig ...</string>
+    <string name="intercom_you">Jij</string>
+    <string name="intercom_you_are_all_up_to_date">Je bent helemaal op de hoogte!</string>
+    <string name="intercom_you_have_new_messages">Je hebt nieuwe berichten.</string>
+    <string name="intercom_you_rated_the_conversation">Je hebt het gesprek beoordeeld</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">Je wordt hier en via e-mail ingelicht</string>
+    <string name="intercom_your_checklists">Uw checklists</string>
+    <string name="intercom_your_conversations">Nieuw gesprek</string>
+    <string name="intercom_your_recent_conversations">Recente gesprekken</string>
+    <string name="intercom_your_recent_message">Recent bericht</string>
+    <string name="intercom_your_recent_messages">Recente berichten</string>
+    <string name="intercom_your_ticket">Uw ticket</string>
+    <string name="item_view_role_description">Tabblad</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Blad onderaan samenvouwen"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Blad onderaan sluiten"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Handgreep voor slepen"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Blad onderaan uitvouwen"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Blad onderaan"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Ingevulde datum"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Ingevulde datum: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"De datum komt niet overeen met het verwachte patroon: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Datum niet toegestaan: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Datum buiten het verwachte jaarbereik %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Datum"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Geen"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Datum selecteren"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Geselecteerde datum"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Huidige selectie: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Ga naar jaar %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Geen"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Scroll om eerdere jaren te tonen"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Scroll om latere jaren te tonen"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Overschakelen naar agenda-invoermodus"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Swipe om een jaar te selecteren of tik om terug te gaan en een dag te selecteren"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Overschakelen naar tekstinvoermodus"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Naar volgende maand gaan"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Naar vorige maand gaan"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Schakelaar om een jaar te selecteren"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Datum selecteren"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Vandaag"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Jaarselectie zichtbaar"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Ongeldige invoer voor periode"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Datums opgeven"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Binnen bereik"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Einddatum"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Scroll om de volgende maand te tonen"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Scroll om de vorige maand te tonen"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Startdatum"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Datums selecteren"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialoogvenster"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Samengevouwen"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Uitgevouwen"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Zoeken"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Sluiten"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Suggesties hieronder"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Uur"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d uur"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Uur selecteren"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d uur"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"voor uur"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minuut"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Minuten selecteren"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d minuten"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"voor minuten"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"AM of PM selecteren"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Tooltip tonen"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Tooltip"</string>
+    <string name="material_clock_toggle_content_description">Selecteer a.m. of p.m.</string>
+    <string name="material_hour_24h_suffix">%1$s uur</string>
+    <string name="material_hour_selection">Selecteer uur</string>
+    <string name="material_hour_suffix">%1$s uur</string>
+    <string name="material_minute_selection">Minuten selecteren</string>
+    <string name="material_minute_suffix">%1$s minuten</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Schakel naar de klokmodus om de tijd in te voeren.</string>
+    <string name="material_timepicker_hour">Uur</string>
+    <string name="material_timepicker_minute">Minuut</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Tijd selecteren</string>
+    <string name="material_timepicker_text_input_mode_description">Schakel naar de tekstinvoermodus om de tijd in te voeren.</string>
+    <string name="mtrl_badge_numberless_content_description">Nieuwe melding</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s verwijderen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Meer dan %1$d nieuwe meldingen</string>
+    <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
+    <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
+    <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_cancel">Annuleren</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
+    <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolom met dagen: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ongeldige indeling.</string>
+    <string name="mtrl_picker_invalid_format_example">Voorbeeld: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gebruik: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ongeldig bereik.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Naar jaar %1$s navigeren</string>
+    <string name="mtrl_picker_out_of_range">Valt buiten bereik: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – einddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecteer een periode</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum - einddatum</string>
+    <string name="mtrl_picker_save">Opslaan</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Einddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">j</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Overschakelen naar agenda-invoermodus</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tik om naar dagselectie te schakelen</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Overschakelen naar tekstinvoermodus</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tik om naar jaarselectie te schakelen</string>
+    <string name="mtrl_timepicker_cancel">Annuleren</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigatiemenu"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Niet geselecteerd"</string>
+    <string msgid="875452955155264703" name="off">"Uit"</string>
+    <string msgid="8655164131929253426" name="on">"Aan"</string>
+    <string name="password_toggle_content_description">Wachtwoord tonen</string>
+    <string msgid="5941395253238309765" name="range_end">"Einde bereik"</string>
+    <string msgid="7097486360902471446" name="range_start">"Start bereik"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Zoeken"</string>
+    <string msgid="6043586758067023" name="selected">"Geselecteerd"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Overschakelen"</string>
+    <string msgid="1672349317127674378" name="tab">"Tabblad"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> procent."</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"tooltip"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"tooltip tonen"</string>
+</resources>

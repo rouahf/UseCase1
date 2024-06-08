@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>০.২৫x</item>
+    <item>০.৫x</item>
+    <item>০.৭৫x</item>
+    <item>স্বাভাবিক</item>
+    <item>১.২৫x</item>
+    <item>১.৫x</item>
+    <item>২x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">%d সেকেন্ড ফাস্ট ফরওয়ার্ড করুন</item>
+    <item quantity="other">%d সেকেন্ড ফাস্ট ফরওয়ার্ড করুন</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">%d সেকেন্ড রিওয়াইন্ড করুন</item>
+    <item quantity="other">%d সেকেন্ড রিওয়াইন্ড করুন</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%dটি নতুন বিজ্ঞপ্তি</item>
+    <item quantity="other">%dটি নতুন বিজ্ঞপ্তি</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"হোমে নেভিগেট করুন"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"উপরে নেভিগেট করুন"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"আরও বিকল্প"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"হয়ে গেছে"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"সবগুলি দেখুন"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"একটি অ্যাপ বেছে নিন"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"বন্ধ আছে"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"চালু করুন"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"মুছুন"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"সার্চ করুন…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"কোয়েরি মুছে ফেলুন"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"সার্চ কোয়েরি"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"সার্চ করুন"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"কোয়েরি জমা দিন"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ভয়েস সার্চ করুন"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"শেয়ার করুন"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-এর সাথে শেয়ার করুন"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"সঙ্কুচিত করুন"</string>
+    <string name="bottomsheet_action_collapse">স্ক্রিনের নিচে অ্যাটাচ করা শিট আড়াল করুন</string>
+    <string name="bottomsheet_action_expand">স্ক্রিনের নিচে অ্যাটাচ করা শিট বড় করুন</string>
+    <string name="bottomsheet_action_expand_halfway">অর্ধেক প্রসারিত করুন</string>
+    <string name="bottomsheet_drag_handle_clicked">টেনে আনার হ্যান্ডেলে ডবল ট্যাপ করা হয়েছে</string>
+    <string name="bottomsheet_drag_handle_content_description">টেনে আনার হ্যান্ডেল</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"উত্তর দিন"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"ভিডিও"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"বাতিল করুন"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"কল কেটে দিন"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"ইনকামিং কল"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"চালু থাকা কল"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"ইনকামিং কল স্ক্রিনিং করা হচ্ছে"</string>
+    <string name="character_counter_content_description">%2$dটির মধ্যে %1$dটি অক্ষর লেখা হয়েছে</string>
+    <string name="character_counter_overflowed_content_description">অক্ষরের সীমা %1$d এর %2$d অতিক্রম করেছে</string>
+    <string name="clear_text_end_icon_content_description">টেক্সট মুছুন</string>
+    <string msgid="406453423630273620" name="close_drawer">"নেভিগেশন মেনু বন্ধ করুন"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"শিট বন্ধ করুন"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">সক্ষম করুন</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">আপনি Google Play পরিষেবা সক্ষম না করা পর্যন্ত %1$s কাজ করবে না।</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play পরিষেবা সক্ষম করুন</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">ইনস্টল করুন</string>
+    <string name="common_google_play_services_install_text">Google Play পরিষেবা ছাড়া %1$s চলবে না, যা আপনার ডিভাইসে অনুপস্থিত।</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play পরিষেবা পান</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play পরিষেবার উপলভ্যতা</string>
+    <string name="common_google_play_services_notification_ticker">Google Play পরিষেবার ত্রুটি</string>
+    <string name="common_google_play_services_unknown_issue">Google Play পরিষেবাগুলির সাথে %1$s এর সমস্যা হচ্ছে৷ অনুগ্রহ করে আবার চেষ্টা করুন৷</string>
+    <string name="common_google_play_services_unsupported_text">Google Play পরিষেবা ছাড়া %1$s চলবে না, যেটি আপনার ডিভাইসে সমর্থিত নয়৷</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">আপডেট করুন</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">আপনি Google Play পরিষেবা আপডেট না করা পর্যন্ত %1$s চলবে না।</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play পরিষেবা আপডেট করুন</string>
+    <string name="common_google_play_services_updating_text">Google Play পরিষেবা ছাড়া %1$s চলবে না যা বর্তমানে আপডেট হচ্ছে।</string>
+    <string name="common_google_play_services_wear_update_text">Google Play পরিষেবার নতুন ভার্সন প্রয়োজন৷ খুব শীঘ্রই এটা নিজেই আপডেট হবে৷</string>
+    <string name="common_open_on_phone">ফোনে খুলুন</string>
+    <string name="common_signin_button_text">সাইন-ইন করুন</string>
+    <string name="common_signin_button_text_long">Google এর মাধ্যমে সাইন-ইন করুন</string>
+    <string msgid="8038256446254964252" name="default_error_message">"ভুল ইনপুট"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"পপ-আপ উইন্ডো"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"ড্রপডাউন মেনু"</string>
+    <string name="error_icon_content_description">সমস্যা</string>
+    <string name="exo_controls_cc_disabled_description">সাবটাইটেল চালু করুন</string>
+    <string name="exo_controls_cc_enabled_description">সাবটাইটেল বন্ধ করুন</string>
+    <string name="exo_controls_fastforward_description">দ্রুত এগিয়ে যান</string>
+    <string name="exo_controls_fullscreen_enter_description">ফুল-স্ক্রিন মোডে দেখুন</string>
+    <string name="exo_controls_fullscreen_exit_description">ফুল-স্ক্রিন মোড ছেড়ে বেরোন</string>
+    <string name="exo_controls_hide">প্লেয়ার নিয়ন্ত্রণগুলি লুকান</string>
+    <string name="exo_controls_next_description">পরবর্তী</string>
+    <string name="exo_controls_overflow_hide_description">অতিরিক্ত সেটিংস লুকান</string>
+    <string name="exo_controls_overflow_show_description">অতিরিক্ত সেটিংস দেখুন</string>
+    <string name="exo_controls_pause_description">পজ করুন</string>
+    <string name="exo_controls_play_description">চালান</string>
+    <string name="exo_controls_playback_speed">স্পিড</string>
+    <string name="exo_controls_previous_description">পূর্ববর্তী</string>
+    <string name="exo_controls_repeat_all_description">\'বর্তমান\' মোড: সব রিপিট হয়। \'রিপিট\' মোড টগল হয়।</string>
+    <string name="exo_controls_repeat_off_description">\'বর্তমান\' মোড: রিপিট হয় না। \'রিপিট\' মোড টগল হয়।</string>
+    <string name="exo_controls_repeat_one_description">\'বর্তমান\' মোড: একটি রিপিট হয়। \'রিপিট\' মোড টগল হয়।</string>
+    <string name="exo_controls_rewind_description">পিছিয়ে যান</string>
+    <string name="exo_controls_seek_bar_description">কতটা প্লেব্যাক হয়েছে</string>
+    <string name="exo_controls_settings_description">সেটিংস</string>
+    <string name="exo_controls_show">প্লেয়ার নিয়ন্ত্রণগুলি দেখুন</string>
+    <string name="exo_controls_shuffle_off_description">\'শাফেল\' মোড চালু করে</string>
+    <string name="exo_controls_shuffle_on_description">\'শাফেল\' মোড বন্ধ করে</string>
+    <string name="exo_controls_stop_description">থামান</string>
+    <string name="exo_controls_vr_description">ভিআর মোড</string>
+    <string name="exo_download_completed">ডাউনলোড হয়ে গেছে</string>
+    <string name="exo_download_description">ডাউনলোড করুন</string>
+    <string name="exo_download_downloading">ডাউনলোড হচ্ছে</string>
+    <string name="exo_download_failed">ডাউনলোড করা যায়নি</string>
+    <string name="exo_download_notification_channel_name">ডাউনলোড</string>
+    <string name="exo_download_paused">ডাউনলোড পজ করা আছে</string>
+    <string name="exo_download_paused_for_network">ডাউনলোড চালু করার জন্য নেটওয়ার্কের সাথে কানেক্ট হওয়ার অপেক্ষা করা হচ্ছে</string>
+    <string name="exo_download_paused_for_wifi">ডাউনলোড চালু করার জন্য ওয়াই-ফাইয়ের সাথে কানেক্ট হওয়ার অপেক্ষা করা হচ্ছে</string>
+    <string name="exo_download_removing">ডাউনলোড করা কন্টেন্ট সরিয়ে দেওয়া হচ্ছে</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f এমবিপিএস</string>
+    <string name="exo_track_mono">মোনো</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">বিকল্প</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">ধারাভাষ্য</string>
+    <string name="exo_track_role_supplementary">অতিরিক্ত</string>
+    <string name="exo_track_selection_auto">অটো</string>
+    <string name="exo_track_selection_none">কোনওটিই নয়</string>
+    <string name="exo_track_selection_title_audio">অডিও</string>
+    <string name="exo_track_selection_title_text">টেক্সট</string>
+    <string name="exo_track_selection_title_video">ভিডিও</string>
+    <string name="exo_track_stereo">স্টিরিও</string>
+    <string name="exo_track_surround">সারাউন্ড সাউন্ড</string>
+    <string name="exo_track_surround_5_point_1">5.1 সারাউন্ড সাউন্ড</string>
+    <string name="exo_track_surround_7_point_1">7.1 সারাউন্ড সাউন্ড</string>
+    <string name="exo_track_unknown">অজানা</string>
+    <string name="exo_track_unknown_name">অজানা (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">ড্রপ-ডাউন মেনু দেখুন</string>
+    <string name="icon_content_description">ডায়ালগ আইকন</string>
+    <string msgid="6827826412747255547" name="in_progress">"কাজ চলছে"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"কয়েকটি বিকল্প বেছে নেওয়া হয়েছে"</string>
+    <string name="intercom_access_background_location_message">ব্যাকগ্রাউন্ডে আপনার অবস্থান ব্যবহার করতে অ্যাপটিকে চালু করার জন্য আপনার ডিভাইসের সেটিংসে যান</string>
+    <string name="intercom_access_background_location_title">সবসময় আপনার অবস্থানে অ্যাক্সেসের অনুমতি দিন</string>
+    <string name="intercom_access_device_settings">আপনার ফটোগুলিতে অ্যাক্সেসের অনুমতি দিতে আপনার ডিভাইস সেটিংসে যান</string>
+    <string name="intercom_access_photos">আপনার ফটোগুলি অ্যাক্সেস করুন</string>
+    <string name="intercom_active_15m_ago">শেষ {minutes} মিনিটে সক্রিয় হয়েছে</string>
+    <string name="intercom_active_day_ago">{days}দিন আগে সক্রিয় হয়েছে</string>
+    <string name="intercom_active_hour_ago">{hours}ঘণ্টা আগে সক্রিয় হয়েছে</string>
+    <string name="intercom_active_minute_ago">{minutes}মিনিট আগে সক্রিয় হয়েছে</string>
+    <string name="intercom_active_state">সক্রিয়</string>
+    <string name="intercom_active_week_ago">1 সপ্তাহের বেশি আগে সক্রিয় হয়েছে</string>
+    <string name="intercom_add">যোগ করুন</string>
+    <string name="intercom_ai_answer">AI উত্তর</string>
+    <string name="intercom_ai_answer_information">AI উত্তর, তথ্য</string>
+    <string name="intercom_ai_bot">AI Bot</string>
+    <string name="intercom_allow_access">অ্যাক্সেসের অনুমতি দিন</string>
+    <string name="intercom_allow_storage_access">আপনার ফটোগুলি দেখতে স্টোরেজে অ্যাক্সেসের অনুমতি দিন</string>
+    <string name="intercom_almost_there">প্রায় পৌঁছে গেছি...</string>
+    <string name="intercom_also_in_this_conversation">এছাড়াও এই কথোপকথনে</string>
+    <string name="intercom_android_activated_message">আপনার Android অ্যাপ এখন Intercom প্ল্যাটফর্মের সাথে একত্রিত হয়েছে</string>
+    <string name="intercom_answer">উত্তর</string>
+    <string name="intercom_app_settings">অ্যাপ সেটিংস</string>
+    <string name="intercom_article_double_author">{author_first_name1} এবং {author_first_name2} দ্বারা</string>
+    <string name="intercom_article_load_error">নিবন্ধটি লোড করা যায়নি</string>
+    <string name="intercom_article_multiple_authors">{author_first_name1} এবং অন্য {number_of_other_authors} জন দ্বারা</string>
+    <string name="intercom_article_question">এটি কি আপনার প্রশ্নের উত্তর দিয়েছে?</string>
+    <string name="intercom_article_response">আপনি এটি দিয়ে প্রতিক্রিয়া জানিয়েছেন</string>
+    <string name="intercom_article_search_hint_text">নিবন্ধগুলি অনুসন্ধান করুন...</string>
+    <string name="intercom_article_search_search_results">অনুসন্ধানের ফলাফল</string>
+    <string name="intercom_article_single_author">{author_first_name} দ্বারা</string>
+    <string name="intercom_ask_a_question">একটি প্রশ্ন জিজ্ঞাসা করুন</string>
+    <string name="intercom_ask_a_question_with_ellipsis">একটি প্রশ্ন জিজ্ঞাসা করুন...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">আরেকটি প্রশ্ন জিজ্ঞাসা করুন...</string>
+    <string name="intercom_ask_our_bot_a_question">আমাদের বটকে একটি প্রশ্ন জিজ্ঞাসা করুন</string>
+    <string name="intercom_asked_about">এই সম্পর্কে জিজ্ঞাসা করা হয়েছে</string>
+    <string name="intercom_assigned_to_admin">{admin}-কে বরাদ্দ করা হয়েছে</string>
+    <string name="intercom_attribute_collector_negative">না</string>
+    <string name="intercom_attribute_collector_positive">হ্যাঁ</string>
+    <string name="intercom_available_teammates">যে টিমমেটরা উপলভ্য আছেন: {available_teammates}</string>
+    <string name="intercom_avatar">অবতার</string>
+    <string name="intercom_avatars">অবতারগুলি</string>
+    <string name="intercom_away_state">দূরে</string>
+    <string name="intercom_bot">বট</string>
+    <string name="intercom_bot_answers_instantly">বট তাত্ক্ষণিকভাবে উত্তর দেয়</string>
+    <string name="intercom_bot_expectation_text">আমাদের বট অনেক সাধারণ প্রশ্নের উত্তর দিতে পারে</string>
+    <string name="intercom_bot_is_still_thinking">বট এখনও ভাবছে...</string>
+    <string name="intercom_bot_is_thinking">বট ভাবছে...</string>
+    <string name="intercom_browse_all_help_topics">সহায়তার সমস্ত বিষয়গুলি ব্রাউজ করুন</string>
+    <string name="intercom_browse_collections">সংগ্রহগুলি ব্রাউজ করুন</string>
+    <string name="intercom_cancel">বাতিল</string>
+    <string name="intercom_chat_with_us">আমাদের সাথে চ্যাট করুন</string>
+    <string name="intercom_check_later_for_updates">আপডেটের জন্য পরে আবার দেখে নিন।</string>
+    <string name="intercom_checklist_card_first_step">প্রথম ধাপ</string>
+    <string name="intercom_checklist_card_next_step">পরবর্তী ধাপ</string>
+    <string name="intercom_checklist_completed">সম্পূর্ণ</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">প্রায় {minutes} মিনিট বাকি</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">প্রায় 1 মিনিট বাকি</string>
+    <string name="intercom_checklist_mark_step_as_complete">সম্পূর্ণ হিসাবে চিহ্নিত করুন</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">প্রায় {minutes} মিনিট</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">প্রায় 1 মিনিট</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} টি ধাপ</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">{total_steps} টির মধ্যে {steps_completed} টি সম্পন্ন হয়েছে</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">{total_steps} টির মধ্যে 1 টি সম্পন্ন হয়েছে</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 টি ধাপ</string>
+    <string name="intercom_checklist_sender_name">{name} দ্বারা শেয়ার করা হয়েছে</string>
+    <string name="intercom_checklist_step_action_button">ধাপের অ্যাকশন বোতাম</string>
+    <string name="intercom_checklist_step_completed">সম্পূর্ণ</string>
+    <string name="intercom_choose_one">একটি বেছে নিন...</string>
+    <string name="intercom_choose_the_date">তারিখটি বেছে নিন...</string>
+    <string name="intercom_clear">খালি করুন</string>
+    <string name="intercom_close">বন্ধ করুন</string>
+    <string name="intercom_congratulations">অভিনন্দন</string>
+    <string name="intercom_connected">আপনি সংযুক্ত আছেন</string>
+    <string name="intercom_contact_support">সহায়তার সাথে যোগাযোগ করুন</string>
+    <string name="intercom_contact_us">আমাদের সাথে যোগাযোগ করুন</string>
+    <string name="intercom_continue_the_conversation">কথোপকথন চালিয়ে যান</string>
+    <string name="intercom_conversation_card_office_hours_header">আমরা অনলাইনে ফিরে আসব</string>
+    <string name="intercom_conversation_card_reply_time_header">আমাদের উত্তরের স্বাভাবিক সময়</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">উত্তরের স্বাভাবিক সময়</string>
+    <string name="intercom_conversation_has_ended">আপনার কথোপকথন শেষ হয়েছে</string>
+    <string name="intercom_conversation_number_and_description">কথোপকথন নম্বর {conversation_number} : {conversation_description}</string>
+    <string name="intercom_conversations">কথোপকথন</string>
+    <string name="intercom_conversations_space_title">কথোপকথন</string>
+    <string name="intercom_conversations_with_app">{name} এর সাথে কথোপকথন</string>
+    <string name="intercom_copied_to_clipboard">ক্লিপবোর্ডে কপি করা হয়েছে</string>
+    <string name="intercom_couldnt_complete_action">এই কাজটি সম্পূর্ণ করা যায়নি</string>
+    <string name="intercom_couldnt_load_apps">অ্যাপগুলি লোড করা যায়নি।</string>
+    <string name="intercom_couldnt_load_content">কন্টেন্ট লোড করা যায়নি</string>
+    <string name="intercom_couldnt_load_messenger">Messenger লোড করা যায়নি।</string>
+    <string name="intercom_create_a_ticket">একটি টিকিট তৈরি করুন</string>
+    <string name="intercom_currently_no_help_articles">বর্তমানে কোনও সাহায্য সহায়তা উপলভ্য নেই।</string>
+    <string name="intercom_delete_attachment">সংযুক্তি মুছে ফেলুন</string>
+    <string name="intercom_delivered">ডেলিভারি করা হয়েছে</string>
+    <string name="intercom_disappointed_face_emoji">হতাশ মুখ</string>
+    <string name="intercom_dismiss">খারিজ করুন</string>
+    <string name="intercom_empty_conversations">টিমের মেসেজগুলি এখানে দেখানো হবে</string>
+    <string name="intercom_enter_text_placeholder">টেক্সট লিখুন...</string>
+    <string name="intercom_error_loading_conversation">কথোপকথনটি লোড করা যায়নি</string>
+    <string name="intercom_error_loading_ticket">টিকেট লোড করা যায়নি</string>
+    <string name="intercom_expected_response_delay_10800">3 ঘণ্টার মধ্যে</string>
+    <string name="intercom_expected_response_delay_120">2 মিনিটের মধ্যে</string>
+    <string name="intercom_expected_response_delay_1200">20 মিনিটের মধ্যে</string>
+    <string name="intercom_expected_response_delay_14400">4 ঘণ্টার মধ্যে</string>
+    <string name="intercom_expected_response_delay_172800">2 দিন</string>
+    <string name="intercom_expected_response_delay_180">3 মিনিটের মধ্যে</string>
+    <string name="intercom_expected_response_delay_1800">30 মিনিটের মধ্যে</string>
+    <string name="intercom_expected_response_delay_18000">5 ঘণ্টার মধ্যে</string>
+    <string name="intercom_expected_response_delay_21600">6 ঘণ্টার মধ্যে</string>
+    <string name="intercom_expected_response_delay_240">4 মিনিটের মধ্যে</string>
+    <string name="intercom_expected_response_delay_259200">3 দিন</string>
+    <string name="intercom_expected_response_delay_300">5 মিনিটের মধ্যে</string>
+    <string name="intercom_expected_response_delay_345600">4 দিন</string>
+    <string name="intercom_expected_response_delay_3600">1 ঘণ্টার মধ্যে</string>
+    <string name="intercom_expected_response_delay_43200">12 ঘণ্টার মধ্যে</string>
+    <string name="intercom_expected_response_delay_432000">5 দিন</string>
+    <string name="intercom_expected_response_delay_518400">6 দিন</string>
+    <string name="intercom_expected_response_delay_60">1 মিনিটের মধ্যে</string>
+    <string name="intercom_expected_response_delay_600">10 মিনিটের মধ্যে</string>
+    <string name="intercom_expected_response_delay_604800">1 সপ্তাহের মধ্যে</string>
+    <string name="intercom_expected_response_delay_7200">2 ঘণ্টার মধ্যে</string>
+    <string name="intercom_expected_response_delay_86400">1 দিন</string>
+    <string name="intercom_expected_response_delay_900">15 মিনিটের মধ্যে</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} টি লেবেল</string>
+    <string name="intercom_facebook_like">Facebook-এ আমাদের লাইক করুন</string>
+    <string name="intercom_failed_delivery">মেসেজটি পৌঁছে দেওয়া যায়নি</string>
+    <string name="intercom_failed_to_load_conversation">আপনার কথোপকথনগুলি লোড করা যায়নি</string>
+    <string name="intercom_failed_to_load_tickets">আপনার টিকেট লোড করা যায়নি</string>
+    <string name="intercom_failed_to_load_tickets_with_app">{app_name} দিয়ে আপনার টিকেট লোড করা যায়নি</string>
+    <string name="intercom_failed_to_send">পাঠানো যায়নি</string>
+    <string name="intercom_field_is_required">{field_name} ফিল্ডটি প্রয়োজন</string>
+    <string name="intercom_file_access_failed">সেই ফাইলটি অ্যাক্সেস করা যাচ্ছে না</string>
+    <string name="intercom_file_max_limit">সর্বাধিক {limit} টি ফাইল</string>
+    <string name="intercom_file_saved">ফাইল সেভ করা হয়েছে</string>
+    <string name="intercom_file_too_big">{limit} MB-এর চেয়ে বড় ফাইল পাঠানো যাবে না</string>
+    <string name="intercom_file_type_not_allowed">ফাইলের ধরনটি অনুমোদিত নয়</string>
+    <string name="intercom_files">ফাইল</string>
+    <string name="intercom_gallery">গ্যালারী</string>
+    <string name="intercom_generating_answer">উত্তর তৈরি করা হচ্ছে...</string>
+    <string name="intercom_get_help">সাহায্য নিন</string>
+    <string name="intercom_get_notified_by_email">ইমেলের মাধ্যমে অবহিত হোন</string>
+    <string name="intercom_gif_attribution">{providername}-এর মাধ্যমে</string>
+    <string name="intercom_gifs_load_error">GIF-গুলি লোড করা যায়নি</string>
+    <string name="intercom_give_it_another_try">এটি আরও একবার চেষ্টা করুন</string>
+    <string name="intercom_go_to_device_settings">অ্যাক্সেসের অনুমতি দিতে, আপনার ডিভাইসের অ্যাপ সেটিংস 
+ অনুমতি মেনুতে যান</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">বড় বড় চোখের সাথে হাসি মুখ</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+ অন্য 1 জন</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+ অন্য {other_participant_count} জন</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">অন্যান্য {other_participant_count} জনও অংশগ্রহণ করছে</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name}-ও অংশগ্রহণ করছে</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} এবং অন্য 1 জনও অংশগ্রহণ করছে</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} এবং অন্যান্য {other_participant_count} জনও অংশগ্রহণ করছে</string>
+    <string name="intercom_group_conversation_one_person_also_participating">অন্য 1 জনও অংশগ্রহণ করছে</string>
+    <string name="intercom_help_center">সহায়তা কেন্দ্র</string>
+    <string name="intercom_help_space_title">সহায়তা</string>
+    <string name="intercom_home_space_title">হোম</string>
+    <string name="intercom_how_can_we_help">আমরা কিভাবে সাহায্য করতে পারি?</string>
+    <string name="intercom_how_would_you_rate_this">আপনি কিভাবে এটিকে রেট করবেন?</string>
+    <string name="intercom_image_attached">(ছবি সংযুক্ত)</string>
+    <string name="intercom_inbox_error_state_title">কিছু ভুল হয়েছে</string>
+    <string name="intercom_last_active_hours_ago">সর্বশেষ সক্রিয় {mins} ঘণ্টা আগে</string>
+    <string name="intercom_last_active_mins_ago">সর্বশেষ সক্রিয় {mins} মিনিট আগে</string>
+    <string name="intercom_last_active_over_a_week">সর্বশেষ সক্রিয় 1 সপ্তাহের বেশি আগে</string>
+    <string name="intercom_learn_more">আরও জানুন</string>
+    <string name="intercom_loading">লোড হচ্ছে</string>
+    <string name="intercom_message_failed_try_again">পাঠানো যায়নি, আবার চেষ্টা করতে ট্যাপ করুন</string>
+    <string name="intercom_message_placeholder">মেসেজ...</string>
+    <string name="intercom_message_seen">দেখা হয়েছে</string>
+    <string name="intercom_message_state_sending">পাঠানো হচ্ছে...</string>
+    <string name="intercom_message_summary">মেসেজের সারাংশ: {summary}, টিমমেটের নাম: {name}, মেসেজ পাঠানোর সময়: {sentTime}। </string>
+    <string name="intercom_message_summary_with_teammate_status">মেসেজের সারাংশ: {summary}, টিমমেটের নাম: {name}, টিমমেটের স্ট্যাটাস: {adminStatus}, মেসেজ পাঠানোর সময়: {sentTime}। </string>
+    <string name="intercom_message_unread">মেসেজটি পড়া হয়নি।</string>
+    <string name="intercom_message_unseen">এখনও দেখা হয়নি</string>
+    <string name="intercom_messages_space_title">মেসেজ</string>
+    <string name="intercom_messenger_bot_reply_time">আমাদের বট তাৎক্ষণিকভাবে উত্তর দেবে</string>
+    <string name="intercom_multiple_articles">{total_articles} টি নিবন্ধ</string>
+    <string name="intercom_multiple_collections">{total_collection} টি সংগ্রহ</string>
+    <string name="intercom_name_and_1_other">{name} এবং অন্য 1 জন</string>
+    <string name="intercom_name_and_x_others">{name} এবং অন্য {count} জন</string>
+    <string name="intercom_navigation_back">পিছনে</string>
+    <string name="intercom_need_camera_access">{app_name}-এর ক্যামেরায় অ্যাক্সেস প্রয়োজন যাতে আপনি ফটো এবং ভিডিও তুলতে পারেন। সেটিংস > অনুমতি ট্যাপ করুন এবং ক্যামেরা চালু করুন।</string>
+    <string name="intercom_neutral_face_emoji">নিরপেক্ষ মুখ</string>
+    <string name="intercom_new_conversation">নতুন কথোপকথন</string>
+    <string name="intercom_new_message">নতুন মেসেজ</string>
+    <string name="intercom_new_messages">আপনার {n} টি নতুন মেসেজ আছে</string>
+    <string name="intercom_new_notifications">নতুন নোটিফিকেশন</string>
+    <string name="intercom_news">নিউজ</string>
+    <string name="intercom_news_empty_title">এখনও কোনও খবর নেই</string>
+    <string name="intercom_news_latest_subtitle">টিম {team_name}-এর থেকে</string>
+    <string name="intercom_news_latest_title">সাম্প্রতিকতম</string>
+    <string name="intercom_news_older_title">পুরোনো</string>
+    <string name="intercom_news_space_title">নিউজ</string>
+    <string name="intercom_no_articles_to_display">এখনও কোনও নিবন্ধ নেই</string>
+    <string name="intercom_no_conversations">কোনও কথোপকথন নেই</string>
+    <string name="intercom_no_gifs_found">কোন GIF খুঁজে পাওয়া যায়নি</string>
+    <string name="intercom_no_gifs_matching_query">আমরা আপনার জিজ্ঞাসার সাথে মেলে এমন কোনও GIF খুঁজে পাইনি</string>
+    <string name="intercom_no_help_articles_to_display">কোনও সহায়তা নিবন্ধ নেই</string>
+    <string name="intercom_no_messages_from_the_team">টিমের পক্ষ থেকে কোনও মেসেজ নেই</string>
+    <string name="intercom_no_network_connection">কোনও নেটওয়ার্ক সংযোগ নেই</string>
+    <string name="intercom_no_photos">কোনও ফটো নেই</string>
+    <string name="intercom_no_photos_on_device">এই ডিভাইসে কোনও ফটো নেই</string>
+    <string name="intercom_no_results_for_searchterm">{searchTerm} এর জন্য কোনও ফলাফল নেই</string>
+    <string name="intercom_no_tasks">কোনও কাজ নেই</string>
+    <string name="intercom_no_tasks_available_currently">বর্তমানে কোনও কাজ উপলভ্য নেই।</string>
+    <string name="intercom_not_now">এখন নয়</string>
+    <string name="intercom_nothing_to_see_here_yet">এখানে এখনও দেখার মতো কিছু নেই</string>
+    <string name="intercom_notification_channel_actions_description">এই অ্যাপে একটি পদক্ষেপ নেওয়ার জন্য লিঙ্কগুলি আছে</string>
+    <string name="intercom_notification_channel_actions_title">পদক্ষেপ</string>
+    <string name="intercom_notification_channel_chat_replies_description">এই অ্যাপে চ্যাট থেকে উত্তরের নোটিফিকেশন</string>
+    <string name="intercom_notification_channel_chat_replies_title">চ্যাটের উত্তর</string>
+    <string name="intercom_notification_channel_new_chats_description">এই অ্যাপ থেকে পাঠানো নতুন চ্যাট মেসেজ</string>
+    <string name="intercom_notification_channel_new_chats_title">নতুন চ্যাটগুলি</string>
+    <string name="intercom_number_is_incorrect">এই সংখ্যাটি পুরোপুরি সঠিক বলে মনে হচ্ছে না</string>
+    <string name="intercom_ok">ঠিক আছে</string>
+    <string name="intercom_one_new_message">আপনার একটি নতুন মেসেজ আছে</string>
+    <string name="intercom_our_bot_answers_instantly">আমাদের বট তাত্ক্ষণিকভাবে উত্তর দেয়</string>
+    <string name="intercom_page_not_found">এই পেজটি এখন আর এখানে নেই</string>
+    <string name="intercom_permission_denied">এই অনুমতিটি অস্বীকার করা হয়েছিল</string>
+    <string name="intercom_photo_access_denied">আপনি আপনার ফটোতে অ্যাক্সেস দিতে অস্বীকার করেছেন</string>
+    <string name="intercom_photo_and_video_library">ফটো এবং ভিডিও লাইব্রেরি</string>
+    <string name="intercom_placeholder_datepicker">DD-MM-YYYY</string>
+    <string name="intercom_placeholder_email_input">এখানে ইমেল লিখুন...</string>
+    <string name="intercom_placeholder_numerical_inputs">এখানে নম্বর লিখুন...</string>
+    <string name="intercom_placeholder_text_inputs">এখানে টেক্সট লিখুন...</string>
+    <string name="intercom_please_select">অনুগ্রহ করে নির্বাচন করুন...</string>
+    <string name="intercom_plus_x_more">+ আরো {n}টি</string>
+    <string name="intercom_powered_by_intercom">Intercom দ্বারা চালিত</string>
+    <string name="intercom_profile_location">{location} এ {time}</string>
+    <string name="intercom_rate_your_conversation">আপনার কথোপকথনকে রেট দিন</string>
+    <string name="intercom_recent_ticket">সাম্প্রতিক টিকিট</string>
+    <string name="intercom_recent_tickets">সাম্প্রতিক টিকিটগুলি</string>
+    <string name="intercom_record_a_video">একটি ভিডিও রেকর্ড করুন</string>
+    <string name="intercom_reload">পুনরায় লোড করুন</string>
+    <string name="intercom_reply">উত্তর দিন</string>
+    <string name="intercom_reply_from_admin">{name} এর উত্তর</string>
+    <string name="intercom_reply_to_conversation">একটি উত্তর লিখুন...</string>
+    <string name="intercom_retry">পুনরায় চেষ্টা করুন</string>
+    <string name="intercom_saving">সেভ করা হচ্ছে...</string>
+    <string name="intercom_search_browse_empty_state_text">দুঃখিত, আমরা এর জন্য কোনো ফলাফল খুঁজে পাইনি। আপনার অনুসন্ধানটি অন্য শব্দে লেখার চেষ্টা করুন।</string>
+    <string name="intercom_search_for_help">সহায়তার জন্য অনুসন্ধান করুন</string>
+    <string name="intercom_search_gif">GIF অনুসন্ধান করুন...</string>
+    <string name="intercom_search_help_articles">সহায়তা নিবন্ধগুলি অনুসন্ধান করুন</string>
+    <string name="intercom_see_all">সব দেখুন</string>
+    <string name="intercom_see_all_conversations">আপনার সমস্ত কথোপকথন দেখুন</string>
+    <string name="intercom_see_past_conversations">আগেরটি দেখুন</string>
+    <string name="intercom_see_previous_conversations">আপনার পূর্ববর্তী কথোপকথনগুলি দেখুন</string>
+    <string name="intercom_send">পাঠান</string>
+    <string name="intercom_send_a_message_reply_time">উত্তরের স্বাভাবিক সময় হল</string>
+    <string name="intercom_send_us_a_message">আমাদের একটি মেসেজ পাঠান</string>
+    <string name="intercom_send_us_a_message_bot">আমাদের একটি মেসেজ পাঠান এবং আমাদের বট তৎক্ষণাৎ উত্তর দেবে</string>
+    <string name="intercom_settings">সেটিংস</string>
+    <string name="intercom_shared_by">শেয়ার করেছেন</string>
+    <string name="intercom_show_less">কম দেখান</string>
+    <string name="intercom_single_article">1 টি নিবন্ধ</string>
+    <string name="intercom_single_collection">1 টি সংগ্রহ</string>
+    <string name="intercom_some_things_failed_to_load">কিছু জিনিস লোড করতে ব্যর্থ হয়েছে। আবার চেষ্টা করুন।</string>
+    <string name="intercom_something_went_wrong_try_again">কিছু একটা ভুল হয়েছে। আবার চেষ্টা করুন।</string>
+    <string name="intercom_source">উত্স</string>
+    <string name="intercom_sources">উত্স</string>
+    <string name="intercom_spaces_error_description">কন্টেন্ট লোড করা যায়নি</string>
+    <string name="intercom_spaces_error_title">কিছু একটা ভুল হয়েছে</string>
+    <string name="intercom_start_a_conversation">একটি কথোপকথন শুরু করুন</string>
+    <string name="intercom_start_another_conversation">আরেকটি কথোপকথন শুরু করুন</string>
+    <string name="intercom_start_conversation">একটি কথোপকথন শুরু করুন...</string>
+    <string name="intercom_status">স্ট্যাটাস</string>
+    <string name="intercom_still_generating_answer">এখনও উত্তর তৈরি করা হচ্ছে...</string>
+    <string name="intercom_still_thinking">এখনো ভাবছি...</string>
+    <string name="intercom_still_working_on_it">এখনো এটা নিয়ে কাজ করা হচ্ছে...</string>
+    <string name="intercom_stop_upload">আপলোড বন্ধ করুন</string>
+    <string name="intercom_storage_access_request">আপনার ফটোগুলি দেখতে আপনাকে স্টোরেজে অ্যাক্সেসের অনুমতি দিতে হবে</string>
+    <string name="intercom_string_is_incorrect">এটি পুরোপুরি সঠিক বলে মনে হচ্ছে না</string>
+    <string name="intercom_submit">জমা দিন</string>
+    <string name="intercom_suggested_articles">প্রস্তাবিত নিবন্ধগুলি</string>
+    <string name="intercom_surveys_all_options_response_hint">অনুগ্রহ করে প্রযোজ্য সবগুলি বিকল্প নির্বাচন করুন</string>
+    <string name="intercom_surveys_dismiss">সমীক্ষা বাতিল করুন</string>
+    <string name="intercom_surveys_done_button">সম্পন্ন</string>
+    <string name="intercom_surveys_dropdown_default_option">অনুগ্রহ করে একটি উত্তর নির্বাচন করুন...</string>
+    <string name="intercom_surveys_email_error">অনুগ্রহ করে একটি বৈধ ইমেল ঠিকানা লিখুন</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">অনুগ্রহ করে {response_count} টি বিকল্প নির্বাচন করুন</string>
+    <string name="intercom_surveys_from_company">{company} থেকে সমীক্ষা</string>
+    <string name="intercom_surveys_from_teammate">{company}-এর {sender_name} দ্বারা সমীক্ষা</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">এই প্রশ্নের জন্য কমপক্ষে {response_count} টি বিকল্প নির্বাচন করা প্রয়োজন</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">এই প্রশ্নের জন্য {response_count} টি বিকল্প নির্বাচন করা প্রয়োজন</string>
+    <string name="intercom_surveys_multi_star_rating">{count} টি তারা</string>
+    <string name="intercom_surveys_multiselect_other_option">অন্যান্য (অনুগ্রহ করে উল্লেখ করুন)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">অনুগ্রহ করে উল্লেখ করুন</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">উত্তর লিখুন</string>
+    <string name="intercom_surveys_multiselect_other_option_value">অন্যান্য</string>
+    <string name="intercom_surveys_next_button">পরবর্তী</string>
+    <string name="intercom_surveys_nps_lower_label">সম্ভাবনা নেই</string>
+    <string name="intercom_surveys_nps_upper_label">খুব সম্ভবত</string>
+    <string name="intercom_surveys_number_error">অনুগ্রহ করে একটি সংখ্যা লিখুন</string>
+    <string name="intercom_surveys_one_star_rating">1 তারা</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">{question_count}-এর মধ্যে {questioin_number} প্রশ্ন</string>
+    <string name="intercom_surveys_required_question">এটি একটি প্রয়োজনীয় প্রশ্ন</string>
+    <string name="intercom_surveys_required_response">এটি একটি প্রয়োজনীয় উত্তর</string>
+    <string name="intercom_surveys_response_range_response_hint">অনুগ্রহ করে কমপক্ষে {minimum_response_count} টি এবং সর্বাধিক {maximum_response_count} টি বিকল্প নির্বাচন করুন</string>
+    <string name="intercom_surveys_response_too_long">অনুগ্রহ করে উত্তরগুলিকে সর্বাধিক {character_count} টি অক্ষরে সীমিত রাখুন</string>
+    <string name="intercom_surveys_response_too_short">অনুগ্রহ করে নিশ্চিত করুন যে উত্তরগুলিতে কমপক্ষে {character_count} টি অক্ষর আছে</string>
+    <string name="intercom_surveys_sender_image">সমীক্ষা প্রেরকের ছবি</string>
+    <string name="intercom_surveys_single_response_hint">অনুগ্রহ করে 1টি বিকল্প নির্বাচন করুন</string>
+    <string name="intercom_surveys_telephone_error">অনুগ্রহ করে একটি বৈধ টেলিফোন নম্বর লিখুন</string>
+    <string name="intercom_surveys_text_input_question_placeholder">অনুগ্রহ করে এখানে আপনার উত্তর টাইপ করুন...</string>
+    <string name="intercom_take_a_photo">একটি ছবি তুলুন</string>
+    <string name="intercom_tap_to_send_image">একটি ছবি পাঠাতে ট্যাপ করুন</string>
+    <string name="intercom_tasks_space_title">কাজ</string>
+    <string name="intercom_team_name_custom_response_delay_2">{app_name} সাধারণত এক দিনের মধ্যে উত্তর দেয়</string>
+    <string name="intercom_team_name_custom_response_delay_3">{app_name} সাধারণত এক সপ্তাহের মধ্যে উত্তর দেয়</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} সাধারণত একটি কর্মদিবসের মধ্যে উত্তর দেয়</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} সাধারণত দুইটি কর্মদিবসের মধ্যে উত্তর দেয়</string>
+    <string name="intercom_teammate_from_company">{company} থেকে {name}</string>
+    <string name="intercom_tell_us_more">আমাদের আরও বলুন...</string>
+    <string name="intercom_tell_us_what_you_need">আপনার কী বিষয়ে সহায়তা প্রয়োজন তা আমাদের বলুন এবং আমাদের বট উত্তর দেওয়ার জন্য যথাসাধ্য চেষ্টা করবে</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">ধন্যবাদ! টিম একটি কর্মদিবসের মধ্যে উত্তর দেবে</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">ধন্যবাদ! টিম দুইটি কর্মদিবসের মধ্যে উত্তর দেবে</string>
+    <string name="intercom_thanks_for_letting_us_know">আমাদের জানানোর জন্য ধন্যবাদ</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">ধন্যবাদ! টিম যত তাড়াতাড়ি সম্ভব জবাব দেবে</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">দেশের কোডটি পুরোপুরি সঠিক বলে মনে হচ্ছে না</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">এই ইমেলটি পুরোপুরি সঠিক বলে মনে হচ্ছে না</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">এই সংখ্যাটি পুরোপুরি সঠিক বলে মনে হচ্ছে না</string>
+    <string name="intercom_that_number_has_too_many_digits">এই সংখ্যাটিতে অনেক বেশি অঙ্ক আছে</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">এই সংখ্যাটিতে কয়েকটি অঙ্ক অনুপস্থিত</string>
+    <string name="intercom_that_number_needs_a_prefix">এই সংখ্যাটির একটি প্রিফিক্স (+ বা 00) প্রয়োজন</string>
+    <string name="intercom_the_team_can_help_if_needed">প্রয়োজন হলে, টিম সাহায্য করতে পারে</string>
+    <string name="intercom_the_team_typically_replies_in_hours">টিম সাধারণত কয়েক ঘণ্টার মধ্যে উত্তর দেয়।</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">টিম সাধারণত একটি কর্মদিবসের মধ্যে উত্তর দেয়।</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">টিম সাধারণত দুইটি কর্মদিবসের মধ্যে উত্তর দেয়</string>
+    <string name="intercom_thinking">ভাবছি...</string>
+    <string name="intercom_ticket_could_not_be_created">টিকিট তৈরি করা যায়নি</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">{ticket_type_title} টিকিট তৈরি করুন</string>
+    <string name="intercom_ticket_current_status">বর্তমান স্ট্যাটাস: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">বর্তমান স্ট্যাটাস: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">টিকিটের বৈশিষ্ট্য;</string>
+    <string name="intercom_ticket_details_for_title">{title}-এর জন্য টিকিটের বিশদ বিবরণ</string>
+    <string name="intercom_ticket_details_notification_detail">আপনাকে এখানে এবং ইমেলের মাধ্যমে জানানো হবে</string>
+    <string name="intercom_ticket_has_been_created">টিকিট তৈরি করা হয়েছে</string>
+    <string name="intercom_ticket_has_been_updated">টিকিট আপডেট করা হয়েছে</string>
+    <string name="intercom_ticket_sla_details">SLA-এর বিশদ বিবরণ: {sla_details}</string>
+    <string name="intercom_ticket_status_details">স্ট্যাটাসের বিবরণ: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">টিকিট {status}-এ সরানো হয়েছে • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} টিকিটটি {status}-এ সরিয়ে দিয়েছে • {timestamp}</string>
+    <string name="intercom_tickets_add_file">ফাইল যোগ করুন</string>
+    <string name="intercom_tickets_add_files">ফাইল যোগ করুন</string>
+    <string name="intercom_tickets_create_ticket">টিকিট তৈরি করুন</string>
+    <string name="intercom_tickets_create_ticket_fallback">অনুগ্রহ করে নিম্নলিখিত তথ্য সহ উত্তর দিন এবং কেউ শীঘ্রই আপনার কাছে ফিরে আসবে।</string>
+    <string name="intercom_tickets_created_confirmation_header">টিকিট তৈরি করা হয়েছে</string>
+    <string name="intercom_tickets_cta_text">এই টিকিট সম্পর্কে কোনো প্রশ্ন আছে কি?</string>
+    <string name="intercom_tickets_email_copy">উত্তর এবং টিকিটের আপডেট এই ইমেলে পাঠানো হবে</string>
+    <string name="intercom_tickets_email_subject">আপনার {ticket_type_name} টিকিট</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">আপনার {ticket_type_name} টিকিট #{ticket_id}</string>
+    <string name="intercom_tickets_empty_state_text">আপনার টিকেট এখানে দেখানো হবে</string>
+    <string name="intercom_tickets_empty_state_title">টিকেট নেই</string>
+    <string name="intercom_tickets_estimated_resolution">সমাধানের জন্য আনুমানিক সময়: {duration}</string>
+    <string name="intercom_tickets_files_added">ফাইলগুলি যোগ করা হয়েছে</string>
+    <string name="intercom_tickets_have_a_question">এই সমস্যা সম্পর্কে কোনো প্রশ্ন আছে কি?</string>
+    <string name="intercom_tickets_in_progress_status_detail">আমরা এটা নিয়ে কাজ করছি🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} এটা নিয়ে কাজ করছে!</string>
+    <string name="intercom_tickets_is_resolved">এই টিকিট কি সমাধান হয়ে গেছে?</string>
+    <string name="intercom_tickets_log_a_ticket">একটি টিকিট লগ করুন</string>
+    <string name="intercom_tickets_resolved_status_detail">আমরা আপনার টিকিট সম্পূর্ণ করেছি</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} আপনার টিকিট সম্পূর্ণ করেছে</string>
+    <string name="intercom_tickets_sla">সমাধান করা হবে বলে অনুমান করা হচ্ছে {time}</string>
+    <string name="intercom_tickets_space_title">টিকিট</string>
+    <string name="intercom_tickets_status_change_event">টিকিট এখন {status} • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">আমরা আপনার টিকিট সম্পন্ন করেছি</string>
+    <string name="intercom_tickets_status_description_more_info">আমাদের আরও তথ্য প্রয়োজন</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} আপনার টিকিট এতে সরিয়ে দিয়েছেন</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} আপনার টিকিট #{ticket_id} এখানে সরিয়ে দিয়েছেন</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">আপনার টিকিটি এতে সরানো হয়েছে</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">এখানে আপনার টিকিট #{ticket_id} এখানে সরানো হয়েছে</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">আপনার টিকিট</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">আপনার টিকিট #{ticket_id}</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">আমরা শীঘ্রই আপনার টিকিটটি তুলে নেব</string>
+    <string name="intercom_tickets_status_description_working_on">আমরা আপনার টিকিটের উপর কাজ করছি</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} টিকিটটি {status}-এ সরিয়ে দিয়েছে {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">টিকিট {status}-এ সরানো হয়েছে {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">টিকিট {submitted_status} করা হয়েছে • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">চলছে</string>
+    <string name="intercom_tickets_status_resolved">সমাধান করা হয়েছে</string>
+    <string name="intercom_tickets_status_submitted">জমা দেওয়া হয়েছে</string>
+    <string name="intercom_tickets_status_waiting_on_you">আপনার জন্য অপেক্ষা করছে</string>
+    <string name="intercom_tickets_submitted_confirmation_header">টিকিট জমা দেওয়া হয়েছে</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">আপনার টিকিট আপডেট হয়ে গেলে আমরা আপনাকে অবহিত করব</string>
+    <string name="intercom_tickets_submitted_status_detail">আমরা শীঘ্রই এটি তুলে নেব</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} শীঘ্রই এটি তুলে নেবেন</string>
+    <string name="intercom_tickets_unread">টিকেট। আপনার অপঠিত টিকেট আপডেট আছে।</string>
+    <string name="intercom_tickets_updates_prompt">আপনি Messenger-এ এবং ইমেলের মাধ্যমে আপডেট পাবেন</string>
+    <string name="intercom_tickets_view_ticket">টিকিটের বিশদ তথ্য দেখুন</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">আমাদের আপনার কাছ থেকে আরো তথ্য প্রয়োজন</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name}-এর আরও তথ্য প্রয়োজন</string>
+    <string name="intercom_time_day_ago">{delta} দিন আগে</string>
+    <string name="intercom_time_future_1h">1 ঘণ্টার মধ্যে</string>
+    <string name="intercom_time_future_2h">2 ঘণ্টার মধ্যে</string>
+    <string name="intercom_time_future_30m">30 মিনিটের মধ্যে</string>
+    <string name="intercom_time_future_3h">3 ঘণ্টার মধ্যে</string>
+    <string name="intercom_time_future_day_0">সোমবার</string>
+    <string name="intercom_time_future_day_1">মঙ্গলবার</string>
+    <string name="intercom_time_future_day_2">বুধবার</string>
+    <string name="intercom_time_future_day_3">বৃহস্পতিবার</string>
+    <string name="intercom_time_future_day_4">শুক্রবার</string>
+    <string name="intercom_time_future_day_5">শনিবার</string>
+    <string name="intercom_time_future_day_6">রবিবার</string>
+    <string name="intercom_time_future_later_today">আজ পরে</string>
+    <string name="intercom_time_future_next_week">আগামী সপ্তাহে</string>
+    <string name="intercom_time_future_tomorrow">আগামীকাল</string>
+    <string name="intercom_time_hour_ago">{delta} ঘণ্টা আগে</string>
+    <string name="intercom_time_just_now">এইমাত্র</string>
+    <string name="intercom_time_minute_ago">{delta} মিনিট আগে</string>
+    <string name="intercom_time_week_ago">{delta} সপ্তাহ আগে</string>
+    <string name="intercom_time_yesterday">গতকাল</string>
+    <string name="intercom_try_again">আবার চেষ্টা করুন</string>
+    <string name="intercom_try_again_minute">এক মিনিট পরে আবার চেষ্টা করুন</string>
+    <string name="intercom_try_use_different_keywords">ভিন্ন কীওয়ার্ডগুলি চেষ্টা করে দেখুন বা আপনার পুরো প্রশ্নটি টাইপ করুন</string>
+    <string name="intercom_twitter_follow">Twitter-এ আমাদের ফলো করুন</string>
+    <string name="intercom_two_business_days">দুই ব্যবসায়িক দিন</string>
+    <string name="intercom_type_a_number">একটি সংখ্যা টাইপ করুন...</string>
+    <string name="intercom_typically_replies_in_one_business_day">সাধারণত একটি কর্মদিবসের মধ্যে উত্তর দেয়</string>
+    <string name="intercom_typically_replies_in_two_business_days">সাধারণত দুইটি কর্মদিবসের মধ্যে উত্তর দেয়</string>
+    <string name="intercom_unread_message_count">{unread_count} টি পড়া হয়নি</string>
+    <string name="intercom_upfront_collection_form_close_out">আপনি প্রতিক্রিয়াগুলি দেখতে এবং আপডেট পাঠাতে যে কোনো সময় এখানে ফিরে আসতে পারেন।</string>
+    <string name="intercom_upfront_collection_form_introduction">টিমকে আরও ভাল এবং আরও দ্রুত উত্তর দিতে সাহায্য করার জন্য কিছু প্রসঙ্গ শেয়ার করুন।</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">সেই প্রসঙ্গটি পাঠানোর জন্য ধন্যবাদ। পরে সময় বাঁচাতে, এখনই নির্দ্বিধায় আরও বিশদ বিবরণ যোগ করুন।</string>
+    <string name="intercom_upfront_collection_form_subtitle">টিমকে কিছু প্রসঙ্গ পাঠান</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">তারা এই প্রসঙ্গটি মনে রাখবে</string>
+    <string name="intercom_upfront_collection_form_title">দ্রুত সহায়তা নিন</string>
+    <string name="intercom_upfront_collection_form_title_submitted">টিমকে পাঠানো হয়েছে!</string>
+    <string name="intercom_upload_failed">আপলোড ব্যর্থ হয়েছে</string>
+    <string name="intercom_upload_max_files_allowed">সর্বাধিক {limit} টি ফাইল অনুমোদিত৷</string>
+    <string name="intercom_upload_max_files_size">সর্বাধিক ফাইলের আকার হল {limit} MB৷</string>
+    <string name="intercom_user_avatar_image">ব্যবহারকারীর অবতারের চিত্র</string>
+    <string name="intercom_view_all">সবগুলি দেখুন</string>
+    <string name="intercom_view_conversation">কথোপকথন দেখুন</string>
+    <string name="intercom_view_more_details">আরও বিস্তারিত দেখুন</string>
+    <string name="intercom_view_post">পোস্ট দেখুন</string>
+    <string name="intercom_we_run_on_intercom">আমরা Intercom-এ চালিত হই</string>
+    <string name="intercom_working_on_it">এটা নিয়ে কাজ করা হচ্ছে...</string>
+    <string name="intercom_you">আপনি</string>
+    <string name="intercom_you_are_all_up_to_date">আপনি প্রয়োজনীয় কাজটি করে ফেলেছেন!</string>
+    <string name="intercom_you_have_new_messages">আপনার নতুন মেসেজ আছে।</string>
+    <string name="intercom_you_rated_the_conversation">আপনি কথোপকথনটিকে রেট করেছেন</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">আপনাকে এখানে এবং ইমেল দ্বারা অবহিত করা হবে</string>
+    <string name="intercom_your_checklists">আপনার চেকলিস্ট</string>
+    <string name="intercom_your_conversations">আপনার কথোপকথন</string>
+    <string name="intercom_your_recent_conversations">সাম্প্রতিক কথোপকথন</string>
+    <string name="intercom_your_recent_message">সাম্প্রতিক মেসেজ</string>
+    <string name="intercom_your_recent_messages">সাম্প্রতিক মেসেজ</string>
+    <string name="intercom_your_ticket">আপনার টিকিট</string>
+    <string name="item_view_role_description">ট্যাব</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"স্ক্রিনের নিচে অ্যাটাচ করা শিট আড়াল করুন"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"স্ক্রিনের নিচে অ্যাটাচ করা শিট বাতিল করুন"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"টেনে আনার হ্যান্ডেল"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"স্ক্রিনের নিচে অ্যাটাচ করা শিট বড় করুন"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"স্ক্রিনের নিচে অ্যাটাচ করা শিট"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"উল্লেখ করা তারিখ"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"উল্লেখ করা তারিখ: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"প্রত্যাশিত প্যাটার্নের সাথে তারিখ মিলছে না: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"এই তারিখ লেখা যাবে না: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"প্রত্যাশিত বছরের রেঞ্জের বাইরের তারিখ %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"তারিখ"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"কোনওটিই নয়"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"তারিখ বেছে নিন"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"বেছে নেওয়া তারিখ"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"বর্তমানে বেছে নেওয়া হয়েছে: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"নেভিগেট করে %1$s বছরে যান"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"কোনওটিই নয়"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"আগের বছরগুলি দেখতে স্ক্রল করুন"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"পরের বছরগুলি দেখতে স্ক্রল করুন"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"ক্যালেন্ডার ইনপুট মোডে বদল করুন"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"একটি বছর বেছে নিতে সোয়াইপ করুন অথবা দিন বেছে নেওয়ার বিকল্পে ফিরে যেতে ট্যাপ করুন"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"টেক্সট ইনপুট মোডে বদল করুন"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"আগামী মাসে পরিবর্তন করুন"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"আগের মাসে পরিবর্তন করুন"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"কোনও একটি বছর বেছে নিতে বদল করুন"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"তারিখ বেছে নিন"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"আজ"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"বছর বেছে নেওয়ার তালিকা দেখা যাচ্ছে"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"তারিখের ব্যাপ্তি সম্পর্কিত ইনপুট ভুল দেওয়া আছে"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"তারিখ লিখুন"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"সীমার মধ্যে"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"শেষ হওয়ার তারিখ"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"পরের মাস দেখতে স্ক্রল করুন"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"আগের মাস দেখতে স্ক্রল করুন"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"শুরুর তারিখ"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"তারিখ বেছে নিন"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"ডায়ালগ"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"আড়াল করা হয়েছে"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"বড় করা হয়েছে"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"সার্চ করুন"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"বাতিল করুন"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"নিচে দেওয়া সাজেশন"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"ঘণ্টা"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d ঘণ্টা"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"ঘণ্টা বেছে নিন"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$dটা"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"এত ঘণ্টার জন্য"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"মিনিট"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"মিনিট বেছে নিন"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d মিনিট"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"এত মিনিটের জন্য"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"AM বা PM বেছে নিন"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"টুলটিপ দেখান"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"টুলটিপ"</string>
+    <string name="material_clock_toggle_content_description">AM অথবা PM বেছে নিন</string>
+    <string name="material_hour_24h_suffix">%1$s ঘণ্টা</string>
+    <string name="material_hour_selection">ঘণ্টা বেছে নিন</string>
+    <string name="material_hour_suffix">%1$sটা বাজে</string>
+    <string name="material_minute_selection">মিনিট বেছে নিন</string>
+    <string name="material_minute_suffix">%1$s মিনিট</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">সময় ইনপুট দেওয়ার জন্য ঘড়ি মোডে যান।</string>
+    <string name="material_timepicker_hour">ঘণ্টা</string>
+    <string name="material_timepicker_minute">মিনিট</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">সময় বেছে নিন</string>
+    <string name="material_timepicker_text_input_mode_description">সময় ইনপুট দেওয়ার জন্য পাঠ্য ইনপুট মোডে যান।</string>
+    <string name="mtrl_badge_numberless_content_description">নতুন বিজ্ঞপ্তি</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s সরিয়ে দিন</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$dটির বেশি নতুন বিজ্ঞপ্তি</string>
+    <string name="mtrl_picker_a11y_next_month">আগামী মাসে যান</string>
+    <string name="mtrl_picker_a11y_prev_month">আগের মাসে যান</string>
+    <string name="mtrl_picker_announce_current_selection">বর্তমান বাছাই: %1$s</string>
+    <string name="mtrl_picker_cancel">বাতিল করুন</string>
+    <string name="mtrl_picker_confirm">ঠিক আছে</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">তারিখ বেছে নিন</string>
+    <string name="mtrl_picker_date_header_unselected">বেছে নেওয়া তারিখ</string>
+    <string name="mtrl_picker_day_of_week_column_header">সপ্তাহের দিনগুলির কলাম: %1$s</string>
+    <string name="mtrl_picker_invalid_format">ভুল ফর্ম্যাট।</string>
+    <string name="mtrl_picker_invalid_format_example">উদাহরণ: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s ফর্ম্যাটে লিখুন</string>
+    <string name="mtrl_picker_invalid_range">তারিখ সঠিক নয়।</string>
+    <string name="mtrl_picker_navigate_to_year_description">নেভিগেট করে %1$s সালে যান</string>
+    <string name="mtrl_picker_out_of_range">নির্দিষ্ট তারিখের বাইরে: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">শুরুর তারিখ – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – সমাপ্তির তারিখ</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">রেঞ্জ বেছে নিন</string>
+    <string name="mtrl_picker_range_header_unselected">শুরুর তারিখ - সমাপ্তির তারিখ</string>
+    <string name="mtrl_picker_save">সেভ করুন</string>
+    <string name="mtrl_picker_text_input_date_hint">তারিখ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">সমাপ্তির তারিখ</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">শুরুর তারিখ</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">ক্যালেন্ডার ইনপুট মোডে বদল করুন</string>
+    <string name="mtrl_picker_toggle_to_day_selection">দিন বেছে নেওয়ার মোডে বদল করতে ট্যাপ করুন</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">টেক্সট ইনপুট মোডে বদল করুন</string>
+    <string name="mtrl_picker_toggle_to_year_selection">বছর বেছে নেওয়ার মোডে বদল করতে ট্যাপ করুন</string>
+    <string name="mtrl_timepicker_cancel">বাতিল করুন</string>
+    <string name="mtrl_timepicker_confirm">ঠিক আছে</string>
+    <string msgid="542007171693138492" name="navigation_menu">"নেভিগেশন মেনু"</string>
+    <string msgid="6610465462668679431" name="not_selected">"বেছে নেওয়া হয়নি"</string>
+    <string msgid="875452955155264703" name="off">"বন্ধ আছে"</string>
+    <string msgid="8655164131929253426" name="on">"চালু আছে"</string>
+    <string name="password_toggle_content_description">পাসওয়ার্ড দেখান</string>
+    <string msgid="5941395253238309765" name="range_end">"রেঞ্জ শেষ"</string>
+    <string msgid="7097486360902471446" name="range_start">"রেঞ্জ শুরু"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"সার্চ করুন"</string>
+    <string msgid="6043586758067023" name="selected">"বেছে নেওয়া হয়েছে"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"সুইচ"</string>
+    <string msgid="1672349317127674378" name="tab">"ট্যাব"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> শতাংশ।"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"টুলটিপ"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"টুলটিপ দেখুন"</string>
+</resources>

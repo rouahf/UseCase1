@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25x</item>
+    <item>0,5x</item>
+    <item>0,75x</item>
+    <item>Normal</item>
+    <item>1,25x</item>
+    <item>1,5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">Spola framåt %d sekund</item>
+    <item quantity="other">Spola framåt %d sekunder</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">Spola tillbaka %d sekund</item>
+    <item quantity="other">Spola tillbaka %d sekunder</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d ny avisering</item>
+    <item quantity="other">%d nya aviseringar</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigera hem"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Klar"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AV"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"PÅ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt + "</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl + "</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"retur"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktion + "</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta + "</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Skift + "</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"blanksteg"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Symbol + "</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meny + "</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="bottomsheet_action_collapse">Komprimera arket på nedre delen av skärmen</string>
+    <string name="bottomsheet_action_expand">Utöka arket på nedre delen av skärmen</string>
+    <string name="bottomsheet_action_expand_halfway">Utöka till hälften</string>
+    <string name="bottomsheet_drag_handle_clicked">Du tryckte snabbt två gånger på handtaget</string>
+    <string name="bottomsheet_drag_handle_content_description">Handtag</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Svara"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Avvisa"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Lägg på"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Inkommande samtal"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Pågående samtal"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Ett inkommande samtal filtreras"</string>
+    <string name="character_counter_content_description">%1$d av %2$d tecken har angetts</string>
+    <string name="character_counter_overflowed_content_description">Teckengränsen har överskridits: %1$d av %2$d</string>
+    <string name="clear_text_end_icon_content_description">Rensa text</string>
+    <string msgid="406453423630273620" name="close_drawer">"Stäng navigeringsmenyn"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Stäng kalkylarket"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktivera</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s fungerar inte om du inte aktiverar Google Play-tjänster.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktivera Google Play-tjänster</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installera</string>
+    <string name="common_google_play_services_install_text">%1$s kan inte köras utan Google Play-tjänsterna, som saknas på enheten.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Hämta Google Play-tjänster</string>
+    <string name="common_google_play_services_notification_channel_name">Tillgänglighet för Google Plays tjänster</string>
+    <string name="common_google_play_services_notification_ticker">Fel på Google Play-tjänster</string>
+    <string name="common_google_play_services_unknown_issue">Det har uppstått ett fel mellan %1$s och Google Play-tjänsterna. Försök igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerar inte utan Google Play-tjänsterna, som inte stöds på enheten.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Uppdatera</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s kan inte köras om du inte uppdaterar Google Play-tjänsterna.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Uppdatera Google Play-tjänster</string>
+    <string name="common_google_play_services_updating_text">%1$s kan inte köras utan Google Play-tjänster, och dessa uppdateras för närvarande.</string>
+    <string name="common_google_play_services_wear_update_text">En ny version av Google Play-tjänster krävs. Den uppdateras automatiskt inom kort.</string>
+    <string name="common_open_on_phone">Öppna på mobilen</string>
+    <string name="common_signin_button_text">Logga in</string>
+    <string name="common_signin_button_text_long">Logga in med Google</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ogiltiga indata"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Popup-fönster"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Rullgardinsmeny"</string>
+    <string name="error_icon_content_description">Fel</string>
+    <string name="exo_controls_cc_disabled_description">Aktivera undertexter</string>
+    <string name="exo_controls_cc_enabled_description">Inaktivera undertexter</string>
+    <string name="exo_controls_fastforward_description">Snabbspola framåt</string>
+    <string name="exo_controls_fullscreen_enter_description">Aktivera helskärm</string>
+    <string name="exo_controls_fullscreen_exit_description">Lämna helskärm</string>
+    <string name="exo_controls_hide">Dölj spelarkontroller</string>
+    <string name="exo_controls_next_description">Nästa</string>
+    <string name="exo_controls_overflow_hide_description">Dölj ytterligare inställningar</string>
+    <string name="exo_controls_overflow_show_description">Visa ytterligare inställningar</string>
+    <string name="exo_controls_pause_description">Pausa</string>
+    <string name="exo_controls_play_description">Spela upp</string>
+    <string name="exo_controls_playback_speed">Hastighet</string>
+    <string name="exo_controls_previous_description">Föregående</string>
+    <string name="exo_controls_repeat_all_description">Aktuellt läge: Upprepa alla. Ändra läge för upprepning.</string>
+    <string name="exo_controls_repeat_off_description">Aktuellt läge: Upprepa inga. Ändra läge för upprepning.</string>
+    <string name="exo_controls_repeat_one_description">Aktuellt läge: Upprepa en. Ändra läge för upprepning.</string>
+    <string name="exo_controls_rewind_description">Spola tillbaka</string>
+    <string name="exo_controls_seek_bar_description">Uppspelningsförlopp</string>
+    <string name="exo_controls_settings_description">Inställningar</string>
+    <string name="exo_controls_show">Visa spelarkontroller</string>
+    <string name="exo_controls_shuffle_off_description">Aktivera blandningsläget</string>
+    <string name="exo_controls_shuffle_on_description">Inaktivera blandningsläget</string>
+    <string name="exo_controls_stop_description">Stoppa</string>
+    <string name="exo_controls_vr_description">VR-läge</string>
+    <string name="exo_download_completed">Nedladdningen är klar</string>
+    <string name="exo_download_description">Ladda ned</string>
+    <string name="exo_download_downloading">Laddar ned</string>
+    <string name="exo_download_failed">Nedladdningen misslyckades</string>
+    <string name="exo_download_notification_channel_name">Nedladdningar</string>
+    <string name="exo_download_paused">Nedladdningar har pausats</string>
+    <string name="exo_download_paused_for_network">Nedladdningar väntar på nätverket</string>
+    <string name="exo_download_paused_for_wifi">Nedladdningar väntar på wifi</string>
+    <string name="exo_download_removing">Nedladdningar tas bort</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternativ</string>
+    <string name="exo_track_role_closed_captions">Undertexter</string>
+    <string name="exo_track_role_commentary">Kommentar</string>
+    <string name="exo_track_role_supplementary">Tillägg</string>
+    <string name="exo_track_selection_auto">Automatiskt</string>
+    <string name="exo_track_selection_none">Ingen</string>
+    <string name="exo_track_selection_title_audio">Ljud</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surroundljud</string>
+    <string name="exo_track_surround_5_point_1">5.1-kanaligt surroundljud</string>
+    <string name="exo_track_surround_7_point_1">7.1-kanaligt surroundljud</string>
+    <string name="exo_track_unknown">Okänt</string>
+    <string name="exo_track_unknown_name">Okänd (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">Visa rullgardinsmenyn</string>
+    <string name="icon_content_description">Dialogikon</string>
+    <string msgid="6827826412747255547" name="in_progress">"Pågår"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Delvis markerad"</string>
+    <string name="intercom_access_background_location_message">Gå till inställningarna för din enhet för att göra det möjligt för appen att använda din plats i bakgrunden</string>
+    <string name="intercom_access_background_location_title">Tillåt åtkomst till din plats hela tiden</string>
+    <string name="intercom_access_device_settings">Gå till dina enhetsinställningar för att få åtkomst till dina bilder</string>
+    <string name="intercom_access_photos">Åtkomst till dina bilder</string>
+    <string name="intercom_active_15m_ago">Aktiv de senaste {minutes} min</string>
+    <string name="intercom_active_day_ago">Aktiv för {days} dagar sedan</string>
+    <string name="intercom_active_hour_ago">Aktiv för {hours} tim sedan</string>
+    <string name="intercom_active_minute_ago">Aktiv för {minutes} min sedan</string>
+    <string name="intercom_active_state">Aktiv</string>
+    <string name="intercom_active_week_ago">Aktiv för över en vecka sedan</string>
+    <string name="intercom_add">Lägg till</string>
+    <string name="intercom_ai_answer">AI-svar</string>
+    <string name="intercom_ai_answer_information">AI-svar, information</string>
+    <string name="intercom_ai_bot">AI-bot</string>
+    <string name="intercom_allow_access">Tillåt åtkomst</string>
+    <string name="intercom_allow_storage_access">Tillåt åtkomst till lagring för att se dina bilder</string>
+    <string name="intercom_almost_there">Nästan klart ...</string>
+    <string name="intercom_also_in_this_conversation">Även i denna konversation</string>
+    <string name="intercom_android_activated_message">Din Android-app är nu integrerad med Intercoms plattform</string>
+    <string name="intercom_answer">Svar</string>
+    <string name="intercom_app_settings">Appinställningar</string>
+    <string name="intercom_article_double_author">Av {author_first_name1} och {author_first_name2}</string>
+    <string name="intercom_article_load_error">Det gick inte att läsa in artikeln</string>
+    <string name="intercom_article_multiple_authors">Av {author_first_name1} och {number_of_other_authors} andra</string>
+    <string name="intercom_article_question">Fick du svar på din fråga?</string>
+    <string name="intercom_article_response">Du reagerade på</string>
+    <string name="intercom_article_search_hint_text">Sök artiklar ...</string>
+    <string name="intercom_article_search_search_results">Sökresultat</string>
+    <string name="intercom_article_single_author">Av {author_first_name}</string>
+    <string name="intercom_ask_a_question">Ställ en fråga</string>
+    <string name="intercom_ask_a_question_with_ellipsis">Ställ en fråga ...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">Ställ en ny fråga ...</string>
+    <string name="intercom_ask_our_bot_a_question">Ställ en fråga till vår bot</string>
+    <string name="intercom_asked_about">Angående</string>
+    <string name="intercom_assigned_to_admin">Tilldelat till {admin}</string>
+    <string name="intercom_attribute_collector_negative">Nej</string>
+    <string name="intercom_attribute_collector_positive">Ja</string>
+    <string name="intercom_available_teammates">Tillgängliga teammedlemmar: {available_teammates}</string>
+    <string name="intercom_avatar">Avatar</string>
+    <string name="intercom_avatars">Avatarer</string>
+    <string name="intercom_away_state">Borta</string>
+    <string name="intercom_bot">Robot</string>
+    <string name="intercom_bot_answers_instantly">Boten svarar direkt</string>
+    <string name="intercom_bot_expectation_text">Vår bot kan svara på många vanliga frågor</string>
+    <string name="intercom_bot_is_still_thinking">Boten tänker fortfarande ...</string>
+    <string name="intercom_bot_is_thinking">Boten tänker ...</string>
+    <string name="intercom_browse_all_help_topics">Bläddra bland alla hjälpämnen</string>
+    <string name="intercom_browse_collections">Bläddra bland samlingar</string>
+    <string name="intercom_cancel">Avbryt</string>
+    <string name="intercom_chat_with_us">Chatta med oss</string>
+    <string name="intercom_check_later_for_updates">Kom tillbaka senare för uppdateringar.</string>
+    <string name="intercom_checklist_card_first_step">Första steget</string>
+    <string name="intercom_checklist_card_next_step">Nästa steg</string>
+    <string name="intercom_checklist_completed">Slutfört</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">Cirka {minutes} minuter kvar</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">Cirka 1 minut kvar</string>
+    <string name="intercom_checklist_mark_step_as_complete">Markera som slutfört</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">Cirka {minutes} minuter</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">Cirka 1 minut</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} steg</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">Slutfört: {steps_completed} av {total_steps}</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">Slutfört: 1 av {total_steps}</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 steg</string>
+    <string name="intercom_checklist_sender_name">Delat av {name}</string>
+    <string name="intercom_checklist_step_action_button">Åtgärdsknapp för steg</string>
+    <string name="intercom_checklist_step_completed">Slutfört</string>
+    <string name="intercom_choose_one">Välj en…</string>
+    <string name="intercom_choose_the_date">Choose the date…</string>
+    <string name="intercom_clear">Rensa</string>
+    <string name="intercom_close">Stäng</string>
+    <string name="intercom_congratulations">Grattis</string>
+    <string name="intercom_connected">Du är ansluten</string>
+    <string name="intercom_contact_support">Kontakta supporten</string>
+    <string name="intercom_contact_us">Kontakta oss</string>
+    <string name="intercom_continue_the_conversation">Fortsätt konversationen</string>
+    <string name="intercom_conversation_card_office_hours_header">Vi är tillbaka online</string>
+    <string name="intercom_conversation_card_reply_time_header">Vår normala svarstid</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">Normal svarstid</string>
+    <string name="intercom_conversation_has_ended">Konversationen har avslutats</string>
+    <string name="intercom_conversation_number_and_description">Konversation nummer {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">Konversationer</string>
+    <string name="intercom_conversations_space_title">Konversationer</string>
+    <string name="intercom_conversations_with_app">Konversationer med {name}</string>
+    <string name="intercom_copied_to_clipboard">Kopierad till urklipp</string>
+    <string name="intercom_couldnt_complete_action">Det gick inte att slutföra denna åtgärd</string>
+    <string name="intercom_couldnt_load_apps">Det gick inte att ladda appar.</string>
+    <string name="intercom_couldnt_load_content">Det gick inte att läsa in innehåll</string>
+    <string name="intercom_couldnt_load_messenger">Det gick inte att ladda Messenger.</string>
+    <string name="intercom_create_a_ticket">Skapa ett ärende</string>
+    <string name="intercom_currently_no_help_articles">Det finns för närvarande inga hjälpartiklar tillgängliga.</string>
+    <string name="intercom_delete_attachment">Radera bilaga</string>
+    <string name="intercom_delivered">Levererat</string>
+    <string name="intercom_disappointed_face_emoji">Besviket ansikte</string>
+    <string name="intercom_dismiss">Avvisa</string>
+    <string name="intercom_empty_conversations">Meddelanden från teamet kommer att visas här</string>
+    <string name="intercom_enter_text_placeholder">Skriv text …</string>
+    <string name="intercom_error_loading_conversation">Kunde inte läsa in konversationer</string>
+    <string name="intercom_error_loading_ticket">Det gick inte att läsa in ärendet</string>
+    <string name="intercom_expected_response_delay_10800">högst 3 timmar</string>
+    <string name="intercom_expected_response_delay_120">högst 2 minuter</string>
+    <string name="intercom_expected_response_delay_1200">högst 20 minuter</string>
+    <string name="intercom_expected_response_delay_14400">högst 4 timmar</string>
+    <string name="intercom_expected_response_delay_172800">2 dagar</string>
+    <string name="intercom_expected_response_delay_180">högst 3 minuter</string>
+    <string name="intercom_expected_response_delay_1800">högst 30 minuter</string>
+    <string name="intercom_expected_response_delay_18000">högst 5 timmar</string>
+    <string name="intercom_expected_response_delay_21600">högst 6 timmar</string>
+    <string name="intercom_expected_response_delay_240">högst 4 minuter</string>
+    <string name="intercom_expected_response_delay_259200">3 dagar</string>
+    <string name="intercom_expected_response_delay_300">högst 5 minuter</string>
+    <string name="intercom_expected_response_delay_345600">4 dagar</string>
+    <string name="intercom_expected_response_delay_3600">högst 1 timme</string>
+    <string name="intercom_expected_response_delay_43200">inom 12 timmar</string>
+    <string name="intercom_expected_response_delay_432000">5 dagar</string>
+    <string name="intercom_expected_response_delay_518400">6 dagar</string>
+    <string name="intercom_expected_response_delay_60">högst 1 minut</string>
+    <string name="intercom_expected_response_delay_600">högst 10 minuter</string>
+    <string name="intercom_expected_response_delay_604800">högst 1 vecka</string>
+    <string name="intercom_expected_response_delay_7200">högst 2 timmar</string>
+    <string name="intercom_expected_response_delay_86400">1 dag</string>
+    <string name="intercom_expected_response_delay_900">inom 15 minuter</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} etiketter</string>
+    <string name="intercom_facebook_like">Gilla oss på Facebook</string>
+    <string name="intercom_failed_delivery">Kunde inte leverera meddelade</string>
+    <string name="intercom_failed_to_load_conversation">Kunde inte läsa in dina konversationer</string>
+    <string name="intercom_failed_to_load_tickets">Det gick inte att läsa in dina ärenden</string>
+    <string name="intercom_failed_to_load_tickets_with_app">Det gick inte att läsa in dina ärenden med {app_name}</string>
+    <string name="intercom_failed_to_send">Kunde inte skicka</string>
+    <string name="intercom_field_is_required">Fältet {field_name} är obligatoriskt</string>
+    <string name="intercom_file_access_failed">Har inte åtkomst till filen</string>
+    <string name="intercom_file_max_limit">Högst {limit} filer</string>
+    <string name="intercom_file_saved">Fil sparad</string>
+    <string name="intercom_file_too_big">Kan inte skicka filer större än {limit} MB</string>
+    <string name="intercom_file_type_not_allowed">FILTYPEN ÄR INTE TILLÅTEN</string>
+    <string name="intercom_files">Filer</string>
+    <string name="intercom_gallery">Galleri</string>
+    <string name="intercom_generating_answer">Genererar ett svar ...</string>
+    <string name="intercom_get_help">Hitta hjälp</string>
+    <string name="intercom_get_notified_by_email">Få meddelanden via e-post</string>
+    <string name="intercom_gif_attribution">via {providername}</string>
+    <string name="intercom_gifs_load_error">Kunde inte ladda GIF</string>
+    <string name="intercom_give_it_another_try">Försök en gång till</string>
+    <string name="intercom_go_to_device_settings">För att tillåta åtkomst, gå till din enhets tillståndsmeny för appinställningar</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">Leende ansikte med stora ögon</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+ 1 annan</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+ {other_participant_count} andra</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">{other_participant_count} andra deltar också</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name} deltar också</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} och 1 annan deltar också</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} och {other_participant_count} andra deltar också</string>
+    <string name="intercom_group_conversation_one_person_also_participating">1 annan deltar också</string>
+    <string name="intercom_help_center">Hjälpcenter</string>
+    <string name="intercom_help_space_title">Hjälp</string>
+    <string name="intercom_home_space_title">Hem</string>
+    <string name="intercom_how_can_we_help">Hur kan vi hjälpa till?</string>
+    <string name="intercom_how_would_you_rate_this">Vilket betyg ger du det här?</string>
+    <string name="intercom_image_attached">(bifogad bild)</string>
+    <string name="intercom_inbox_error_state_title">Något gick fel</string>
+    <string name="intercom_last_active_hours_ago">Senast aktiv för {mins} timmar sedan</string>
+    <string name="intercom_last_active_mins_ago">Senast aktiv för {mins} minuter sedan</string>
+    <string name="intercom_last_active_over_a_week">Senast aktiv för över 1 vecka sedan</string>
+    <string name="intercom_learn_more">Läs mer</string>
+    <string name="intercom_loading">Laddar</string>
+    <string name="intercom_message_failed_try_again">Kunde inte skicka, klicka för att försöka igen</string>
+    <string name="intercom_message_placeholder">Meddelande...</string>
+    <string name="intercom_message_seen">Sett</string>
+    <string name="intercom_message_state_sending">Skickar…</string>
+    <string name="intercom_message_summary">Sammanfattning av meddelandet: {summary}, Teammedlemmens namn: {name}, Tid då meddelandet skickades: {sentTime}. </string>
+    <string name="intercom_message_summary_with_teammate_status">Sammanfattning av meddelandet: {summary}, Teammedlemmens namn: {name}, Teammedlemmens status: {adminStatus}, Tid då meddelandet skickades: {sentTime}. </string>
+    <string name="intercom_message_unread">Meddelandet är oläst.</string>
+    <string name="intercom_message_unseen">Inte sett än</string>
+    <string name="intercom_messages_space_title">Meddelanden</string>
+    <string name="intercom_messenger_bot_reply_time">Vår bot svarar omedelbart</string>
+    <string name="intercom_multiple_articles">{total_articles} artiklar</string>
+    <string name="intercom_multiple_collections">{total_collection} samlingar</string>
+    <string name="intercom_name_and_1_other">{name} och 1 till</string>
+    <string name="intercom_name_and_x_others">{name} och {count} andra</string>
+    <string name="intercom_navigation_back">Tillbaka</string>
+    <string name="intercom_need_camera_access">{app_name} behöver kameraåtkomst så att du kan ta foton och videoklipp. Tryck på Inställningar > Behörigheter och aktivera Kamera.</string>
+    <string name="intercom_neutral_face_emoji">Neutralt ansikte</string>
+    <string name="intercom_new_conversation">Ny konversation</string>
+    <string name="intercom_new_message">Nytt meddelande</string>
+    <string name="intercom_new_messages">Du har {n} nya meddelanden</string>
+    <string name="intercom_new_notifications">Nya notiser</string>
+    <string name="intercom_news">Nyheter</string>
+    <string name="intercom_news_empty_title">Inga nyheter ännu</string>
+    <string name="intercom_news_latest_subtitle">Från teamet {team_name}</string>
+    <string name="intercom_news_latest_title">Senaste</string>
+    <string name="intercom_news_older_title">Äldre</string>
+    <string name="intercom_news_space_title">Nyheter</string>
+    <string name="intercom_no_articles_to_display">Inga artiklar ännu</string>
+    <string name="intercom_no_conversations">Inga konversationer</string>
+    <string name="intercom_no_gifs_found">Inga GIF hittades</string>
+    <string name="intercom_no_gifs_matching_query">Vi kunde inte hitta några GIF:ar som matchar din fråga</string>
+    <string name="intercom_no_help_articles_to_display">Inga hjälpartiklar</string>
+    <string name="intercom_no_messages_from_the_team">Inga meddelanden från teamet</string>
+    <string name="intercom_no_network_connection">Ingen nätverksanslutning</string>
+    <string name="intercom_no_photos">Inga bilder</string>
+    <string name="intercom_no_photos_on_device">Det finns inga bilder på denna enhet</string>
+    <string name="intercom_no_results_for_searchterm">Inga resultat för {searchTerm}</string>
+    <string name="intercom_no_tasks">Inga uppgifter</string>
+    <string name="intercom_no_tasks_available_currently">Det finns för närvarande inga tillgängliga uppgifter.</string>
+    <string name="intercom_not_now">Inte nu</string>
+    <string name="intercom_nothing_to_see_here_yet">Det finns inget att se här just nu</string>
+    <string name="intercom_notification_channel_actions_description">Innehåller länkar för åtgärder i denna app</string>
+    <string name="intercom_notification_channel_actions_title">Åtgärder</string>
+    <string name="intercom_notification_channel_chat_replies_description">Svarsnotiser från chattar i denna app</string>
+    <string name="intercom_notification_channel_chat_replies_title">Chattsvar</string>
+    <string name="intercom_notification_channel_new_chats_description">Nya chattmeddelanden som skickats från denna app</string>
+    <string name="intercom_notification_channel_new_chats_title">Nya chattar</string>
+    <string name="intercom_number_is_incorrect">Numret verkar inte vara korrekt</string>
+    <string name="intercom_ok">Ok</string>
+    <string name="intercom_one_new_message">Du har ett nytt meddelande</string>
+    <string name="intercom_our_bot_answers_instantly">Vår bot svarar omedelbart</string>
+    <string name="intercom_page_not_found">Sidan finns inte längre</string>
+    <string name="intercom_permission_denied">Åtkomsten nekades</string>
+    <string name="intercom_photo_access_denied">Du nekade åtkomst till dina bilder</string>
+    <string name="intercom_photo_and_video_library">Foto- och videobibliotek</string>
+    <string name="intercom_placeholder_datepicker">DD-MM-ÅÅÅÅ</string>
+    <string name="intercom_placeholder_email_input">Ange e-postadress här ...</string>
+    <string name="intercom_placeholder_numerical_inputs">Ange nummer här ...</string>
+    <string name="intercom_placeholder_text_inputs">Skriv text här ...</string>
+    <string name="intercom_please_select">Välj ...</string>
+    <string name="intercom_plus_x_more">+{n}mer</string>
+    <string name="intercom_powered_by_intercom">Drivs av Intercom</string>
+    <string name="intercom_profile_location">{time} i {location}</string>
+    <string name="intercom_rate_your_conversation">Betygsätt din konversation</string>
+    <string name="intercom_recent_ticket">Senaste ärende</string>
+    <string name="intercom_recent_tickets">Senaste ärenden</string>
+    <string name="intercom_record_a_video">Spela in en video</string>
+    <string name="intercom_reload">Ladda om</string>
+    <string name="intercom_reply">Svara</string>
+    <string name="intercom_reply_from_admin">Svar från {name}</string>
+    <string name="intercom_reply_to_conversation">Skriv ett svar</string>
+    <string name="intercom_retry">Försök igen</string>
+    <string name="intercom_saving">Sparar...</string>
+    <string name="intercom_search_browse_empty_state_text">Tyvärr kunde vi inte hitta några resultat för din sökning. Prova med att formulera om den.</string>
+    <string name="intercom_search_for_help">Sök efter hjälp</string>
+    <string name="intercom_search_gif">Sök GIF…</string>
+    <string name="intercom_search_help_articles">Sök bland hjälpartiklarna</string>
+    <string name="intercom_see_all">Visa alla</string>
+    <string name="intercom_see_all_conversations">Se alla dina konversationer</string>
+    <string name="intercom_see_past_conversations">Visa tidigare konversationer</string>
+    <string name="intercom_see_previous_conversations">Se dina tidigare konversationer</string>
+    <string name="intercom_send">Skicka</string>
+    <string name="intercom_send_a_message_reply_time">Normal svarstid är</string>
+    <string name="intercom_send_us_a_message">Skicka ett meddelande till oss</string>
+    <string name="intercom_send_us_a_message_bot">Skicka oss ett meddelande – vår bot svarar direkt</string>
+    <string name="intercom_settings">Inställningar</string>
+    <string name="intercom_shared_by">Delat av</string>
+    <string name="intercom_show_less">Visa mindre</string>
+    <string name="intercom_single_article">1 artikel</string>
+    <string name="intercom_single_collection">1 samling</string>
+    <string name="intercom_some_things_failed_to_load">Vissa saker kunde inte laddas. Försök igen.</string>
+    <string name="intercom_something_went_wrong_try_again">Något gick fel. Försök igen.</string>
+    <string name="intercom_source">Källa</string>
+    <string name="intercom_sources">Källor</string>
+    <string name="intercom_spaces_error_description">Det gick inte att läsa in innehållet</string>
+    <string name="intercom_spaces_error_title">Något har gått fel</string>
+    <string name="intercom_start_a_conversation">Starta en konversation</string>
+    <string name="intercom_start_another_conversation">Starta en konversation till</string>
+    <string name="intercom_start_conversation">Börja en konversation</string>
+    <string name="intercom_status">Status</string>
+    <string name="intercom_still_generating_answer">Genererar fortfarande ett svar ...</string>
+    <string name="intercom_still_thinking">Tänker fortfarande ...</string>
+    <string name="intercom_still_working_on_it">Jobbar fortfarande på det ...</string>
+    <string name="intercom_stop_upload">Avsluta uppladdning</string>
+    <string name="intercom_storage_access_request">För att se bilder behöver du tillåta åtkomst till lagring</string>
+    <string name="intercom_string_is_incorrect">Detta verkar inte vara korrekt</string>
+    <string name="intercom_submit">Skicka</string>
+    <string name="intercom_suggested_articles">Föreslagna artiklar</string>
+    <string name="intercom_surveys_all_options_response_hint">Välj alla alternativ som stämmer</string>
+    <string name="intercom_surveys_dismiss">Avvisa enkät</string>
+    <string name="intercom_surveys_done_button">Klar</string>
+    <string name="intercom_surveys_dropdown_default_option">Välj ett svar ...</string>
+    <string name="intercom_surveys_email_error">Ange en giltig e-postadress</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">Välj {response_count} alternativ</string>
+    <string name="intercom_surveys_from_company">Enkät från {company}</string>
+    <string name="intercom_surveys_from_teammate">Enkät av {sender_name} från {company}</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">Minst {response_count} alternativ måste väljas för den här frågan</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">{response_count} alternativ måste väljas för den här frågan</string>
+    <string name="intercom_surveys_multi_star_rating">{count} stjärnor</string>
+    <string name="intercom_surveys_multiselect_other_option">Annat (specificera)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">Specificera</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">Ange svar</string>
+    <string name="intercom_surveys_multiselect_other_option_value">Annat</string>
+    <string name="intercom_surveys_next_button">Nästa</string>
+    <string name="intercom_surveys_nps_lower_label">Inte troligt</string>
+    <string name="intercom_surveys_nps_upper_label">Mycket troligt</string>
+    <string name="intercom_surveys_number_error">Ange en siffra</string>
+    <string name="intercom_surveys_one_star_rating">1 stjärna</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">Fråga {questioin_number} av {question_count}</string>
+    <string name="intercom_surveys_required_question">Frågan är obligatorisk</string>
+    <string name="intercom_surveys_required_response">Det här svaret är obligatoriskt</string>
+    <string name="intercom_surveys_response_range_response_hint">Välj minst {minimum_response_count} och högst {maximum_response_count} alternativ</string>
+    <string name="intercom_surveys_response_too_long">Svar får innehålla högst {character_count} tecken</string>
+    <string name="intercom_surveys_response_too_short">Kontrollera att svaren innehåller minst {character_count} tecken</string>
+    <string name="intercom_surveys_sender_image">Enkätavsändarens bild</string>
+    <string name="intercom_surveys_single_response_hint">Välj 1 svar</string>
+    <string name="intercom_surveys_telephone_error">Ange ett giltigt telefonnummer</string>
+    <string name="intercom_surveys_text_input_question_placeholder">Skriv ditt svar här ...</string>
+    <string name="intercom_take_a_photo">Ta ett foto</string>
+    <string name="intercom_tap_to_send_image">Knacka för att skicka en bild</string>
+    <string name="intercom_tasks_space_title">Uppgifter</string>
+    <string name="intercom_team_name_custom_response_delay_2">{app_name} svarar vanligtvis inom en dag</string>
+    <string name="intercom_team_name_custom_response_delay_3">{app_name} svarar vanligtvis inom en vecka</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} svarar normalt inom en arbetsdag</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} svarar normalt inom två arbetsdagar</string>
+    <string name="intercom_teammate_from_company">{name} från {company}</string>
+    <string name="intercom_tell_us_more">Berätta mer för oss…</string>
+    <string name="intercom_tell_us_what_you_need">Berätta vad du behöver hjälp med, så gör vår bot sitt bästa för att svara</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">Tack! Teamet svarar inom en arbetsdag</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">Tack! Teamet svarar inom två arbetsdagar</string>
+    <string name="intercom_thanks_for_letting_us_know">Tack för dina synpunkter</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">Tack! Teamet svarar så snart de kan</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">Landsnumret verkar inte vara korrekt</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">E-postadressen verkar inte vara korrekt</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">Numret verkar inte vara korrekt</string>
+    <string name="intercom_that_number_has_too_many_digits">Numret har för många siffror</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">Numret saknar några siffror</string>
+    <string name="intercom_that_number_needs_a_prefix">Numret måste ha ett prefix (+ eller 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">Vårt team kan hjälpa dig om det behövs</string>
+    <string name="intercom_the_team_typically_replies_in_hours">Teamet svarar vanligtvis inom några timmar.</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">Teamet svarar normalt inom en arbetsdag.</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">Teamet svarar normalt inom två arbetsdagar</string>
+    <string name="intercom_thinking">Tänker ...</string>
+    <string name="intercom_ticket_could_not_be_created">Det gick inte att skapa ärendet</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">Skapa {ticket_type_title}-ärende</string>
+    <string name="intercom_ticket_current_status">Aktuell status: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">Aktuell status: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">Ärendets egenskaper;</string>
+    <string name="intercom_ticket_details_for_title">Ärendeinformation för {title}</string>
+    <string name="intercom_ticket_details_notification_detail">Du blir meddelad här och via e-post på</string>
+    <string name="intercom_ticket_has_been_created">Ärendet har skapats</string>
+    <string name="intercom_ticket_has_been_updated">Ärendet har uppdaterats</string>
+    <string name="intercom_ticket_sla_details">SLA-information: {sla_details}</string>
+    <string name="intercom_ticket_status_details">Statusinformation: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">Ärendet flyttades till {status} • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} flyttade ärendet till {status} • {timestamp}</string>
+    <string name="intercom_tickets_add_file">Lägg till fil</string>
+    <string name="intercom_tickets_add_files">Lägg till filer</string>
+    <string name="intercom_tickets_create_ticket">Skapa ärende</string>
+    <string name="intercom_tickets_create_ticket_fallback">Svara med följande information så hör någon av sig till dig snart.</string>
+    <string name="intercom_tickets_created_confirmation_header">Ärendet har skapats</string>
+    <string name="intercom_tickets_cta_text">Har du en fråga om det här ärendet?</string>
+    <string name="intercom_tickets_email_copy">Svar och ärendeuppdateringar skickas till denna e-postadress</string>
+    <string name="intercom_tickets_email_subject">Ditt {ticket_type_name}-ärende</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">Ditt {ticket_type_name}-ärende nr. {ticket_id}</string>
+    <string name="intercom_tickets_empty_state_text">Dina ärenden kommer att visas här</string>
+    <string name="intercom_tickets_empty_state_title">Inga ärenden</string>
+    <string name="intercom_tickets_estimated_resolution">Beräknad tid till lösning: {duration}</string>
+    <string name="intercom_tickets_files_added">Tillagda filer</string>
+    <string name="intercom_tickets_have_a_question">Har du en fråga om det här problemet?</string>
+    <string name="intercom_tickets_in_progress_status_detail">Vi jobbar med det här 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} jobbar med det här!</string>
+    <string name="intercom_tickets_is_resolved">Är det här ärendet löst?</string>
+    <string name="intercom_tickets_log_a_ticket">Logga ett ärende</string>
+    <string name="intercom_tickets_resolved_status_detail">Vi har slutfört ditt ärende</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} har slutfört ditt ärende</string>
+    <string name="intercom_tickets_sla">Beräknas vara löst {time}</string>
+    <string name="intercom_tickets_space_title">Ärenden</string>
+    <string name="intercom_tickets_status_change_event">Ärendet är nu {status} • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">Vi har slutfört ditt ärende</string>
+    <string name="intercom_tickets_status_description_more_info">Vi behöver mer information</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} flyttade ditt ärende till</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} flyttade ditt ärende nr. {ticket_id} till</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">Ditt ärende har flyttats till</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">Ditt ärende nr. {ticket_id} har flyttats till</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">Ditt ärende har</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">Ditt ärende nr. {ticket_id} har</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">Vi kommer snart att behandla ditt ärende</string>
+    <string name="intercom_tickets_status_description_working_on">Vi jobbar med ditt ärende</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} har flyttat ärendet till {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">Ärendet flyttades till {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">Ärendet är {submitted_status} • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">Pågår</string>
+    <string name="intercom_tickets_status_resolved">Löst</string>
+    <string name="intercom_tickets_status_submitted">Skickat</string>
+    <string name="intercom_tickets_status_waiting_on_you">Väntar på dig</string>
+    <string name="intercom_tickets_submitted_confirmation_header">Ärendet har skickats in</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">Vi meddelar dig när ditt ärende har uppdaterats</string>
+    <string name="intercom_tickets_submitted_status_detail">Vi tar snart hand om det här</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} tar snart hand om det här</string>
+    <string name="intercom_tickets_unread">Ärenden.Du har olästa ärendeuppdateringar.</string>
+    <string name="intercom_tickets_updates_prompt">Du får uppdateringar i Messenger och via e-post</string>
+    <string name="intercom_tickets_view_ticket">Visa information om ärendet</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">Vi behöver mer information från dig</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} behöver mer information</string>
+    <string name="intercom_time_day_ago">{delta} dagar sedan</string>
+    <string name="intercom_time_future_1h">om 1 timme</string>
+    <string name="intercom_time_future_2h">om 2 timmar</string>
+    <string name="intercom_time_future_30m">om 30 minuter</string>
+    <string name="intercom_time_future_3h">om 3 timmar</string>
+    <string name="intercom_time_future_day_0">på måndag</string>
+    <string name="intercom_time_future_day_1">på tisdag</string>
+    <string name="intercom_time_future_day_2">på onsdag</string>
+    <string name="intercom_time_future_day_3">på torsdag</string>
+    <string name="intercom_time_future_day_4">på fredag</string>
+    <string name="intercom_time_future_day_5">på lördag</string>
+    <string name="intercom_time_future_day_6">på söndag</string>
+    <string name="intercom_time_future_later_today">senare idag</string>
+    <string name="intercom_time_future_next_week">nästa vecka</string>
+    <string name="intercom_time_future_tomorrow">imorgon</string>
+    <string name="intercom_time_hour_ago">{delta} tim sedan</string>
+    <string name="intercom_time_just_now">Nyss</string>
+    <string name="intercom_time_minute_ago">{delta} min sedan</string>
+    <string name="intercom_time_week_ago">{delta} veckor sedan</string>
+    <string name="intercom_time_yesterday">igår</string>
+    <string name="intercom_try_again">Försök igen</string>
+    <string name="intercom_try_again_minute">Försök igen om en minut.</string>
+    <string name="intercom_try_use_different_keywords">Prova med andra nyckelord eller skriv in hela din fråga</string>
+    <string name="intercom_twitter_follow">Följ oss på Twitter</string>
+    <string name="intercom_two_business_days">två arbetsdagar</string>
+    <string name="intercom_type_a_number">Ange ett nummer…</string>
+    <string name="intercom_typically_replies_in_one_business_day">Svarar normalt inom en arbetsdag</string>
+    <string name="intercom_typically_replies_in_two_business_days">Svarar normalt inom två arbetsdagar</string>
+    <string name="intercom_unread_message_count">{unread_count} olästa</string>
+    <string name="intercom_upfront_collection_form_close_out">Du kan komma tillbaka hit när som helst för att se svar och skicka uppdateringar.</string>
+    <string name="intercom_upfront_collection_form_introduction">Berätta lite mer så att teamet kan skicka ett snabbare och bättre svar.</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">Tack för den informationen. Du får gärna lägga till mer information nu för att spara tid senare.</string>
+    <string name="intercom_upfront_collection_form_subtitle">Skicka lite information till teamet</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">De kommer att ha den här informationen i åtanke</string>
+    <string name="intercom_upfront_collection_form_title">Få hjälp snabbare</string>
+    <string name="intercom_upfront_collection_form_title_submitted">Skickat till teamet!</string>
+    <string name="intercom_upload_failed">Uppladdning misslyckades</string>
+    <string name="intercom_upload_max_files_allowed">Maximalt {limit} filer tillåtna</string>
+    <string name="intercom_upload_max_files_size">Maximal filstorlek är {limit} MB</string>
+    <string name="intercom_user_avatar_image">Användarens avatarbild</string>
+    <string name="intercom_view_all">Visa alla</string>
+    <string name="intercom_view_conversation">Visa konversation</string>
+    <string name="intercom_view_more_details">Visa mer information</string>
+    <string name="intercom_view_post">Visa inlägg</string>
+    <string name="intercom_we_run_on_intercom">Vi använder Intercom</string>
+    <string name="intercom_working_on_it">Jobbar på det ...</string>
+    <string name="intercom_you">Du</string>
+    <string name="intercom_you_are_all_up_to_date">Du har kommit ikapp!</string>
+    <string name="intercom_you_have_new_messages">Du har nya meddelanden.</string>
+    <string name="intercom_you_rated_the_conversation">Du betygsatte ditt samtal</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">Du blir meddelad här och via e-post</string>
+    <string name="intercom_your_checklists">Dina checklistor</string>
+    <string name="intercom_your_conversations">Dina konversationer</string>
+    <string name="intercom_your_recent_conversations">Senaste konversationerna</string>
+    <string name="intercom_your_recent_message">Senaste meddelande</string>
+    <string name="intercom_your_recent_messages">Senaste meddelanden</string>
+    <string name="intercom_your_ticket">Ditt ärende</string>
+    <string name="item_view_role_description">Flik</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Komprimera arket på nedre delen av skärmen"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Stäng arket på nedre delen av skärmen"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Handtag"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Utöka arket på nedre delen av skärmen"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Ark på nedre delen av skärmen"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Angivet datum"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Angivet datum: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Datumet matchar inte det förväntade formatet: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Datumet är inte tillåtet: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Datumet faller utanför det förväntade årsintervallet %1$s–%2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Datum"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Inga"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Välj datum"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Valt datum"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Aktuellt val: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Navigera till %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Inga"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Scrolla för att visa föregående år"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Scrolla för att visa senare år"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Byt till kalender som inmatningsläge"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Svep för att välja ett år eller tryck för att återgå till att välja en dag"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Byt till text som inmatningsläge"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Ändra till nästa månad"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Ändra till föregående månad"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Byt till att välja år"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Välj datum"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"I dag"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Årväljaren är synlig"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Ett ogiltigt datumintervall har angetts"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Ange datum"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Inom intervall"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Slutdatum"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Scrolla för att visa nästa månad"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Scrolla för att visa föregående månad"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Startdatum"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Välj datum"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialogruta"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Komprimerad"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Utökad"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Sök"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Stäng"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Se förslag nedan"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"FM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Timme"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d tim"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Ange timme"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"Kl. %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"för timme"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minut"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Välj minuter"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d minuter"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"för minuter"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Välj mellan FM och EM"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"EM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Visa beskrivning"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Beskrivning"</string>
+    <string name="material_clock_toggle_content_description">Välj mellan FM och EM</string>
+    <string name="material_hour_24h_suffix">%1$s timmar</string>
+    <string name="material_hour_selection">Ange timme</string>
+    <string name="material_hour_suffix">Klockan %1$s</string>
+    <string name="material_minute_selection">Välj minuter</string>
+    <string name="material_minute_suffix">%1$s minuter</string>
+    <string name="material_timepicker_am">FM</string>
+    <string name="material_timepicker_clock_mode_description">Byt till klockläget och ange tid.</string>
+    <string name="material_timepicker_hour">Timme</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">EM</string>
+    <string name="material_timepicker_select_time">Välj tid</string>
+    <string name="material_timepicker_text_input_mode_description">Byt till textinmatningsläget och ange tid.</string>
+    <string name="mtrl_badge_numberless_content_description">Ny avisering</string>
+    <string name="mtrl_chip_close_icon_content_description">Ta bort (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Fler än %1$d nya aviseringar</string>
+    <string name="mtrl_picker_a11y_next_month">Ändra till nästa månad</string>
+    <string name="mtrl_picker_a11y_prev_month">Ändra till föregående månad</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuellt val: %1$s</string>
+    <string name="mtrl_picker_cancel">Avbryt</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Välj datum</string>
+    <string name="mtrl_picker_date_header_unselected">Valt datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolumn med dagar: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ogiltigt format.</string>
+    <string name="mtrl_picker_invalid_format_example">Exempel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Använd %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ogiltigt intervall.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigera till år %1$s</string>
+    <string name="mtrl_picker_out_of_range">Utanför intervallet: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–slutdatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Välj intervall</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum–slutdatum</string>
+    <string name="mtrl_picker_save">Spara</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Slutdatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">å</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Byt till kalender som inmatningsläge</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Byt till att välja en dag genom att trycka</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Byt till text som inmatningsläge</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Byt till att välja ett år genom att trycka</string>
+    <string name="mtrl_timepicker_cancel">Avbryt</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigeringsmeny"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Inte vald"</string>
+    <string msgid="875452955155264703" name="off">"Av"</string>
+    <string msgid="8655164131929253426" name="on">"På"</string>
+    <string name="password_toggle_content_description">Visa lösenord</string>
+    <string msgid="5941395253238309765" name="range_end">"Intervallets slut"</string>
+    <string msgid="7097486360902471446" name="range_start">"Intervallets början"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Sök"</string>
+    <string msgid="6043586758067023" name="selected">"Valt"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Reglage"</string>
+    <string msgid="1672349317127674378" name="tab">"Flik"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> procent."</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"beskrivning"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"visa beskrivning"</string>
+</resources>

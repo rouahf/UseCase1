@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0.25x</item>
+    <item>0.5x</item>
+    <item>0.75x</item>
+    <item>ปกติ</item>
+    <item>1.25x</item>
+    <item>1.5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">กรอไปข้างหน้า %d วินาที</item>
+    <item quantity="other">กรอไปข้างหน้า %d วินาที</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">กรอกลับ %d วินาที</item>
+    <item quantity="other">กรอกลับ %d วินาที</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"กลับ"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"เสร็จ"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ปิด"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"เปิด"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ลบ"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"เมนู+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"ค้นหา…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ล้างคำค้นหา"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"คำค้นหา"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ส่งคำค้นหา"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"แชร์ทาง <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <string name="bottomsheet_action_collapse">ยุบ Bottom Sheet</string>
+    <string name="bottomsheet_action_expand">ขยาย Bottom Sheet</string>
+    <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
+    <string name="bottomsheet_drag_handle_clicked">แตะแฮนเดิลการลากสองครั้ง</string>
+    <string name="bottomsheet_drag_handle_content_description">แฮนเดิลการลาก</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"รับสาย"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"วิดีโอ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"ปฏิเสธ"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"วางสาย"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"สายเรียกเข้า"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"สายที่สนทนาอยู่"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"กำลังสกรีนสายเรียกเข้า"</string>
+    <string name="character_counter_content_description">ป้อนอักขระแล้ว %1$d จาก %2$d ตัว</string>
+    <string name="character_counter_overflowed_content_description">เกินจำนวนอักขระสูงสุด %1$d จาก %2$d</string>
+    <string name="clear_text_end_icon_content_description">ล้างข้อความ</string>
+    <string msgid="406453423630273620" name="close_drawer">"ปิดเมนูการนำทาง"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"ปิดชีต"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ความพร้อมใช้งานของบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">อัปเดต</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string msgid="8038256446254964252" name="default_error_message">"อินพุตไม่ถูกต้อง"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"หน้าต่างป๊อปอัป"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"เมนูแบบเลื่อนลง"</string>
+    <string name="error_icon_content_description">ข้อผิดพลาด</string>
+    <string name="exo_controls_cc_disabled_description">เปิดใช้คำบรรยาย</string>
+    <string name="exo_controls_cc_enabled_description">ปิดใช้คำบรรยาย</string>
+    <string name="exo_controls_fastforward_description">กรอไปข้างหน้า</string>
+    <string name="exo_controls_fullscreen_enter_description">แสดงแบบเต็มหน้าจอ</string>
+    <string name="exo_controls_fullscreen_exit_description">ออกจากโหมดเต็มหน้าจอ</string>
+    <string name="exo_controls_hide">ซ่อนตัวควบคุมโปรแกรมเล่น</string>
+    <string name="exo_controls_next_description">ถัดไป</string>
+    <string name="exo_controls_overflow_hide_description">ซ่อนการตั้งค่าเพิ่มเติม</string>
+    <string name="exo_controls_overflow_show_description">แสดงการตั้งค่าเพิ่มเติม</string>
+    <string name="exo_controls_pause_description">หยุด</string>
+    <string name="exo_controls_play_description">เล่น</string>
+    <string name="exo_controls_playback_speed">ความเร็ว</string>
+    <string name="exo_controls_previous_description">ก่อนหน้า</string>
+    <string name="exo_controls_repeat_all_description">โหมดปัจจุบัน: เล่นซ้ำทั้งหมด สลับโหมดเล่นซ้ำ</string>
+    <string name="exo_controls_repeat_off_description">โหมดปัจจุบัน: ไม่เล่นซ้ำ สลับโหมดเล่นซ้ำ</string>
+    <string name="exo_controls_repeat_one_description">โหมดปัจจุบัน: เล่นซ้ำรายการเดียว สลับโหมดเล่นซ้ำ</string>
+    <string name="exo_controls_rewind_description">กรอกลับ</string>
+    <string name="exo_controls_seek_bar_description">ความคืบหน้าในการเล่น</string>
+    <string name="exo_controls_settings_description">การตั้งค่า</string>
+    <string name="exo_controls_show">แสดงแผงควบคุมโปรแกรมเล่น</string>
+    <string name="exo_controls_shuffle_off_description">เปิดใช้โหมดสุ่มเพลง</string>
+    <string name="exo_controls_shuffle_on_description">ปิดใช้โหมดสุ่มเพลง</string>
+    <string name="exo_controls_stop_description">หยุด</string>
+    <string name="exo_controls_vr_description">โหมด VR</string>
+    <string name="exo_download_completed">การดาวน์โหลดเสร็จสมบูรณ์</string>
+    <string name="exo_download_description">ดาวน์โหลด</string>
+    <string name="exo_download_downloading">กำลังดาวน์โหลด</string>
+    <string name="exo_download_failed">การดาวน์โหลดล้มเหลว</string>
+    <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
+    <string name="exo_download_paused">การดาวน์โหลดหยุดชั่วคราว</string>
+    <string name="exo_download_paused_for_network">กำลังรอเครือข่ายเพื่อดาวน์โหลด</string>
+    <string name="exo_download_paused_for_wifi">กำลังรอ Wi-Fi เพื่อดาวน์โหลด</string>
+    <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">อื่นๆ</string>
+    <string name="exo_track_role_closed_captions">คำบรรยาย</string>
+    <string name="exo_track_role_commentary">ความคิดเห็น</string>
+    <string name="exo_track_role_supplementary">แทร็กเสริม</string>
+    <string name="exo_track_selection_auto">อัตโนมัติ</string>
+    <string name="exo_track_selection_none">ไม่มี</string>
+    <string name="exo_track_selection_title_audio">เสียง</string>
+    <string name="exo_track_selection_title_text">ข้อความ</string>
+    <string name="exo_track_selection_title_video">วิดีโอ</string>
+    <string name="exo_track_stereo">สเตอริโอ</string>
+    <string name="exo_track_surround">เสียงเซอร์ราวด์</string>
+    <string name="exo_track_surround_5_point_1">ระบบเสียง 5.1 เซอร์ราวด์</string>
+    <string name="exo_track_surround_7_point_1">7.1 เสียงเซอร์ราวด์</string>
+    <string name="exo_track_unknown">ไม่ทราบ</string>
+    <string name="exo_track_unknown_name">ไม่รู้จัก (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">แสดงเมนูแบบเลื่อนลง</string>
+    <string name="icon_content_description">ไอคอนกล่องโต้ตอบ</string>
+    <string msgid="6827826412747255547" name="in_progress">"กำลังดำเนินการ"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"เลือกบางส่วน"</string>
+    <string name="intercom_access_background_location_message">ไปที่การตั้งค่าของอุปกรณ์เพื่อให้แอปใช้ตำแหน่งที่ตั้งของคุณขณะล็อกหน้าจอหรือใช้แอปอื่น</string>
+    <string name="intercom_access_background_location_title">อนุญาตให้เข้าถึงตำแหน่งที่ตั้งของคุณได้ตลอดเวลา</string>
+    <string name="intercom_access_device_settings">ไปที่การตั้งค่าอุปกรณ์เพื่ออนุญาตให้เข้าถึงรูปภาพของคุณ</string>
+    <string name="intercom_access_photos">เข้าถึงรูปภาพของคุณ</string>
+    <string name="intercom_active_15m_ago">ใช้งาน {minutes} นาทีที่ผ่านมา</string>
+    <string name="intercom_active_day_ago">ใช้งาน {days} วันที่ผ่านมา</string>
+    <string name="intercom_active_hour_ago">ใช้งาน {hours} ชั่วโมงที่ผ่านมา</string>
+    <string name="intercom_active_minute_ago">ใช้งาน {minutes} นาทีที่ผ่านมา</string>
+    <string name="intercom_active_state">ใช้งานอยู่</string>
+    <string name="intercom_active_week_ago">ใช้งานนานกว่า 1 สัปดาห์ที่ผ่านมา</string>
+    <string name="intercom_add">เพิ่ม</string>
+    <string name="intercom_ai_answer">คําตอบจาก AI</string>
+    <string name="intercom_ai_answer_information">คำตอบจาก AI, ข้อมูล</string>
+    <string name="intercom_ai_bot">บอท AI</string>
+    <string name="intercom_allow_access">อนุญาตการเข้าถึง</string>
+    <string name="intercom_allow_storage_access">โปรดอนุญาตให้เข้าถึงที่เก็บข้อมูลเพื่อดูรูปภาพของคุณ</string>
+    <string name="intercom_almost_there">ใกล้จะเสร็จแล้ว...</string>
+    <string name="intercom_also_in_this_conversation">รวมถึงการสนทนานี้ด้วย</string>
+    <string name="intercom_android_activated_message">แอป Android ของคุณผสานรวมกับแพลตฟอร์ม Intercom แล้วตอนนี้</string>
+    <string name="intercom_answer">คำตอบ</string>
+    <string name="intercom_app_settings">การตั้งค่าแอป</string>
+    <string name="intercom_article_double_author">โดย {author_first_name1} และ {author_first_name2}</string>
+    <string name="intercom_article_load_error">ไม่สามารถโหลดบทความ</string>
+    <string name="intercom_article_multiple_authors">โดย {author_first_name1} และอีก {number_of_other_authors} คน</string>
+    <string name="intercom_article_question">นี่ไม่ใช่คำตอบที่ต้องการใช่ไหม</string>
+    <string name="intercom_article_response">คุณตอบโต้กับ</string>
+    <string name="intercom_article_search_hint_text">ค้นหาบทความ...</string>
+    <string name="intercom_article_search_search_results">ผลการค้นหา</string>
+    <string name="intercom_article_single_author">โดย {author_first_name}</string>
+    <string name="intercom_ask_a_question">ถามคําถาม</string>
+    <string name="intercom_ask_a_question_with_ellipsis">ถามคำถาม...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">ถามคำถามอื่น...</string>
+    <string name="intercom_ask_our_bot_a_question">ถามบอทของเรา</string>
+    <string name="intercom_asked_about">ถามเกี่ยวกับ</string>
+    <string name="intercom_assigned_to_admin">มอบหมายให้กับ {admin}</string>
+    <string name="intercom_attribute_collector_negative">ไม่ใช่</string>
+    <string name="intercom_attribute_collector_positive">ใช่</string>
+    <string name="intercom_available_teammates">เพื่อนร่วมทีมที่ว่าง: {available_teammates}</string>
+    <string name="intercom_avatar">อวาตาร์</string>
+    <string name="intercom_avatars">อวาตาร์</string>
+    <string name="intercom_away_state">ไม่อยู่</string>
+    <string name="intercom_bot">บอท</string>
+    <string name="intercom_bot_answers_instantly">บอทตอบทันที</string>
+    <string name="intercom_bot_expectation_text">บอทของเราสามารถตอบคำถามทั่วไปได้หลายข้อ</string>
+    <string name="intercom_bot_is_still_thinking">บอทยังคิดอยู่...</string>
+    <string name="intercom_bot_is_thinking">บอทกำลังคิดว่า...</string>
+    <string name="intercom_browse_all_help_topics">เรียกดูหัวข้อความช่วยเหลือทั้งหมด</string>
+    <string name="intercom_browse_collections">เรียกดูคอลเลกชัน</string>
+    <string name="intercom_cancel">ยกเลิก</string>
+    <string name="intercom_chat_with_us">แชทกับเรา</string>
+    <string name="intercom_check_later_for_updates">โปรดกลับมาตรวจสอบการอัปเดตในภายหลัง</string>
+    <string name="intercom_checklist_card_first_step">ขั้นตอนแรก</string>
+    <string name="intercom_checklist_card_next_step">ขั้นตอนถัดไป</string>
+    <string name="intercom_checklist_completed">เสร็จสมบูรณ์</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">เหลือเวลาประมาณ {minutes} นาที</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">เหลืออีกประมาณ 1 นาที</string>
+    <string name="intercom_checklist_mark_step_as_complete">ทําเครื่องหมายว่าเสร็จสมบูรณ์</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">ประมาณ {minutes} นาที</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">ประมาณ 1 นาที</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} ขั้นตอน</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">{steps_completed} จาก {total_steps} ขั้นตอนที่เสร็จสิ้น</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">1 จาก {total_steps} ขั้นตอนที่เสร็จสิ้น</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 ขั้นตอน</string>
+    <string name="intercom_checklist_sender_name">แชร์โดย {name}</string>
+    <string name="intercom_checklist_step_action_button">ปุ่มการดำเนินการสำหรับขั้นตอน</string>
+    <string name="intercom_checklist_step_completed">เสร็จสมบูรณ์</string>
+    <string name="intercom_choose_one">เลือกหนึ่งตัวเลือก...</string>
+    <string name="intercom_choose_the_date">เลือกวันที่...</string>
+    <string name="intercom_clear">ล้าง</string>
+    <string name="intercom_close">ปิด</string>
+    <string name="intercom_congratulations">ขอแสดงความยินดี</string>
+    <string name="intercom_connected">คุณเชื่อมต่อแล้ว</string>
+    <string name="intercom_contact_support">ติดต่อฝ่ายสนับสนุน</string>
+    <string name="intercom_contact_us">ติดต่อเรา</string>
+    <string name="intercom_continue_the_conversation">สนทนาต่อ</string>
+    <string name="intercom_conversation_card_office_hours_header">เราจะกลับมาออนไลน์</string>
+    <string name="intercom_conversation_card_reply_time_header">เวลาตอบกลับปกติของเรา</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">เวลาตอบกลับปกติ</string>
+    <string name="intercom_conversation_has_ended">การสนทนาของคุณสิ้นสุดลงแล้ว</string>
+    <string name="intercom_conversation_number_and_description">หมายเลขการสนทนา {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">การสนทนา</string>
+    <string name="intercom_conversations_space_title">การสนทนา</string>
+    <string name="intercom_conversations_with_app">การสนทนากับ {name}</string>
+    <string name="intercom_copied_to_clipboard">คัดลอกไปยังคลิปบอร์ดแล้ว</string>
+    <string name="intercom_couldnt_complete_action">ไม่สามารถดำเนินการให้เสร็จสมบูรณ์ได้</string>
+    <string name="intercom_couldnt_load_apps">ไม่สามารถโหลดแอปได้</string>
+    <string name="intercom_couldnt_load_content">ไม่สามารถโหลดเนื้อหาได้</string>
+    <string name="intercom_couldnt_load_messenger">ไม่สามารถโหลด Messenger ได้</string>
+    <string name="intercom_create_a_ticket">สร้างทิกเก็ต</string>
+    <string name="intercom_currently_no_help_articles">ขณะนี้ยังไม่มีบทความช่วยเหลือ</string>
+    <string name="intercom_delete_attachment">ลบไฟล์แนบ</string>
+    <string name="intercom_delivered">จัดส่งแล้ว</string>
+    <string name="intercom_disappointed_face_emoji">ใบหน้าผิดหวัง</string>
+    <string name="intercom_dismiss">ปิด</string>
+    <string name="intercom_empty_conversations">ข้อความจากทีมจะแสดงที่นี่</string>
+    <string name="intercom_enter_text_placeholder">ป้อนข้อความ...</string>
+    <string name="intercom_error_loading_conversation">ไม่สามารถโหลดการสนทนาได้</string>
+    <string name="intercom_error_loading_ticket">ไม่สามารถโหลดทิกเก็ตได้</string>
+    <string name="intercom_expected_response_delay_10800">ไม่เกิน 3 ชั่วโมง</string>
+    <string name="intercom_expected_response_delay_120">ไม่เกิน 2 นาที</string>
+    <string name="intercom_expected_response_delay_1200">ไม่เกิน 20 นาที</string>
+    <string name="intercom_expected_response_delay_14400">ไม่เกิน 4 ชั่วโมง</string>
+    <string name="intercom_expected_response_delay_172800">2 วัน</string>
+    <string name="intercom_expected_response_delay_180">ไม่เกิน 3 นาที</string>
+    <string name="intercom_expected_response_delay_1800">ไม่เกิน 30 นาที</string>
+    <string name="intercom_expected_response_delay_18000">ไม่เกิน 5 ชั่วโมง</string>
+    <string name="intercom_expected_response_delay_21600">ไม่เกิน 6 ชั่วโมง</string>
+    <string name="intercom_expected_response_delay_240">ไม่เกิน 4 นาที</string>
+    <string name="intercom_expected_response_delay_259200">3 วัน</string>
+    <string name="intercom_expected_response_delay_300">ไม่เกิน 5 นาที</string>
+    <string name="intercom_expected_response_delay_345600">4 วัน</string>
+    <string name="intercom_expected_response_delay_3600">ไม่เกิน 1 ชั่วโมง</string>
+    <string name="intercom_expected_response_delay_43200">ไม่เกิน 12 ชั่วโมง</string>
+    <string name="intercom_expected_response_delay_432000">5 วัน</string>
+    <string name="intercom_expected_response_delay_518400">6 วัน</string>
+    <string name="intercom_expected_response_delay_60">ไม่เกิน 1 นาที</string>
+    <string name="intercom_expected_response_delay_600">ไม่เกิน 10 นาที</string>
+    <string name="intercom_expected_response_delay_604800">ไม่เกิน 1 สัปดาห์</string>
+    <string name="intercom_expected_response_delay_7200">ไม่เกิน 2 ชั่วโมง</string>
+    <string name="intercom_expected_response_delay_86400">1 วัน</string>
+    <string name="intercom_expected_response_delay_900">ไม่เกิน 15 นาที</string>
+    <string name="intercom_extra_labels_count">+{labels_count} ป้ายกํากับ</string>
+    <string name="intercom_facebook_like">กดถูกใจเราบน Facebook</string>
+    <string name="intercom_failed_delivery">ไม่สามารถส่งข้อความได้</string>
+    <string name="intercom_failed_to_load_conversation">ไม่สามารถโหลดการสนทนาของคุณได้</string>
+    <string name="intercom_failed_to_load_tickets">ไม่สามารถโหลดทิกเก็ตของคุณได้</string>
+    <string name="intercom_failed_to_load_tickets_with_app">ไม่สามารถโหลดทิกเก็ตของคุณได้ด้วย {app_name}</string>
+    <string name="intercom_failed_to_send">ไม่สามารถส่งได้</string>
+    <string name="intercom_field_is_required">ต้องระบุช่อง {field_name}</string>
+    <string name="intercom_file_access_failed">ไม่สามารถเข้าถึงไฟล์นั้นได้</string>
+    <string name="intercom_file_max_limit">สูงสุด {limit} ไฟล์</string>
+    <string name="intercom_file_saved">ไฟล์ที่บันทึก</string>
+    <string name="intercom_file_too_big">ไม่สามารถส่งไฟล์ที่มีขนาดเกิน {limit} MB ได้</string>
+    <string name="intercom_file_type_not_allowed">ไม่อนุญาตประเภทไฟล์</string>
+    <string name="intercom_files">ไฟล์</string>
+    <string name="intercom_gallery">แกลเลอรี</string>
+    <string name="intercom_generating_answer">กำลังสร้างคำตอบ...</string>
+    <string name="intercom_get_help">รับความช่วยเหลือ</string>
+    <string name="intercom_get_notified_by_email">รับการแจ้งเตือนทางอีเมล</string>
+    <string name="intercom_gif_attribution">โดย {providername}</string>
+    <string name="intercom_gifs_load_error">ไม่สามารถโหลด GIF ได้</string>
+    <string name="intercom_give_it_another_try">ลองอีกครั้ง</string>
+    <string name="intercom_go_to_device_settings">หากต้องการอนุญาตให้เข้าถึง ให้ไปที่เมนูการอนุญาต
+ในการตั้งค่าแอปของอุปกรณ์</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">หน้ายิ้มตาโต</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">อีก +1 คน</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">อีก +{other_participant_count} คน</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">อีก {other_participant_count} คนกำลังเข้าร่วมเช่นกัน</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name} กำลังเข้าร่วมเช่นกัน</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} และอีก 1 คนกำลังเข้าร่วมเช่นกัน</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} และอีก {other_participant_count} คนกำลังเข้าร่วมเช่นกัน</string>
+    <string name="intercom_group_conversation_one_person_also_participating">อีก 1 คนกำลังเข้าร่วมเช่นกัน</string>
+    <string name="intercom_help_center">ศูนย์ช่วยเหลือ</string>
+    <string name="intercom_help_space_title">ความช่วยเหลือ</string>
+    <string name="intercom_home_space_title">หน้าหลัก</string>
+    <string name="intercom_how_can_we_help">เราจะช่วยคุณได้อย่างไร</string>
+    <string name="intercom_how_would_you_rate_this">คุณจะให้คะแนนอย่างไร</string>
+    <string name="intercom_image_attached">(รูปภาพแนบ)</string>
+    <string name="intercom_inbox_error_state_title">เกิดข้อผิดพลาด</string>
+    <string name="intercom_last_active_hours_ago">ใช้งานล่าสุดเมื่อ {mins} ชั่วโมงที่ผ่านมา</string>
+    <string name="intercom_last_active_mins_ago">ใช้งานล่าสุดเมื่อ {mins} นาทีที่ผ่านมา</string>
+    <string name="intercom_last_active_over_a_week">ใช้งานล่าสุดเมื่อ 1 สัปดาห์ที่ผ่านมา</string>
+    <string name="intercom_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="intercom_loading">กำลังโหลด</string>
+    <string name="intercom_message_failed_try_again">ไม่สามารถส่งได้ ให้แตะเพื่อลองอีกครั้ง</string>
+    <string name="intercom_message_placeholder">ข้อความ…</string>
+    <string name="intercom_message_seen">เห็นแล้ว</string>
+    <string name="intercom_message_state_sending">กำลังส่ง…</string>
+    <string name="intercom_message_summary">สรุปข้อความ: {summary}, ชื่อเพื่อนร่วมทีม: {name}, เวลาที่ส่งข้อความ: {sentTime} </string>
+    <string name="intercom_message_summary_with_teammate_status">สรุปข้อความ: {summary}, ชื่อเพื่อนร่วมทีม: {name}, สถานะเพื่อนร่วมทีม: {adminStatus}, เวลาที่ส่งข้อความ: {sentTime} </string>
+    <string name="intercom_message_unread">ข้อความยังไม่ได้อ่าน</string>
+    <string name="intercom_message_unseen">ยังไม่ได้ดู</string>
+    <string name="intercom_messages_space_title">ข้อความ</string>
+    <string name="intercom_messenger_bot_reply_time">บ็อตของเราจะตอบกลับทันที</string>
+    <string name="intercom_multiple_articles">{total_articles} บทความ</string>
+    <string name="intercom_multiple_collections">{total_collection} คอลเลกชัน</string>
+    <string name="intercom_name_and_1_other">{name} และอีก 1 คน</string>
+    <string name="intercom_name_and_x_others">{name} และอีก {count} คน</string>
+    <string name="intercom_navigation_back">ย้อนกลับ</string>
+    <string name="intercom_need_camera_access">{app_name} ต้องมีสิทธิ์เข้าถึงกล้องจึงจะสามารถถ่ายภาพและวิดีโอได้ แตะการตั้งค่า > สิทธิ์ และเปิดใช้งานกล้อง</string>
+    <string name="intercom_neutral_face_emoji">ใบหน้าปกติ</string>
+    <string name="intercom_new_conversation">การสนทนาใหม่</string>
+    <string name="intercom_new_message">ข้อความใหม่</string>
+    <string name="intercom_new_messages">คุณมี {n} ข้อความใหม่</string>
+    <string name="intercom_new_notifications">การแจ้งเตือนใหม่</string>
+    <string name="intercom_news">ข่าวสาร</string>
+    <string name="intercom_news_empty_title">ยังไม่มีข่าว</string>
+    <string name="intercom_news_latest_subtitle">จากทีม {team_name}</string>
+    <string name="intercom_news_latest_title">ล่าสุด</string>
+    <string name="intercom_news_older_title">เก่ากว่า</string>
+    <string name="intercom_news_space_title">ข่าวสาร</string>
+    <string name="intercom_no_articles_to_display">ยังไม่มีบทความ</string>
+    <string name="intercom_no_conversations">ไม่มีการสนทนา</string>
+    <string name="intercom_no_gifs_found">ไม่พบ GIF</string>
+    <string name="intercom_no_gifs_matching_query">เราไม่พบ GIF ใดๆ ที่ตรงกับการค้นหาของคุณ</string>
+    <string name="intercom_no_help_articles_to_display">ไม่มีบทความช่วยเหลือ</string>
+    <string name="intercom_no_messages_from_the_team">ไม่มีข้อความจากทีม</string>
+    <string name="intercom_no_network_connection">ไม่มีการเชื่อมต่อเครือข่าย</string>
+    <string name="intercom_no_photos">ไม่มีรูปถ่าย</string>
+    <string name="intercom_no_photos_on_device">ไม่มีรูปภาพในอุปกรณ์นี้</string>
+    <string name="intercom_no_results_for_searchterm">ไม่มีผลลัพธ์สําหรับ {searchTerm}</string>
+    <string name="intercom_no_tasks">ไม่มีงาน</string>
+    <string name="intercom_no_tasks_available_currently">ขณะนี้ยังไม่มีงาน</string>
+    <string name="intercom_not_now">ไม่ใช่ตอนนี้</string>
+    <string name="intercom_nothing_to_see_here_yet">ยังไม่มีรายการใดๆ</string>
+    <string name="intercom_notification_channel_actions_description">มีลิงก์เพื่อดําเนินการในแอปนี้</string>
+    <string name="intercom_notification_channel_actions_title">การดําเนินการ</string>
+    <string name="intercom_notification_channel_chat_replies_description">ตอบกลับการแจ้งเตือนจากการแชทในแอปนี้</string>
+    <string name="intercom_notification_channel_chat_replies_title">การตอบกลับแชท</string>
+    <string name="intercom_notification_channel_new_chats_description">ข้อความแชทใหม่ที่ส่งจากแอปนี้</string>
+    <string name="intercom_notification_channel_new_chats_title">แชทใหม่</string>
+    <string name="intercom_number_is_incorrect">หมายเลขดังกล่าวไม่ถูกต้อง</string>
+    <string name="intercom_ok">ตกลง</string>
+    <string name="intercom_one_new_message">คุณมีข้อความใหม่</string>
+    <string name="intercom_our_bot_answers_instantly">บ็อตของเราจะตอบทันที</string>
+    <string name="intercom_page_not_found">ไม่มีหน้าดังกล่าวอีกต่อไป</string>
+    <string name="intercom_permission_denied">การอนุญาตนี้ถูกปฏิเสธ</string>
+    <string name="intercom_photo_access_denied">คุณปฏิเสธการเข้าถึงรูปภาพของคุณ</string>
+    <string name="intercom_photo_and_video_library">คลังรูปภาพและวิดีโอ</string>
+    <string name="intercom_placeholder_datepicker">วว-ดด-ปปปป</string>
+    <string name="intercom_placeholder_email_input">ป้อนอีเมลที่นี่...</string>
+    <string name="intercom_placeholder_numerical_inputs">ป้อนหมายเลขที่นี่...</string>
+    <string name="intercom_placeholder_text_inputs">ป้อนข้อความที่นี่...</string>
+    <string name="intercom_please_select">โปรดเลือก...</string>
+    <string name="intercom_plus_x_more">+{n} เพิ่มเติม</string>
+    <string name="intercom_powered_by_intercom">ขับเคลื่อนโดย Intercom</string>
+    <string name="intercom_profile_location">{time} ใน {location}</string>
+    <string name="intercom_rate_your_conversation">ให้คะแนนการสนทนาของคุณ</string>
+    <string name="intercom_recent_ticket">ทิกเก็ตล่าสุด</string>
+    <string name="intercom_recent_tickets">ทิกเก็ตล่าสุด</string>
+    <string name="intercom_record_a_video">บันทึกวิดีโอ</string>
+    <string name="intercom_reload">โหลดใหม่</string>
+    <string name="intercom_reply">ตอบกลับ</string>
+    <string name="intercom_reply_from_admin">ตอบกลับจาก {name}</string>
+    <string name="intercom_reply_to_conversation">เขียนการตอบกลับ...</string>
+    <string name="intercom_retry">ลองใหม่อีกครั้ง</string>
+    <string name="intercom_saving">กำลังบันทึก...</string>
+    <string name="intercom_search_browse_empty_state_text">ขออภัย เราไม่พบผลลัพธ์สำหรับสิ่งนั้น ลองเขียนคําค้นหาของคุณใหม่</string>
+    <string name="intercom_search_for_help">ค้นหาความช่วยเหลือ</string>
+    <string name="intercom_search_gif">ค้นหา GIF...</string>
+    <string name="intercom_search_help_articles">ค้นหาบทความช่วยเหลือ</string>
+    <string name="intercom_see_all">ดูทั้งหมด</string>
+    <string name="intercom_see_all_conversations">ดูการสนทนาทั้งหมดของคุณ</string>
+    <string name="intercom_see_past_conversations">ดูก่อนหน้านี้</string>
+    <string name="intercom_see_previous_conversations">ดูการสนทนาก่อนหน้าของคุณ</string>
+    <string name="intercom_send">ส่ง</string>
+    <string name="intercom_send_a_message_reply_time">เวลาตอบกลับปกติคือ</string>
+    <string name="intercom_send_us_a_message">ส่งข้อความถึงเรา</string>
+    <string name="intercom_send_us_a_message_bot">ส่งข้อความถึงเราและบ็อตของเราจะตอบกลับทันที</string>
+    <string name="intercom_settings">การตั้งค่า</string>
+    <string name="intercom_shared_by">แชร์โดย</string>
+    <string name="intercom_show_less">แสดงน้อยลง</string>
+    <string name="intercom_single_article">1 บทความ</string>
+    <string name="intercom_single_collection">1 คอลเลกชัน</string>
+    <string name="intercom_some_things_failed_to_load">โหลดไม่สำเร็จ ลองอีกครั้ง</string>
+    <string name="intercom_something_went_wrong_try_again">เกิดข้อผิดพลาด ลองอีกครั้ง</string>
+    <string name="intercom_source">แหล่งที่มา</string>
+    <string name="intercom_sources">แหล่งที่มา</string>
+    <string name="intercom_spaces_error_description">ไม่สามารถโหลดเนื้อหาได้</string>
+    <string name="intercom_spaces_error_title">เกิดข้อผิดพลาด</string>
+    <string name="intercom_start_a_conversation">เริ่มการสนทนา</string>
+    <string name="intercom_start_another_conversation">เริ่มการสนทนาอื่น</string>
+    <string name="intercom_start_conversation">เริ่มการสนทนา…</string>
+    <string name="intercom_status">สถานะ</string>
+    <string name="intercom_still_generating_answer">ยังคงสร้างคำตอบ...</string>
+    <string name="intercom_still_thinking">ยังคิดอยู่ว่า...</string>
+    <string name="intercom_still_working_on_it">ยังคงดำเนินการอยู่...</string>
+    <string name="intercom_stop_upload">หยุดอัปโหลด</string>
+    <string name="intercom_storage_access_request">หากต้องการดูรูปภาพของคุณ คุณต้องอนุญาตให้เข้าถึงพื้นที่เก็บข้อมูล</string>
+    <string name="intercom_string_is_incorrect">ไม่ถูกต้อง</string>
+    <string name="intercom_submit">ส่ง</string>
+    <string name="intercom_suggested_articles">บทความแนะนำ</string>
+    <string name="intercom_surveys_all_options_response_hint">โปรดเลือกตัวเลือกทั้งหมดที่เกี่ยวข้อง</string>
+    <string name="intercom_surveys_dismiss">ปิดแบบสํารวจ</string>
+    <string name="intercom_surveys_done_button">เสร็จสิ้น</string>
+    <string name="intercom_surveys_dropdown_default_option">โปรดเลือกคำตอบ...</string>
+    <string name="intercom_surveys_email_error">โปรดป้อนที่อยู่อีเมลที่ถูกต้อง</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">โปรดเลือก {response_count} ตัวเลือก</string>
+    <string name="intercom_surveys_from_company">แบบสำรวจจาก {company}</string>
+    <string name="intercom_surveys_from_teammate">แบบสำรวจโดย {sender_name} จาก {company}</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">คำถามนี้ต้องเลือกตัวเลือกอย่างน้อย {response_count} ตัวเลือก</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">คำถามนี้ต้องเลือกตัวเลือกอย่างน้อย {response_count} ตัวเลือก</string>
+    <string name="intercom_surveys_multi_star_rating">{count} ดาว</string>
+    <string name="intercom_surveys_multiselect_other_option">อื่นๆ (โปรดระบุ)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">โปรดระบุ</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">ป้อนคําตอบ</string>
+    <string name="intercom_surveys_multiselect_other_option_value">อื่นๆ</string>
+    <string name="intercom_surveys_next_button">ถัดไป</string>
+    <string name="intercom_surveys_nps_lower_label">ไม่น่าจะใช่</string>
+    <string name="intercom_surveys_nps_upper_label">มีโอกาสสูง</string>
+    <string name="intercom_surveys_number_error">โปรดป้อนตัวเลข</string>
+    <string name="intercom_surveys_one_star_rating">1 ดาว</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">คําถามที่ {questioin_number} จาก {question_count} ข้อ</string>
+    <string name="intercom_surveys_required_question">ต้องตอบคำถามนี้</string>
+    <string name="intercom_surveys_required_response">ต้องระบุคำตอบ</string>
+    <string name="intercom_surveys_response_range_response_hint">โปรดเลือกอย่างน้อย {minimum_response_count} ตัวเลือกและสูงสุด {maximum_response_count} ตัวเลือก</string>
+    <string name="intercom_surveys_response_too_long">คำตอบต้องมีอักขระไม่เกิน {character_count} ตัว</string>
+    <string name="intercom_surveys_response_too_short">โปรดตรวจสอบว่าคำตอบมีอักขระอย่างน้อย {character_count} ตัว</string>
+    <string name="intercom_surveys_sender_image">รูปภาพผู้ส่งแบบสํารวจ</string>
+    <string name="intercom_surveys_single_response_hint">โปรดเลือก 1 ตัวเลือก</string>
+    <string name="intercom_surveys_telephone_error">โปรดป้อนหมายเลขโทรศัพท์ที่ถูกต้อง</string>
+    <string name="intercom_surveys_text_input_question_placeholder">โปรดพิมพ์คำตอบของคุณที่นี่...</string>
+    <string name="intercom_take_a_photo">ถ่ายภาพ</string>
+    <string name="intercom_tap_to_send_image">แตะเพื่อส่งรูปภาพ</string>
+    <string name="intercom_tasks_space_title">งาน</string>
+    <string name="intercom_team_name_custom_response_delay_2">โดยทั่วไปแล้ว {app_name} จะตอบกลับภายในหนึ่งวัน</string>
+    <string name="intercom_team_name_custom_response_delay_3">โดยทั่วไปแล้ว {app_name} จะตอบกลับภายในหนึ่งสัปดาห์</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">โดยปกติแล้ว {app_name} จะตอบกลับภายในหนึ่งวันทำการ</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">โดยปกติแล้ว {app_name} จะตอบกลับภายในสองวันทำการ</string>
+    <string name="intercom_teammate_from_company">{name} จาก {company}</string>
+    <string name="intercom_tell_us_more">บอกเราเพิ่มเติม...</string>
+    <string name="intercom_tell_us_what_you_need">บอกเราว่าคุณต้องการให้ช่วยเหลืออะไร แล้วบ็อตของเราจะให้คำตอบที่ดีที่สุด</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">ขอขอบคุณ ทีมจะตอบกลับภายในหนึ่งวันทำการ</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">ขอขอบคุณ ทีมจะตอบกลับภายในสองวันทำการ</string>
+    <string name="intercom_thanks_for_letting_us_know">ขอขอบคุณที่แจ้งให้เราทราบ</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">ขอขอบคุณ ทีมจะตอบกลับโดยเร็วที่สุด</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">รหัสประเทศดังกล่าวไม่ถูกต้อง</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">อีเมลดังกล่าวไม่ถูกต้อง</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">หมายเลขดังกล่าวไม่ถูกต้อง</string>
+    <string name="intercom_that_number_has_too_many_digits">หมายเลขดังกล่าวมีหลายหลักเกินไป</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">หมายเลขดังกล่าวขาดไปสองสามหลัก</string>
+    <string name="intercom_that_number_needs_a_prefix">หมายเลขดังกล่าวต้องมีคำนำหน้า (+ หรือ 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">ทีมสามารถช่วยได้หากจําเป็น</string>
+    <string name="intercom_the_team_typically_replies_in_hours">โดยทั่วไปแล้วทีมจะตอบกลับภายในสองถึงสามชั่วโมง</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">โดยปกติแล้วทีมจะตอบกลับภายในหนึ่งวันทำการ</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">โดยทั่วไปแล้วทีมจะตอบกลับภายในสองวันทำการ</string>
+    <string name="intercom_thinking">กำลังคิด...</string>
+    <string name="intercom_ticket_could_not_be_created">ไม่สามารถสร้างทิกเก็ตได้</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">สร้างทิกเก็ต {ticket_type_title}</string>
+    <string name="intercom_ticket_current_status">สถานะปัจจุบัน: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">สถานะปัจจุบัน: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">แอตทริบิวต์ของทิกเก็ต;</string>
+    <string name="intercom_ticket_details_for_title">รายละเอียดทิกเก็ตสําหรับ {title}</string>
+    <string name="intercom_ticket_details_notification_detail">คุณจะได้รับการแจ้งเตือนที่นี่และทางอีเมลที่</string>
+    <string name="intercom_ticket_has_been_created">สร้างทิกเก็ตแล้ว</string>
+    <string name="intercom_ticket_has_been_updated">อัปเดตทิกเก็ตแล้ว</string>
+    <string name="intercom_ticket_sla_details">รายละเอียด SLA: {sla_details}</string>
+    <string name="intercom_ticket_status_details">รายละเอียดสถานะ: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">เปลี่ยนสถานะทิกเก็ตเป็น {status} • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} เปลี่ยนสถานะทิกเก็ตเป็น {status} • {timestamp}</string>
+    <string name="intercom_tickets_add_file">เพิ่มไฟล์</string>
+    <string name="intercom_tickets_add_files">เพิ่มไฟล์</string>
+    <string name="intercom_tickets_create_ticket">สร้างทิกเก็ต</string>
+    <string name="intercom_tickets_create_ticket_fallback">โปรดตอบกลับพร้อมข้อมูลต่อไปนี้ แล้วทีมจะติดต่อกลับโดยเร็ว</string>
+    <string name="intercom_tickets_created_confirmation_header">สร้างทิกเก็ตแล้ว</string>
+    <string name="intercom_tickets_cta_text">มีคำถามเกี่ยวกับคำขอแจ้งปัญหานี้หรือไม่</string>
+    <string name="intercom_tickets_email_copy">การตอบกลับและการอัปเดตทิกเก็ตจะส่งไปที่อีเมลนี้</string>
+    <string name="intercom_tickets_email_subject">ทิกเก็ต {ticket_type_name} ของคุณ</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">คำขอแจ้งปัญหา {ticket_type_name} ของคุณ #{ticket_id}</string>
+    <string name="intercom_tickets_empty_state_text">ทิกเก็ตของคุณจะแสดงที่นี่</string>
+    <string name="intercom_tickets_empty_state_title">ไม่มีทิกเก็ต</string>
+    <string name="intercom_tickets_estimated_resolution">เวลาในการแก้ไขปัญหาโดยประมาณ: {duration}</string>
+    <string name="intercom_tickets_files_added">ไฟล์ที่เพิ่ม</string>
+    <string name="intercom_tickets_have_a_question">มีคำถามเกี่ยวกับปัญหานี้หรือไม่</string>
+    <string name="intercom_tickets_in_progress_status_detail">เรากำลังดำเนินการอยู่ 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} กําลังดำเนินการอยู่!</string>
+    <string name="intercom_tickets_is_resolved">ทิกเก็ตนี้ได้รับการแก้ไขหรือไม่</string>
+    <string name="intercom_tickets_log_a_ticket">บันทึกทิกเก็ต</string>
+    <string name="intercom_tickets_resolved_status_detail">เราได้ดำเนินการกับทิกเก็ตของคุณเรียบร้อยแล้ว</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} ได้ดำเนินการกับทิกเก็ตของคุณเรียบร้อยแล้ว</string>
+    <string name="intercom_tickets_sla">คาดว่าจะได้รับการแก้ไขเวลา {time}</string>
+    <string name="intercom_tickets_space_title">ทิกเก็ต</string>
+    <string name="intercom_tickets_status_change_event">สถานะในตอนนี้ของคำขอแจ้งปัญหาคือ{status} • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">เราได้ดำเนินการกับทิกเก็ตของคุณเรียบร้อยแล้ว</string>
+    <string name="intercom_tickets_status_description_more_info">เราต้องการข้อมูลเพิ่มเติม</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} เปลี่ยนสถานะทิกเก็ตของคุณเป็น</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} ย้ายคำขอแจ้งปัญหาของคุณ #{ticket_id} ไปที่</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">สถานะทิกเก็ตของคุณเปลี่ยนเป็น</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">คำขอแจ้งปัญหาของคุณ #{ticket_id} ย้ายไปที่</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">ทิกเก็ตของคุณ</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">คำขอแจ้งปัญหาของคุณ #{ticket_id}</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">เราจะดำเนินการกับทิกเก็ตของคุณเร็วๆ นี้</string>
+    <string name="intercom_tickets_status_description_working_on">เรากำลังดำเนินการกับทิกเก็ตของคุณ</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} เปลี่ยนสถานะทิกเก็ตเป็น {status} เมื่อ {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">เปลี่ยนสถานะทิกเก็ตเป็น {status} เมื่อ {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">สถานะทิกเก็ตคือ {submitted_status} • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">กําลังดําเนินการ</string>
+    <string name="intercom_tickets_status_resolved">แก้ไขแล้ว</string>
+    <string name="intercom_tickets_status_submitted">ส่งแล้ว</string>
+    <string name="intercom_tickets_status_waiting_on_you">รอคุณอยู่</string>
+    <string name="intercom_tickets_submitted_confirmation_header">ส่งทิกเก็ตแล้ว</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">เราจะแจ้งให้คุณทราบเมื่อทิกเก็ตของคุณมีการอัปเดต</string>
+    <string name="intercom_tickets_submitted_status_detail">เราจะดำเนินการเร็วๆ นี้</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} จะดำเนินการในเร็วๆ นี้</string>
+    <string name="intercom_tickets_unread">ทิกเก็ตคุณมีการอัปเดตทิกเก็ตที่ยังไม่ได้อ่าน</string>
+    <string name="intercom_tickets_updates_prompt">คุณจะได้รับการอัปเดตใน Messenger และทางอีเมล</string>
+    <string name="intercom_tickets_view_ticket">ดูรายละเอียดทิกเก็ต</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">เราต้องการข้อมูลเพิ่มเติมจากคุณ</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} ต้องการข้อมูลเพิ่มเติม</string>
+    <string name="intercom_time_day_ago">{delta} วันที่ผ่านมา</string>
+    <string name="intercom_time_future_1h">ใน 1 ชั่วโมง</string>
+    <string name="intercom_time_future_2h">ใน 2 ชั่วโมง</string>
+    <string name="intercom_time_future_30m">ใน 30 นาที</string>
+    <string name="intercom_time_future_3h">ใน 3 ชั่วโมง</string>
+    <string name="intercom_time_future_day_0">วันจันทร์</string>
+    <string name="intercom_time_future_day_1">วันอังคาร</string>
+    <string name="intercom_time_future_day_2">วันพุธ</string>
+    <string name="intercom_time_future_day_3">วันพฤหัสบดี</string>
+    <string name="intercom_time_future_day_4">วันศุกร์</string>
+    <string name="intercom_time_future_day_5">วันเสาร์</string>
+    <string name="intercom_time_future_day_6">วันอาทิตย์</string>
+    <string name="intercom_time_future_later_today">ภายหลังในวันนี้</string>
+    <string name="intercom_time_future_next_week">สัปดาห์หน้า</string>
+    <string name="intercom_time_future_tomorrow">พรุ่งนี้</string>
+    <string name="intercom_time_hour_ago">{delta} ชั่วโมงที่ผ่านมา</string>
+    <string name="intercom_time_just_now">เมื่อสักครู่</string>
+    <string name="intercom_time_minute_ago">{delta} นาทีที่ผ่านมา</string>
+    <string name="intercom_time_week_ago">{delta} สัปดาห์ที่ผ่านมา</string>
+    <string name="intercom_time_yesterday">เมื่อวานนี้</string>
+    <string name="intercom_try_again">ลองอีกครั้ง</string>
+    <string name="intercom_try_again_minute">ลองอีกครั้งในหนึ่งนาที</string>
+    <string name="intercom_try_use_different_keywords">ลองใช้คำสำคัญอื่นหรือพิมพ์คำถามที่ครบสมบูรณ์ของคุณ</string>
+    <string name="intercom_twitter_follow">ติดตามเราบน Twitter</string>
+    <string name="intercom_two_business_days">สองวันทำการ</string>
+    <string name="intercom_type_a_number">พิมพ์หมายเลข...</string>
+    <string name="intercom_typically_replies_in_one_business_day">โดยปกติแล้วจะตอบกลับภายในหนึ่งวันทำการ</string>
+    <string name="intercom_typically_replies_in_two_business_days">โดยทั่วไปแล้วจะตอบกลับภายในสองวันทำการ</string>
+    <string name="intercom_unread_message_count">{unread_count} ข้อความที่ยังไม่ได้อ่าน</string>
+    <string name="intercom_upfront_collection_form_close_out">คุณสามารถกลับมาที่นี่ได้ทุกเมื่อเพื่อดูคำตอบและส่งการอัปเดต</string>
+    <string name="intercom_upfront_collection_form_introduction">แชร์บริบทเพื่อช่วยให้ทีมตอบคำถามได้ดีขึ้นและเร็วขึ้น</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">ขอขอบคุณที่ส่งบริบทดังกล่าว หากต้องการประหยัดเวลาในภายหลัง คุณสามารถเพิ่มรายละเอียดได้ทันที</string>
+    <string name="intercom_upfront_collection_form_subtitle">ส่งบริบทให้กับทีม</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">ทีมจะพิจารณาบริบทนี้</string>
+    <string name="intercom_upfront_collection_form_title">รับความช่วยเหลือได้เร็วขึ้น</string>
+    <string name="intercom_upfront_collection_form_title_submitted">ส่งให้ทีม!</string>
+    <string name="intercom_upload_failed">อัปโหลดไม่สำเร็จ</string>
+    <string name="intercom_upload_max_files_allowed">อัปโหลดได้สูงสุด {limit} ไฟล์</string>
+    <string name="intercom_upload_max_files_size">ขนาดไฟล์สูงสุดคือ {limit} MB</string>
+    <string name="intercom_user_avatar_image">ภาพอวาตาร์ของผู้ใช้</string>
+    <string name="intercom_view_all">ดูทั้งหมด</string>
+    <string name="intercom_view_conversation">ดูการสนทนา</string>
+    <string name="intercom_view_more_details">ดูรายละเอียดเพิ่มเติม</string>
+    <string name="intercom_view_post">ดูโพสต์</string>
+    <string name="intercom_we_run_on_intercom">เราทำงานผ่าน Intercom</string>
+    <string name="intercom_working_on_it">กําลังดําเนินการอยู่...</string>
+    <string name="intercom_you">คุณ</string>
+    <string name="intercom_you_are_all_up_to_date">เรียบร้อยหมดแล้ว!</string>
+    <string name="intercom_you_have_new_messages">คุณมีข้อความใหม่</string>
+    <string name="intercom_you_rated_the_conversation">คุณให้คะแนนการสนทนา</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">คุณจะได้รับการแจ้งเตือนที่นี่และทางอีเมล</string>
+    <string name="intercom_your_checklists">รายการตรวจสอบของคุณ</string>
+    <string name="intercom_your_conversations">การสนทนาของคุณ</string>
+    <string name="intercom_your_recent_conversations">การสนทนาล่าสุด</string>
+    <string name="intercom_your_recent_message">ข้อความล่าสุด</string>
+    <string name="intercom_your_recent_messages">ข้อความล่าสุด</string>
+    <string name="intercom_your_ticket">ทิกเก็ตของคุณ</string>
+    <string name="item_view_role_description">แท็บ</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"ยุบ Bottom Sheet"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"ปิด Bottom Sheet"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"แฮนเดิลการลาก"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"ขยาย Bottom Sheet"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Bottom Sheet"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"วันที่ป้อน"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"วันที่ป้อน: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"วันที่ไม่ตรงกับรูปแบบที่คาดไว้: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"ไม่อนุญาตให้ใช้วันที่นี้: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"วันที่อยู่นอกเหนือจากช่วงปีที่คาดไว้ %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"วันที่"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"ไม่มี"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"เลือกวันที่"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"วันที่ที่เลือก"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"การเลือกปัจจุบัน: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"ไปยังปี %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"ไม่มี"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"เลื่อนเพื่อแสดงปีก่อนหน้านี้"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"เลื่อนเพื่อแสดงปีหลังจากนี้"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"สลับไปใช้โหมดป้อนข้อมูลปฏิทิน"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"ปัดเพื่อเลือกปีหรือแตะเพื่อเปลี่ยนกลับไปยังการเลือกวัน"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"สลับไปใช้โหมดการป้อนข้อความ"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"เปลี่ยนไปที่เดือนถัดไป"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"เปลี่ยนไปที่เดือนก่อนหน้า"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"เปลี่ยนไปที่การเลือกปี"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"เลือกวันที่"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"วันนี้"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"แสดงตัวเลือกปี"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"การป้อนข้อมูลช่วงวันที่ไม่ถูกต้อง"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"ป้อนวันที่"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"อยู่ในช่วงวันที่ที่เลือก"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"วันที่สิ้นสุด"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"เลื่อนเพื่อแสดงเดือนถัดไป"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"เลื่อนเพื่อแสดงเดือนก่อนหน้า"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"วันที่เริ่มต้น"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"เลือกวันที่"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"กล่องโต้ตอบ"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"ยุบแล้ว"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"ขยายแล้ว"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"ค้นหา"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"ปิด"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"มีคำแนะนำที่ด้านล่าง"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"ชั่วโมง"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d ชม."</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"เลือกชั่วโมง"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d น."</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"สำหรับชั่วโมง"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"นาที"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"เลือกนาที"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d นาที"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"สำหรับนาที"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"เลือก AM หรือ PM"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"แสดงเคล็ดลับเครื่องมือ"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"เคล็ดลับเครื่องมือ"</string>
+    <string name="material_clock_toggle_content_description">เลือก AM หรือ PM</string>
+    <string name="material_hour_24h_suffix">%1$s ชั่วโมง</string>
+    <string name="material_hour_selection">เลือกชั่วโมง</string>
+    <string name="material_hour_suffix">%1$s นาฬิกา</string>
+    <string name="material_minute_selection">เลือกนาที</string>
+    <string name="material_minute_suffix">%1$s นาที</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">สลับไปโหมดนาฬิกาเพื่อป้อนเวลา</string>
+    <string name="material_timepicker_hour">ชั่วโมง</string>
+    <string name="material_timepicker_minute">นาที</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">เลือกเวลา</string>
+    <string name="material_timepicker_text_input_mode_description">สลับไปโหมดป้อนข้อความเพื่อป้อนเวลา</string>
+    <string name="mtrl_badge_numberless_content_description">การแจ้งเตือนใหม่</string>
+    <string name="mtrl_chip_close_icon_content_description">นำ %1$s ออก</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">การแจ้งเตือนใหม่มากกว่า %1$d รายการ</string>
+    <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
+    <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
+    <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_cancel">ยกเลิก</string>
+    <string name="mtrl_picker_confirm">ตกลง</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
+    <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
+    <string name="mtrl_picker_day_of_week_column_header">คอลัมน์ของวัน: %1$s</string>
+    <string name="mtrl_picker_invalid_format">รูปแบบไม่ถูกต้อง</string>
+    <string name="mtrl_picker_invalid_format_example">ตัวอย่าง: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">ใช้: %1$s</string>
+    <string name="mtrl_picker_invalid_range">ช่วงไม่ถูกต้อง</string>
+    <string name="mtrl_picker_navigate_to_year_description">ไปที่ปี %1$s</string>
+    <string name="mtrl_picker_out_of_range">วันที่ไม่อยู่ในช่วงที่อนุญาต: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">วันที่เริ่มต้น – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – วันที่สิ้นสุด</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">เลือกช่วง</string>
+    <string name="mtrl_picker_range_header_unselected">วันที่เริ่มต้น – วันที่สิ้นสุด</string>
+    <string name="mtrl_picker_save">บันทึก</string>
+    <string name="mtrl_picker_text_input_date_hint">วันที่</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">วันที่สิ้นสุด</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">วันที่เริ่มต้น</string>
+    <string name="mtrl_picker_text_input_day_abbr">ว</string>
+    <string name="mtrl_picker_text_input_month_abbr">ด</string>
+    <string name="mtrl_picker_text_input_year_abbr">ป</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">สลับไปใช้โหมดป้อนข้อมูลปฏิทิน</string>
+    <string name="mtrl_picker_toggle_to_day_selection">แตะเพื่อสลับไปใช้การเลือกวัน</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">สลับไปใช้โหมดป้อนข้อมูลข้อความ</string>
+    <string name="mtrl_picker_toggle_to_year_selection">แตะเพื่อสลับไปใช้การเลือกปี</string>
+    <string name="mtrl_timepicker_cancel">ยกเลิก</string>
+    <string name="mtrl_timepicker_confirm">ตกลง</string>
+    <string msgid="542007171693138492" name="navigation_menu">"เมนูการนำทาง"</string>
+    <string msgid="6610465462668679431" name="not_selected">"ไม่ได้เลือก"</string>
+    <string msgid="875452955155264703" name="off">"ปิด"</string>
+    <string msgid="8655164131929253426" name="on">"เปิด"</string>
+    <string name="password_toggle_content_description">แสดงรหัสผ่าน</string>
+    <string msgid="5941395253238309765" name="range_end">"จุดสิ้นสุดของช่วง"</string>
+    <string msgid="7097486360902471446" name="range_start">"จุดเริ่มต้นของช่วง"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"ค้นหา"</string>
+    <string msgid="6043586758067023" name="selected">"เลือกไว้"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"เปลี่ยน"</string>
+    <string msgid="1672349317127674378" name="tab">"แท็บ"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> เปอร์เซ็นต์"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"เคล็ดลับเครื่องมือ"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"แสดงเคล็ดลับเครื่องมือ"</string>
+</resources>

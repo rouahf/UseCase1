@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25x</item>
+    <item>0,5x</item>
+    <item>0,75x</item>
+    <item>Normală</item>
+    <item>1,25x</item>
+    <item>1,5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">Derulează rapid înainte cu %d secundă</item>
+    <item quantity="few">Derulează rapid înainte cu %d secunde</item>
+    <item quantity="other">Derulează rapid înainte cu %d de secunde</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">Derulează înapoi cu %d secundă</item>
+    <item quantity="few">Derulează înapoi cu %d secunde</item>
+    <item quantity="other">Derulează înapoi cu %d de secunde</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificare nouă</item>
+    <item quantity="few">%d notificări noi</item>
+    <item quantity="other">%d de notificări noi</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gata"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Afișați tot"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DEZACTIVAT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meniu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Termen de căutare"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Trimiteți folosind <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="bottomsheet_action_collapse">Restrângeți foaia din partea de jos</string>
+    <string name="bottomsheet_action_expand">Extindeți foaia din partea de jos</string>
+    <string name="bottomsheet_action_expand_halfway">Extinde pe ecran complet</string>
+    <string name="bottomsheet_drag_handle_clicked">Ghidaj de tragere atins de două ori</string>
+    <string name="bottomsheet_drag_handle_content_description">Ghidaj de tragere</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Răspunde"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Respinge"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Închide"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Apel primit"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Apel în desfășurare"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Se filtrează un apel primit"</string>
+    <string name="character_counter_content_description">Caractere introduse: %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+    <string name="clear_text_end_icon_content_description">Ștergeți textul</string>
+    <string msgid="406453423630273620" name="close_drawer">"Închide meniul de navigare"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Închide foaia"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Activați</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Instalați</string>
+    <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul dvs.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Descărcați serviciile Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitatea serviciilor Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Încercați din nou.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul dvs.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Actualizați</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Actualizați serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="common_google_play_services_wear_update_text">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând.</string>
+    <string name="common_open_on_phone">Deschideți pe telefon</string>
+    <string name="common_signin_button_text">Conectați-vă</string>
+    <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Intrare nevalidă"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Fereastră pop-up"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Meniu drop-down"</string>
+    <string name="error_icon_content_description">Eroare</string>
+    <string name="exo_controls_cc_disabled_description">Activează subtitrările</string>
+    <string name="exo_controls_cc_enabled_description">Dezactivează subtitrările</string>
+    <string name="exo_controls_fastforward_description">Derulează rapid înainte</string>
+    <string name="exo_controls_fullscreen_enter_description">Accesează în ecran complet</string>
+    <string name="exo_controls_fullscreen_exit_description">Ieși din ecranul complet</string>
+    <string name="exo_controls_hide">Ascunde comenzile playerului</string>
+    <string name="exo_controls_next_description">Înainte</string>
+    <string name="exo_controls_overflow_hide_description">Ascunde setările suplimentare</string>
+    <string name="exo_controls_overflow_show_description">Afișează setările suplimentare</string>
+    <string name="exo_controls_pause_description">Întrerupe</string>
+    <string name="exo_controls_play_description">Redă</string>
+    <string name="exo_controls_playback_speed">Viteză</string>
+    <string name="exo_controls_previous_description">Înapoi</string>
+    <string name="exo_controls_repeat_all_description">Mod curent: se repetă tot. Comută modul repetare.</string>
+    <string name="exo_controls_repeat_off_description">Mod actual: nu se repetă. Comută modul repetare.</string>
+    <string name="exo_controls_repeat_one_description">Mod actual: se repetă una. Comută modul repetare.</string>
+    <string name="exo_controls_rewind_description">Derulează înapoi</string>
+    <string name="exo_controls_seek_bar_description">Progresul redării</string>
+    <string name="exo_controls_settings_description">Setări</string>
+    <string name="exo_controls_show">Afișează comenzile playerului</string>
+    <string name="exo_controls_shuffle_off_description">Activează modul sortare aleatorie</string>
+    <string name="exo_controls_shuffle_on_description">Dezactivează modul sortare aleatorie</string>
+    <string name="exo_controls_stop_description">Oprește</string>
+    <string name="exo_controls_vr_description">Mod RV</string>
+    <string name="exo_download_completed">Descărcarea a fost finalizată</string>
+    <string name="exo_download_description">Descarcă</string>
+    <string name="exo_download_downloading">Se descarcă</string>
+    <string name="exo_download_failed">Descărcarea nu a reușit</string>
+    <string name="exo_download_notification_channel_name">Descărcări</string>
+    <string name="exo_download_paused">Descărcările au fost întrerupte</string>
+    <string name="exo_download_paused_for_network">Descărcările așteaptă rețeaua</string>
+    <string name="exo_download_paused_for_wifi">Descărcările așteaptă rețeaua Wi-Fi</string>
+    <string name="exo_download_removing">Se elimină descărcările</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternativ</string>
+    <string name="exo_track_role_closed_captions">Subtitrări</string>
+    <string name="exo_track_role_commentary">Comentarii</string>
+    <string name="exo_track_role_supplementary">Suplimentar</string>
+    <string name="exo_track_selection_auto">Automat</string>
+    <string name="exo_track_selection_none">Fără</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Sunet surround</string>
+    <string name="exo_track_surround_5_point_1">Sunet surround 5.1</string>
+    <string name="exo_track_surround_7_point_1">Sunet surround 7.1</string>
+    <string name="exo_track_unknown">Necunoscut</string>
+    <string name="exo_track_unknown_name">Necunoscută (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">Afișați meniul drop-down</string>
+    <string name="icon_content_description">Pictogramă de dialog</string>
+    <string msgid="6827826412747255547" name="in_progress">"În curs"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Bifată parțial"</string>
+    <string name="intercom_access_background_location_message">Accesați setările dispozitivului pentru a permite aplicației să utilizeze locația dvs. în fundal</string>
+    <string name="intercom_access_background_location_title">Permiteți accesul la locația dvs. tot timpul</string>
+    <string name="intercom_access_device_settings">Intră în setările dispozitivului pentru a permite accesul la fotografiile tale</string>
+    <string name="intercom_access_photos">Accesează fotografiile tale</string>
+    <string name="intercom_active_15m_ago">Activ în ultimele {minutes} minute</string>
+    <string name="intercom_active_day_ago">Activ acum {days} zile</string>
+    <string name="intercom_active_hour_ago">Activ acum {hours} ore</string>
+    <string name="intercom_active_minute_ago">Activ acum {minutes} minute</string>
+    <string name="intercom_active_state">Activ</string>
+    <string name="intercom_active_week_ago">Activ acum 1 săptămână</string>
+    <string name="intercom_add">Adăugați</string>
+    <string name="intercom_ai_answer">Răspuns AI</string>
+    <string name="intercom_ai_answer_information">Răspuns AI, informații</string>
+    <string name="intercom_ai_bot">Robot AI</string>
+    <string name="intercom_allow_access">Permite accesul</string>
+    <string name="intercom_allow_storage_access">Te rugăm să permiți accesul la dispozitivele de stocare pentru a vizualiza fotografiile</string>
+    <string name="intercom_almost_there">Aproape am terminat..</string>
+    <string name="intercom_also_in_this_conversation">De asemenea în această conversație</string>
+    <string name="intercom_android_activated_message">Aplicaţia Android este acum integrată în platforma Intercom</string>
+    <string name="intercom_answer">Răspuns</string>
+    <string name="intercom_app_settings">Setările aplicației</string>
+    <string name="intercom_article_double_author">De {author_first_name1} și {author_first_name2}</string>
+    <string name="intercom_article_load_error">Articolul nu a putut fi încărcat</string>
+    <string name="intercom_article_multiple_authors">De {author_first_name1} și alți {number_of_other_authors}</string>
+    <string name="intercom_article_question">Ați primit răspuns la întrebare?</string>
+    <string name="intercom_article_response">Aţi reacţionat cu</string>
+    <string name="intercom_article_search_hint_text">Căutați articole...</string>
+    <string name="intercom_article_search_search_results">Rezultatele căutării</string>
+    <string name="intercom_article_single_author">De {author_first_name}</string>
+    <string name="intercom_ask_a_question">Puneți o întrebare</string>
+    <string name="intercom_ask_a_question_with_ellipsis">Adresați o întrebare...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">Adresați o altă întrebare...</string>
+    <string name="intercom_ask_our_bot_a_question">Adresați o întrebare robotului nostru</string>
+    <string name="intercom_asked_about">În legătura cu</string>
+    <string name="intercom_assigned_to_admin">Atribuit lui {admin}</string>
+    <string name="intercom_attribute_collector_negative">Nu</string>
+    <string name="intercom_attribute_collector_positive">Da</string>
+    <string name="intercom_available_teammates">Colegi de echipă disponibili: {available_teammates}</string>
+    <string name="intercom_avatar">Avatar</string>
+    <string name="intercom_avatars">Avataruri</string>
+    <string name="intercom_away_state">Plecat</string>
+    <string name="intercom_bot">Bot</string>
+    <string name="intercom_bot_answers_instantly">Robotul răspunde instantaneu</string>
+    <string name="intercom_bot_expectation_text">Botul nostru poate răspunde la multe întrebări frecvente</string>
+    <string name="intercom_bot_is_still_thinking">Robotul încă se gândește...</string>
+    <string name="intercom_bot_is_thinking">Robotul se gândește...</string>
+    <string name="intercom_browse_all_help_topics">Răsfoiți toate subiectele de ajutor</string>
+    <string name="intercom_browse_collections">Răsfoiți colecțiile</string>
+    <string name="intercom_cancel">Anulare</string>
+    <string name="intercom_chat_with_us">Discutați cu noi</string>
+    <string name="intercom_check_later_for_updates">Reveniți mai târziu pentru actualizări.</string>
+    <string name="intercom_checklist_card_first_step">Primul pas</string>
+    <string name="intercom_checklist_card_next_step">Pasul următor</string>
+    <string name="intercom_checklist_completed">Finalizat</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">Au mai rămas aproximativ {minutes} minute</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">A mai rămas aproximativ 1 minut</string>
+    <string name="intercom_checklist_mark_step_as_complete">Marcați ca fiind finalizat</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">Aproximativ {minutes} minute</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">Aproximativ 1 minut</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} pași</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">{steps_completed} din {total_steps} efectuați</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">1 din {total_steps} efectuat</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 pas</string>
+    <string name="intercom_checklist_sender_name">Distribuit de {name}</string>
+    <string name="intercom_checklist_step_action_button">Buton de acțiune pas cu pas</string>
+    <string name="intercom_checklist_step_completed">Finalizat</string>
+    <string name="intercom_choose_one">Alegeți…</string>
+    <string name="intercom_choose_the_date">Choose the date…</string>
+    <string name="intercom_clear">Ștergere</string>
+    <string name="intercom_close">Închidere</string>
+    <string name="intercom_congratulations">Felicitări</string>
+    <string name="intercom_connected">Eşti conectat</string>
+    <string name="intercom_contact_support">Contactați asistența</string>
+    <string name="intercom_contact_us">Contactați-ne</string>
+    <string name="intercom_continue_the_conversation">Continuă conversația</string>
+    <string name="intercom_conversation_card_office_hours_header">Vom reveni online</string>
+    <string name="intercom_conversation_card_reply_time_header">Timpul nostru obișnuit de răspuns</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">Timp de răspuns obișnuit</string>
+    <string name="intercom_conversation_has_ended">Conversația ta s-a încheiat</string>
+    <string name="intercom_conversation_number_and_description">Conversația numărul {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">Conversaţii</string>
+    <string name="intercom_conversations_space_title">Conversații</string>
+    <string name="intercom_conversations_with_app">Conversaţii cu {name}</string>
+    <string name="intercom_copied_to_clipboard">Copiat în clipboard</string>
+    <string name="intercom_couldnt_complete_action">Această acțiune nu a putut fi finalizată</string>
+    <string name="intercom_couldnt_load_apps">Aplicațiile nu au putut fi încărcate.</string>
+    <string name="intercom_couldnt_load_content">Conținutul nu a putut fi încărcat</string>
+    <string name="intercom_couldnt_load_messenger">Messenger nu a putut fi încărcat.</string>
+    <string name="intercom_create_a_ticket">Creați un tichet</string>
+    <string name="intercom_currently_no_help_articles">În prezent, nu există articole de ajutor disponibile.</string>
+    <string name="intercom_delete_attachment">Ștergeți atașarea</string>
+    <string name="intercom_delivered">Livrat</string>
+    <string name="intercom_disappointed_face_emoji">Față dezamăgită</string>
+    <string name="intercom_dismiss">Renunţă</string>
+    <string name="intercom_empty_conversations">Mesajele echipei vor fi afișate aici</string>
+    <string name="intercom_enter_text_placeholder">Introduceți text...</string>
+    <string name="intercom_error_loading_conversation">Conversaţia nu a putut fi încărcată</string>
+    <string name="intercom_error_loading_ticket">Tichetul nu a putut fi încărcat</string>
+    <string name="intercom_expected_response_delay_10800">sub 3 ore</string>
+    <string name="intercom_expected_response_delay_120">sub 2 minute</string>
+    <string name="intercom_expected_response_delay_1200">sub 20 de minute</string>
+    <string name="intercom_expected_response_delay_14400">sub 4 ore</string>
+    <string name="intercom_expected_response_delay_172800">2 zile</string>
+    <string name="intercom_expected_response_delay_180">sub 3 minute</string>
+    <string name="intercom_expected_response_delay_1800">sub 30 de minute</string>
+    <string name="intercom_expected_response_delay_18000">sub 5 ore</string>
+    <string name="intercom_expected_response_delay_21600">sub 6 ore</string>
+    <string name="intercom_expected_response_delay_240">sub 4 minute</string>
+    <string name="intercom_expected_response_delay_259200">3 zile</string>
+    <string name="intercom_expected_response_delay_300">sub 5 minute</string>
+    <string name="intercom_expected_response_delay_345600">4 zile</string>
+    <string name="intercom_expected_response_delay_3600">sub 1 oră</string>
+    <string name="intercom_expected_response_delay_43200">sub 12 ore</string>
+    <string name="intercom_expected_response_delay_432000">5 zile</string>
+    <string name="intercom_expected_response_delay_518400">6 zile</string>
+    <string name="intercom_expected_response_delay_60">sub 1 minut</string>
+    <string name="intercom_expected_response_delay_600">sub 10 minute</string>
+    <string name="intercom_expected_response_delay_604800">sub 1 săptămână</string>
+    <string name="intercom_expected_response_delay_7200">sub 2 ore</string>
+    <string name="intercom_expected_response_delay_86400">1 zi</string>
+    <string name="intercom_expected_response_delay_900">sub 15 minute</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} etichete</string>
+    <string name="intercom_facebook_like">Apreciaţi-ne pe Facebook</string>
+    <string name="intercom_failed_delivery">Mesajul nu a putut fi trimis</string>
+    <string name="intercom_failed_to_load_conversation">Conversaţiile nu au putut fi încărcate</string>
+    <string name="intercom_failed_to_load_tickets">Tichetele dvs. nu s-au putut încărca</string>
+    <string name="intercom_failed_to_load_tickets_with_app">Tichetele dvs. nu au putut fi încărcate cu {app_name}</string>
+    <string name="intercom_failed_to_send">Nu poate fi trimis</string>
+    <string name="intercom_field_is_required">Câmpul {field_name} este obligatoriu</string>
+    <string name="intercom_file_access_failed">Fişierul respectiv nu poate fi accesat</string>
+    <string name="intercom_file_max_limit">Maximum {limit} fișiere</string>
+    <string name="intercom_file_saved">Fișier salvat</string>
+    <string name="intercom_file_too_big">Nu se pot trimite fişiere de peste {limit} MB</string>
+    <string name="intercom_file_type_not_allowed">Tipul de fișier nu este permis</string>
+    <string name="intercom_files">Fișiere</string>
+    <string name="intercom_gallery">Galerie</string>
+    <string name="intercom_generating_answer">Generez un răspuns...</string>
+    <string name="intercom_get_help">Obțineți ajutor</string>
+    <string name="intercom_get_notified_by_email">Primește răspunsuri prin e-mail</string>
+    <string name="intercom_gif_attribution">via {providername}</string>
+    <string name="intercom_gifs_load_error">GIF-urile nu au putut fi încărcate</string>
+    <string name="intercom_give_it_another_try">Încearcă din nou</string>
+    <string name="intercom_go_to_device_settings">Pentru a permite accesul, accesează setările aplicației de pe dispozitiv - meniul permisiuni</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">Față zâmbitoare cu ochii mari</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+1 altul</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+{other_participant_count} alții</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">{other_participant_count} alte persoane participă, de asemenea</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name} participă, de asemenea</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} și încă 1 persoană participă, de asemenea,</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} și alte {other_participant_count} persoane participă, de asemenea</string>
+    <string name="intercom_group_conversation_one_person_also_participating">Mai participă încă 1 persoană</string>
+    <string name="intercom_help_center">Centrul de asistență</string>
+    <string name="intercom_help_space_title">Ajutor</string>
+    <string name="intercom_home_space_title">Acasă</string>
+    <string name="intercom_how_can_we_help">Cum vă putem ajuta?</string>
+    <string name="intercom_how_would_you_rate_this">Ce rating ați oferi?</string>
+    <string name="intercom_image_attached">(imagine ataşată)</string>
+    <string name="intercom_inbox_error_state_title">A intervenit o problemă</string>
+    <string name="intercom_last_active_hours_ago">Ultima activitate în urmă cu {mins} ore</string>
+    <string name="intercom_last_active_mins_ago">Ultima activitate în urmă cu {mins} minute</string>
+    <string name="intercom_last_active_over_a_week">Ultima activitate în urmă cu peste 1 săptămână</string>
+    <string name="intercom_learn_more">Aflați mai multe</string>
+    <string name="intercom_loading">Încărcare</string>
+    <string name="intercom_message_failed_try_again">Nu a putut fi trimis, atinge pentru a încerca din nou</string>
+    <string name="intercom_message_placeholder">Mesaj...</string>
+    <string name="intercom_message_seen">Văzut</string>
+    <string name="intercom_message_state_sending">Se trimite…</string>
+    <string name="intercom_message_summary">Rezumatul mesajului: {summary}, numele colegului de echipă: {name}, ora la care a fost trimis mesajul: {sentTime}. </string>
+    <string name="intercom_message_summary_with_teammate_status">Rezumatul mesajului: {summary}, numele colegului de echipă: {name}, starea colegului de echipă: {adminStatus}, ora mesajului trimis: {sentTime}. </string>
+    <string name="intercom_message_unread">Mesajul este necitit.</string>
+    <string name="intercom_message_unseen">Nu s-a văzut</string>
+    <string name="intercom_messages_space_title">Mesaje</string>
+    <string name="intercom_messenger_bot_reply_time">Botul nostru va răspunde instantaneu</string>
+    <string name="intercom_multiple_articles">{total_articles} articole</string>
+    <string name="intercom_multiple_collections">{total_collection} colecții</string>
+    <string name="intercom_name_and_1_other">{name} și 1 altul</string>
+    <string name="intercom_name_and_x_others">{name} și alți {count}</string>
+    <string name="intercom_navigation_back">Înapoi</string>
+    <string name="intercom_need_camera_access">{app_name} are nevoie de acces la camera foto pentru a putea face fotografii și înregistrări video. Atingeți Setări > Permisiuni și porniți Camera.</string>
+    <string name="intercom_neutral_face_emoji">Față neutră</string>
+    <string name="intercom_new_conversation">Conversație nouă</string>
+    <string name="intercom_new_message">Mesaj nou</string>
+    <string name="intercom_new_messages">Ai {n} mesaje noi</string>
+    <string name="intercom_new_notifications">Notificări noi</string>
+    <string name="intercom_news">Noutăți</string>
+    <string name="intercom_news_empty_title">Nu există încă nicio veste</string>
+    <string name="intercom_news_latest_subtitle">De la echipa {team_name}</string>
+    <string name="intercom_news_latest_title">Cele mai recente</string>
+    <string name="intercom_news_older_title">Mai vechi</string>
+    <string name="intercom_news_space_title">Noutăți</string>
+    <string name="intercom_no_articles_to_display">Încă nu există articole</string>
+    <string name="intercom_no_conversations">Nu există conversaţii</string>
+    <string name="intercom_no_gifs_found">Nu a fost găsit niciun GIF</string>
+    <string name="intercom_no_gifs_matching_query">Nu am putut găsi GIF-uri pentru căutarea ta</string>
+    <string name="intercom_no_help_articles_to_display">Nu există articole de ajutor</string>
+    <string name="intercom_no_messages_from_the_team">Nici un mesaj din partea echipei</string>
+    <string name="intercom_no_network_connection">Nu există o conexiune la reţea</string>
+    <string name="intercom_no_photos">Nicio fotografie</string>
+    <string name="intercom_no_photos_on_device">Nu există fotografii pe acest dispozitiv</string>
+    <string name="intercom_no_results_for_searchterm">Niciun rezultat pentru {searchTerm}</string>
+    <string name="intercom_no_tasks">Nu există sarcini</string>
+    <string name="intercom_no_tasks_available_currently">În prezent, nu există sarcini disponibile.</string>
+    <string name="intercom_not_now">Nu acum</string>
+    <string name="intercom_nothing_to_see_here_yet">Nu este nimic aici, încă.</string>
+    <string name="intercom_notification_channel_actions_description">Conține linkuri pentru acțiuni în această aplicație</string>
+    <string name="intercom_notification_channel_actions_title">Acțiuni</string>
+    <string name="intercom_notification_channel_chat_replies_description">Notificări de răspuns de la chat-urile din această aplicație</string>
+    <string name="intercom_notification_channel_chat_replies_title">Răspunsuri chat</string>
+    <string name="intercom_notification_channel_new_chats_description">Mesaj chat nou trimis din această aplicație</string>
+    <string name="intercom_notification_channel_new_chats_title">Chat-uri noi</string>
+    <string name="intercom_number_is_incorrect">Acest număr nu pare a fi corect</string>
+    <string name="intercom_ok">Ok</string>
+    <string name="intercom_one_new_message">Ai un mesaj nou</string>
+    <string name="intercom_our_bot_answers_instantly">Robotul nostru răspunde instantaneu</string>
+    <string name="intercom_page_not_found">Pagina respectivă nu mai este aici</string>
+    <string name="intercom_permission_denied">Această permisiune a fost refuzată</string>
+    <string name="intercom_photo_access_denied">Nu ai permis accesul la fotografiile tale</string>
+    <string name="intercom_photo_and_video_library">Biblioteca foto și video</string>
+    <string name="intercom_placeholder_datepicker">ZZ-LL-AAAA</string>
+    <string name="intercom_placeholder_email_input">Introduceți e-mailul aici...</string>
+    <string name="intercom_placeholder_numerical_inputs">Introduceți numărul aici...</string>
+    <string name="intercom_placeholder_text_inputs">Introduceți textul aici...</string>
+    <string name="intercom_please_select">Vă rugăm să selectați...</string>
+    <string name="intercom_plus_x_more">+{n}mai mult</string>
+    <string name="intercom_powered_by_intercom">Dezvoltat de Intercom</string>
+    <string name="intercom_profile_location">{time} în {location}</string>
+    <string name="intercom_rate_your_conversation">Evaluează conversația</string>
+    <string name="intercom_recent_ticket">Tichet recent</string>
+    <string name="intercom_recent_tickets">Tichete recente</string>
+    <string name="intercom_record_a_video">Înregistrați un videoclip</string>
+    <string name="intercom_reload">Reîncărcă</string>
+    <string name="intercom_reply">Răspuns</string>
+    <string name="intercom_reply_from_admin">Răspuns de la {name}</string>
+    <string name="intercom_reply_to_conversation">Scrie un răspuns</string>
+    <string name="intercom_retry">Încearcă din nou</string>
+    <string name="intercom_saving">Se salvează...</string>
+    <string name="intercom_search_browse_empty_state_text">Ne pare rău, nu am putut găsi rezultate pentru aceasta. Încercați să reformulați căutarea.</string>
+    <string name="intercom_search_for_help">Căutați ajutor</string>
+    <string name="intercom_search_gif">Caută GIF-uri…</string>
+    <string name="intercom_search_help_articles">Căutați articole de ajutor</string>
+    <string name="intercom_see_all">Vezi toate</string>
+    <string name="intercom_see_all_conversations">Vezi toate conversațiile tale</string>
+    <string name="intercom_see_past_conversations">Vezi conversații anterioare</string>
+    <string name="intercom_see_previous_conversations">Vezi conversațiile tale anterioare</string>
+    <string name="intercom_send">Trimite</string>
+    <string name="intercom_send_a_message_reply_time">Timpul obișnuit de răspuns este</string>
+    <string name="intercom_send_us_a_message">Trimiteți-ne un mesaj</string>
+    <string name="intercom_send_us_a_message_bot">Trimiteți-ne un mesaj și botul nostru va răspunde instantaneu</string>
+    <string name="intercom_settings">Setări</string>
+    <string name="intercom_shared_by">Distribuit de</string>
+    <string name="intercom_show_less">Arată mai puțin</string>
+    <string name="intercom_single_article">1 articol</string>
+    <string name="intercom_single_collection">1 colecție</string>
+    <string name="intercom_some_things_failed_to_load">Unele articole nu au reușit să se încarce. Încercați din nou.</string>
+    <string name="intercom_something_went_wrong_try_again">A apărut o problemă. Încercă din nou.</string>
+    <string name="intercom_source">Sursă</string>
+    <string name="intercom_sources">Surse</string>
+    <string name="intercom_spaces_error_description">Conținutul nu a putut fi încărcat</string>
+    <string name="intercom_spaces_error_title">Ceva nu a funcționat bine</string>
+    <string name="intercom_start_a_conversation">Începe o conversație</string>
+    <string name="intercom_start_another_conversation">Începe altă conversație</string>
+    <string name="intercom_start_conversation">Începe o conversaţie</string>
+    <string name="intercom_status">Stare</string>
+    <string name="intercom_still_generating_answer">Încă generez un răspuns...</string>
+    <string name="intercom_still_thinking">Încă mă gândesc...</string>
+    <string name="intercom_still_working_on_it">Încă pregătesc un răspuns...</string>
+    <string name="intercom_stop_upload">Opriți încărcarea</string>
+    <string name="intercom_storage_access_request">Pentru a-ți vedea fotografiile, trebuie să permiți accesul la dispozitivele de stocare</string>
+    <string name="intercom_string_is_incorrect">Acest lucru nu pare a fi corect</string>
+    <string name="intercom_submit">Trimiteți</string>
+    <string name="intercom_suggested_articles">Articole sugerate</string>
+    <string name="intercom_surveys_all_options_response_hint">Vă rugăm să selectați toate opțiunile care se aplică</string>
+    <string name="intercom_surveys_dismiss">Închideți sondajul</string>
+    <string name="intercom_surveys_done_button">Gata</string>
+    <string name="intercom_surveys_dropdown_default_option">Vă rugăm să selectați un răspuns...</string>
+    <string name="intercom_surveys_email_error">Vă rugăm să introduceți o adresă de e-mail validă</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">Vă rugăm să selectați {response_count} opțiuni</string>
+    <string name="intercom_surveys_from_company">Sondaj de la {company}</string>
+    <string name="intercom_surveys_from_teammate">Sondaj realizat de {sender_name} de la {company}</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">Această întrebare necesită selectarea a cel puțin {response_count} opțiuni</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">Această întrebare necesită selectarea a {response_count} opțiuni</string>
+    <string name="intercom_surveys_multi_star_rating">{count} stele</string>
+    <string name="intercom_surveys_multiselect_other_option">Altele (vă rugăm să precizați)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">Vă rugăm să precizați</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">Introduceți răspunsul</string>
+    <string name="intercom_surveys_multiselect_other_option_value">Altele</string>
+    <string name="intercom_surveys_next_button">Pasul următor</string>
+    <string name="intercom_surveys_nps_lower_label">Puțin probabil</string>
+    <string name="intercom_surveys_nps_upper_label">Foarte probabil</string>
+    <string name="intercom_surveys_number_error">Vă rugăm să introduceți un număr</string>
+    <string name="intercom_surveys_one_star_rating">1 stea</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">Întrebarea {questioin_number} din {question_count}</string>
+    <string name="intercom_surveys_required_question">Aceasta este o întrebare obligatorie</string>
+    <string name="intercom_surveys_required_response">Acesta este un răspuns obligatoriu</string>
+    <string name="intercom_surveys_response_range_response_hint">Vă rugăm să selectați un minim de {minimum_response_count} și un maxim de {maximum_response_count} opțiuni</string>
+    <string name="intercom_surveys_response_too_long">Vă rugăm să păstrați răspunsurile la maxim {character_count} caractere</string>
+    <string name="intercom_surveys_response_too_short">Asigurați-vă că răspunsurile au minimum {character_count} caractere</string>
+    <string name="intercom_surveys_sender_image">Imaginea expeditorului sondajului</string>
+    <string name="intercom_surveys_single_response_hint">Vă rugăm să selectați 1 opțiune</string>
+    <string name="intercom_surveys_telephone_error">Vă rugăm să introduceți un număr de telefon valid</string>
+    <string name="intercom_surveys_text_input_question_placeholder">Vă rugăm să scrieți răspunsul dumneavoastră aici...</string>
+    <string name="intercom_take_a_photo">Faceți o fotografie</string>
+    <string name="intercom_tap_to_send_image">Apasă pentru a trimite o imagine</string>
+    <string name="intercom_tasks_space_title">Sarcini</string>
+    <string name="intercom_team_name_custom_response_delay_2">{app_name} răspunde de obicei în decurs de o zi</string>
+    <string name="intercom_team_name_custom_response_delay_3">{app_name} răspunde de obicei într-o săptămână</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} răspunde de obicei într-o zi lucrătoare</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} răspunde de obicei în două zile lucrătoare</string>
+    <string name="intercom_teammate_from_company">{name} de la {company}</string>
+    <string name="intercom_tell_us_more">Oferă-ne mai multe detalii…</string>
+    <string name="intercom_tell_us_what_you_need">Spuneți-ne pentru ce aveți nevoie de ajutor și bot-ul nostru va face tot posibilul pentru a răspunde</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">Mulțumim! Echipa va răspunde într-o zi lucrătoare</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">Mulțumim! Echipa va răspunde în două zile lucrătoare</string>
+    <string name="intercom_thanks_for_letting_us_know">Îți mulțumim pentru informații</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">Mulțumim! Echipa va răspunde imediat ce va putea</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">Acest cod de țară nu pare a fi corect</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">Această adresă de e-mail nu pare a fi corectă</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">Acest număr nu pare a fi corect</string>
+    <string name="intercom_that_number_has_too_many_digits">Acest număr conține prea multe cifre</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">Acest număr are câteva cifre lipsă</string>
+    <string name="intercom_that_number_needs_a_prefix">Pentru acest număr este nevoie de un prefix (+ sau 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">Echipa poate ajuta dacă este necesar</string>
+    <string name="intercom_the_team_typically_replies_in_hours">Echipa răspunde de obicei în câteva ore.</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">Echipa răspunde de obicei într-o zi lucrătoare.</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">Echipa răspunde de obicei în două zile lucrătoare</string>
+    <string name="intercom_thinking">Mă gândesc...</string>
+    <string name="intercom_ticket_could_not_be_created">Tichetul de asistență nu a putut fi creat</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">Creați un tichet de asistență {ticket_type_title}</string>
+    <string name="intercom_ticket_current_status">Starea curentă: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">Starea curentă: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">Atributele tichetului de asistență;</string>
+    <string name="intercom_ticket_details_for_title">Detalii tichet de asistență pentru {title}</string>
+    <string name="intercom_ticket_details_notification_detail">Veți primi notificări aici și prin e-mail la</string>
+    <string name="intercom_ticket_has_been_created">Tichetul a fost creat</string>
+    <string name="intercom_ticket_has_been_updated">Tichetul a fost actualizat</string>
+    <string name="intercom_ticket_sla_details">Detalii SLA: {sla_details}</string>
+    <string name="intercom_ticket_status_details">Detalii despre stare: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">Tichetul de asistență a fost mutat în {status} • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} a mutat tichetul de asistență în starea {status} • {timestamp}</string>
+    <string name="intercom_tickets_add_file">Adăugați un fișier</string>
+    <string name="intercom_tickets_add_files">Adăugați fișiere</string>
+    <string name="intercom_tickets_create_ticket">Creați un tichet de asistență</string>
+    <string name="intercom_tickets_create_ticket_fallback">Vă rugăm să răspundeți cu următoarele informații și cineva vă va contacta în curând.</string>
+    <string name="intercom_tickets_created_confirmation_header">Tichetul este creat</string>
+    <string name="intercom_tickets_cta_text">Aveți o întrebare despre acest tichet?</string>
+    <string name="intercom_tickets_email_copy">Răspunsurile și actualizările de bilete vor fi trimise la acest e-mail</string>
+    <string name="intercom_tickets_email_subject">Tichetul dvs. de asistență {ticket_type_name}</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">Tichetul dvs. de asistență {ticket_type_name} cu numărul {ticket_id}</string>
+    <string name="intercom_tickets_empty_state_text">Tichetele dvs. vor fi afișate aici</string>
+    <string name="intercom_tickets_empty_state_title">Nu există tichete</string>
+    <string name="intercom_tickets_estimated_resolution">Timpul estimat până la rezolvare: {duration}</string>
+    <string name="intercom_tickets_files_added">Fișiere adăugate</string>
+    <string name="intercom_tickets_have_a_question">Aveți o întrebare cu privire la acest subiect?</string>
+    <string name="intercom_tickets_in_progress_status_detail">Lucrăm la aceasta 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} lucrează la aceasta!</string>
+    <string name="intercom_tickets_is_resolved">Acest tichet de asistență este rezolvat?</string>
+    <string name="intercom_tickets_log_a_ticket">Înregistrați un tichet de asistență</string>
+    <string name="intercom_tickets_resolved_status_detail">Am finalizat tichetul dvs. de asistență</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} a finalizat tichetul dvs. de asistență</string>
+    <string name="intercom_tickets_sla">Estimarea rezolvării {time}</string>
+    <string name="intercom_tickets_space_title">Tichete</string>
+    <string name="intercom_tickets_status_change_event">Tichetul este acum {status} • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">Am finalizat tichetul dvs. de asistență</string>
+    <string name="intercom_tickets_status_description_more_info">Avem nevoie de mai multe informații</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} a mutat tichetul dvs. de asistență în</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} a mutat tichetul dvs. de asistență cu numărul {ticket_id} la</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">Tichetul dvs. de asistență s-a mutat la</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">Tichetul dvs. de asistență cu numărul {ticket_id} s-a mutat la</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">Tichetul dvs. de asistență a fost</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">Tichetul dvs. de asistență cu numărul {ticket_id} a fost</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">Vom prelua tichetul dvs. de asistență în curând</string>
+    <string name="intercom_tickets_status_description_working_on">Lucrăm la tichetul dvs. de asistență</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} a mutat tichetul de asistență în starea {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">Tichetul de asistență a fost mutat în {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">Tichetul de asistență a fost {submitted_status} • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">În curs</string>
+    <string name="intercom_tickets_status_resolved">Rezolvat</string>
+    <string name="intercom_tickets_status_submitted">Trimis</string>
+    <string name="intercom_tickets_status_waiting_on_you">Se așteaptă răspunsul dvs.</string>
+    <string name="intercom_tickets_submitted_confirmation_header">Tichetul de asistență este trimis</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">Vă vom anunța odată ce tichetul dvs. de asistență va fi actualizat</string>
+    <string name="intercom_tickets_submitted_status_detail">Vom rezolva aceasta în curând</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} va rezolva aceasta în curând</string>
+    <string name="intercom_tickets_unread">Tichete. Aveți actualizări de tichete necitite.</string>
+    <string name="intercom_tickets_updates_prompt">Veți primi actualizări în Messenger și prin e-mail</string>
+    <string name="intercom_tickets_view_ticket">Vedeți detaliile tichetului de asistență</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">Avem nevoie de mai multe informații de la dvs.</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} are nevoie de mai multe informații</string>
+    <string name="intercom_time_day_ago">acum {delta} zi</string>
+    <string name="intercom_time_future_1h">1 oră</string>
+    <string name="intercom_time_future_2h">2 ore</string>
+    <string name="intercom_time_future_30m">30 de minute</string>
+    <string name="intercom_time_future_3h">3 ore</string>
+    <string name="intercom_time_future_day_0">Luni</string>
+    <string name="intercom_time_future_day_1">Marți</string>
+    <string name="intercom_time_future_day_2">Miercuri</string>
+    <string name="intercom_time_future_day_3">Joi</string>
+    <string name="intercom_time_future_day_4">Vineri</string>
+    <string name="intercom_time_future_day_5">Sâmbătă</string>
+    <string name="intercom_time_future_day_6">Duminică</string>
+    <string name="intercom_time_future_later_today">Mai târziu astăzi</string>
+    <string name="intercom_time_future_next_week">Săptămâna viitoare</string>
+    <string name="intercom_time_future_tomorrow">Mâine</string>
+    <string name="intercom_time_hour_ago">acum {delta} oră</string>
+    <string name="intercom_time_just_now">Chiar acum</string>
+    <string name="intercom_time_minute_ago">acum {delta} minute</string>
+    <string name="intercom_time_week_ago">acum {delta} săptămâni</string>
+    <string name="intercom_time_yesterday">ieri</string>
+    <string name="intercom_try_again">Încearcă din nou</string>
+    <string name="intercom_try_again_minute">Încearcă din nou peste un minut.</string>
+    <string name="intercom_try_use_different_keywords">Încercați alte cuvinte cheie sau introduceți întrebarea completă</string>
+    <string name="intercom_twitter_follow">Urmăriți-ne pe Twitter</string>
+    <string name="intercom_two_business_days">Două zile lucrătoare</string>
+    <string name="intercom_type_a_number">Introduceți un număr…</string>
+    <string name="intercom_typically_replies_in_one_business_day">Răspunde de obicei într-o zi lucrătoare</string>
+    <string name="intercom_typically_replies_in_two_business_days">De obicei, răspunde în două zile lucrătoare</string>
+    <string name="intercom_unread_message_count">{unread_count} necitite</string>
+    <string name="intercom_upfront_collection_form_close_out">Puteți reveni aici oricând pentru a vedea răspunsurile și a trimite actualizări.</string>
+    <string name="intercom_upfront_collection_form_introduction">Împărtășiți un context pentru a ajuta echipa să răspundă mai bine și mai repede.</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">Vă mulțumim pentru trimiterea contextului. Pentru a economisi timp mai târziu, nu ezitați să adăugați mai multe detalii acum.</string>
+    <string name="intercom_upfront_collection_form_subtitle">Trimiteți echipei un context</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">Vor ține cont de acest context</string>
+    <string name="intercom_upfront_collection_form_title">Obțineți ajutor mai repede</string>
+    <string name="intercom_upfront_collection_form_title_submitted">Trimis echipei!</string>
+    <string name="intercom_upload_failed">Încărcarea a eșuat</string>
+    <string name="intercom_upload_max_files_allowed">Sunt permise maximum {limit} fișiere</string>
+    <string name="intercom_upload_max_files_size">Dimensiunea maximă a fișierului este de {limit}MB</string>
+    <string name="intercom_user_avatar_image">Imaginea avatarului utilizatorului</string>
+    <string name="intercom_view_all">Vizualizare toate</string>
+    <string name="intercom_view_conversation">Vedeți conversația</string>
+    <string name="intercom_view_more_details">Vedeți mai multe detalii</string>
+    <string name="intercom_view_post">Vedeți postarea</string>
+    <string name="intercom_we_run_on_intercom">Rulăm pe Intercom</string>
+    <string name="intercom_working_on_it">Pregătesc un răspuns...</string>
+    <string name="intercom_you">Tu</string>
+    <string name="intercom_you_are_all_up_to_date">Sunteți la zi!</string>
+    <string name="intercom_you_have_new_messages">Aveți mesaje noi.</string>
+    <string name="intercom_you_rated_the_conversation">Ai evaluat conversația</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">Veți primi notificări aici și prin e-mail</string>
+    <string name="intercom_your_checklists">Listele dumneavoastră de verificare</string>
+    <string name="intercom_your_conversations">Conversațiile tale</string>
+    <string name="intercom_your_recent_conversations">Conversații recente</string>
+    <string name="intercom_your_recent_message">Mesaj recent</string>
+    <string name="intercom_your_recent_messages">Mesaje recente</string>
+    <string name="intercom_your_ticket">Tichetul dvs. de asistență</string>
+    <string name="item_view_role_description">Filă</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Restrânge foaia din partea de jos"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Închide foaia din partea de jos"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Ghidaj de tragere"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Extinde foaia din partea de jos"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Foaia din partea de jos"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Data introdusă"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Data introdusă: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Data nu corespunde modelului așteptat: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Data nu este permisă: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Data este în afara intervalului de ani %1$s – %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Dată"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Niciuna"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Selectează data"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Data selectată"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Opțiunea selectată: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Navighează la anul %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Niciuna"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Derulează pentru a afișa anii anteriori"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Derulează pentru a afișa anii ulteriori"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Comută la modul de introducere în calendar"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Glisează pentru a selecta un an sau atinge pentru a reveni la selectarea zilei"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Comută la modul de introducere a textului"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Treci la luna următoare"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Treci la luna anterioară"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Comută la selectarea anului"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Selectează data"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Azi"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Selectorul de an este vizibil"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Intervalul de date introdus nu este valid"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Introdu datele"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"În interval"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Data de încheiere"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Derulează pentru a afișa luna următoare"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Derulează pentru a afișa luna anterioară"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Data de începere"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Selectează datele"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialog"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Restrâns"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Extins"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Caută"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Închide"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Sugestii mai jos"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"a.m."</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Oră"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"Ora %1$d"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Selectează ora"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"Ora %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"pentru oră"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minut"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Selectează minutele"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d minute"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"pentru minute"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Selectează AM sau PM"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"p.m."</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Afișează balonul explicativ"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Balon explicativ"</string>
+    <string name="material_clock_toggle_content_description">Selectați ora</string>
+    <string name="material_hour_24h_suffix">%1$s ore</string>
+    <string name="material_hour_selection">Selectați ora</string>
+    <string name="material_hour_suffix">Ora %1$s</string>
+    <string name="material_minute_selection">Selectați minutele</string>
+    <string name="material_minute_suffix">%1$s minute</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Pentru a introduce ora, comutați la modul ceas.</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Selectați ora</string>
+    <string name="material_timepicker_text_input_mode_description">Pentru a introduce ora, comutați la modul de introducere a textului.</string>
+    <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Peste %1$d notificări noi</string>
+    <string name="mtrl_picker_a11y_next_month">Treceți la luna următoare</string>
+    <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>
+    <string name="mtrl_picker_announce_current_selection">Selecția actuală: %1$s</string>
+    <string name="mtrl_picker_cancel">Anulați</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selectați data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selectată</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coloana cu zile: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format nevalid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplu: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Folosiți: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Interval nevalid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigați la anul %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fără acoperire: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de începere – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – data de încheiere</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selectați intervalul</string>
+    <string name="mtrl_picker_range_header_unselected">Data de începere – data de încheiere</string>
+    <string name="mtrl_picker_save">Salvați</string>
+    <string name="mtrl_picker_text_input_date_hint">Dată</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de încheiere</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de începere</string>
+    <string name="mtrl_picker_text_input_day_abbr">z</string>
+    <string name="mtrl_picker_text_input_month_abbr">l</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Comutați la modul introducere în calendar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere a textului</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
+    <string name="mtrl_timepicker_cancel">Anulați</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Meniu de navigare"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Neselectat"</string>
+    <string msgid="875452955155264703" name="off">"Dezactivat"</string>
+    <string msgid="8655164131929253426" name="on">"Activat"</string>
+    <string name="password_toggle_content_description">Afișați parola</string>
+    <string msgid="5941395253238309765" name="range_end">"Sfârșit de interval"</string>
+    <string msgid="7097486360902471446" name="range_start">"Început de interval"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Căutați"</string>
+    <string msgid="6043586758067023" name="selected">"Selectat"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Comută"</string>
+    <string msgid="1672349317127674378" name="tab">"Filă"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> %%."</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"balon explicativ"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"afișează balonul explicativ"</string>
+</resources>

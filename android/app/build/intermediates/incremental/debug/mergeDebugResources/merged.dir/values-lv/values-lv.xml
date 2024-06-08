@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25x</item>
+    <item>0,5x</item>
+    <item>0,75x</item>
+    <item>Normāls</item>
+    <item>1,25x</item>
+    <item>1,5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="zero">Pārtīt uz priekšu par %d sekundēm</item>
+    <item quantity="one">Pārtīt uz priekšu par %d sekundi</item>
+    <item quantity="other">Pārtīt uz priekšu par %d sekundēm</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="zero">Attīt atpakaļ par %d sekundēm</item>
+    <item quantity="one">Attīt atpakaļ par %d sekundi</item>
+    <item quantity="other">Attīt atpakaļ par %d sekundēm</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d jaunu paziņojumu</item>
+    <item quantity="one">%d jauns paziņojums</item>
+    <item quantity="other">%d jauni paziņojumi</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Pārvietoties uz augšu"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Citas opcijas"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IZSLĒGT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"IESLĒGT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alternēšanas taustiņš +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Vadīšanas taustiņš +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"dzēšanas taustiņš"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"ievadīšanas taustiņš"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcijas taustiņš +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta taustiņš +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Pārslēgšanas taustiņš +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"atstarpes taustiņš"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Simbolu taustiņš +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Poga Izvēlne +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Meklējiet…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Meklēt ar balsi"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Kopīgot ar lietojumprogrammu <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <string name="bottomsheet_action_collapse">Sakļaut ekrāna apakšdaļas lapu</string>
+    <string name="bottomsheet_action_expand">Izvērst ekrāna apakšdaļas lapu</string>
+    <string name="bottomsheet_action_expand_halfway">Izvērst līdz pusei</string>
+    <string name="bottomsheet_drag_handle_clicked">Tika veikts dubultskāriens uz vilkšanas tura</string>
+    <string name="bottomsheet_drag_handle_content_description">Vilkšanas turis</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Atbildēt"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Noraidīt"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Pārtraukt"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Ienākošais zvans"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Pašreizējais zvans"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Ienākošā zvana filtrēšana"</string>
+    <string name="character_counter_content_description">Ievadītās rakstzīmes: %1$d no %2$d</string>
+    <string name="character_counter_overflowed_content_description">Pārsniegts rakstzīmju skaita ierobežojums (%1$d no %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Notīrīt tekstu</string>
+    <string msgid="406453423630273620" name="close_drawer">"Aizvērt navigācijas izvēlni"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Aizvērt izklājlapu"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Iespējot</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Lai lietotne %1$s darbotos, ir jāiespējo Google Play pakalpojumi.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play pakalpojumu iespējošana</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Instalēt</string>
+    <string name="common_google_play_services_install_text">Lai lietotne %1$s darbotos, ierīcē ir jāinstalē Google Play pakalpojumi.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play pakalpojumu iegūšana</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play pakalpojumu pieejamība</string>
+    <string name="common_google_play_services_notification_ticker">Google Play pakalpojumu kļūda</string>
+    <string name="common_google_play_services_unknown_issue">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="common_google_play_services_unsupported_text">Lai lietotne %1$s darbotos, ir nepieciešami Google Play pakalpojumi, taču jūsu ierīce tos neatbalsta.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Atjaunināt</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Lai lietotne %1$s darbotos, jums ir jāatjaunina Google Play pakalpojumi.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play pakalpojumu atjaunināšana</string>
+    <string name="common_google_play_services_updating_text">Lai lietotne %1$s darbotos, ir jāinstalē Google Play pakalpojumi. Pašlaik notiek to atjaunināšana.</string>
+    <string name="common_google_play_services_wear_update_text">Ir nepieciešama jauna Google Play pakalpojumu versija. Drīzumā tā tiks instalēta.</string>
+    <string name="common_open_on_phone">Atvērt tālrunī</string>
+    <string name="common_signin_button_text">Pierakstīties</string>
+    <string name="common_signin_button_text_long">Pierakstīties ar Google kontu</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Nederīga ievade"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Uznirstošais logs"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Nolaižamā izvēlne"</string>
+    <string name="error_icon_content_description">Kļūda</string>
+    <string name="exo_controls_cc_disabled_description">Iespējot subtitrus</string>
+    <string name="exo_controls_cc_enabled_description">Atspējot subtitrus</string>
+    <string name="exo_controls_fastforward_description">Pārtīt uz priekšu</string>
+    <string name="exo_controls_fullscreen_enter_description">Atvērt pilnekrāna režīmu</string>
+    <string name="exo_controls_fullscreen_exit_description">Aizvērt pilnekrāna režīmu</string>
+    <string name="exo_controls_hide">Slēpt atskaņotāja vadīklas</string>
+    <string name="exo_controls_next_description">Nākamais</string>
+    <string name="exo_controls_overflow_hide_description">Slēpt papildu iestatījumus</string>
+    <string name="exo_controls_overflow_show_description">Rādīt papildu iestatījumus</string>
+    <string name="exo_controls_pause_description">Pauzēt</string>
+    <string name="exo_controls_play_description">Atskaņot</string>
+    <string name="exo_controls_playback_speed">Ātrums</string>
+    <string name="exo_controls_previous_description">Iepriekšējais</string>
+    <string name="exo_controls_repeat_all_description">Iesl.: atkārtot visu. Pārslēdziet režīmu.</string>
+    <string name="exo_controls_repeat_off_description">Iesl.: neatkārtot nevienu. Pārslēdziet režīmu.</string>
+    <string name="exo_controls_repeat_one_description">Iesl.: atkārtot vienu. Pārslēdziet režīmu.</string>
+    <string name="exo_controls_rewind_description">Attīt atpakaļ</string>
+    <string name="exo_controls_seek_bar_description">Atskaņošanas norise</string>
+    <string name="exo_controls_settings_description">Iestatījumi</string>
+    <string name="exo_controls_show">Rādīt atskaņotāja vadīklas</string>
+    <string name="exo_controls_shuffle_off_description">Iespējot atskaņošanu jauktā secībā</string>
+    <string name="exo_controls_shuffle_on_description">Atspējot atskaņošanu jauktā secībā</string>
+    <string name="exo_controls_stop_description">Apturēt</string>
+    <string name="exo_controls_vr_description">VR režīms</string>
+    <string name="exo_download_completed">Lejupielāde ir pabeigta</string>
+    <string name="exo_download_description">Lejupielādēt</string>
+    <string name="exo_download_downloading">Notiek lejupielāde</string>
+    <string name="exo_download_failed">Lejupielāde neizdevās</string>
+    <string name="exo_download_notification_channel_name">Lejupielādes</string>
+    <string name="exo_download_paused">Lejupielādes ir pārtrauktas.</string>
+    <string name="exo_download_paused_for_network">Lejupielādes gaida savienojumu ar tīklu.</string>
+    <string name="exo_download_paused_for_wifi">Lejupielādes gaida savienojumu ar Wi-Fi.</string>
+    <string name="exo_download_removing">Notiek lejupielāžu noņemšana</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mb/s</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Cits</string>
+    <string name="exo_track_role_closed_captions">Slēgtie paraksti</string>
+    <string name="exo_track_role_commentary">Komentāri</string>
+    <string name="exo_track_role_supplementary">Papildu</string>
+    <string name="exo_track_selection_auto">Automātisks</string>
+    <string name="exo_track_selection_none">Nav</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Teksts</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Ieskaujošā skaņa</string>
+    <string name="exo_track_surround_5_point_1">5.1 ieskaujošā skaņa</string>
+    <string name="exo_track_surround_7_point_1">7.1 ieskaujošā skaņa</string>
+    <string name="exo_track_unknown">Nezināms</string>
+    <string name="exo_track_unknown_name">Nezināma (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">Rādīt nolaižamo izvēlni</string>
+    <string name="icon_content_description">Dialoglodziņa ikona</string>
+    <string msgid="6827826412747255547" name="in_progress">"Notiek apstrāde"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Daļēji atzīmēta"</string>
+    <string name="intercom_access_background_location_message">Atveriet savas ierīces iestatījumus, lai iespējotu lietotni fonā izmantot jūsu atrašanās vietas informāciju</string>
+    <string name="intercom_access_background_location_title">Atļaut piekļuvi savai atrašanās vietai visu laiku</string>
+    <string name="intercom_access_device_settings">Dodieties uz ierīces iestatījumiem, lai atļautu piekļuvi jūsu fotogrāfijām</string>
+    <string name="intercom_access_photos">Piekļūstiet savām fotogrāfijas</string>
+    <string name="intercom_active_15m_ago">Aktīvs pēdējās {minutes} min</string>
+    <string name="intercom_active_day_ago">Aktīvs {days} d. atpakaļ</string>
+    <string name="intercom_active_hour_ago">Aktīvs {hours} st. atpakaļ</string>
+    <string name="intercom_active_minute_ago">Aktīvs {minutes} min atpakaļ</string>
+    <string name="intercom_active_state">Aktīvs</string>
+    <string name="intercom_active_week_ago">Aktīvs vairāk nekā 1 ned. atpakaļ</string>
+    <string name="intercom_add">Pievienot</string>
+    <string name="intercom_ai_answer">MI atbilde</string>
+    <string name="intercom_ai_answer_information">MI atbilde, informācija</string>
+    <string name="intercom_ai_bot">MI robots</string>
+    <string name="intercom_allow_access">Atļaut piekļuvi</string>
+    <string name="intercom_allow_storage_access">Lai redzētu savus foto, lūdzu, atļaujiet piekļuvi krātuvei</string>
+    <string name="intercom_almost_there">Gandrīz gatavs...</string>
+    <string name="intercom_also_in_this_conversation">Šajā sarunā piedalās arī</string>
+    <string name="intercom_android_activated_message">Jūsu Android programmas tagad ir integrētas platformā Intercom</string>
+    <string name="intercom_answer">Atbilde</string>
+    <string name="intercom_app_settings">Programmu iestatījumi</string>
+    <string name="intercom_article_double_author">Autori {author_first_name1} un {author_first_name2}</string>
+    <string name="intercom_article_load_error">Nevarēja ielādēt rakstu</string>
+    <string name="intercom_article_multiple_authors">Autors: {author_first_name1} un vēl {number_of_other_authors} citi</string>
+    <string name="intercom_article_question">Vai ar šo uz Jūsu jautājumu ir atbildēts?</string>
+    <string name="intercom_article_response">Jūs atbildējāt ar</string>
+    <string name="intercom_article_search_hint_text">Meklēt rakstus...</string>
+    <string name="intercom_article_search_search_results">Meklēšanas rezultāti</string>
+    <string name="intercom_article_single_author">Autors: {author_first_name}</string>
+    <string name="intercom_ask_a_question">Uzdot jautājumu</string>
+    <string name="intercom_ask_a_question_with_ellipsis">Uzdodiet jautājumu...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">Uzdodiet vēl kādu jautājumu...</string>
+    <string name="intercom_ask_our_bot_a_question">Uzdodiet mūsu robotam jautājumu</string>
+    <string name="intercom_asked_about">Vaicājāt par</string>
+    <string name="intercom_assigned_to_admin">Piešķirts {admin}</string>
+    <string name="intercom_attribute_collector_negative">Nē</string>
+    <string name="intercom_attribute_collector_positive">Jā</string>
+    <string name="intercom_available_teammates">Pieejamie komandas biedri: {available_teammates}</string>
+    <string name="intercom_avatar">Avatārs</string>
+    <string name="intercom_avatars">Avatāri</string>
+    <string name="intercom_away_state">Izgājis</string>
+    <string name="intercom_bot">Bots</string>
+    <string name="intercom_bot_answers_instantly">Bots atbild nekavējoties</string>
+    <string name="intercom_bot_expectation_text">Mūsu bots var atbildēt uz daudziem bieži uzdotiem jautājumiem</string>
+    <string name="intercom_bot_is_still_thinking">Bots joprojām domā...</string>
+    <string name="intercom_bot_is_thinking">Bots domā...</string>
+    <string name="intercom_browse_all_help_topics">Pārlūkot visas palīdzības rakstu tēmas</string>
+    <string name="intercom_browse_collections">Pārlūkot kolekcijas</string>
+    <string name="intercom_cancel">Atcelt</string>
+    <string name="intercom_chat_with_us">Tērzējiet ar mums</string>
+    <string name="intercom_check_later_for_updates">Ienāciet vēlāk, lai saņemtu informāciju par atjauninājumiem.</string>
+    <string name="intercom_checklist_card_first_step">Pirmais solis</string>
+    <string name="intercom_checklist_card_next_step">Nākamais solis</string>
+    <string name="intercom_checklist_completed">Pabeigts</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">Atlikušas aptuveni {minutes} minūtes</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">Atlikusi aptuveni 1 minūte</string>
+    <string name="intercom_checklist_mark_step_as_complete">Atzīmēt kā pabeigtu</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">Aptuveni {minutes} minūtes</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">Apmēram 1 minūte</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} soļi</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">Pabeigti {steps_completed} no {total_steps}</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">1 solis no {total_steps} pabeigts</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 solis</string>
+    <string name="intercom_checklist_sender_name">Kopīgoja {name}</string>
+    <string name="intercom_checklist_step_action_button">Soļu darbības poga</string>
+    <string name="intercom_checklist_step_completed">Pabeigts</string>
+    <string name="intercom_choose_one">Izvēlieties vienu…</string>
+    <string name="intercom_choose_the_date">Choose the date…</string>
+    <string name="intercom_clear">Notīrīt</string>
+    <string name="intercom_close">Aizvērt</string>
+    <string name="intercom_congratulations">Apsveicam!</string>
+    <string name="intercom_connected">Savienojums izveidots</string>
+    <string name="intercom_contact_support">Sazinieties ar atbalsta dienestu</string>
+    <string name="intercom_contact_us">Sazinieties ar mums</string>
+    <string name="intercom_continue_the_conversation">Turpināt sarunu</string>
+    <string name="intercom_conversation_card_office_hours_header">Kad mēs atkal būsim tiešsaistē</string>
+    <string name="intercom_conversation_card_reply_time_header">Mūsu parastais atbildēšanas laiks</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">Parastais atbildes laiks</string>
+    <string name="intercom_conversation_has_ended">Jūsu saruna ir beigusies</string>
+    <string name="intercom_conversation_number_and_description">Sarunas numurs {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">Sarunas</string>
+    <string name="intercom_conversations_space_title">Sarunas</string>
+    <string name="intercom_conversations_with_app">Sarunas ar lietotāju {name}</string>
+    <string name="intercom_copied_to_clipboard">Iekopēts starpliktuvē</string>
+    <string name="intercom_couldnt_complete_action">Nevarēja pabeigt šo darbību</string>
+    <string name="intercom_couldnt_load_apps">Nevarēja ielādēt paplašinājumus.</string>
+    <string name="intercom_couldnt_load_content">Nevarēja ielādēt saturu</string>
+    <string name="intercom_couldnt_load_messenger">Nevarēja ielādēt Messenger.</string>
+    <string name="intercom_create_a_ticket">Izveidot biļeti</string>
+    <string name="intercom_currently_no_help_articles">Palīdzības raksti pašlaik nav pieejami.</string>
+    <string name="intercom_delete_attachment">Dzēst pielikumu</string>
+    <string name="intercom_delivered">Saņemts</string>
+    <string name="intercom_disappointed_face_emoji">Neapmierināta sejas izteiksme</string>
+    <string name="intercom_dismiss">Noraidīt</string>
+    <string name="intercom_empty_conversations">Šeit tiks rādīti komandas ziņojumi</string>
+    <string name="intercom_enter_text_placeholder">Ievadiet tekstu…</string>
+    <string name="intercom_error_loading_conversation">Nevar ielādēt sarunas</string>
+    <string name="intercom_error_loading_ticket">Biļeti nevar ielādēt</string>
+    <string name="intercom_expected_response_delay_10800">mazāk nekā 3 stundas</string>
+    <string name="intercom_expected_response_delay_120">mazāk nekā 2 minūtes</string>
+    <string name="intercom_expected_response_delay_1200">mazāk nekā 20 minūtes</string>
+    <string name="intercom_expected_response_delay_14400">līdz 4 stundām</string>
+    <string name="intercom_expected_response_delay_172800">2 dienas</string>
+    <string name="intercom_expected_response_delay_180">mazāk nekā 3 minūtes</string>
+    <string name="intercom_expected_response_delay_1800">mazāk nekā 30 minūtes</string>
+    <string name="intercom_expected_response_delay_18000">līdz 5 stundām</string>
+    <string name="intercom_expected_response_delay_21600">līdz 6 stundām</string>
+    <string name="intercom_expected_response_delay_240">mazāk nekā 4 minūtes</string>
+    <string name="intercom_expected_response_delay_259200">3 dienas</string>
+    <string name="intercom_expected_response_delay_300">mazāk nekā 5 minūtes</string>
+    <string name="intercom_expected_response_delay_345600">4 dienas</string>
+    <string name="intercom_expected_response_delay_3600">mazāk par 1 stundu</string>
+    <string name="intercom_expected_response_delay_43200">ne ilgāk par 12 stundām</string>
+    <string name="intercom_expected_response_delay_432000">5 dienas</string>
+    <string name="intercom_expected_response_delay_518400">6 dienas</string>
+    <string name="intercom_expected_response_delay_60">mazāk nekā 1 minūte</string>
+    <string name="intercom_expected_response_delay_600">mazāk nekā 10 minūtes</string>
+    <string name="intercom_expected_response_delay_604800">līdz 1 nedēļai</string>
+    <string name="intercom_expected_response_delay_7200">mazāk nekā 2 stundas</string>
+    <string name="intercom_expected_response_delay_86400">1 diena</string>
+    <string name="intercom_expected_response_delay_900">ātrāk nekā 15 minūtes</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} etiķetes</string>
+    <string name="intercom_facebook_like">Atzīmējiet ar Patīk mūsu lapu pakalpojumā Facebook!</string>
+    <string name="intercom_failed_delivery">Nevar nogādāt jūsu ziņojumu</string>
+    <string name="intercom_failed_to_load_conversation">Nevar ielādēt jūsu sarunas</string>
+    <string name="intercom_failed_to_load_tickets">Jūsu biļetes nevar ielādēt</string>
+    <string name="intercom_failed_to_load_tickets_with_app">Jūsu biļetes nevar ielādēt ar {app_name}</string>
+    <string name="intercom_failed_to_send">Nevar nosūtīt</string>
+    <string name="intercom_field_is_required">Lauks {field_name} ir obligāti nepieciešams</string>
+    <string name="intercom_file_access_failed">Nevar piekļūt šim failam</string>
+    <string name="intercom_file_max_limit">Maksimālais failu skaits {limit}</string>
+    <string name="intercom_file_saved">Fails ir saglabāts</string>
+    <string name="intercom_file_too_big">Nevar nosūtīt failus, kas ir lielāki par {limit} MB</string>
+    <string name="intercom_file_type_not_allowed">Neatļauts faila tips</string>
+    <string name="intercom_files">Faili</string>
+    <string name="intercom_gallery">Galerija</string>
+    <string name="intercom_generating_answer">Notiek atbildes ģenerēšana...</string>
+    <string name="intercom_get_help">Saņemt palīdzību</string>
+    <string name="intercom_get_notified_by_email">Saņemt paziņojumu e-pastā</string>
+    <string name="intercom_gif_attribution">, izmantojot {providername}</string>
+    <string name="intercom_gifs_load_error">Nevarēja ielādēt GIF</string>
+    <string name="intercom_give_it_another_try">Lūdzu, mēģiniet vēlreiz</string>
+    <string name="intercom_go_to_device_settings">Lai atļautu piekļuvi, dodieties uz savas ierīces programmu iestatījumu atļauju izvēlni</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">Plati smaidoša seja ar lielām acīm</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+1 cits</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+{other_participant_count} citi</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">Piedalās arī {other_participant_count} citas personas</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name} arī piedalās</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} un vēl 1 persona arī piedalās</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} un vēl {other_participant_count} citi arī piedalās</string>
+    <string name="intercom_group_conversation_one_person_also_participating">Piedalās arī 1 cita persona</string>
+    <string name="intercom_help_center">Atbalsta centrs</string>
+    <string name="intercom_help_space_title">Palīdzība</string>
+    <string name="intercom_home_space_title">Mājas</string>
+    <string name="intercom_how_can_we_help">Kā mēs varam palīdzēt?</string>
+    <string name="intercom_how_would_you_rate_this">Kā jūs to vērtētu?</string>
+    <string name="intercom_image_attached">(pievienots attēls)</string>
+    <string name="intercom_inbox_error_state_title">Kaut kas notika nepareizi</string>
+    <string name="intercom_last_active_hours_ago">Pēdējā aktivitāte pirms {mins} stundām</string>
+    <string name="intercom_last_active_mins_ago">Pēdējā aktivitāte pirms {mins} minūtēm</string>
+    <string name="intercom_last_active_over_a_week">Pēdējā aktivitāte pirms vairāk nekā 1 nedēļas</string>
+    <string name="intercom_learn_more">Uzzināt vairāk</string>
+    <string name="intercom_loading">Notiek ielāde</string>
+    <string name="intercom_message_failed_try_again">Nevar nosūtīt, pieskarieties, lai mēģinātu vēlreiz</string>
+    <string name="intercom_message_placeholder">Ziņa…</string>
+    <string name="intercom_message_seen">Redzēts</string>
+    <string name="intercom_message_state_sending">Sūta…</string>
+    <string name="intercom_message_summary">Ziņojuma kopsavilkums: {summary}, komandas biedra vārds: {name}, ziņojuma nosūtīšanas laiks: {sentTime} . </string>
+    <string name="intercom_message_summary_with_teammate_status">Ziņojuma kopsavilkums: {summary}, komandas biedra vārds: {name}, komandas biedra statuss: {adminStatus}, ziņojuma nosūtīšanas laiks: {sentTime}. </string>
+    <string name="intercom_message_unread">Ziņojums nav izlasīts.</string>
+    <string name="intercom_message_unseen">Vēl nav redzēts</string>
+    <string name="intercom_messages_space_title">Ziņojumi</string>
+    <string name="intercom_messenger_bot_reply_time">Mūsu robots atbildēs nekavējoties</string>
+    <string name="intercom_multiple_articles">{total_articles} raksti</string>
+    <string name="intercom_multiple_collections">{total_collection} kolekcijas</string>
+    <string name="intercom_name_and_1_other">{name} un 1 cits</string>
+    <string name="intercom_name_and_x_others">{name} un {count} citi</string>
+    <string name="intercom_navigation_back">Atpakaļ</string>
+    <string name="intercom_need_camera_access">{app_name} nepieciešama piekļuve kamerai, lai jūs varētu uzņemt fotoattēlus un videoklipus. Pieskarieties sadaļai Iestatījumi > Atļaujas un ieslēdziet kameru.</string>
+    <string name="intercom_neutral_face_emoji">Neitrāla sejas izteiksme</string>
+    <string name="intercom_new_conversation">Jauna saruna</string>
+    <string name="intercom_new_message">Jauns ziņojums</string>
+    <string name="intercom_new_messages">Jums ir {n} jauni ziņojumi</string>
+    <string name="intercom_new_notifications">Jauni ziņojumi</string>
+    <string name="intercom_news">Jaunumi</string>
+    <string name="intercom_news_empty_title">Vēl nav ziņu</string>
+    <string name="intercom_news_latest_subtitle">No komandas {team_name}</string>
+    <string name="intercom_news_latest_title">Jaunākās ziņas</string>
+    <string name="intercom_news_older_title">Vecākas ziņas</string>
+    <string name="intercom_news_space_title">Jaunumi</string>
+    <string name="intercom_no_articles_to_display">Vēl nav neviena raksta</string>
+    <string name="intercom_no_conversations">Nav nevienas sarunas</string>
+    <string name="intercom_no_gifs_found">Nav atrasts neviens GIF</string>
+    <string name="intercom_no_gifs_matching_query">Nevarējām atrast nevienu GIF failu, kas atbilstu Jūsu pieprasījumam</string>
+    <string name="intercom_no_help_articles_to_display">Nav palīdzības rakstu</string>
+    <string name="intercom_no_messages_from_the_team">Nav ziņojumu no komandas.</string>
+    <string name="intercom_no_network_connection">Nav izveidots savienojums ar tīklu</string>
+    <string name="intercom_no_photos">Nav fotogrāfiju</string>
+    <string name="intercom_no_photos_on_device">Nav fotogrāfiju šajā ierīcē</string>
+    <string name="intercom_no_results_for_searchterm">{searchTerm} nav rezultātu</string>
+    <string name="intercom_no_tasks">Nav uzdevumu</string>
+    <string name="intercom_no_tasks_available_currently">Pašlaik nav pieejamu uzdevumu.</string>
+    <string name="intercom_not_now">Ne tagad</string>
+    <string name="intercom_nothing_to_see_here_yet">Vēl nekā šeit nav</string>
+    <string name="intercom_notification_channel_actions_description">Satur saiti, lai veiktu darbības šajā programmā</string>
+    <string name="intercom_notification_channel_actions_title">Darbības</string>
+    <string name="intercom_notification_channel_chat_replies_description">Tērzēšanas atbilžu ziņojumi šajā programmā</string>
+    <string name="intercom_notification_channel_chat_replies_title">Tērzēšanas atbildes</string>
+    <string name="intercom_notification_channel_new_chats_description">No šīs programmas nosūtītie jaunie tērzēšanas ziņojumi</string>
+    <string name="intercom_notification_channel_new_chats_title">Jaunas tērzēšanas</string>
+    <string name="intercom_number_is_incorrect">Izskatās, ka šis numurs ir nepareizs</string>
+    <string name="intercom_ok">Labi</string>
+    <string name="intercom_one_new_message">Jums ir jauns ziņojumus</string>
+    <string name="intercom_our_bot_answers_instantly">Mūsu robots atbild nekavējoties</string>
+    <string name="intercom_page_not_found">Šīs lapas šeit vairs nav</string>
+    <string name="intercom_permission_denied">Atļauja tika atteikta</string>
+    <string name="intercom_photo_access_denied">Jūs esat liedzis piekļuvi saviem foto</string>
+    <string name="intercom_photo_and_video_library">Foto un video bibliotēka</string>
+    <string name="intercom_placeholder_datepicker">DD-MM-GGGG</string>
+    <string name="intercom_placeholder_email_input">Ievadiet e-pasta adresi šeit...</string>
+    <string name="intercom_placeholder_numerical_inputs">Ievadiet ciparu šeit...</string>
+    <string name="intercom_placeholder_text_inputs">Ievadiet tekstu šeit...</string>
+    <string name="intercom_please_select">Lūdzu, atlasiet...</string>
+    <string name="intercom_plus_x_more">+{n} vēl</string>
+    <string name="intercom_powered_by_intercom">Nodrošina Intercom</string>
+    <string name="intercom_profile_location">{time}, {location}</string>
+    <string name="intercom_rate_your_conversation">Novērtējiet savu sarunu</string>
+    <string name="intercom_recent_ticket">Pēdējā biļete</string>
+    <string name="intercom_recent_tickets">Pēdējās biļetes</string>
+    <string name="intercom_record_a_video">Ierakstīt videoklipu</string>
+    <string name="intercom_reload">Pārlādējiet skatu</string>
+    <string name="intercom_reply">Atbildēt</string>
+    <string name="intercom_reply_from_admin">Atbilde no {name}</string>
+    <string name="intercom_reply_to_conversation">Rakstīt atbildi</string>
+    <string name="intercom_retry">Mēģiniet vēlreiz</string>
+    <string name="intercom_saving">Notiek saglabāšana...</string>
+    <string name="intercom_search_browse_empty_state_text">Atvainojiet, mēs nevarējām atrast nekādus rezultātus. Mēģiniet pārformulēt meklēšanas tekstu.</string>
+    <string name="intercom_search_for_help">Meklēt palīdzību</string>
+    <string name="intercom_search_gif">Meklē GIF…</string>
+    <string name="intercom_search_help_articles">Meklēt palīdzības rakstus</string>
+    <string name="intercom_see_all">Skatīt visas</string>
+    <string name="intercom_see_all_conversations">Skatīt visas jūsu sarunas</string>
+    <string name="intercom_see_past_conversations">Skatīt notikušās sarunas</string>
+    <string name="intercom_see_previous_conversations">Skatiet savas iepriekšējās sarunas</string>
+    <string name="intercom_send">Sūtīt</string>
+    <string name="intercom_send_a_message_reply_time">Parastais atbildes laiks ir</string>
+    <string name="intercom_send_us_a_message">Nosūtiet mums ziņojumu</string>
+    <string name="intercom_send_us_a_message_bot">Nosūtiet mums ziņojumu, un mūsu robots jums nekavējoties atbildēs</string>
+    <string name="intercom_settings">Iestatījumi</string>
+    <string name="intercom_shared_by">Kopīgoja</string>
+    <string name="intercom_show_less">Rādīt mazāk</string>
+    <string name="intercom_single_article">1 raksts</string>
+    <string name="intercom_single_collection">1 kolekcija</string>
+    <string name="intercom_some_things_failed_to_load">Kaut ko neizdevās ielādēt. Mēģiniet vēlreiz.</string>
+    <string name="intercom_something_went_wrong_try_again">Radās kāda problēma. Mēģiniet vēlreiz.</string>
+    <string name="intercom_source">Avots</string>
+    <string name="intercom_sources">Avoti</string>
+    <string name="intercom_spaces_error_description">Saturu nevar ielādēt</string>
+    <string name="intercom_spaces_error_title">Kaut kas nav pareizi</string>
+    <string name="intercom_start_a_conversation">Sāciet sarunu</string>
+    <string name="intercom_start_another_conversation">Sākt citu sarunu</string>
+    <string name="intercom_start_conversation">Sākt sarunu</string>
+    <string name="intercom_status">Statuss</string>
+    <string name="intercom_still_generating_answer">Joprojām ģenerē atbildi...</string>
+    <string name="intercom_still_thinking">Vēl domā...</string>
+    <string name="intercom_still_working_on_it">Joprojām sagatavo atbildi...</string>
+    <string name="intercom_stop_upload">Pārtraukt augšupielādi</string>
+    <string name="intercom_storage_access_request">Lai redzētu savus foto, Jums nepieciešams atļaut piekļuvi krātuvei</string>
+    <string name="intercom_string_is_incorrect">Izskatās, ka tas nav pareizi</string>
+    <string name="intercom_submit">Iesniegt</string>
+    <string name="intercom_suggested_articles">Ieteiktie raksti</string>
+    <string name="intercom_surveys_all_options_response_hint">Lūdzu, atlasiet visas atbilstīgās opcijas</string>
+    <string name="intercom_surveys_dismiss">Noraidīt aptauju</string>
+    <string name="intercom_surveys_done_button">Gatavs</string>
+    <string name="intercom_surveys_dropdown_default_option">Lūdzu, atlasiet atbildi...</string>
+    <string name="intercom_surveys_email_error">Lūdzu, ievadiet derīgu e-pasta adresi</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">Lūdzu, atlasiet {response_count} opcijas</string>
+    <string name="intercom_surveys_from_company">{company} aptauja</string>
+    <string name="intercom_surveys_from_teammate">{company} {sender_name} aptauja</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">Šim jautājumam jāatlasa vismaz  {response_count} opcijas</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">Šim jautājumam ir jāatlasa {response_count} opcijas</string>
+    <string name="intercom_surveys_multi_star_rating">{count} zvaigznes</string>
+    <string name="intercom_surveys_multiselect_other_option">Cits (lūdzu, norādiet)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">Lūdzu, norādiet</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">Ievadīt atbildi</string>
+    <string name="intercom_surveys_multiselect_other_option_value">Cita atbilde</string>
+    <string name="intercom_surveys_next_button">Tālāk</string>
+    <string name="intercom_surveys_nps_lower_label">Maz ticams</string>
+    <string name="intercom_surveys_nps_upper_label">Ļoti iespējams</string>
+    <string name="intercom_surveys_number_error">Lūdzu, ievadiet numuru</string>
+    <string name="intercom_surveys_one_star_rating">1 zvaigzne</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">{questioin_number}. jautājums no {question_count}</string>
+    <string name="intercom_surveys_required_question">Šis ir obligāts jautājums</string>
+    <string name="intercom_surveys_required_response">Šī ir obligāta atbilde</string>
+    <string name="intercom_surveys_response_range_response_hint">Lūdzu, atlasiet vismaz {minimum_response_count} un ne vairāk kā {maximum_response_count} opcijas</string>
+    <string name="intercom_surveys_response_too_long">Lūdzu, izmantojiet atbildēs ne vairāk kā {character_count} rakstzīmes</string>
+    <string name="intercom_surveys_response_too_short">Lūdzu, pārliecinieties, ka atbildes satur vismaz {character_count} rakstzīmes</string>
+    <string name="intercom_surveys_sender_image">Aptaujas sūtītāja attēls</string>
+    <string name="intercom_surveys_single_response_hint">Lūdzu, atlasiet 1 opciju</string>
+    <string name="intercom_surveys_telephone_error">Lūdzu, ievadiet derīgu tālruņa numuru</string>
+    <string name="intercom_surveys_text_input_question_placeholder">Lūdzu, ierakstiet savu atbildi šeit...</string>
+    <string name="intercom_take_a_photo">Uzņemt fotoattēlu</string>
+    <string name="intercom_tap_to_send_image">Pieskarieties, lai nosūtītu attēlu</string>
+    <string name="intercom_tasks_space_title">Uzdevumi</string>
+    <string name="intercom_team_name_custom_response_delay_2">{app_name} parasti atbild dienas laikā</string>
+    <string name="intercom_team_name_custom_response_delay_3">{app_name} parasti atbild nedēļas laikā</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} parasti atbild vienas darba dienas laikā</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} parasti atbild divu darba dienu laikā</string>
+    <string name="intercom_teammate_from_company">{name} no uzņēmuma {company}</string>
+    <string name="intercom_tell_us_more">Pastāstiet mums vairāk…</string>
+    <string name="intercom_tell_us_what_you_need">Pastāstiet mums, attiecībā uz ko jums nepieciešama palīdzība, un mūsu bots darīs visu iespējamo, lai sniegtu atbildi</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">Paldies! Komanda atbildēs vienas darba dienas laikā.</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">Paldies! Komanda atbildēs divu darba dienu laikā</string>
+    <string name="intercom_thanks_for_letting_us_know">Paldies, ka mūs informējāt</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">Paldies! Komanda atbildēs, cik vien ātri varēs</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">Izskatās, ka šis valsts kods ir nepareizs</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">Izskatās, ka šī e-pasta adrese ir nepareiza</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">Izskatās, ka šis numurs ir nepareizs</string>
+    <string name="intercom_that_number_has_too_many_digits">Šim numuram ir pārāk daudz ciparu</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">Šim numuram trūkst dažu ciparu</string>
+    <string name="intercom_that_number_needs_a_prefix">Šim numuram vajadzīgs prefikss (+ vai 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">Mūsu komanda varēs palīdzēt, ja nepieciešams</string>
+    <string name="intercom_the_team_typically_replies_in_hours">Komanda parasti atbild pāris stundu laikā.</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">Komanda parasti atbild vienas darba dienas laikā.</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">Komanda parasti atbild divu darba dienu laikā</string>
+    <string name="intercom_thinking">Domā...</string>
+    <string name="intercom_ticket_could_not_be_created">Biļeti nevar izveidot</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">Izveidot {ticket_type_title} biļeti</string>
+    <string name="intercom_ticket_current_status">Pašreizējais statuss: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">Pašreizējais statuss: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">Biļešu atribūti;</string>
+    <string name="intercom_ticket_details_for_title">Informācija par biļeti {title}</string>
+    <string name="intercom_ticket_details_notification_detail">Jūs saņemsiet paziņojumu šeit un pa e-pastu</string>
+    <string name="intercom_ticket_has_been_created">Biļete ir izveidota</string>
+    <string name="intercom_ticket_has_been_updated">Biļete ir atjaunināta</string>
+    <string name="intercom_ticket_sla_details">SLA informācija: {sla_details}</string>
+    <string name="intercom_ticket_status_details">Statusa informācija: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">Biļete pārvietota uz {status} • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} pārvietoja biļeti uz {status} • {timestamp}</string>
+    <string name="intercom_tickets_add_file">Pievienot failu</string>
+    <string name="intercom_tickets_add_files">Pievienot failus</string>
+    <string name="intercom_tickets_create_ticket">Izveidot biļeti</string>
+    <string name="intercom_tickets_create_ticket_fallback">Lūdzu, atbildiet ar tālāk norādīto informāciju, un kāds drīz ar jums sazināsies.</string>
+    <string name="intercom_tickets_created_confirmation_header">Biļete ir izveidota</string>
+    <string name="intercom_tickets_cta_text">Vai jums ir jautājums par šo biļeti?</string>
+    <string name="intercom_tickets_email_copy">Atbildes un biļešu atjauninājumi tiks nosūtīti uz šo e-pastu.</string>
+    <string name="intercom_tickets_email_subject">Jūsu {ticket_type_name} biļete</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">Jūsu {ticket_type_name} biļete #{ticket_id}</string>
+    <string name="intercom_tickets_empty_state_text">Jūsu biļetes tiks parādītas šeit</string>
+    <string name="intercom_tickets_empty_state_title">Nav biļešu</string>
+    <string name="intercom_tickets_estimated_resolution">Paredzamais laiks līdz atrisinājumam: {duration}</string>
+    <string name="intercom_tickets_files_added">Pievienotie faili</string>
+    <string name="intercom_tickets_have_a_question">Vai jums ir jautājums par šo tēmu?</string>
+    <string name="intercom_tickets_in_progress_status_detail">Mēs pie tā strādājam 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} strādā pie šīs lietas atrisināšanas!</string>
+    <string name="intercom_tickets_is_resolved">Vai šī biļete ir atrisināta?</string>
+    <string name="intercom_tickets_log_a_ticket">Reģistrēt biļeti</string>
+    <string name="intercom_tickets_resolved_status_detail">Mēs esam pabeiguši jūsu biļeti</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} pabeidza jūsu biļeti</string>
+    <string name="intercom_tickets_sla">Plānotais atrisinājums plkst. {time}</string>
+    <string name="intercom_tickets_space_title">Biļetes</string>
+    <string name="intercom_tickets_status_change_event">Biļete tagad ir {status} • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">Mēs esam pabeiguši jūsu biļeti</string>
+    <string name="intercom_tickets_status_description_more_info">Mums ir nepieciešama plašāka informācija</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} pārvietoja jūsu biļeti uz</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} pārvietoja jūsu biļeti #{ticket_id} uz</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">Jūsu biļete ir pārvietota uz</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">Jūsu biļete #{ticket_id} ir pārvietota uz</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">Jūsu biļete ir</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">Jūsu biļete #{ticket_id} ir</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">Mēs drīz apstrādāsim jūsu biļeti</string>
+    <string name="intercom_tickets_status_description_working_on">Mēs strādājam pie jūsu biļetes izpildes</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} pārvietoja biļeti uz {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">Biļete pārvietota statusā {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">Biļete ir tikusi {submitted_status} • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">Notiek izpilde</string>
+    <string name="intercom_tickets_status_resolved">Atrisināts</string>
+    <string name="intercom_tickets_status_submitted">Iesniegts</string>
+    <string name="intercom_tickets_status_waiting_on_you">Gaida atbildi</string>
+    <string name="intercom_tickets_submitted_confirmation_header">Biļete ir iesniegta</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">Mēs jūs informēsim, tiklīdz jūsu biļete būs atjaunināta</string>
+    <string name="intercom_tickets_submitted_status_detail">Mēs to drīz izskatīsim</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} to drīzumā izskatīs</string>
+    <string name="intercom_tickets_unread">Biļetes. Jums ir nelasīti biļešu atjauninājumi.</string>
+    <string name="intercom_tickets_updates_prompt">Jūs saņemsiet atjauninājumus Messenger vidē un pa e-pastu</string>
+    <string name="intercom_tickets_view_ticket">Skatīt informāciju par biļetēm</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">Mums ir nepieciešama papildu informācija</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} nepieciešama papildu informācija</string>
+    <string name="intercom_time_day_ago">{delta} d. atpakaļ</string>
+    <string name="intercom_time_future_1h">1 stunda</string>
+    <string name="intercom_time_future_2h">2 stundas</string>
+    <string name="intercom_time_future_30m">30 minūtes</string>
+    <string name="intercom_time_future_3h">3 stundas</string>
+    <string name="intercom_time_future_day_0">Pirmdien</string>
+    <string name="intercom_time_future_day_1">Otrdien</string>
+    <string name="intercom_time_future_day_2">Trešdien</string>
+    <string name="intercom_time_future_day_3">Ceturtdien</string>
+    <string name="intercom_time_future_day_4">Piektdien</string>
+    <string name="intercom_time_future_day_5">Sestdien</string>
+    <string name="intercom_time_future_day_6">Svētdien</string>
+    <string name="intercom_time_future_later_today">Vēlāk šodien</string>
+    <string name="intercom_time_future_next_week">Nākamnedēļ</string>
+    <string name="intercom_time_future_tomorrow">Rīt</string>
+    <string name="intercom_time_hour_ago">{delta} st. atpakaļ</string>
+    <string name="intercom_time_just_now">Nupat</string>
+    <string name="intercom_time_minute_ago">{delta} min atpakaļ</string>
+    <string name="intercom_time_week_ago">{delta} ned. atpakaļ</string>
+    <string name="intercom_time_yesterday">vakar</string>
+    <string name="intercom_try_again">Mēģiniet vēlreiz</string>
+    <string name="intercom_try_again_minute">Mēģiniet vēlreiz pēc minūtes.</string>
+    <string name="intercom_try_use_different_keywords">Mēģiniet izmantot citus atslēgvārdus vai ierakstiet visu jautājumu</string>
+    <string name="intercom_twitter_follow">Sekojiet mums pakalpojumā Twitter</string>
+    <string name="intercom_two_business_days">Divas darba dienas</string>
+    <string name="intercom_type_a_number">Ierakstiet numuru…</string>
+    <string name="intercom_typically_replies_in_one_business_day">Parasti atbild vienas darba dienas laikā</string>
+    <string name="intercom_typically_replies_in_two_business_days">Parasti atbild divu darba dienu laikā</string>
+    <string name="intercom_unread_message_count">{unread_count} nelasīti</string>
+    <string name="intercom_upfront_collection_form_close_out">Jūs varat šeit atgriezties jebkurā laikā, lai redzētu atbildes un nosūtītu atjauninājumus.</string>
+    <string name="intercom_upfront_collection_form_introduction">Norādiet mazliet informācijas, lai mūsu komanda varētu jums labāk un ātrāk atbildēt.</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">Paldies, ka nosūtījāt šos datus. Lai vēlāk ietaupītu laiku, pievienojiet plašāku informāciju jau tagad.</string>
+    <string name="intercom_upfront_collection_form_subtitle">Nosūtiet komandai mazliet informācijas</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">Viņi atcerēsies šo informāciju</string>
+    <string name="intercom_upfront_collection_form_title">Saņemiet palīdzību ātrāk</string>
+    <string name="intercom_upfront_collection_form_title_submitted">Nosūtīts komandai!</string>
+    <string name="intercom_upload_failed">Augšupielāde neizdevās</string>
+    <string name="intercom_upload_max_files_allowed">Atļauti ne vairāk kā {limit} faili</string>
+    <string name="intercom_upload_max_files_size">Maksimālais faila lielums ir {limit} MB</string>
+    <string name="intercom_user_avatar_image">Lietotāja avatāra attēls</string>
+    <string name="intercom_view_all">Skatīt visu</string>
+    <string name="intercom_view_conversation">Skatīt sarunu</string>
+    <string name="intercom_view_more_details">Skatīt papildinformāciju</string>
+    <string name="intercom_view_post">Skatīt ziņu</string>
+    <string name="intercom_we_run_on_intercom">Programma darbojas, izmantojot Intercom</string>
+    <string name="intercom_working_on_it">Sagatavo atbildi...</string>
+    <string name="intercom_you">Jūs</string>
+    <string name="intercom_you_are_all_up_to_date">Tagad jums ir visa vajadzīgā informācija!</string>
+    <string name="intercom_you_have_new_messages">Jums ir jauni ziņojumi.</string>
+    <string name="intercom_you_rated_the_conversation">Jūs novērtējāt sarunu</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">Jūs saņemsiet paziņojumu šeit un e-pastā</string>
+    <string name="intercom_your_checklists">Jūsu kontrolsaraksti</string>
+    <string name="intercom_your_conversations">Jūsu sarunas</string>
+    <string name="intercom_your_recent_conversations">Nesenās sarunas</string>
+    <string name="intercom_your_recent_message">Pēdējā ziņa</string>
+    <string name="intercom_your_recent_messages">Jaunākie ziņojumi</string>
+    <string name="intercom_your_ticket">Jūsu biļete</string>
+    <string name="item_view_role_description">Cilne</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Sakļaut ekrāna apakšdaļas lapu"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Noraidīt ekrāna apakšdaļas lapu"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Vilkšanas turis"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Izvērst ekrāna apakšdaļas lapu"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Ekrāna apakšdaļas lapa"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Ievadītais datums"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Ievadītais datums: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Datums neatbilst paredzētajam formātam: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Datums nav atļauts: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Datums nav paredzētajā gadu diapazonā (%1$s.–%2$s. g.)"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Datums"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Nav"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Atlasīt datumu"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Atlasītais datums"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Pašreizējā atlase: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Pāriet uz %1$s. gadu"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Nav"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Lai rādītu iepriekšējos gadus, ritiniet"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Lai rādītu nākamos gadus, ritiniet"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Pārslēgties uz kalendāra ievades režīmu"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Velciet, lai atlasītu gadu, vai pieskarieties, lai pārietu atpakaļ pie dienas atlases"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Pārslēgties uz teksta ievades režīmu"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Mainīt uz nākamo mēnesi"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Mainīt uz iepriekšējo mēnesi"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Pāriet uz gada atlasi"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Atlasīt datumu"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Šodien"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Redzams gada atlasītājs"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Ievadīts nederīgs datumu diapazons."</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Ievadiet datumus"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Atlasītajā diapazonā"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Beigu datums"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Lai rādītu nākamo mēnesi, ritiniet"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Lai rādītu iepriekšējo mēnesi, ritiniet"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Sākuma datums"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Atlasiet datumus"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialoglodziņš"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Sakļauta"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Izvērsta"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Meklēšana"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Nerādīt"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Tālāk ir sniegti ieteikumi"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Stunda"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Atlasīt stundu"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"stundām"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minūtes"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Atlasīt minūtes"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"Minūtes: %1$d"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"minūtēm"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Atlasīt “AM” (priekšpusdienā) vai “PM” (pēcpusdienā)"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Rādīt rīka padomu"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Rīka padoms"</string>
+    <string name="material_clock_toggle_content_description">Atlasiet “AM” (priekšpusdienā) vai “PM” (pēcpusdienā).</string>
+    <string name="material_hour_24h_suffix">%1$s stundas</string>
+    <string name="material_hour_selection">Atlasiet stundu</string>
+    <string name="material_hour_suffix">plkst. %1$s</string>
+    <string name="material_minute_selection">Atlasiet minūtes.</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Lai ievadītu laiku, ieslēdziet pulksteņa režīmu.</string>
+    <string name="material_timepicker_hour">Stunda</string>
+    <string name="material_timepicker_minute">Minūte</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Laika atlasīšana</string>
+    <string name="material_timepicker_text_input_mode_description">Lai ievadītu laiku, ieslēdziet teksta ievades režīmu.</string>
+    <string name="mtrl_badge_numberless_content_description">Jauns paziņojums</string>
+    <string name="mtrl_chip_close_icon_content_description">Noņemt: %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Vairāk nekā %1$d jauni paziņojumi</string>
+    <string name="mtrl_picker_a11y_next_month">Pāriet uz nākamo mēnesi</string>
+    <string name="mtrl_picker_a11y_prev_month">Pāriet uz iepriekšējo mēnesi</string>
+    <string name="mtrl_picker_announce_current_selection">Pašreizējā atlase: %1$s</string>
+    <string name="mtrl_picker_cancel">Atcelt</string>
+    <string name="mtrl_picker_confirm">Labi</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Atlasiet datumu</string>
+    <string name="mtrl_picker_date_header_unselected">Atlasītais datums</string>
+    <string name="mtrl_picker_day_of_week_column_header">Dienu sleja: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nederīgs formāts.</string>
+    <string name="mtrl_picker_invalid_format_example">Piemērs: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Izmantojiet: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nederīgs diapazons.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Pāriet uz šo gadu: %1$s</string>
+    <string name="mtrl_picker_out_of_range">Ārpus diapazona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Sākuma datums–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–beigu datums</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Atlasiet diapazonu</string>
+    <string name="mtrl_picker_range_header_unselected">Sākuma datums–beigu datums</string>
+    <string name="mtrl_picker_save">Saglabāt</string>
+    <string name="mtrl_picker_text_input_date_hint">Datums</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Beigu datums</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Sākuma datums</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">g</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Pārslēgties uz kalendāra ievades režīmu</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Pieskarties, lai pārslēgtos uz dienas atlasīšanu</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Pārslēgties uz teksta ievades režīmu</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Pieskarties, lai pārslēgtos uz gada atlasīšanu</string>
+    <string name="mtrl_timepicker_cancel">Atcelt</string>
+    <string name="mtrl_timepicker_confirm">Labi</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigācijas izvēlne"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Nav atlasīts"</string>
+    <string msgid="875452955155264703" name="off">"Izslēgts"</string>
+    <string msgid="8655164131929253426" name="on">"Ieslēgts"</string>
+    <string name="password_toggle_content_description">Rādīt paroli</string>
+    <string msgid="5941395253238309765" name="range_end">"Diapazona beigas"</string>
+    <string msgid="7097486360902471446" name="range_start">"Diapazona sākums"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Meklēt"</string>
+    <string msgid="6043586758067023" name="selected">"Atlasīts"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Slēdzis"</string>
+    <string msgid="1672349317127674378" name="tab">"Cilne"</string>
+    <string msgid="5946805113151406391" name="template_percent">"Procenti: <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"rīka padoms"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"rādīt rīka padomu"</string>
+</resources>

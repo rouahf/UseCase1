@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25-kratna</item>
+    <item>0,5-kratna</item>
+    <item>0,75-kratna</item>
+    <item>Običajna</item>
+    <item>1,25-kratna</item>
+    <item>1,5-kratna</item>
+    <item>2-kratna</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">Premik naprej za %d sekundo</item>
+    <item quantity="two">Premik naprej za %d sekundi</item>
+    <item quantity="few">Premik naprej za %d sekunde</item>
+    <item quantity="other">Premik naprej za %d sekund</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">Premik nazaj za %d sekundo</item>
+    <item quantity="two">Premik nazaj za %d sekundi</item>
+    <item quantity="few">Premik nazaj za %d sekunde</item>
+    <item quantity="other">Premik nazaj za %d sekund</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d novo obvestilo</item>
+    <item quantity="two">%d novi obvestili</item>
+    <item quantity="few">%d nova obvestila</item>
+    <item quantity="other">%d novih obvestil</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Krmarjenje na začetek"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Pomik navzgor"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Več možnosti"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Končano"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Pokaži vse"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Izbira aplikacije"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IZKLOP"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"VKLOP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"preslednica"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meni +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Iskanje …"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Izbris poizvedbe"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Iskalna poizvedba"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Iskanje"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Pošiljanje poizvedbe"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Glasovno iskanje"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Deljenje z:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Deljenje z drugimi prek aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Strnitev"</string>
+    <string name="bottomsheet_action_collapse">Strnitev razdelka na dnu zaslona</string>
+    <string name="bottomsheet_action_expand">Razširitev razdelka na dnu zaslona</string>
+    <string name="bottomsheet_action_expand_halfway">Razširjanje na pol višine</string>
+    <string name="bottomsheet_drag_handle_clicked">Dvakrat dotaknjena ročica za vlečenje</string>
+    <string name="bottomsheet_drag_handle_content_description">Ročica za vlečenje</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Sprejmi"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Zavrni"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Prekini klic"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Dohodni klic"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Aktivni klic"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Preverjanje dohodnega klica"</string>
+    <string name="character_counter_content_description">Število vnesenih znakov je %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Omejitev števila znakov je presegla %1$d od %2$d</string>
+    <string name="clear_text_end_icon_content_description">Izbris besedila</string>
+    <string msgid="406453423630273620" name="close_drawer">"Zapri meni za krmarjenje"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Zapri list"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Omogoči</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Omogočanje storitev Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Namesti</string>
+    <string name="common_google_play_services_install_text">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v napravi.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Namestitev storitev Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostopnost storitev Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Napaka storitev Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikacija %1$s ima težave s storitvami Google Play. Poskusite znova.</string>
+    <string name="common_google_play_services_unsupported_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Posodobi</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Aplikacija %1$s ne bo delovala, če ne posodobite storitev Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Posodobitev storitev Google Play</string>
+    <string name="common_google_play_services_updating_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo.</string>
+    <string name="common_google_play_services_wear_update_text">Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile.</string>
+    <string name="common_open_on_phone">Odpiranje v telefonu</string>
+    <string name="common_signin_button_text">Prijava</string>
+    <string name="common_signin_button_text_long">Prijava z računom Google</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Neveljaven vnos"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Pojavno okno"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Spustni meni"</string>
+    <string name="error_icon_content_description">Napaka</string>
+    <string name="exo_controls_cc_disabled_description">Omogočanje podnapisov</string>
+    <string name="exo_controls_cc_enabled_description">Onemogočanje podnapisov</string>
+    <string name="exo_controls_fastforward_description">Previjanje naprej</string>
+    <string name="exo_controls_fullscreen_enter_description">Vstop v celozaslonski način</string>
+    <string name="exo_controls_fullscreen_exit_description">Izhod iz celozaslonskega načina</string>
+    <string name="exo_controls_hide">Skrivanje kontrolnikov predvajalnika</string>
+    <string name="exo_controls_next_description">Naprej</string>
+    <string name="exo_controls_overflow_hide_description">Skrivanje dodatnih nastavitev</string>
+    <string name="exo_controls_overflow_show_description">Prikaz dodatnih nastavitev</string>
+    <string name="exo_controls_pause_description">Zaustavitev</string>
+    <string name="exo_controls_play_description">Predvajanje</string>
+    <string name="exo_controls_playback_speed">Hitrost</string>
+    <string name="exo_controls_previous_description">Nazaj</string>
+    <string name="exo_controls_repeat_all_description">Trenutni način: Ponovi vse. Preklopite način ponavljanja.</string>
+    <string name="exo_controls_repeat_off_description">Trenutni način: Brez ponavljanja. Preklopite način ponavljanja.</string>
+    <string name="exo_controls_repeat_one_description">Trenutni način: Ponovi eno. Preklopite način ponavljanja.</string>
+    <string name="exo_controls_rewind_description">Previjanje nazaj</string>
+    <string name="exo_controls_seek_bar_description">Potek predvajanja</string>
+    <string name="exo_controls_settings_description">Nastavitve</string>
+    <string name="exo_controls_show">Prikaz kontrolnikov predvajalnika</string>
+    <string name="exo_controls_shuffle_off_description">Omogočanje načina naključnega predvajanja</string>
+    <string name="exo_controls_shuffle_on_description">Onemogočanje načina naključnega predvajanja</string>
+    <string name="exo_controls_stop_description">Ustavitev</string>
+    <string name="exo_controls_vr_description">Način VR</string>
+    <string name="exo_download_completed">Prenos je končan</string>
+    <string name="exo_download_description">Prenos</string>
+    <string name="exo_download_downloading">Prenašanje</string>
+    <string name="exo_download_failed">Prenos ni uspel</string>
+    <string name="exo_download_notification_channel_name">Prenosi</string>
+    <string name="exo_download_paused">Prenosi so začasno zaustavljeni.</string>
+    <string name="exo_download_paused_for_network">Prenosi čakajo na povezavo z omrežjem.</string>
+    <string name="exo_download_paused_for_wifi">Prenosi čakajo na povezavo Wi-Fi.</string>
+    <string name="exo_download_removing">Odstranjevanje prenosov</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mb/s</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Dodatni posnetek</string>
+    <string name="exo_track_role_closed_captions">Podnapisi</string>
+    <string name="exo_track_role_commentary">Komentar</string>
+    <string name="exo_track_role_supplementary">Dodatek</string>
+    <string name="exo_track_selection_auto">Samodejno</string>
+    <string name="exo_track_selection_none">Nič</string>
+    <string name="exo_track_selection_title_audio">Zvočni posnetki</string>
+    <string name="exo_track_selection_title_text">Podnapisi</string>
+    <string name="exo_track_selection_title_video">Videoposnetki</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Prostorski zvok</string>
+    <string name="exo_track_surround_5_point_1">Prostorski zvok 5.1</string>
+    <string name="exo_track_surround_7_point_1">Prostorski zvok 7.1</string>
+    <string name="exo_track_unknown">Neznano</string>
+    <string name="exo_track_unknown_name">Neznano (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">Prikaz spustnega menija</string>
+    <string name="icon_content_description">Ikona pogovornega okna</string>
+    <string msgid="6827826412747255547" name="in_progress">"Poteka"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Delno potrjeno"</string>
+    <string name="intercom_access_background_location_message">V napravi odprite nastavitve, da apps omogočite uporabo vaše lokacije v ozadju</string>
+    <string name="intercom_access_background_location_title">Vedno dovoli dostop do svoje lokacije</string>
+    <string name="intercom_access_device_settings">Pojdite na nastavitve naprave, da se omogoči dostop do vaših fotografij</string>
+    <string name="intercom_access_photos">Dostop do vaših fotografij</string>
+    <string name="intercom_active_15m_ago">Oseba aktivna v zadnjih {minutes} min.</string>
+    <string name="intercom_active_day_ago">Oseba aktivna pred toliko dnevi: {days}</string>
+    <string name="intercom_active_hour_ago">Oseba aktivna pred {hours} h</string>
+    <string name="intercom_active_minute_ago">Oseba aktivna pred {minutes} min</string>
+    <string name="intercom_active_state">Aktiven</string>
+    <string name="intercom_active_week_ago">Oseba aktivna pred več kot 1 tednom</string>
+    <string name="intercom_add">Dodaj</string>
+    <string name="intercom_ai_answer">Odgovor UI</string>
+    <string name="intercom_ai_answer_information">Odgovor UI, informacije</string>
+    <string name="intercom_ai_bot">Bot z UI</string>
+    <string name="intercom_allow_access">Dovoli dostop</string>
+    <string name="intercom_allow_storage_access">Prosimo, da omogočite dostop do skladišč za ogled fotografij.</string>
+    <string name="intercom_almost_there">Skoraj pri koncu …</string>
+    <string name="intercom_also_in_this_conversation">Tudi v tem pogovoru</string>
+    <string name="intercom_android_activated_message">Vaša aplikacija za Android je zdaj povezana s platformo Intercom</string>
+    <string name="intercom_answer">Odgovor</string>
+    <string name="intercom_app_settings">Nastavitve aplikacij</string>
+    <string name="intercom_article_double_author">Avtorja {author_first_name1} in {author_first_name2}</string>
+    <string name="intercom_article_load_error">Članka ni bilo mogoče naložiti</string>
+    <string name="intercom_article_multiple_authors">Avtor {author_first_name1} in še {number_of_other_authors} drugih</string>
+    <string name="intercom_article_question">Ste s tem dobili odgovor na vaše vprašanje?</string>
+    <string name="intercom_article_response">Odzvali ste se na</string>
+    <string name="intercom_article_search_hint_text">Poišči članke ...</string>
+    <string name="intercom_article_search_search_results">Rezultati iskanja</string>
+    <string name="intercom_article_single_author">Avtor {author_first_name}</string>
+    <string name="intercom_ask_a_question">Zastavite vprašanje</string>
+    <string name="intercom_ask_a_question_with_ellipsis">Zastavite vprašanje …</string>
+    <string name="intercom_ask_another_question_with_ellipsis">Zastavite še eno vprašanje …</string>
+    <string name="intercom_ask_our_bot_a_question">Zastavite vprašanje našemu botu</string>
+    <string name="intercom_asked_about">Vprašanje o</string>
+    <string name="intercom_assigned_to_admin">Dodeljeno {admin}</string>
+    <string name="intercom_attribute_collector_negative">Ne</string>
+    <string name="intercom_attribute_collector_positive">Da</string>
+    <string name="intercom_available_teammates">Sodelavci so na voljo: {available_teammates}</string>
+    <string name="intercom_avatar">Avatar</string>
+    <string name="intercom_avatars">Avatarji</string>
+    <string name="intercom_away_state">Odsoten</string>
+    <string name="intercom_bot">Bot</string>
+    <string name="intercom_bot_answers_instantly">Bot odgovarja takoj</string>
+    <string name="intercom_bot_expectation_text">Naš bot lahko odgovori na številna pogosta vprašanja</string>
+    <string name="intercom_bot_is_still_thinking">Bot še vedno razmišlja …</string>
+    <string name="intercom_bot_is_thinking">Bot razmišlja …</string>
+    <string name="intercom_browse_all_help_topics">Brskajte po vseh temah pomoči</string>
+    <string name="intercom_browse_collections">Brskanje po zbirkah</string>
+    <string name="intercom_cancel">Prekliči</string>
+    <string name="intercom_chat_with_us">Klepet z nami</string>
+    <string name="intercom_check_later_for_updates">Pozneje preverite posodobitve.</string>
+    <string name="intercom_checklist_card_first_step">Prvi korak</string>
+    <string name="intercom_checklist_card_next_step">Naslednji korak</string>
+    <string name="intercom_checklist_completed">Zaključeno</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">Ostane še približno {minutes} minut</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">Približno 1 minuta do konca</string>
+    <string name="intercom_checklist_mark_step_as_complete">Označi kot zaključeno</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">Približno {minutes} minut</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">Približno 1 minuta</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} korakov</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">{steps_completed} od {total_steps} opravljenih</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">Odpravljen 1 od {total_steps}</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 korak</string>
+    <string name="intercom_checklist_sender_name">V skupni rabi s/z {name}</string>
+    <string name="intercom_checklist_step_action_button">Gumb za dejanje koraka</string>
+    <string name="intercom_checklist_step_completed">Zaključeno</string>
+    <string name="intercom_choose_one">Izberite eno …</string>
+    <string name="intercom_choose_the_date">Choose the date…</string>
+    <string name="intercom_clear">Počisti</string>
+    <string name="intercom_close">Zapri</string>
+    <string name="intercom_congratulations">Čestitamo</string>
+    <string name="intercom_connected">Povezava je vzpostavljena</string>
+    <string name="intercom_contact_support">Stik s podporo</string>
+    <string name="intercom_contact_us">Stik z nami</string>
+    <string name="intercom_continue_the_conversation">Nadaljuj pogovor</string>
+    <string name="intercom_conversation_card_office_hours_header">Ko bomo znova na spletu</string>
+    <string name="intercom_conversation_card_reply_time_header">Naš običajni čas za odgovor</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">Običajni čas odgovora</string>
+    <string name="intercom_conversation_has_ended">Vaš pogovor se je končal</string>
+    <string name="intercom_conversation_number_and_description">Številka pogovora {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">Pogovori</string>
+    <string name="intercom_conversations_space_title">Pogovori</string>
+    <string name="intercom_conversations_with_app">Pogovori z osebo {name}</string>
+    <string name="intercom_copied_to_clipboard">Kopirano v odložišče</string>
+    <string name="intercom_couldnt_complete_action">Dejanja ni bilo mogoče dokončati</string>
+    <string name="intercom_couldnt_load_apps">Aplikacij ni bilo mogoče naložiti.</string>
+    <string name="intercom_couldnt_load_content">Vsebine ni bilo mogoče naložiti</string>
+    <string name="intercom_couldnt_load_messenger">Aplikacije Messenger ni bilo mogoče naložiti.</string>
+    <string name="intercom_create_a_ticket">Ustvari zahtevek</string>
+    <string name="intercom_currently_no_help_articles">Trenutno ni na voljo noben članek za pomoč.</string>
+    <string name="intercom_delete_attachment">Izbriši prilogo</string>
+    <string name="intercom_delivered">Dostavljeno</string>
+    <string name="intercom_disappointed_face_emoji">Razočaran obraz</string>
+    <string name="intercom_dismiss">Opusti</string>
+    <string name="intercom_empty_conversations">Tukaj bodo prikazana sporočila ekipe</string>
+    <string name="intercom_enter_text_placeholder">Vnesite besedilo …</string>
+    <string name="intercom_error_loading_conversation">Pogovora ni bilo mogoče naložiti</string>
+    <string name="intercom_error_loading_ticket">Zahtevka ni bilo mogoče naložiti</string>
+    <string name="intercom_expected_response_delay_10800">manj kot 3 ure</string>
+    <string name="intercom_expected_response_delay_120">manj kot 2 minuti</string>
+    <string name="intercom_expected_response_delay_1200">manj kot 20 minut</string>
+    <string name="intercom_expected_response_delay_14400">manj kot 4 ure</string>
+    <string name="intercom_expected_response_delay_172800">2 dni</string>
+    <string name="intercom_expected_response_delay_180">manj kot 3 minute</string>
+    <string name="intercom_expected_response_delay_1800">manj kot 30 minut</string>
+    <string name="intercom_expected_response_delay_18000">manj kot 5 ur</string>
+    <string name="intercom_expected_response_delay_21600">manj kot 6 ur</string>
+    <string name="intercom_expected_response_delay_240">manj kot 4 minute</string>
+    <string name="intercom_expected_response_delay_259200">3 dni</string>
+    <string name="intercom_expected_response_delay_300">manj kot 5 minut</string>
+    <string name="intercom_expected_response_delay_345600">4 dni</string>
+    <string name="intercom_expected_response_delay_3600">manj kot 1 uro</string>
+    <string name="intercom_expected_response_delay_43200">manj kot 12 ur</string>
+    <string name="intercom_expected_response_delay_432000">5 dni</string>
+    <string name="intercom_expected_response_delay_518400">6 dni</string>
+    <string name="intercom_expected_response_delay_60">manj kot 1 minuta</string>
+    <string name="intercom_expected_response_delay_600">manj kot 10 minut</string>
+    <string name="intercom_expected_response_delay_604800">manj kot 1 teden</string>
+    <string name="intercom_expected_response_delay_7200">manj kot 2 uri</string>
+    <string name="intercom_expected_response_delay_86400">1 dan</string>
+    <string name="intercom_expected_response_delay_900">manj kot 15 minut</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} oznak</string>
+    <string name="intercom_facebook_like">Všečkajte nas na Facebooku</string>
+    <string name="intercom_failed_delivery">Sporočila ni bilo mogoče dostaviti</string>
+    <string name="intercom_failed_to_load_conversation">Vaših pogovorov ni bilo mogoče naložiti</string>
+    <string name="intercom_failed_to_load_tickets">Vaših zahtevkov ni bilo mogoče naložiti</string>
+    <string name="intercom_failed_to_load_tickets_with_app">Vaših zahtevkov ni bilo mogoče naložiti z aplikacijo {app_name}</string>
+    <string name="intercom_failed_to_send">Pošiljanje ni uspelo</string>
+    <string name="intercom_field_is_required">Polje {field_name} je obvezno</string>
+    <string name="intercom_file_access_failed">Dostop do datoteke ni možen</string>
+    <string name="intercom_file_max_limit">Največ toliko datotek: {limit}</string>
+    <string name="intercom_file_saved">Datoteka je shranjena</string>
+    <string name="intercom_file_too_big">Datotek, večjih od {limit} MB, ni mogoče poslati</string>
+    <string name="intercom_file_type_not_allowed">Vrsta datoteke ni dovoljena</string>
+    <string name="intercom_files">Datoteke</string>
+    <string name="intercom_gallery">Galerija</string>
+    <string name="intercom_generating_answer">Ustvarjam odgovor …</string>
+    <string name="intercom_get_help">Poiščite pomoč</string>
+    <string name="intercom_get_notified_by_email">Bodite obveščeni prek e-pošte</string>
+    <string name="intercom_gif_attribution">preko {providername}</string>
+    <string name="intercom_gifs_load_error">Datotek GIF ni bilo možno naložiti.</string>
+    <string name="intercom_give_it_another_try">Poskusite znova</string>
+    <string name="intercom_go_to_device_settings">Da bi omogočili dostop, pojdite v meni naprave za dovoljenja nastavitev aplikacij.</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">Nasmejan obraz z velikimi očmi</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+1 druga</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+ {other_participant_count} drugih</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">Sodeluje tudi {other_participant_count} drugih</string>
+    <string name="intercom_group_conversation_name_also_participating">Sodeluje tudi {participant_name}</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">Sodelujeta {participant_name} in še 1 oseba</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">Sodelujeta tudi {participant_name} in {other_participant_count}</string>
+    <string name="intercom_group_conversation_one_person_also_participating">Sodeluje tudi 1 druga oseba</string>
+    <string name="intercom_help_center">Središče za pomoč</string>
+    <string name="intercom_help_space_title">Pomoč</string>
+    <string name="intercom_home_space_title">Domov</string>
+    <string name="intercom_how_can_we_help">Kako vam lahko pomagamo?</string>
+    <string name="intercom_how_would_you_rate_this">Kakšna je vaša ocena?</string>
+    <string name="intercom_image_attached">(slika je priložena)</string>
+    <string name="intercom_inbox_error_state_title">Prišlo je do težave</string>
+    <string name="intercom_last_active_hours_ago">Nazadnje aktiven/na pred {mins} urami</string>
+    <string name="intercom_last_active_mins_ago">Nazadnje aktiven/na pred {mins} minutami</string>
+    <string name="intercom_last_active_over_a_week">Nazadnje aktiven/na pred več kot 1 tednom</string>
+    <string name="intercom_learn_more">Več o tem</string>
+    <string name="intercom_loading">Nalaganje poteka</string>
+    <string name="intercom_message_failed_try_again">Pošiljanje ni uspelo. Tapnite, če želite poskusite znova.</string>
+    <string name="intercom_message_placeholder">Sporočilo …</string>
+    <string name="intercom_message_seen">Videno</string>
+    <string name="intercom_message_state_sending">Pošiljanje…</string>
+    <string name="intercom_message_summary">Povzetek sporočila: {summary}, ime sodelavca: {name}, čas poslanega sporočila: {sentTime}. </string>
+    <string name="intercom_message_summary_with_teammate_status">Povzetek sporočila: {summary}, ime sodelavca: {name}, stanje sodelavca: {adminStatus}, čas poslanega sporočila: {sentTime}. </string>
+    <string name="intercom_message_unread">Sporočilo je neprebrano.</string>
+    <string name="intercom_message_unseen">Ni še videno</string>
+    <string name="intercom_messages_space_title">Sporočila</string>
+    <string name="intercom_messenger_bot_reply_time">Naš bot vam bo takoj odgovoril.</string>
+    <string name="intercom_multiple_articles">{total_articles} člankov</string>
+    <string name="intercom_multiple_collections">{total_collection} zbirke</string>
+    <string name="intercom_name_and_1_other">{name} in še 1</string>
+    <string name="intercom_name_and_x_others">{name} in še {count} drugih</string>
+    <string name="intercom_navigation_back">Nazaj</string>
+    <string name="intercom_need_camera_access">{app_name} potrebuje dostop do kamere, da lahko posnamete fotografije in videoposnetke. Tapnite Nastavitve > Dovoljenja in omogočite kamero.</string>
+    <string name="intercom_neutral_face_emoji">Nevtralen obraz</string>
+    <string name="intercom_new_conversation">Nov pogovor</string>
+    <string name="intercom_new_message">Novo sporočilo</string>
+    <string name="intercom_new_messages">Imate toliko novih sporočil: {n}</string>
+    <string name="intercom_new_notifications">Nova obvestila</string>
+    <string name="intercom_news">Novice</string>
+    <string name="intercom_news_empty_title">Še ni novic</string>
+    <string name="intercom_news_latest_subtitle">Od ekipe {team_name}</string>
+    <string name="intercom_news_latest_title">Zadnje</string>
+    <string name="intercom_news_older_title">Starejši</string>
+    <string name="intercom_news_space_title">Novice</string>
+    <string name="intercom_no_articles_to_display">Še ni člankov</string>
+    <string name="intercom_no_conversations">Ni pogovorov</string>
+    <string name="intercom_no_gifs_found">Ni mogoče najti nobenih datotek GIF.</string>
+    <string name="intercom_no_gifs_matching_query">Našli nismo nobene datoteke GIF, ki bi ustrezala iskalnemu nizu.</string>
+    <string name="intercom_no_help_articles_to_display">Ni člankov za pomoč</string>
+    <string name="intercom_no_messages_from_the_team">Ni sporočil ekipe</string>
+    <string name="intercom_no_network_connection">Ni omrežne povezave</string>
+    <string name="intercom_no_photos">Ni fotografij</string>
+    <string name="intercom_no_photos_on_device">Na tej napravi ni fotografij</string>
+    <string name="intercom_no_results_for_searchterm">Ni rezultatov za {searchTerm}</string>
+    <string name="intercom_no_tasks">Ni opravil</string>
+    <string name="intercom_no_tasks_available_currently">Trenutno ni razpoložljivih opravil.</string>
+    <string name="intercom_not_now">Ne zdaj</string>
+    <string name="intercom_nothing_to_see_here_yet">Tukaj ni še ničesar</string>
+    <string name="intercom_notification_channel_actions_description">Vsebuje povezave za izvajanje dejanj v tej aplikaciji</string>
+    <string name="intercom_notification_channel_actions_title">Dejanja</string>
+    <string name="intercom_notification_channel_chat_replies_description">Obvestila o odgovorih v klepetih v tej aplikaciji</string>
+    <string name="intercom_notification_channel_chat_replies_title">Odgovori v klepetu</string>
+    <string name="intercom_notification_channel_new_chats_description">Nova sporočila iz klepetov, poslana iz te aplikacije</string>
+    <string name="intercom_notification_channel_new_chats_title">Novi klepeti</string>
+    <string name="intercom_number_is_incorrect">Ta številka verjetno ni prava</string>
+    <string name="intercom_ok">V redu</string>
+    <string name="intercom_one_new_message">Imate novo sporočilo</string>
+    <string name="intercom_our_bot_answers_instantly">Naš bot odgovarja takoj</string>
+    <string name="intercom_page_not_found">Te strani ni več tukaj</string>
+    <string name="intercom_permission_denied">To dovoljenje je bilo zavrnjeno</string>
+    <string name="intercom_photo_access_denied">Onemogočili ste dostop do svojih fotografij.</string>
+    <string name="intercom_photo_and_video_library">Knjižnica fotografij in videoposnetkov</string>
+    <string name="intercom_placeholder_datepicker">DD-MM-LLLL</string>
+    <string name="intercom_placeholder_email_input">Tukaj vnesite e-pošto ...</string>
+    <string name="intercom_placeholder_numerical_inputs">Tukaj vnesite številko ...</string>
+    <string name="intercom_placeholder_text_inputs">Tukaj vnesite besedilo ...</string>
+    <string name="intercom_please_select">Izberite ...</string>
+    <string name="intercom_plus_x_more">+še toliko: {n}</string>
+    <string name="intercom_powered_by_intercom">Omogoča Intercom</string>
+    <string name="intercom_profile_location">{time} na lokaciji {location}</string>
+    <string name="intercom_rate_your_conversation">Oceni svoj pogovor</string>
+    <string name="intercom_recent_ticket">Nedavni zahtevek</string>
+    <string name="intercom_recent_tickets">Nedavni zahtevki</string>
+    <string name="intercom_record_a_video">Posnemite videoposnetek</string>
+    <string name="intercom_reload">Ponovno naloži</string>
+    <string name="intercom_reply">Odgovori</string>
+    <string name="intercom_reply_from_admin">Odgovor osebe {name}</string>
+    <string name="intercom_reply_to_conversation">Odgovori</string>
+    <string name="intercom_retry">Poskusi znova</string>
+    <string name="intercom_saving">Shranjevanje ...</string>
+    <string name="intercom_search_browse_empty_state_text">Žal za to nismo našli nobenih rezultatov. Poskusite preoblikovati iskanje.</string>
+    <string name="intercom_search_for_help">Poiščite pomoč</string>
+    <string name="intercom_search_gif">Iskanje datotek GIF …</string>
+    <string name="intercom_search_help_articles">Iščite v člankih pomoči</string>
+    <string name="intercom_see_all">Oglejte si vse</string>
+    <string name="intercom_see_all_conversations">Oglejte si vse svoje pogovore</string>
+    <string name="intercom_see_past_conversations">Oglejte si pretekle pogovore</string>
+    <string name="intercom_see_previous_conversations">Oglejte si svoje predhodne pogovore</string>
+    <string name="intercom_send">Pošlji</string>
+    <string name="intercom_send_a_message_reply_time">Običajni čas odgovora je</string>
+    <string name="intercom_send_us_a_message">Pošljite nam sporočilo</string>
+    <string name="intercom_send_us_a_message_bot">Pošljite nam sporočilo in naš bot vam bo takoj odgovoril</string>
+    <string name="intercom_settings">Nastavitve</string>
+    <string name="intercom_shared_by">Delil</string>
+    <string name="intercom_show_less">Prikaži manj</string>
+    <string name="intercom_single_article">1 članek</string>
+    <string name="intercom_single_collection">1 zbirka</string>
+    <string name="intercom_some_things_failed_to_load">Nekateri predmeti se niso naložili. Poskusite znova.</string>
+    <string name="intercom_something_went_wrong_try_again">Nekaj se je zalomilo. Poskusite znova.</string>
+    <string name="intercom_source">Vir</string>
+    <string name="intercom_sources">Viri</string>
+    <string name="intercom_spaces_error_description">Vsebine ni bilo mogoče naložiti</string>
+    <string name="intercom_spaces_error_title">Prišlo je do težave</string>
+    <string name="intercom_start_a_conversation">Začnite pogovor</string>
+    <string name="intercom_start_another_conversation">Začni drug pogovor</string>
+    <string name="intercom_start_conversation">Začni pogovor</string>
+    <string name="intercom_status">Stanje</string>
+    <string name="intercom_still_generating_answer">Še vedno ustvarjam odgovor …</string>
+    <string name="intercom_still_thinking">Še vedno razmišljam …</string>
+    <string name="intercom_still_working_on_it">Še vedno delam na tem …</string>
+    <string name="intercom_stop_upload">Ustavi nalaganje</string>
+    <string name="intercom_storage_access_request">Če si želite ogledati fotografije, morate omogočiti dostop do skladišča.</string>
+    <string name="intercom_string_is_incorrect">Kaže, da tole ni povsem prav</string>
+    <string name="intercom_submit">Pošlji</string>
+    <string name="intercom_suggested_articles">Predlagani članki</string>
+    <string name="intercom_surveys_all_options_response_hint">Izberite vse ustrezne možnosti</string>
+    <string name="intercom_surveys_dismiss">Opusti anketo</string>
+    <string name="intercom_surveys_done_button">Končano</string>
+    <string name="intercom_surveys_dropdown_default_option">Izberite odgovor...</string>
+    <string name="intercom_surveys_email_error">Vnesite veljaven elektronski naslov</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">Izberite {response_count} možnosti</string>
+    <string name="intercom_surveys_from_company">Anketa od {company}</string>
+    <string name="intercom_surveys_from_teammate">Anketa od {sender_name} za {company}</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">Za to vprašanje je treba izbrati vsaj {response_count} možnosti</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">Za to vprašanje je treba izbrati {response_count} možnosti</string>
+    <string name="intercom_surveys_multi_star_rating">{count} zvezdic</string>
+    <string name="intercom_surveys_multiselect_other_option">Drugo (navedite)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">Prosimo, navedite</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">Vnesite odgovor</string>
+    <string name="intercom_surveys_multiselect_other_option_value">Drugo</string>
+    <string name="intercom_surveys_next_button">Naprej</string>
+    <string name="intercom_surveys_nps_lower_label">Verjetno ne</string>
+    <string name="intercom_surveys_nps_upper_label">Zelo verjetno</string>
+    <string name="intercom_surveys_number_error">Prosimo, vnesite številko</string>
+    <string name="intercom_surveys_one_star_rating">1 zvezdica</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">Vprašanje {questioin_number} od {question_count}</string>
+    <string name="intercom_surveys_required_question">To je obvezno vprašanje</string>
+    <string name="intercom_surveys_required_response">To je obvezen odgovor</string>
+    <string name="intercom_surveys_response_range_response_hint">Izberite najmanj {minimum_response_count} in največ {maximum_response_count} možnosti</string>
+    <string name="intercom_surveys_response_too_long">Prosimo, da odgovori vsebujejo največ {character_count} znakov</string>
+    <string name="intercom_surveys_response_too_short">Zagotovite, da imajo odgovori najmanj {character_count} znakov</string>
+    <string name="intercom_surveys_sender_image">Slika pošiljatelja ankete</string>
+    <string name="intercom_surveys_single_response_hint">Izberite 1 možnost</string>
+    <string name="intercom_surveys_telephone_error">Vnesite veljavno telefonsko številko</string>
+    <string name="intercom_surveys_text_input_question_placeholder">Odgovor vpišite tukaj...</string>
+    <string name="intercom_take_a_photo">Posnemite fotografijo</string>
+    <string name="intercom_tap_to_send_image">Dotaknite se, da pošljete sliko.</string>
+    <string name="intercom_tasks_space_title">Opravila</string>
+    <string name="intercom_team_name_custom_response_delay_2">{app_name} običajno odgovori v nekaj dneh.</string>
+    <string name="intercom_team_name_custom_response_delay_3">{app_name} običajno odgovori v enem tednu</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} običajno odgovori v enem delovnem dnevu</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} običajno odgovori v dveh delovnih dneh</string>
+    <string name="intercom_teammate_from_company">{name} iz podjetja {company}</string>
+    <string name="intercom_tell_us_more">Povejte več …</string>
+    <string name="intercom_tell_us_what_you_need">Povejte nam, kako vam lahko pomagamo in naš robot se bo potrudil, da vam bo odgovoril</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">Hvala! Ekipa vam bo odgovorila v enem delovnem dnevu</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">Hvala! Ekipa vam bo odgovorila v dveh delovnih dneh</string>
+    <string name="intercom_thanks_for_letting_us_know">Hvala, da ste nas obvestili</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">Hvala! Ekipa bo odgovorila takoj, ko bo mogoče.</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">Ta mednarodna klicna številka verjetno ni prava</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">Ta e-poštni naslov verjetno ni pravi</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">Ta številka verjetno ni prava</string>
+    <string name="intercom_that_number_has_too_many_digits">Številka ima preveč števk</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">Številki manjka nekaj števk</string>
+    <string name="intercom_that_number_needs_a_prefix">Ta številka mora imeti predpono (+ ali 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">Če je potrebno, vam lahko pomaga ekipa</string>
+    <string name="intercom_the_team_typically_replies_in_hours">Ekipa običajno odgovori v nekaj urah.</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">Ekipa običajno odgovori v enem delovnem dnevu.</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">Ekipa običajno odgovori v dveh delovnih dneh</string>
+    <string name="intercom_thinking">Razmišljam …</string>
+    <string name="intercom_ticket_could_not_be_created">Kartice ni bilo mogoče ustvariti</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">Ustvari kartico {ticket_type_title}</string>
+    <string name="intercom_ticket_current_status">Trenutno stanje: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">Trenutno stanje: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">Atributi kartice;</string>
+    <string name="intercom_ticket_details_for_title">Podrobnosti kartice za {title}</string>
+    <string name="intercom_ticket_details_notification_detail">Obveščeni boste tukaj in po elektronski pošti na</string>
+    <string name="intercom_ticket_has_been_created">Zahtevek je bil ustvarjen</string>
+    <string name="intercom_ticket_has_been_updated">Zahtevek je bil posodobljen</string>
+    <string name="intercom_ticket_sla_details">Podrobnosti SLA: {sla_details}</string>
+    <string name="intercom_ticket_status_details">Podrobnosti stanja: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">Kartica premaknjena v {status} • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} je spremenil/a stanje kartice v {status} • {timestamp}</string>
+    <string name="intercom_tickets_add_file">Dodaj datoteko</string>
+    <string name="intercom_tickets_add_files">Dodaj datoteke</string>
+    <string name="intercom_tickets_create_ticket">Ustvari kartico</string>
+    <string name="intercom_tickets_create_ticket_fallback">Odgovorite z naslednjimi informacijami in nekdo vam bo kmalu odgovoril.</string>
+    <string name="intercom_tickets_created_confirmation_header">Zahtevek je ustvarjen</string>
+    <string name="intercom_tickets_cta_text">Imate vprašanje glede tega zahtevka?</string>
+    <string name="intercom_tickets_email_copy">Odgovori in posodobitve zahtevkov bodo poslani na ta e-poštni naslov</string>
+    <string name="intercom_tickets_email_subject">Vaša kartica {ticket_type_name}</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">Vaša kartica s št. {ticket_id} za {ticket_type_name}</string>
+    <string name="intercom_tickets_empty_state_text">Tukaj bodo prikazani vaši zahtevki</string>
+    <string name="intercom_tickets_empty_state_title">Ni zahtevkov</string>
+    <string name="intercom_tickets_estimated_resolution">Predviden čas do rešitve: {duration}</string>
+    <string name="intercom_tickets_files_added">Dodane datoteke</string>
+    <string name="intercom_tickets_have_a_question">Imate vprašanje glede te težave?</string>
+    <string name="intercom_tickets_in_progress_status_detail">Delamo na tem 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} dela na tem!</string>
+    <string name="intercom_tickets_is_resolved">Je ta kartica rešena?</string>
+    <string name="intercom_tickets_log_a_ticket">Prijavite kartico</string>
+    <string name="intercom_tickets_resolved_status_detail">Vaš zahtevek smo zaključili</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} je zaključil(-a) vaš zahtevek</string>
+    <string name="intercom_tickets_sla">Ocenjuje se, da bo rešeno do {time}</string>
+    <string name="intercom_tickets_space_title">Zahtevki</string>
+    <string name="intercom_tickets_status_change_event">Zahtevek je zdaj v stanju »{status}« • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">Vašo kartico smo zaključili</string>
+    <string name="intercom_tickets_status_description_more_info">Potrebujemo več informacij</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} je vaše potrdilo prestavil/a v</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">Skrbnik {admin_first_name} je vašo kartico s št. {ticket_id} premaknil v</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">Vaše potrdilo je premaknjeno v</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">Vaša kartica s št. {ticket_id} je bila premaknjena v</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">Vaše potrdilo je bilo</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">Vaša kartica s št. {ticket_id} je bila</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">Kmalu bomo začeli z obdelavo vaše kartice</string>
+    <string name="intercom_tickets_status_description_working_on">Vašo kartico je v obdelavi</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} je spremenil/a stanje kartice v {status} ob/pred {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">Potrdilo premaknjeno v {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">Vstopnica je {submitted_status} • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">V postopku</string>
+    <string name="intercom_tickets_status_resolved">Rešeno</string>
+    <string name="intercom_tickets_status_submitted">Oddal/a</string>
+    <string name="intercom_tickets_status_waiting_on_you">Čaka na vaš odziv</string>
+    <string name="intercom_tickets_submitted_confirmation_header">Zahtevek je predložen</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">Ko bo vaš zahtevek posodobljen, vas bomo obvestili</string>
+    <string name="intercom_tickets_submitted_status_detail">To bomo kmalu prevzeli</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} bo to kmalu prevzel(-a)</string>
+    <string name="intercom_tickets_unread">Zahtevki. Imate neprebrane posodobitve zahtevkov.</string>
+    <string name="intercom_tickets_updates_prompt">Obvestila boste prejemali v aplikaciji Messenger in po e-pošti</string>
+    <string name="intercom_tickets_view_ticket">Oglejte si podrobnosti zahtevka</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">Potrebujemo več informacij</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} potrebuje več informacij</string>
+    <string name="intercom_time_day_ago">Pred toliko dnevi: {delta}</string>
+    <string name="intercom_time_future_1h">1 ura</string>
+    <string name="intercom_time_future_2h">2 uri</string>
+    <string name="intercom_time_future_30m">30 minut</string>
+    <string name="intercom_time_future_3h">3 ure</string>
+    <string name="intercom_time_future_day_0">Ponedeljek</string>
+    <string name="intercom_time_future_day_1">Torek</string>
+    <string name="intercom_time_future_day_2">Sreda</string>
+    <string name="intercom_time_future_day_3">Četrtek</string>
+    <string name="intercom_time_future_day_4">Petek</string>
+    <string name="intercom_time_future_day_5">Sobota</string>
+    <string name="intercom_time_future_day_6">Nedelja</string>
+    <string name="intercom_time_future_later_today">Kasneje danes</string>
+    <string name="intercom_time_future_next_week">Naslednji teden</string>
+    <string name="intercom_time_future_tomorrow">Jutri</string>
+    <string name="intercom_time_hour_ago">Pred {delta} h</string>
+    <string name="intercom_time_just_now">Pravkar</string>
+    <string name="intercom_time_minute_ago">Pred {delta} min</string>
+    <string name="intercom_time_week_ago">Pred toliko tedni: {delta}</string>
+    <string name="intercom_time_yesterday">včeraj</string>
+    <string name="intercom_try_again">Poskusi znova</string>
+    <string name="intercom_try_again_minute">Poskusite znova čez eno minuto.</string>
+    <string name="intercom_try_use_different_keywords">Poskusite uporabiti različne ključne besede ali vnesite celotno vprašanje</string>
+    <string name="intercom_twitter_follow">Spremljajte nas na Twitterju</string>
+    <string name="intercom_two_business_days">Dva delovna dneva</string>
+    <string name="intercom_type_a_number">Vnesite številko …</string>
+    <string name="intercom_typically_replies_in_one_business_day">Običajno odgovori v enem delovnem dnevu</string>
+    <string name="intercom_typically_replies_in_two_business_days">Običajno odgovori v dveh delovnih dneh</string>
+    <string name="intercom_unread_message_count">{unread_count} neprebranih</string>
+    <string name="intercom_upfront_collection_form_close_out">Kadarkoli se lahko vrnete na to stran, si ogledate odgovore in pošljete posodobitve.</string>
+    <string name="intercom_upfront_collection_form_introduction">Delite kontekst, da se bo lahko ekipa bolje in hitreje odzvala.</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">Hvala, da ste delili ta kontekst. Da boste kasneje prihraniti čas, lahko zdaj dodate več podrobnosti.</string>
+    <string name="intercom_upfront_collection_form_subtitle">Pošljite ekipi kontekst</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">Upoštevali bodo ta kontekst</string>
+    <string name="intercom_upfront_collection_form_title">Hitreje poiščite pomoč</string>
+    <string name="intercom_upfront_collection_form_title_submitted">Poslano ekipi!</string>
+    <string name="intercom_upload_failed">Nalaganje ni uspelo</string>
+    <string name="intercom_upload_max_files_allowed">Največje dovoljeno število datotek je {limit}</string>
+    <string name="intercom_upload_max_files_size">Največja dovoljena velikost datoteke je {limit} MB</string>
+    <string name="intercom_user_avatar_image">Slika avatarja uporabnika</string>
+    <string name="intercom_view_all">Poglej vse</string>
+    <string name="intercom_view_conversation">Prikaži pogovor</string>
+    <string name="intercom_view_more_details">Prikaži več podrobnosti</string>
+    <string name="intercom_view_post">Ogled objave</string>
+    <string name="intercom_we_run_on_intercom">Uporabljamo platformo Intercom</string>
+    <string name="intercom_working_on_it">Delam na tem …</string>
+    <string name="intercom_you">Vi</string>
+    <string name="intercom_you_are_all_up_to_date">Ste na tekočem!</string>
+    <string name="intercom_you_have_new_messages">Imate nova sporočila.</string>
+    <string name="intercom_you_rated_the_conversation">Pogovor ste ocenili</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">Obveščeni boste tukaj in prek e-pošte</string>
+    <string name="intercom_your_checklists">Vaši kontrolni seznami</string>
+    <string name="intercom_your_conversations">Vaši pogovori</string>
+    <string name="intercom_your_recent_conversations">Nedavni pogovori</string>
+    <string name="intercom_your_recent_message">Zadnje sporočilo</string>
+    <string name="intercom_your_recent_messages">Nedavna sporočila</string>
+    <string name="intercom_your_ticket">Vaš zahtevek</string>
+    <string name="item_view_role_description">Zavihek</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Strnitev razdelka na dnu zaslona"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Opustitev razdelka na dnu zaslona"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Ročica za vlečenje"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Razširitev razdelka na dnu zaslona"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Razdelek na dnu zaslona"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Vneseni datum"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Vneseni datum: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Datum se ne ujema s pričakovanim vzorcem: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Oblika datuma ni dovoljena: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Datum je zunaj pričakovanega razpona let %1$s–%2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Datum"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Brez"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Izbira datuma"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Izbrani datum"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Trenutna izbira: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Pomik na leto %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Brez"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Pomaknite se za prikaz zgodnejših let."</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Pomaknite se za prikaz poznejših let."</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Preklop na način vnosa v koledar"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Povlecite, da izberete leto, ali se dotaknite, da preklopite nazaj na izbiranje dneva."</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Preklop na način vnosa besedila"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Spremeni na naslednji mesec"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Spremeni na prejšnji mesec"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Preklopi na izbiro leta"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Izbira datuma"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Danes"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Izbirnik leta je viden"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Neveljaven vnos obdobja."</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Vnesite datume"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Znotraj obdobja"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Končni datum"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Pomaknite se za prikaz naslednjega meseca."</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Pomaknite se za prikaz prejšnjega meseca."</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Začetni datum"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Izberite datume"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Pogovorno okno"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Strnjeno"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Razširjeno"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Iskanje"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Opusti"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Predlogi so spodaj"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"dop."</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Ura"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Izbira ure"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"za uro"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minuta"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Izbira minut"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d min"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"za minute"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Izberite dopoldanski ali popoldanski čas."</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"pop."</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Pokaži opis orodja"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Opis orodja"</string>
+    <string name="material_clock_toggle_content_description">Izberite dopoldanski ali popoldanski čas.</string>
+    <string name="material_hour_24h_suffix">%1$s h</string>
+    <string name="material_hour_selection">Izberite uro</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Izberite minute</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">dop.</string>
+    <string name="material_timepicker_clock_mode_description">Preklopite na način ure, da vnesete čas.</string>
+    <string name="material_timepicker_hour">Ura</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">pop.</string>
+    <string name="material_timepicker_select_time">Izberite uro</string>
+    <string name="material_timepicker_text_input_mode_description">Preklopite na način za vnašanje besedila, da vnesete čas.</string>
+    <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
+    <string name="mtrl_chip_close_icon_content_description">Odstranite %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Več kot toliko novih obvestil: %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Spremeni na naslednji mesec</string>
+    <string name="mtrl_picker_a11y_prev_month">Spremeni na prejšnji mesec</string>
+    <string name="mtrl_picker_announce_current_selection">Trenutna izbira: %1$s</string>
+    <string name="mtrl_picker_cancel">Prekliči</string>
+    <string name="mtrl_picker_confirm">V redu</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Izberite datum</string>
+    <string name="mtrl_picker_date_header_unselected">Izbrani datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Stolpec dni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Neveljavna oblika.</string>
+    <string name="mtrl_picker_invalid_format_example">Primer: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Uporabite: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Neveljaven razpon.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Pomik na leto %1$s</string>
+    <string name="mtrl_picker_out_of_range">Zunaj razpona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Začetni datum–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–končni datum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Izberite obseg</string>
+    <string name="mtrl_picker_range_header_unselected">Začetni datum–končni datum</string>
+    <string name="mtrl_picker_save">Shrani</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Končni datum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Začetni datum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">l</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Preklop na način vnosa v koledar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Dotik za preklop na izbiro dneva</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Preklop na način vnosa besedila</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Dotik za preklop na izbiro leta</string>
+    <string name="mtrl_timepicker_cancel">Prekliči</string>
+    <string name="mtrl_timepicker_confirm">V redu</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Meni za krmarjenje"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Ni izbrano"</string>
+    <string msgid="875452955155264703" name="off">"Izklopljeno"</string>
+    <string msgid="8655164131929253426" name="on">"Vklopljeno"</string>
+    <string name="password_toggle_content_description">Prikaz gesla</string>
+    <string msgid="5941395253238309765" name="range_end">"Konec razpona"</string>
+    <string msgid="7097486360902471446" name="range_start">"Začetek razpona"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Iskanje"</string>
+    <string msgid="6043586758067023" name="selected">"Izbrano"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Stikalo"</string>
+    <string msgid="1672349317127674378" name="tab">"Zavihek"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> odstotkov"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"opis orodja"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"pokaži opis orodja"</string>
+</resources>

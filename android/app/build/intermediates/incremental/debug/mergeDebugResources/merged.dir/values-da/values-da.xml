@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25x</item>
+    <item>0,5x</item>
+    <item>0,75x</item>
+    <item>Normal</item>
+    <item>1,25x</item>
+    <item>1,5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">Spol %d sekund frem</item>
+    <item quantity="other">Spol %d sekunder frem</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">Spol %d sekund tilbage</item>
+    <item quantity="other">Spol %d sekunder tilbage</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d ny notifikation</item>
+    <item quantity="other">%d nye notifikationer</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Find hjem"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Gå op"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Flere valgmuligheder"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Udfør"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"FRA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"TIL"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"slet"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mellemrum"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Søg…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ryd forespørgsel"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Indsend forespørgsel"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="bottomsheet_action_collapse">Skjul feltet i bunden</string>
+    <string name="bottomsheet_action_expand">Udvid feltet i bunden</string>
+    <string name="bottomsheet_action_expand_halfway">Udvid halvdelen</string>
+    <string name="bottomsheet_drag_handle_clicked">Du har trykket to gange på håndtaget</string>
+    <string name="bottomsheet_drag_handle_content_description">Håndtag</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Besvar"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Afvis"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Læg på"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Indgående opkald"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Igangværende opkald"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Et indgående opkald screenes"</string>
+    <string name="character_counter_content_description">Du har brugt %1$d ud af %2$d tegn</string>
+    <string name="character_counter_overflowed_content_description">Du har brugt %1$d tegn og dermed overskredet tegnbegrænsningen på %2$d.</string>
+    <string name="clear_text_end_icon_content_description">Ryd tekst</string>
+    <string msgid="406453423630273620" name="close_drawer">"Luk navigationsmenuen"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Luk arket"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktivér</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-tjenesters tilgængelighed</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Opdater</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ugyldigt input"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Pop op-vindue"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Rullemenu"</string>
+    <string name="error_icon_content_description">Fejl</string>
+    <string name="exo_controls_cc_disabled_description">Aktivér undertekster</string>
+    <string name="exo_controls_cc_enabled_description">Deaktiver undertekster</string>
+    <string name="exo_controls_fastforward_description">Spol frem</string>
+    <string name="exo_controls_fullscreen_enter_description">Åbn fuld skærm</string>
+    <string name="exo_controls_fullscreen_exit_description">Afslut fuld skærm</string>
+    <string name="exo_controls_hide">Skjul afspilningsknapper</string>
+    <string name="exo_controls_next_description">Næste</string>
+    <string name="exo_controls_overflow_hide_description">Skjul yderligere indstillinger</string>
+    <string name="exo_controls_overflow_show_description">Vis yderligere indstillinger</string>
+    <string name="exo_controls_pause_description">Sæt på pause</string>
+    <string name="exo_controls_play_description">Afspil</string>
+    <string name="exo_controls_playback_speed">Hastighed</string>
+    <string name="exo_controls_previous_description">Forrige</string>
+    <string name="exo_controls_repeat_all_description">Tilstand: Gentag alle. Slå Gentag til/fra.</string>
+    <string name="exo_controls_repeat_off_description">Tilstand: Gentag ikke. Slå Gentag til/fra.</string>
+    <string name="exo_controls_repeat_one_description">Tilstand: Gentag én. Slå Gentag til/fra.</string>
+    <string name="exo_controls_rewind_description">Spol tilbage</string>
+    <string name="exo_controls_seek_bar_description">Afspilningsstatus</string>
+    <string name="exo_controls_settings_description">Indstillinger</string>
+    <string name="exo_controls_show">Vis afspilningsknapper</string>
+    <string name="exo_controls_shuffle_off_description">Aktivér Bland</string>
+    <string name="exo_controls_shuffle_on_description">Deaktiver Bland</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_vr_description">VR-tilstand</string>
+    <string name="exo_download_completed">Downloaden er udført</string>
+    <string name="exo_download_description">Download</string>
+    <string name="exo_download_downloading">Downloader</string>
+    <string name="exo_download_failed">Download mislykkedes</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads er sat på pause</string>
+    <string name="exo_download_paused_for_network">Downloads venter på netværksforbindelse</string>
+    <string name="exo_download_paused_for_wifi">Downloads venter på Wi-Fi-netværk</string>
+    <string name="exo_download_removing">Fjerner downloads</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternativt spor</string>
+    <string name="exo_track_role_closed_captions">Undertekster</string>
+    <string name="exo_track_role_commentary">Kommentarspor</string>
+    <string name="exo_track_role_supplementary">Supplerende spor</string>
+    <string name="exo_track_selection_auto">Automatisk</string>
+    <string name="exo_track_selection_none">Ingen</string>
+    <string name="exo_track_selection_title_audio">Lyd</string>
+    <string name="exo_track_selection_title_text">Undertekst</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surroundsound</string>
+    <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
+    <string name="exo_track_surround_7_point_1">7.1 surroundsound</string>
+    <string name="exo_track_unknown">Ukendt</string>
+    <string name="exo_track_unknown_name">Ukendt (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">Vis rullemenuen</string>
+    <string name="icon_content_description">Ikon for dialogboks</string>
+    <string msgid="6827826412747255547" name="in_progress">"I gang"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Delvist markeret"</string>
+    <string name="intercom_access_background_location_message">Gå til enhedens indstillinger for at aktivere appen, så den kan bruge din placering i baggrunden</string>
+    <string name="intercom_access_background_location_title">Tillad adgang til din placering hele tiden</string>
+    <string name="intercom_access_device_settings">Gå til enhedsindstillingerne for at tillade adgang til dine fotos</string>
+    <string name="intercom_access_photos">Få adgang til dine fotos</string>
+    <string name="intercom_active_15m_ago">Aktiv indenfor de seneste {minutes}m</string>
+    <string name="intercom_active_day_ago">Aktiv for {days}d siden</string>
+    <string name="intercom_active_hour_ago">Aktiv for {hours}t siden</string>
+    <string name="intercom_active_minute_ago">Aktiv for {minutes}m siden</string>
+    <string name="intercom_active_state">Aktiv</string>
+    <string name="intercom_active_week_ago">Aktiv for over 1u siden</string>
+    <string name="intercom_add">Tilføj</string>
+    <string name="intercom_ai_answer">AI-svar</string>
+    <string name="intercom_ai_answer_information">AI-svar, oplysninger</string>
+    <string name="intercom_ai_bot">AI-bot</string>
+    <string name="intercom_allow_access">Tillad adgang</string>
+    <string name="intercom_allow_storage_access">Tillad adgang til lagring for at se dine billeder</string>
+    <string name="intercom_almost_there">Næsten klar ...</string>
+    <string name="intercom_also_in_this_conversation">Også i denne samtale</string>
+    <string name="intercom_android_activated_message">Din Android-app er nu integreret med Intercom-platformen</string>
+    <string name="intercom_answer">Svar</string>
+    <string name="intercom_app_settings">App-indstillinger</string>
+    <string name="intercom_article_double_author">Af {author_first_name1} og {author_first_name2}</string>
+    <string name="intercom_article_load_error">Artiklen kunne ikke indlæses</string>
+    <string name="intercom_article_multiple_authors">Af {author_first_name1} og {number_of_other_authors} andre</string>
+    <string name="intercom_article_question">Besvarede dette dit spørgsmål?</string>
+    <string name="intercom_article_response">Du reagerede med</string>
+    <string name="intercom_article_search_hint_text">Søg i artikler...</string>
+    <string name="intercom_article_search_search_results">Søgeresultater</string>
+    <string name="intercom_article_single_author">Af {author_first_name}</string>
+    <string name="intercom_ask_a_question">Stil et spørgsmål</string>
+    <string name="intercom_ask_a_question_with_ellipsis">Stil et spørgsmål ...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">Stil et andet spørgsmål ...</string>
+    <string name="intercom_ask_our_bot_a_question">Stil et spørgsmål til vores bot</string>
+    <string name="intercom_asked_about">Spurgte om</string>
+    <string name="intercom_assigned_to_admin">Tildelt {admin}</string>
+    <string name="intercom_attribute_collector_negative">Nej</string>
+    <string name="intercom_attribute_collector_positive">Ja</string>
+    <string name="intercom_available_teammates">Tilgængelige teammedlemmer: {available_teammates}</string>
+    <string name="intercom_avatar">Avatar</string>
+    <string name="intercom_avatars">Avatarer</string>
+    <string name="intercom_away_state">Ikke til stede</string>
+    <string name="intercom_bot">Bot</string>
+    <string name="intercom_bot_answers_instantly">Bot svarer med det samme</string>
+    <string name="intercom_bot_expectation_text">Vores bot kan besvare mange almindelige spørgsmål</string>
+    <string name="intercom_bot_is_still_thinking">Bot tænker stadig ...</string>
+    <string name="intercom_bot_is_thinking">Bot tænker ...</string>
+    <string name="intercom_browse_all_help_topics">Gennemse alle hjælpeemner</string>
+    <string name="intercom_browse_collections">Gennemse samlinger</string>
+    <string name="intercom_cancel">Annuller</string>
+    <string name="intercom_chat_with_us">Chat med os</string>
+    <string name="intercom_check_later_for_updates">Kontroller igen senere for opdateringer.</string>
+    <string name="intercom_checklist_card_first_step">Første trin</string>
+    <string name="intercom_checklist_card_next_step">Næste trin</string>
+    <string name="intercom_checklist_completed">Fuldført</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">Ca. {minutes} minutter tilbage</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">Ca. 1 minut tilbage</string>
+    <string name="intercom_checklist_mark_step_as_complete">Markér som fuldført</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">Ca. {minutes} minutter</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">Ca. 1 minut</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} trin</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">{steps_completed} af {total_steps} udført</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">1 af {total_steps} udført</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 trin</string>
+    <string name="intercom_checklist_sender_name">Deles af {name}</string>
+    <string name="intercom_checklist_step_action_button">Knappen Handlingstrin</string>
+    <string name="intercom_checklist_step_completed">Fuldført</string>
+    <string name="intercom_choose_one">Vælg et…</string>
+    <string name="intercom_choose_the_date">Choose the date…</string>
+    <string name="intercom_clear">Ryd</string>
+    <string name="intercom_close">Luk</string>
+    <string name="intercom_congratulations">Tillykke</string>
+    <string name="intercom_connected">Du har forbindelse</string>
+    <string name="intercom_contact_support">Kontakt support</string>
+    <string name="intercom_contact_us">Kontakt os</string>
+    <string name="intercom_continue_the_conversation">Fortsæt samtalen</string>
+    <string name="intercom_conversation_card_office_hours_header">Hvornår vi er online igen</string>
+    <string name="intercom_conversation_card_reply_time_header">Vores normale svartid</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">Normal svartid</string>
+    <string name="intercom_conversation_has_ended">Samtalen er afsluttet</string>
+    <string name="intercom_conversation_number_and_description">Samtalenummer {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">Samtaler</string>
+    <string name="intercom_conversations_space_title">Samtaler</string>
+    <string name="intercom_conversations_with_app">Samtaler med {name}</string>
+    <string name="intercom_copied_to_clipboard">Kopieret til udklipsholder</string>
+    <string name="intercom_couldnt_complete_action">Kunne ikke fuldføre denne handling</string>
+    <string name="intercom_couldnt_load_apps">Apps kunne ikke indlæses.</string>
+    <string name="intercom_couldnt_load_content">Kunne ikke indlæse indholdet</string>
+    <string name="intercom_couldnt_load_messenger">Messenger kunne ikke indlæses.</string>
+    <string name="intercom_create_a_ticket">Opret en supportanmodning</string>
+    <string name="intercom_currently_no_help_articles">Der er i øjeblikket ingen tilgængelige hjælpeartikler.</string>
+    <string name="intercom_delete_attachment">Slet vedhæftning</string>
+    <string name="intercom_delivered">Leveret</string>
+    <string name="intercom_disappointed_face_emoji">Skuffet ansigt</string>
+    <string name="intercom_dismiss">Afvis</string>
+    <string name="intercom_empty_conversations">Meddelelser fra teamet vises her</string>
+    <string name="intercom_enter_text_placeholder">Indtast tekst...</string>
+    <string name="intercom_error_loading_conversation">Kunne ikke indlæse samtalen</string>
+    <string name="intercom_error_loading_ticket">Kunne ikke indlæse billetten</string>
+    <string name="intercom_expected_response_delay_10800">under 3 timer</string>
+    <string name="intercom_expected_response_delay_120">i løbet af 2 minutter</string>
+    <string name="intercom_expected_response_delay_1200">under 20 minutter</string>
+    <string name="intercom_expected_response_delay_14400">under 4 timer</string>
+    <string name="intercom_expected_response_delay_172800">2 dage</string>
+    <string name="intercom_expected_response_delay_180">i løbet af 3 minutter</string>
+    <string name="intercom_expected_response_delay_1800">under 30 minutter</string>
+    <string name="intercom_expected_response_delay_18000">under 5 timer</string>
+    <string name="intercom_expected_response_delay_21600">under 6 timer</string>
+    <string name="intercom_expected_response_delay_240">i løbet af 4 minutter</string>
+    <string name="intercom_expected_response_delay_259200">3 dage</string>
+    <string name="intercom_expected_response_delay_300">under 5 minutter</string>
+    <string name="intercom_expected_response_delay_345600">4 dage</string>
+    <string name="intercom_expected_response_delay_3600">under 1 time</string>
+    <string name="intercom_expected_response_delay_43200">under 12 timer</string>
+    <string name="intercom_expected_response_delay_432000">5 dage</string>
+    <string name="intercom_expected_response_delay_518400">6 dage</string>
+    <string name="intercom_expected_response_delay_60">i løbet af 1 minut</string>
+    <string name="intercom_expected_response_delay_600">under 10 minutter</string>
+    <string name="intercom_expected_response_delay_604800">under 1 uge</string>
+    <string name="intercom_expected_response_delay_7200">under 2 timer</string>
+    <string name="intercom_expected_response_delay_86400">1 dag</string>
+    <string name="intercom_expected_response_delay_900">under 15 minutter</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} etiketter</string>
+    <string name="intercom_facebook_like">Synes godt om os på Facebook</string>
+    <string name="intercom_failed_delivery">Kunne ikke levere meddelelsen</string>
+    <string name="intercom_failed_to_load_conversation">Kunne ikke indlæse dine samtaler</string>
+    <string name="intercom_failed_to_load_tickets">Dine billetter kunne ikke indlæses</string>
+    <string name="intercom_failed_to_load_tickets_with_app">Kunne ikke indlæse dine billetter med {app_name}</string>
+    <string name="intercom_failed_to_send">Kunne ikke sende</string>
+    <string name="intercom_field_is_required">Feltet {field_name} er påkrævet</string>
+    <string name="intercom_file_access_failed">Kan ikke få adgang til den valgte fil</string>
+    <string name="intercom_file_max_limit">Højst {limit} filer</string>
+    <string name="intercom_file_saved">Fil gemt</string>
+    <string name="intercom_file_too_big">Kan ikke sende filer over {limit}MB</string>
+    <string name="intercom_file_type_not_allowed">Filtypen er ikke tilladt</string>
+    <string name="intercom_files">Filer</string>
+    <string name="intercom_gallery">Galleri</string>
+    <string name="intercom_generating_answer">Genererer svar ...</string>
+    <string name="intercom_get_help">Få hjælp</string>
+    <string name="intercom_get_notified_by_email">Få besked pr. e-mail</string>
+    <string name="intercom_gif_attribution">via {providername}</string>
+    <string name="intercom_gifs_load_error">GIF-filer kunne ikke indlæses</string>
+    <string name="intercom_give_it_another_try">Prøv igen</string>
+    <string name="intercom_go_to_device_settings">For at give adgang skal du gå til menuen Tilladelser i indstillingerne i din app</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">Grinende ansigt med store øjne</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+1 anden</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+{other_participant_count} andre</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">{other_participant_count} andre deltager også</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name} deltager også</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} og 1 anden deltager også</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} og {other_participant_count} andre deltager også</string>
+    <string name="intercom_group_conversation_one_person_also_participating">1 anden deltager også</string>
+    <string name="intercom_help_center">Hjælpcenter</string>
+    <string name="intercom_help_space_title">Hjælp</string>
+    <string name="intercom_home_space_title">Hjem</string>
+    <string name="intercom_how_can_we_help">Hvad kan vi gøre for dig?</string>
+    <string name="intercom_how_would_you_rate_this">Hvordan vil du bedømme denne nyhed?</string>
+    <string name="intercom_image_attached">(billede vedhæftet)</string>
+    <string name="intercom_inbox_error_state_title">Noget gik galt</string>
+    <string name="intercom_last_active_hours_ago">Sidst aktiv for {mins} timer siden</string>
+    <string name="intercom_last_active_mins_ago">Sidst aktiv for {mins} minutter siden</string>
+    <string name="intercom_last_active_over_a_week">Sidst aktiv for over 1 uge siden</string>
+    <string name="intercom_learn_more">Få mere at vide</string>
+    <string name="intercom_loading">Indlæser</string>
+    <string name="intercom_message_failed_try_again">Kunne ikke sende, tryk for at prøve igen</string>
+    <string name="intercom_message_placeholder">Skriv din besked her ...</string>
+    <string name="intercom_message_seen">Set</string>
+    <string name="intercom_message_state_sending">Sender…</string>
+    <string name="intercom_message_summary">Opsummering af besked: {summary}, navn på teammedlem: {name}, tidspunkt for afsendelse af besked: {sentTime}. </string>
+    <string name="intercom_message_summary_with_teammate_status">Opsummering af besked: {summary}, navn på teammedlem: {name}, status for teammedlem: {adminStatus}, tidspunkt for afsendelse af besked: {sentTime}. </string>
+    <string name="intercom_message_unread">Meddelelsen er ulæst.</string>
+    <string name="intercom_message_unseen">Ikke set endnu</string>
+    <string name="intercom_messages_space_title">Meddelelser</string>
+    <string name="intercom_messenger_bot_reply_time">Vores bot vil svare med det samme</string>
+    <string name="intercom_multiple_articles">{total_articles} artikler</string>
+    <string name="intercom_multiple_collections">{total_collection} samlinger</string>
+    <string name="intercom_name_and_1_other">{name} og 1 anden</string>
+    <string name="intercom_name_and_x_others">{name} og {count} andre</string>
+    <string name="intercom_navigation_back">Tilbage</string>
+    <string name="intercom_need_camera_access">{app_name} kræver adgang til kameraet, så du kan tage billeder og videoer. Tryk på Indstillinger > Tilladelser, og slå Kamera til.</string>
+    <string name="intercom_neutral_face_emoji">Neutralt ansigt</string>
+    <string name="intercom_new_conversation">Ny samtale</string>
+    <string name="intercom_new_message">Ny meddelelse</string>
+    <string name="intercom_new_messages">Du har {n} nye meddelelser</string>
+    <string name="intercom_new_notifications">Nye notifikationer</string>
+    <string name="intercom_news">Nyheder</string>
+    <string name="intercom_news_empty_title">Ingen nyheder endnu</string>
+    <string name="intercom_news_latest_subtitle">Fra Team {team_name}</string>
+    <string name="intercom_news_latest_title">Seneste</string>
+    <string name="intercom_news_older_title">Ældre</string>
+    <string name="intercom_news_space_title">Nyheder</string>
+    <string name="intercom_no_articles_to_display">Ingen artikler endnu</string>
+    <string name="intercom_no_conversations">Ingen samtaler</string>
+    <string name="intercom_no_gifs_found">Der blev ingen GIF-filer fundet</string>
+    <string name="intercom_no_gifs_matching_query">Vi kunne ikke finde nogen GIF-filer, som passer til din søgning</string>
+    <string name="intercom_no_help_articles_to_display">Ingen hjælpeartikler</string>
+    <string name="intercom_no_messages_from_the_team">Ingen beskeder fra teamet</string>
+    <string name="intercom_no_network_connection">Ingen netværksforbindelse</string>
+    <string name="intercom_no_photos">Ingen fotos</string>
+    <string name="intercom_no_photos_on_device">Der er ingen fotos på denne enhed</string>
+    <string name="intercom_no_results_for_searchterm">Ingen resultater for {searchTerm}</string>
+    <string name="intercom_no_tasks">Ingen opgaver</string>
+    <string name="intercom_no_tasks_available_currently">Der er i øjeblikket ingen tilgængelige opgaver.</string>
+    <string name="intercom_not_now">Ikke nu</string>
+    <string name="intercom_nothing_to_see_here_yet">Der er intet at se her endnu</string>
+    <string name="intercom_notification_channel_actions_description">Indeholder links for at gøre noget i denne app</string>
+    <string name="intercom_notification_channel_actions_title">Handlinger</string>
+    <string name="intercom_notification_channel_chat_replies_description">Svar på notifikationer fra chats i denne app</string>
+    <string name="intercom_notification_channel_chat_replies_title">Svar på chats</string>
+    <string name="intercom_notification_channel_new_chats_description">Nye chat-meddelelser sendt fra denne app</string>
+    <string name="intercom_notification_channel_new_chats_title">Nye chats</string>
+    <string name="intercom_number_is_incorrect">Nummeret ser ikke helt rigtigt ud</string>
+    <string name="intercom_ok">Okay</string>
+    <string name="intercom_one_new_message">Du har en ny meddelelse</string>
+    <string name="intercom_our_bot_answers_instantly">Vores bot svarer med det samme</string>
+    <string name="intercom_page_not_found">Siden er her ikke længere</string>
+    <string name="intercom_permission_denied">Denne tilladelse blev afvist</string>
+    <string name="intercom_photo_access_denied">Du har nægtet adgang til dine billeder</string>
+    <string name="intercom_photo_and_video_library">Foto- og videobibliotek</string>
+    <string name="intercom_placeholder_datepicker">DD-MM-ÅÅÅÅ</string>
+    <string name="intercom_placeholder_email_input">Indtast e-mail her...</string>
+    <string name="intercom_placeholder_numerical_inputs">Indtast nummer her...</string>
+    <string name="intercom_placeholder_text_inputs">Indtast tekst her...</string>
+    <string name="intercom_please_select">Vælg venligst...</string>
+    <string name="intercom_plus_x_more">+{n} mere</string>
+    <string name="intercom_powered_by_intercom">Drevet af Intercom</string>
+    <string name="intercom_profile_location">{time} i {location}</string>
+    <string name="intercom_rate_your_conversation">Vurdér din samtale</string>
+    <string name="intercom_recent_ticket">Seneste billet</string>
+    <string name="intercom_recent_tickets">Seneste billetter</string>
+    <string name="intercom_record_a_video">Optag en video</string>
+    <string name="intercom_reload">Indlæs igen</string>
+    <string name="intercom_reply">Svar</string>
+    <string name="intercom_reply_from_admin">Svar fra {name}</string>
+    <string name="intercom_reply_to_conversation">Skriv her</string>
+    <string name="intercom_retry">Prøv igen</string>
+    <string name="intercom_saving">Gemmer...</string>
+    <string name="intercom_search_browse_empty_state_text">Beklager, men vi kunne ikke finde nogen resultater til det. Prøv at omformulere søgningen.</string>
+    <string name="intercom_search_for_help">Søg efter hjælp</string>
+    <string name="intercom_search_gif">Søg efter GIF-filer…</string>
+    <string name="intercom_search_help_articles">Søg i hjælpeartikler</string>
+    <string name="intercom_see_all">Se alle</string>
+    <string name="intercom_see_all_conversations">Se alle dine samtaler</string>
+    <string name="intercom_see_past_conversations">Se tidligere samtaler</string>
+    <string name="intercom_see_previous_conversations">Se dine tidligere samtaler</string>
+    <string name="intercom_send">Send</string>
+    <string name="intercom_send_a_message_reply_time">Normal svartid er</string>
+    <string name="intercom_send_us_a_message">Send os en besked</string>
+    <string name="intercom_send_us_a_message_bot">Send os en besked, så vil vores bot straks svare</string>
+    <string name="intercom_settings">Indstillinger</string>
+    <string name="intercom_shared_by">Delt af</string>
+    <string name="intercom_show_less">Vis mindre</string>
+    <string name="intercom_single_article">1 artikel</string>
+    <string name="intercom_single_collection">1 samling</string>
+    <string name="intercom_some_things_failed_to_load">Nogle ting kunne ikke indlæses. Prøv igen.</string>
+    <string name="intercom_something_went_wrong_try_again">Noget gik galt. Prøv igen.</string>
+    <string name="intercom_source">Kilde</string>
+    <string name="intercom_sources">Kilder</string>
+    <string name="intercom_spaces_error_description">Indholdet kunne ikke indlæses</string>
+    <string name="intercom_spaces_error_title">Der er opstået et problem</string>
+    <string name="intercom_start_a_conversation">Start en samtale</string>
+    <string name="intercom_start_another_conversation">Start en anden samtale</string>
+    <string name="intercom_start_conversation">Start en samtale</string>
+    <string name="intercom_status">Status</string>
+    <string name="intercom_still_generating_answer">Genererer stadig svar ...</string>
+    <string name="intercom_still_thinking">Tænker stadig ...</string>
+    <string name="intercom_still_working_on_it">Arbejder stadig på det ...</string>
+    <string name="intercom_stop_upload">Stop overførsel</string>
+    <string name="intercom_storage_access_request">For at se de billeder, som skal tillades adgang for lagring</string>
+    <string name="intercom_string_is_incorrect">Det ser ikke helt rigtig ud</string>
+    <string name="intercom_submit">Indsend</string>
+    <string name="intercom_suggested_articles">Foreslåede artikler</string>
+    <string name="intercom_surveys_all_options_response_hint">Vælg alle relevante valgmuligheder</string>
+    <string name="intercom_surveys_dismiss">Afvis undersøgelse</string>
+    <string name="intercom_surveys_done_button">Færdig</string>
+    <string name="intercom_surveys_dropdown_default_option">Vælg et svar...</string>
+    <string name="intercom_surveys_email_error">Indtast en gyldig e-mailadresse</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">Vælg {response_count} valgmuligheder</string>
+    <string name="intercom_surveys_from_company">Undersøgelse fra {company}</string>
+    <string name="intercom_surveys_from_teammate">Undersøgelse af {sender_name} fra {company}</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">Dette spørgsmål kræver, at mindst {response_count} valgmuligheder vælges</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">Dette spørgsmål kræver, at {response_count} valgmuligheder vælges</string>
+    <string name="intercom_surveys_multi_star_rating">{count} stjerner</string>
+    <string name="intercom_surveys_multiselect_other_option">Andet (angiv)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">Angiv</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">Indtast svar</string>
+    <string name="intercom_surveys_multiselect_other_option_value">Andet</string>
+    <string name="intercom_surveys_next_button">Næste</string>
+    <string name="intercom_surveys_nps_lower_label">Ikke sandsynligt</string>
+    <string name="intercom_surveys_nps_upper_label">Meget sandsynligt</string>
+    <string name="intercom_surveys_number_error">Indtast et nummer</string>
+    <string name="intercom_surveys_one_star_rating">1 stjerne</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">Spørgsmål {questioin_number} af {question_count}</string>
+    <string name="intercom_surveys_required_question">Dette er et påkrævet spørgsmål</string>
+    <string name="intercom_surveys_required_response">Dette er et påkrævet svar</string>
+    <string name="intercom_surveys_response_range_response_hint">Vælg mindst {minimum_response_count} og højst {maximum_response_count} valgmuligheder</string>
+    <string name="intercom_surveys_response_too_long">Svar må indeholde højst {character_count} tegn</string>
+    <string name="intercom_surveys_response_too_short">Sørg for, at svar indeholder mindst {character_count} tegn</string>
+    <string name="intercom_surveys_sender_image">Billede for afsender af undersøgelse</string>
+    <string name="intercom_surveys_single_response_hint">Vælg 1 valgmulighed</string>
+    <string name="intercom_surveys_telephone_error">Indtast et gyldigt telefonnummer</string>
+    <string name="intercom_surveys_text_input_question_placeholder">Indtast dit svar her...</string>
+    <string name="intercom_take_a_photo">Tag et billede</string>
+    <string name="intercom_tap_to_send_image">Tryk for at sende et billede</string>
+    <string name="intercom_tasks_space_title">Opgaver</string>
+    <string name="intercom_team_name_custom_response_delay_2">{app_name} svarer normalt i løbet af en dag</string>
+    <string name="intercom_team_name_custom_response_delay_3">{app_name} svarer normalt i løbet af en uge</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} svarer normalt i løbet af en arbejdsdag</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} svarer normalt i løbet af to arbejdsdage</string>
+    <string name="intercom_teammate_from_company">{name} fra {company}</string>
+    <string name="intercom_tell_us_more">Fortæl os mere…</string>
+    <string name="intercom_tell_us_what_you_need">Fortæl os, hvilken hjælp du har brug for, og vores robot vil gøre sit bedste for at svare</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">Tak! Teamet vil svare i løbet af en arbejdsdag</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">Tak! Teamet vil svare i løbet af to arbejdsdage</string>
+    <string name="intercom_thanks_for_letting_us_know">Tak fordi du gav os feedback</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">Tak! Teamet svarer så hurtigt, de kan</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">Landekoden ser ikke helt rigtig ud</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">E-mailadressen ser ikke helt rigtig ud</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">Nummeret ser ikke helt rigtigt ud</string>
+    <string name="intercom_that_number_has_too_many_digits">Nummeret har for mange cifre</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">Nummeret mangler nogle få cifre</string>
+    <string name="intercom_that_number_needs_a_prefix">Nummeret mangler et præfiks (+ eller 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">Teamet kan hjælpe, hvis det er nødvendigt</string>
+    <string name="intercom_the_team_typically_replies_in_hours">Teamet svarer normalt i løbet af få timer.</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">Teamet svarer normalt i løbet af en arbejdsdag.</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">Teamet svarer normalt i løbet af to arbejdsdage</string>
+    <string name="intercom_thinking">Tænker ...</string>
+    <string name="intercom_ticket_could_not_be_created">Der kunne ikke oprettes en billet</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">Opret {ticket_type_title} billet</string>
+    <string name="intercom_ticket_current_status">Aktuel status: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">Aktuel status: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">Billetoplysninger;</string>
+    <string name="intercom_ticket_details_for_title">Billetoplysninger for {title}</string>
+    <string name="intercom_ticket_details_notification_detail">Du får besked her og pr. e-mail på</string>
+    <string name="intercom_ticket_has_been_created">Billetten er blevet oprettet</string>
+    <string name="intercom_ticket_has_been_updated">Billetten er blevet opdateret</string>
+    <string name="intercom_ticket_sla_details">SLA-oplysninger: {sla_details}</string>
+    <string name="intercom_ticket_status_details">Statusoplysninger: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">Supportanmodning blev flyttet til {status} • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} flyttede supportanmodning til {status} • {timestamp}</string>
+    <string name="intercom_tickets_add_file">Tilføj fil</string>
+    <string name="intercom_tickets_add_files">Tilføj filer</string>
+    <string name="intercom_tickets_create_ticket">Opret supportanmodning</string>
+    <string name="intercom_tickets_create_ticket_fallback">Svar venligst med følgende oplysninger, så kontakter vi dig hurtigst muligt.</string>
+    <string name="intercom_tickets_created_confirmation_header">Billetten er oprettet</string>
+    <string name="intercom_tickets_cta_text">Har du spørgsmål til denne billet?</string>
+    <string name="intercom_tickets_email_copy">Svar og opdateringer af billetter vil blive sendt til denne e-mailadresse</string>
+    <string name="intercom_tickets_email_subject">Din {ticket_type_name} anmodning</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">Din {ticket_type_name} billet {ticket_id}</string>
+    <string name="intercom_tickets_empty_state_text">Dine billetter vil blive vist her</string>
+    <string name="intercom_tickets_empty_state_title">Ingen billetter</string>
+    <string name="intercom_tickets_estimated_resolution">Anslået tid til løsning: {duration}</string>
+    <string name="intercom_tickets_files_added">Filer tilføjet</string>
+    <string name="intercom_tickets_have_a_question">Har du et spørgsmål om dette problem?</string>
+    <string name="intercom_tickets_in_progress_status_detail">Vi arbejder på det 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} arbejder på det!</string>
+    <string name="intercom_tickets_is_resolved">Er denne supportanmodning blevet løst?</string>
+    <string name="intercom_tickets_log_a_ticket">Log en supportanmodning</string>
+    <string name="intercom_tickets_resolved_status_detail">Vi har fuldført din billet</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} har fuldført din billet</string>
+    <string name="intercom_tickets_sla">Anslået til at være løst {time}</string>
+    <string name="intercom_tickets_space_title">Billetter</string>
+    <string name="intercom_tickets_status_change_event">Billetten er nu {status} • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">Vi har fuldført din supportanmodning</string>
+    <string name="intercom_tickets_status_description_more_info">Vi har brug for flere oplysninger</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} flyttede din billet til</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} flyttede din billet {ticket_id} til</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">Din billet er blevet flyttet til</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">Din billet {ticket_id} er flyttet til</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">Din billet er blevet</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">Din billet {ticket_id} er blevet</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">Vi går snart i gang med din supportanmodning</string>
+    <string name="intercom_tickets_status_description_working_on">Vi arbejder på din supportanmodning</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} flyttede supportanmodning til {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">Billet flyttet til {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">Billetten er blevet {submitted_status} • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">I gang</string>
+    <string name="intercom_tickets_status_resolved">Løst</string>
+    <string name="intercom_tickets_status_submitted">Indsendt</string>
+    <string name="intercom_tickets_status_waiting_on_you">Venter på dig</string>
+    <string name="intercom_tickets_submitted_confirmation_header">Serviceanmodning er indsendt!</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">Vi giver dig besked, når din serviceanmodning opdateres</string>
+    <string name="intercom_tickets_submitted_status_detail">Vi arbejder på sagen</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} arbejder på sagen</string>
+    <string name="intercom_tickets_unread">Billetter. Du har ulæste billetopdateringer.</string>
+    <string name="intercom_tickets_updates_prompt">Du modtager opdateringer i Messenger og via e-mail</string>
+    <string name="intercom_tickets_view_ticket">Se billetoplysninger</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">Vi skal bruge flere oplysninger fra dig</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} har brug for flere oplysninger</string>
+    <string name="intercom_time_day_ago">{delta}d siden</string>
+    <string name="intercom_time_future_1h">1 time</string>
+    <string name="intercom_time_future_2h">2 timer</string>
+    <string name="intercom_time_future_30m">30 minutter</string>
+    <string name="intercom_time_future_3h">3 timer</string>
+    <string name="intercom_time_future_day_0">mandag</string>
+    <string name="intercom_time_future_day_1">tirsdag</string>
+    <string name="intercom_time_future_day_2">onsdag</string>
+    <string name="intercom_time_future_day_3">torsdag</string>
+    <string name="intercom_time_future_day_4">fredag</string>
+    <string name="intercom_time_future_day_5">lørdag</string>
+    <string name="intercom_time_future_day_6">søndag</string>
+    <string name="intercom_time_future_later_today">senere i dag</string>
+    <string name="intercom_time_future_next_week">næste uge</string>
+    <string name="intercom_time_future_tomorrow">i morgen</string>
+    <string name="intercom_time_hour_ago">{delta}t siden</string>
+    <string name="intercom_time_just_now">Lige nu</string>
+    <string name="intercom_time_minute_ago">{delta}m siden</string>
+    <string name="intercom_time_week_ago">{delta}u siden</string>
+    <string name="intercom_time_yesterday">i går</string>
+    <string name="intercom_try_again">Prøv igen</string>
+    <string name="intercom_try_again_minute">Prøv igen om et øjeblik.</string>
+    <string name="intercom_try_use_different_keywords">Prøv at bruge forskellige søgeord, eller skriv dit fulde spørgsmål</string>
+    <string name="intercom_twitter_follow">Følg os på Twitter</string>
+    <string name="intercom_two_business_days">To arbejdsdage</string>
+    <string name="intercom_type_a_number">Tast et nummer…</string>
+    <string name="intercom_typically_replies_in_one_business_day">Svarer normalt i løbet af en arbejdsdag</string>
+    <string name="intercom_typically_replies_in_two_business_days">Svarer normalt i løbet af to arbejdsdage</string>
+    <string name="intercom_unread_message_count">{unread_count} ulæst</string>
+    <string name="intercom_upfront_collection_form_close_out">Du kan når som helst vende tilbage hertil for at se svar og indsende opdateringer.</string>
+    <string name="intercom_upfront_collection_form_introduction">Del noget kontekst for at hjælpe teamet med at kunne reagere bedre og hurtigere.</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">Tak for at sende den kontekst. For at spare tid senere, kan du tilføje flere oplysninger nu.</string>
+    <string name="intercom_upfront_collection_form_subtitle">Send teamet noget kontekst</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">De vil overveje denne kontekst</string>
+    <string name="intercom_upfront_collection_form_title">Få hurtigere hjælp</string>
+    <string name="intercom_upfront_collection_form_title_submitted">Sendt til teamet!</string>
+    <string name="intercom_upload_failed">Overførsel mislykkedes</string>
+    <string name="intercom_upload_max_files_allowed">Maksimalt antal tilladte {limit} filer</string>
+    <string name="intercom_upload_max_files_size">Maksimal filstørrelse er {limit} MB</string>
+    <string name="intercom_user_avatar_image">Billede af brugerens avatar</string>
+    <string name="intercom_view_all">Se alle</string>
+    <string name="intercom_view_conversation">Se samtale</string>
+    <string name="intercom_view_more_details">Se flere detaljer</string>
+    <string name="intercom_view_post">Se indlæg</string>
+    <string name="intercom_we_run_on_intercom">Vi bruger Intercom</string>
+    <string name="intercom_working_on_it">Arbejder på det ...</string>
+    <string name="intercom_you">Du</string>
+    <string name="intercom_you_are_all_up_to_date">Du er helt opdateret!</string>
+    <string name="intercom_you_have_new_messages">Du har nye meddelelser.</string>
+    <string name="intercom_you_rated_the_conversation">Du har vurderet en samtale</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">Du får besked her og via e-mail</string>
+    <string name="intercom_your_checklists">Dine tjeklister</string>
+    <string name="intercom_your_conversations">Dine samtaler</string>
+    <string name="intercom_your_recent_conversations">Seneste samtaler</string>
+    <string name="intercom_your_recent_message">Seneste meddelelse</string>
+    <string name="intercom_your_recent_messages">Seneste meddelelser</string>
+    <string name="intercom_your_ticket">Din serviceanmodning</string>
+    <string name="item_view_role_description">Fane</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Skjul felt i bunden"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Luk felt i bunden"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Håndtag"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Udvid felt i bunden"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Felt i bunden"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Angivet dato"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Angivet dato: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Datoen svarer ikke til det forventede format: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Datoen er ikke tilladt: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Datoen er uden for det forventede årsinterval: %1$s-%2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Dato"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Ingen"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Vælg dato"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Valgt dato"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Aktuelt valg: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Gå til år %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Ingen"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Rul for at se tidligere år"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Rul for at se senere år"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Skift til input-tilstand for kalender"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Stryg for at vælge et år, eller tryk for at skifte tilbage til datovælgeren"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Skift til input-tilstand for tekst"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Skift til næste måned"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Skift til forrige måned"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Skift til valg af år"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Vælg dato"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"I dag"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Årsvælgeren er synlig"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Det angivne datointerval er ugyldigt"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Angiv datoer"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Inden for de valgte dage"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Slutdato"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Rul for at se næste måned"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Rul for at se forrige måned"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Startdato"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Vælg datoer"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialogboks"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Skjult"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Udvidet"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Søg"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Afvis"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Forslag nedenfor"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Time"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d timer"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Vælg time"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"kl. %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"til timer"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minut"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Vælg minutter"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d minutter"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"til minutter"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Vælg AM eller PM"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Se værktøjstip"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Værktøjstip"</string>
+    <string name="material_clock_toggle_content_description">Vælg AM eller PM</string>
+    <string name="material_hour_24h_suffix">%1$s timer</string>
+    <string name="material_hour_selection">Vælg time</string>
+    <string name="material_hour_suffix">klokken %1$s</string>
+    <string name="material_minute_selection">Vælg minutter</string>
+    <string name="material_minute_suffix">%1$s minutter</string>
+    <string name="material_timepicker_am">f.m.</string>
+    <string name="material_timepicker_clock_mode_description">Skift til urtilstand for at angive klokkeslæt.</string>
+    <string name="material_timepicker_hour">Time</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">e.m.</string>
+    <string name="material_timepicker_select_time">Vælg tidspunkt</string>
+    <string name="material_timepicker_text_input_mode_description">Skift til teksttilstand for at angive klokkeslæt.</string>
+    <string name="mtrl_badge_numberless_content_description">Ny notifikation</string>
+    <string name="mtrl_chip_close_icon_content_description">Fjern %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Flere end %1$d nye notifikationer</string>
+    <string name="mtrl_picker_a11y_next_month">Skift til næste måned</string>
+    <string name="mtrl_picker_a11y_prev_month">Skift til forrige måned</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelt valg: %1$s</string>
+    <string name="mtrl_picker_cancel">Annuller</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Vælg dato</string>
+    <string name="mtrl_picker_date_header_unselected">Valgt dato</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolonne med dage: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ugyldigt format.</string>
+    <string name="mtrl_picker_invalid_format_example">Eksempel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Brug: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ugyldigt interval.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Gå til år %1$s</string>
+    <string name="mtrl_picker_out_of_range">Uden for interval: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdato – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – slutdato</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Vælg interval</string>
+    <string name="mtrl_picker_range_header_unselected">Startdato – slutdato</string>
+    <string name="mtrl_picker_save">Gem</string>
+    <string name="mtrl_picker_text_input_date_hint">Dato</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Slutdato</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdato</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">å</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Skift til input-tilstand for kalender</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tryk for at gå til valg af dag</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Skift til input-tilstand for tekst</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tryk for at gå til valg af år</string>
+    <string name="mtrl_timepicker_cancel">Annuller</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigationsmenu"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Ikke valgt"</string>
+    <string msgid="875452955155264703" name="off">"Fra"</string>
+    <string msgid="8655164131929253426" name="on">"Til"</string>
+    <string name="password_toggle_content_description">Vis adgangskode</string>
+    <string msgid="5941395253238309765" name="range_end">"Slutinterval"</string>
+    <string msgid="7097486360902471446" name="range_start">"Startinterval"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Søg"</string>
+    <string msgid="6043586758067023" name="selected">"Valgt"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Kontakt"</string>
+    <string msgid="1672349317127674378" name="tab">"Fane"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> procent."</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"værktøjstip"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"se værktøjstip"</string>
+</resources>

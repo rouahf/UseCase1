@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25x</item>
+    <item>0,5x</item>
+    <item>0,75x</item>
+    <item>Bình thường</item>
+    <item>1,25x</item>
+    <item>1,5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">Tua nhanh %d giây</item>
+    <item quantity="other">Tua nhanh %d giây</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">Tua lại %d giây</item>
+    <item quantity="other">Tua lại %d giây</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d thông báo mới</item>
+    <item quantity="other">%d thông báo mới</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Chỉ đường về nhà"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Di chuyển lên"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Tùy chọn khác"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"TẮT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BẬT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Truy vấn tìm kiếm"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string name="bottomsheet_action_collapse">Thu gọn bảng dưới cùng</string>
+    <string name="bottomsheet_action_expand">Mở rộng bảng dưới cùng</string>
+    <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
+    <string name="bottomsheet_drag_handle_clicked">Đã nhấn đúp nút kéo</string>
+    <string name="bottomsheet_drag_handle_content_description">Nút kéo</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Trả lời"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Từ chối"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Kết thúc"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Cuộc gọi đến"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Cuộc gọi đang thực hiện"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Đang sàng lọc cuộc gọi đến"</string>
+    <string name="character_counter_content_description">Đã nhập %1$d trong số %2$d ký tự</string>
+    <string name="character_counter_overflowed_content_description">Đã vượt quá giới hạn ký tự %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Xóa văn bản</string>
+    <string msgid="406453423630273620" name="close_drawer">"Đóng trình đơn điều hướng"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Đóng trang tính"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Bật</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Cài đặt</string>
+    <string name="common_google_play_services_install_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Thiết bị của bạn bị thiếu dịch vụ này.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Phạm vi cung cấp Dịch vụ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Lỗi dịch vụ của Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với Dịch vụ Google Play. Hãy thử lại.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s sẽ không chạy nếu không có Dịch vụ Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Cập nhật</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s sẽ không chạy trừ khi bạn cập nhật Dịch vụ Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật.</string>
+    <string name="common_google_play_services_wear_update_text">Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật.</string>
+    <string name="common_open_on_phone">Mở trên điện thoại</string>
+    <string name="common_signin_button_text">Đăng nhập</string>
+    <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Giá trị nhập không hợp lệ"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Cửa sổ bật lên"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Trình đơn thả xuống"</string>
+    <string name="error_icon_content_description">Lỗi</string>
+    <string name="exo_controls_cc_disabled_description">Bật phụ đề</string>
+    <string name="exo_controls_cc_enabled_description">Tắt phụ đề</string>
+    <string name="exo_controls_fastforward_description">Tua đi</string>
+    <string name="exo_controls_fullscreen_enter_description">Chuyển sang chế độ toàn màn hình</string>
+    <string name="exo_controls_fullscreen_exit_description">Thoát khỏi chế độ toàn màn hình</string>
+    <string name="exo_controls_hide">Ẩn các nút điều khiển trình phát</string>
+    <string name="exo_controls_next_description">Tiếp theo</string>
+    <string name="exo_controls_overflow_hide_description">Ẩn các tùy chọn cài đặt bổ sung</string>
+    <string name="exo_controls_overflow_show_description">Hiện các tùy chọn cài đặt bổ sung</string>
+    <string name="exo_controls_pause_description">Tạm dừng</string>
+    <string name="exo_controls_play_description">Phát</string>
+    <string name="exo_controls_playback_speed">Tốc độ</string>
+    <string name="exo_controls_previous_description">Trước</string>
+    <string name="exo_controls_repeat_all_description">Chế độ hiện tại: Lặp lại tất cả nội dung. Bật/tắt chế độ lặp lại.</string>
+    <string name="exo_controls_repeat_off_description">Chế độ hiện tại: Không lặp lại. Bật/tắt chế độ lặp lại.</string>
+    <string name="exo_controls_repeat_one_description">Chế độ hiện tại: Lặp lại một nội dung. Bật/tắt chế độ lặp lại.</string>
+    <string name="exo_controls_rewind_description">Tua lại</string>
+    <string name="exo_controls_seek_bar_description">Tiến trình phát</string>
+    <string name="exo_controls_settings_description">Cài đặt</string>
+    <string name="exo_controls_show">Hiển thị các nút điều khiển trình phát</string>
+    <string name="exo_controls_shuffle_off_description">Bật chế độ trộn bài</string>
+    <string name="exo_controls_shuffle_on_description">Tắt chế độ trộn bài</string>
+    <string name="exo_controls_stop_description">Dừng</string>
+    <string name="exo_controls_vr_description">Chế độ thực tế ảo</string>
+    <string name="exo_download_completed">Đã hoàn tất tải xuống</string>
+    <string name="exo_download_description">Tải xuống</string>
+    <string name="exo_download_downloading">Đang tải xuống</string>
+    <string name="exo_download_failed">Không tải xuống được</string>
+    <string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
+    <string name="exo_download_paused">Đã tạm dừng tải xuống</string>
+    <string name="exo_download_paused_for_network">Đang chờ có mạng để tải xuống</string>
+    <string name="exo_download_paused_for_wifi">Đang chờ có Wi-Fi để tải xuống</string>
+    <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
+    <string name="exo_track_mono">Đơn âm</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Thay thế</string>
+    <string name="exo_track_role_closed_captions">Phụ đề</string>
+    <string name="exo_track_role_commentary">Bình luận</string>
+    <string name="exo_track_role_supplementary">Bổ sung</string>
+    <string name="exo_track_selection_auto">Tự động</string>
+    <string name="exo_track_selection_none">Không</string>
+    <string name="exo_track_selection_title_audio">Âm thanh</string>
+    <string name="exo_track_selection_title_text">Văn bản</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Âm thanh nổi</string>
+    <string name="exo_track_surround">Âm thanh vòm</string>
+    <string name="exo_track_surround_5_point_1">Âm thanh vòm 5.1</string>
+    <string name="exo_track_surround_7_point_1">Âm thanh vòm 7.1</string>
+    <string name="exo_track_unknown">Không xác định</string>
+    <string name="exo_track_unknown_name">Không xác định (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
+    <string name="icon_content_description">Biểu tượng hộp thoại</string>
+    <string msgid="6827826412747255547" name="in_progress">"Đang thực hiện"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Đã kiểm tra một phần"</string>
+    <string name="intercom_access_background_location_message">Vào phần cài đặt thiết bị của bạn để bật app và sử dụng vị trí của bạn trên nền</string>
+    <string name="intercom_access_background_location_title">Cho phép luôn truy cập vào vị trí của bạn</string>
+    <string name="intercom_access_device_settings">Hãy vào phần cài đặt của thiết bị để cho phép truy cập ảnh của bạn</string>
+    <string name="intercom_access_photos">Truy cập ảnh của bạn</string>
+    <string name="intercom_active_15m_ago">Hoạt động {minutes} phút trước</string>
+    <string name="intercom_active_day_ago">Hoạt động {days} ngày trước</string>
+    <string name="intercom_active_hour_ago">Hoạt động {hours} giờ trước</string>
+    <string name="intercom_active_minute_ago">Hoạt động {minutes} phút trước</string>
+    <string name="intercom_active_state">Đang hoạt động</string>
+    <string name="intercom_active_week_ago">Hoạt động hơn 1 tuần trước</string>
+    <string name="intercom_add">Thêm</string>
+    <string name="intercom_ai_answer">Câu trả lời AI</string>
+    <string name="intercom_ai_answer_information">Câu trả lời AI, thông tin</string>
+    <string name="intercom_ai_bot">AI Bot</string>
+    <string name="intercom_allow_access">Cho phép truy cập</string>
+    <string name="intercom_allow_storage_access">Vui lòng cho phép truy cập vào bộ nhớ để xem ảnh của bạn</string>
+    <string name="intercom_almost_there">Gần xong...</string>
+    <string name="intercom_also_in_this_conversation">Cũng tham gia cuộc trò chuyện này</string>
+    <string name="intercom_android_activated_message">Ứng dụng Android của bạn hiện đã được tích hợp với nền tảng Intercom</string>
+    <string name="intercom_answer">Trả lời</string>
+    <string name="intercom_app_settings">Cài đặt ứng dụng</string>
+    <string name="intercom_article_double_author">Của {author_first_name1} và {author_first_name2}</string>
+    <string name="intercom_article_load_error">Không thể tải bài viết</string>
+    <string name="intercom_article_multiple_authors">Của {author_first_name1} và {number_of_other_authors} người khác</string>
+    <string name="intercom_article_question">Nội dung này có giải đáp được câu hỏi của bạn không?</string>
+    <string name="intercom_article_response">Bạn đã phản hồi</string>
+    <string name="intercom_article_search_hint_text">Tìm kiếm các bài viết...</string>
+    <string name="intercom_article_search_search_results">Kết quả tìm kiếm</string>
+    <string name="intercom_article_single_author">Của {author_first_name}</string>
+    <string name="intercom_ask_a_question">Đặt câu hỏi</string>
+    <string name="intercom_ask_a_question_with_ellipsis">Đặt câu hỏi...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">Đặt một câu hỏi khác...</string>
+    <string name="intercom_ask_our_bot_a_question">Đặt câu hỏi cho bot của chúng tôi</string>
+    <string name="intercom_asked_about">Đã hỏi về</string>
+    <string name="intercom_assigned_to_admin">Đã giao cho {admin}</string>
+    <string name="intercom_attribute_collector_negative">Không</string>
+    <string name="intercom_attribute_collector_positive">Có</string>
+    <string name="intercom_available_teammates">Đồng đội có sẵn: {available_teammates}</string>
+    <string name="intercom_avatar">Ảnh đại diện</string>
+    <string name="intercom_avatars">Ảnh đại diện</string>
+    <string name="intercom_away_state">Vắng mặt</string>
+    <string name="intercom_bot">Bot</string>
+    <string name="intercom_bot_answers_instantly">Bot trả lời ngay lập tức</string>
+    <string name="intercom_bot_expectation_text">Bot của chúng tôi có thể trả lời nhiều câu hỏi phổ biến</string>
+    <string name="intercom_bot_is_still_thinking">Bot vẫn đang suy nghĩ...</string>
+    <string name="intercom_bot_is_thinking">Bot đang suy nghĩ...</string>
+    <string name="intercom_browse_all_help_topics">Xem qua tất cả các chủ đề trợ giúp</string>
+    <string name="intercom_browse_collections">Xem qua các bộ sưu tập</string>
+    <string name="intercom_cancel">Hủy</string>
+    <string name="intercom_chat_with_us">Trò chuyện với chúng tôi</string>
+    <string name="intercom_check_later_for_updates">Hãy kiểm tra lại sau để biết các bản cập nhật.</string>
+    <string name="intercom_checklist_card_first_step">Bước đầu tiên</string>
+    <string name="intercom_checklist_card_next_step">Bước tiếp theo</string>
+    <string name="intercom_checklist_completed">Đã hoàn thành</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">Còn khoảng {minutes} phút</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">Còn khoảng 1 phút</string>
+    <string name="intercom_checklist_mark_step_as_complete">Đánh dấu là đã hoàn thành</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">Khoảng {minutes} phút</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">Khoảng 1 phút</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} bước</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">{steps_completed} trong {total_steps} đã xong</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">1 trong số {total_steps} đã hoàn thành</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 bước</string>
+    <string name="intercom_checklist_sender_name">Được chia sẻ bởi {name}</string>
+    <string name="intercom_checklist_step_action_button">Nút hành động bước</string>
+    <string name="intercom_checklist_step_completed">Đã hoàn thành</string>
+    <string name="intercom_choose_one">Chọn một…</string>
+    <string name="intercom_choose_the_date">Choose the date…</string>
+    <string name="intercom_clear">Xóa</string>
+    <string name="intercom_close">Đóng</string>
+    <string name="intercom_congratulations">Xin chúc mừng</string>
+    <string name="intercom_connected">Bạn đã kết nối</string>
+    <string name="intercom_contact_support">Liên hệ với bộ phận hỗ trợ</string>
+    <string name="intercom_contact_us">Liên hệ với chúng tôi</string>
+    <string name="intercom_continue_the_conversation">Tiếp tục cuộc trò chuyện</string>
+    <string name="intercom_conversation_card_office_hours_header">Thời gian chúng tôi sẽ trực tuyến trở lại</string>
+    <string name="intercom_conversation_card_reply_time_header">Thời gian hồi âm thông thường của chúng tôi</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">Thời gian trả lời thông thường</string>
+    <string name="intercom_conversation_has_ended">Cuộc trò chuyện của bạn đã kết thúc</string>
+    <string name="intercom_conversation_number_and_description">Cuộc hội thoại số {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">Hội thoại</string>
+    <string name="intercom_conversations_space_title">Hội thoại</string>
+    <string name="intercom_conversations_with_app">Hội thoại với {name}</string>
+    <string name="intercom_copied_to_clipboard">Đã sao chép vào bảng tạm</string>
+    <string name="intercom_couldnt_complete_action">Không thể hoàn thành hành động này</string>
+    <string name="intercom_couldnt_load_apps">Không thể tải các ứng dụng.</string>
+    <string name="intercom_couldnt_load_content">Không thể tải nội dung</string>
+    <string name="intercom_couldnt_load_messenger">Không thể tải Messenger.</string>
+    <string name="intercom_create_a_ticket">Tạo vé</string>
+    <string name="intercom_currently_no_help_articles">Hiện tại không có bài viết trợ giúp nào.</string>
+    <string name="intercom_delete_attachment">Xóa tập tin đính kèm</string>
+    <string name="intercom_delivered">Đã chuyển</string>
+    <string name="intercom_disappointed_face_emoji">Vẻ mặt thất vọng</string>
+    <string name="intercom_dismiss">Bỏ</string>
+    <string name="intercom_empty_conversations">Thông báo từ nhóm sẽ được hiển thị ở đây</string>
+    <string name="intercom_enter_text_placeholder">Nhập văn bản…</string>
+    <string name="intercom_error_loading_conversation">Không thể tải hội thoại</string>
+    <string name="intercom_error_loading_ticket">Không thể tải vé</string>
+    <string name="intercom_expected_response_delay_10800">chưa đầy 3 giờ</string>
+    <string name="intercom_expected_response_delay_120">chưa đầy 2 phút</string>
+    <string name="intercom_expected_response_delay_1200">chưa đầy 20 phút</string>
+    <string name="intercom_expected_response_delay_14400">chưa đầy 4 giờ</string>
+    <string name="intercom_expected_response_delay_172800">2 ngày</string>
+    <string name="intercom_expected_response_delay_180">chưa đầy 3 phút</string>
+    <string name="intercom_expected_response_delay_1800">chưa đầy 30 phút</string>
+    <string name="intercom_expected_response_delay_18000">chưa đầy 5 giờ</string>
+    <string name="intercom_expected_response_delay_21600">chưa đầy 6 giờ</string>
+    <string name="intercom_expected_response_delay_240">chưa đầy 4 phút</string>
+    <string name="intercom_expected_response_delay_259200">3 ngày</string>
+    <string name="intercom_expected_response_delay_300">chưa đầy 5 phút</string>
+    <string name="intercom_expected_response_delay_345600">4 ngày</string>
+    <string name="intercom_expected_response_delay_3600">chưa đầy 1 giờ</string>
+    <string name="intercom_expected_response_delay_43200">chưa đầy 12 giờ</string>
+    <string name="intercom_expected_response_delay_432000">5 ngày</string>
+    <string name="intercom_expected_response_delay_518400">6 ngày</string>
+    <string name="intercom_expected_response_delay_60">chưa đầy 1 phút</string>
+    <string name="intercom_expected_response_delay_600">chưa đầy 10 phút</string>
+    <string name="intercom_expected_response_delay_604800">chưa đầy 1 tuần</string>
+    <string name="intercom_expected_response_delay_7200">chưa đầy 2 giờ</string>
+    <string name="intercom_expected_response_delay_86400">1 ngày</string>
+    <string name="intercom_expected_response_delay_900">chưa đầy 15 phút</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} nhãn</string>
+    <string name="intercom_facebook_like">Thích chúng tôi trên Facebook</string>
+    <string name="intercom_failed_delivery">Không thể chuyển tin nhắn</string>
+    <string name="intercom_failed_to_load_conversation">Không thể tải các hội thoại của bạn</string>
+    <string name="intercom_failed_to_load_tickets">Không thể tải vé của bạn</string>
+    <string name="intercom_failed_to_load_tickets_with_app">Không thể tải vé của bạn bằng {app_name}</string>
+    <string name="intercom_failed_to_send">Không thể gửi</string>
+    <string name="intercom_field_is_required">Trường {field_name} là bắt buộc</string>
+    <string name="intercom_file_access_failed">Không thể truy nhập tệp đó</string>
+    <string name="intercom_file_max_limit">Tối đa {limit} tập tin</string>
+    <string name="intercom_file_saved">Tập tin đã lưu</string>
+    <string name="intercom_file_too_big">Không thể gửi tệp lớn quá {limit} MB</string>
+    <string name="intercom_file_type_not_allowed">Loại tập tin không được phép</string>
+    <string name="intercom_files">Tập tin</string>
+    <string name="intercom_gallery">Bộ sưu tập</string>
+    <string name="intercom_generating_answer">Đang tạo câu trả lời...</string>
+    <string name="intercom_get_help">Được trợ giúp</string>
+    <string name="intercom_get_notified_by_email">Nhận thông báo qua email</string>
+    <string name="intercom_gif_attribution">qua {providername}</string>
+    <string name="intercom_gifs_load_error">Không thể tải GIF</string>
+    <string name="intercom_give_it_another_try">Thử lại lần nữa</string>
+    <string name="intercom_go_to_device_settings">Để cho phép truy cập, đi đến menu các quyền của cài đặt ứng dụng trên thiết bị của bạn</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">Khuôn mặt cười toe toét với cặp mắt to</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+1 người khác</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+{other_participant_count} người khác</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">{other_participant_count} người khác cũng đang tham gia</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name} cũng đang tham gia</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} và 1 người khác cũng đang tham gia</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} và {other_participant_count} người khác cũng đang tham gia</string>
+    <string name="intercom_group_conversation_one_person_also_participating">1 người khác cũng đang tham gia</string>
+    <string name="intercom_help_center">Trung tâm trợ giúp</string>
+    <string name="intercom_help_space_title">Trợ giúp</string>
+    <string name="intercom_home_space_title">Nhà</string>
+    <string name="intercom_how_can_we_help">Chúng tôi có thể giúp được gì cho bạn?</string>
+    <string name="intercom_how_would_you_rate_this">Bạn đánh giá thế nào về điều này?</string>
+    <string name="intercom_image_attached">(đính kèm hình ảnh)</string>
+    <string name="intercom_inbox_error_state_title">Đã xảy ra lỗi</string>
+    <string name="intercom_last_active_hours_ago">Hoạt động lần cuối {mins} giờ trước</string>
+    <string name="intercom_last_active_mins_ago">Hoạt động lần cuối {mins} phút trước</string>
+    <string name="intercom_last_active_over_a_week">Hoạt động lần cuối hơn 1 tuần trước</string>
+    <string name="intercom_learn_more">Tìm hiểu thêm</string>
+    <string name="intercom_loading">Đang tải</string>
+    <string name="intercom_message_failed_try_again">Không thể gửi, nhấn để thử lại</string>
+    <string name="intercom_message_placeholder">Tin nhắn...</string>
+    <string name="intercom_message_seen">Đã xem</string>
+    <string name="intercom_message_state_sending">Đang gửi…</string>
+    <string name="intercom_message_summary">Tóm tắt tin nhắn: {summary}, Tên của đồng đội: {name}, Thời gian gửi tin nhắn: {sentTime}. </string>
+    <string name="intercom_message_summary_with_teammate_status">Tóm tắt tin nhắn: {summary}, Tên của đồng đội: {name}, Tình trạng đồng đội: {adminStatus}, Thời gian gửi tin nhắn: {sentTime}. </string>
+    <string name="intercom_message_unread">Tin nhắn chưa được đọc.</string>
+    <string name="intercom_message_unseen">Chưa xem</string>
+    <string name="intercom_messages_space_title">Tin nhắn</string>
+    <string name="intercom_messenger_bot_reply_time">Bot của chúng tôi sẽ trả lời ngay lập tức</string>
+    <string name="intercom_multiple_articles">{total_articles} Bài viết</string>
+    <string name="intercom_multiple_collections">{total_collection} bộ sưu tập</string>
+    <string name="intercom_name_and_1_other">{name} và 1 người khác</string>
+    <string name="intercom_name_and_x_others">{name} và {count} người khác</string>
+    <string name="intercom_navigation_back">Quay lại</string>
+    <string name="intercom_need_camera_access">{app_name} cần quyền truy cập vào camera để bạn có thể chụp ảnh và quay video. Nhấn vào Cài đặt > Cho phép và bật Camera.</string>
+    <string name="intercom_neutral_face_emoji">Khuôn mặt bình thường</string>
+    <string name="intercom_new_conversation">Hội thoại mới</string>
+    <string name="intercom_new_message">Tin nhắn mới</string>
+    <string name="intercom_new_messages">Bạn có {n} tin nhắn mới</string>
+    <string name="intercom_new_notifications">Thông báo mới</string>
+    <string name="intercom_news">Tin tức</string>
+    <string name="intercom_news_empty_title">Chưa có tin tức</string>
+    <string name="intercom_news_latest_subtitle">Từ nhóm {team_name}</string>
+    <string name="intercom_news_latest_title">Mới nhất</string>
+    <string name="intercom_news_older_title">Cũ hơn</string>
+    <string name="intercom_news_space_title">Tin tức</string>
+    <string name="intercom_no_articles_to_display">Chưa có bài viết nào</string>
+    <string name="intercom_no_conversations">Không có hội thoại</string>
+    <string name="intercom_no_gifs_found">Không tìm thấy GIF nào</string>
+    <string name="intercom_no_gifs_matching_query">Chúng tôi không tìm thấy tệp GIF nào phù hợp với yêu cầu của bạn</string>
+    <string name="intercom_no_help_articles_to_display">Không có bài viết trợ giúp</string>
+    <string name="intercom_no_messages_from_the_team">Không có tin nhắn từ nhóm</string>
+    <string name="intercom_no_network_connection">Không có kết nối mạng</string>
+    <string name="intercom_no_photos">Không có ảnh</string>
+    <string name="intercom_no_photos_on_device">Không có ảnh nào trên thiết bị này</string>
+    <string name="intercom_no_results_for_searchterm">Không có kết quả cho {searchTerm}</string>
+    <string name="intercom_no_tasks">Không có nhiệm vụ</string>
+    <string name="intercom_no_tasks_available_currently">Hiện tại không có nhiệm vụ nào khả dụng.</string>
+    <string name="intercom_not_now">Không phải bây giờ</string>
+    <string name="intercom_nothing_to_see_here_yet">Không có tin mới</string>
+    <string name="intercom_notification_channel_actions_description">Chứa đường dẫn để thực hiện hành động trong ứng dụng này</string>
+    <string name="intercom_notification_channel_actions_title">Hành động</string>
+    <string name="intercom_notification_channel_chat_replies_description">Trả lời thông báo từ cuộc hội thoại trong ứng dụng này</string>
+    <string name="intercom_notification_channel_chat_replies_title">Tin nhắn trả lời</string>
+    <string name="intercom_notification_channel_new_chats_description">Tin nhắn mới được gửi từ ứng dụng này</string>
+    <string name="intercom_notification_channel_new_chats_title">Cuộc hội thoại mới</string>
+    <string name="intercom_number_is_incorrect">Số đó có vẻ không đúng</string>
+    <string name="intercom_ok">Ok</string>
+    <string name="intercom_one_new_message">Bạn có một tin nhắn mới</string>
+    <string name="intercom_our_bot_answers_instantly">Bot của chúng tôi trả lời ngay lập tức</string>
+    <string name="intercom_page_not_found">Trang đó không còn ở đây nữa</string>
+    <string name="intercom_permission_denied">Sự cho phép này đã bị từ chối</string>
+    <string name="intercom_photo_access_denied">Bạn đã từ chối truy cập vào ảnh</string>
+    <string name="intercom_photo_and_video_library">Thư viện ảnh và video</string>
+    <string name="intercom_placeholder_datepicker">DD-MM-YYYY</string>
+    <string name="intercom_placeholder_email_input">Nhập email ở đây...</string>
+    <string name="intercom_placeholder_numerical_inputs">Nhập số ở đây ...</string>
+    <string name="intercom_placeholder_text_inputs">Nhập văn bản ở đây...</string>
+    <string name="intercom_please_select">Vui lòng chọn...</string>
+    <string name="intercom_plus_x_more">+thêm {n}</string>
+    <string name="intercom_powered_by_intercom">Được cung cấp bởi Intercom</string>
+    <string name="intercom_profile_location">{time} ở {location}</string>
+    <string name="intercom_rate_your_conversation">Xếp hạng cuộc trò chuyện</string>
+    <string name="intercom_recent_ticket">Vé gần đây</string>
+    <string name="intercom_recent_tickets">Vé gần đây</string>
+    <string name="intercom_record_a_video">Quay video</string>
+    <string name="intercom_reload">Tải lại</string>
+    <string name="intercom_reply">Trả lời</string>
+    <string name="intercom_reply_from_admin">Tin trả lời từ {name}</string>
+    <string name="intercom_reply_to_conversation">Viết tin trả lời</string>
+    <string name="intercom_retry">Thử lại</string>
+    <string name="intercom_saving">Đang lưu...</string>
+    <string name="intercom_search_browse_empty_state_text">Rất tiếc, chúng tôi không thể tìm thấy bất cứ kết quả nào cho điều đó. Thử viết lại nội dung tìm kiếm của bạn.</string>
+    <string name="intercom_search_for_help">Tìm kiếm sự trợ giúp</string>
+    <string name="intercom_search_gif">Tìm kiếm GIF…</string>
+    <string name="intercom_search_help_articles">Tìm kiếm các bài viết hỗ trợ</string>
+    <string name="intercom_see_all">Xem tất cả</string>
+    <string name="intercom_see_all_conversations">Xem tất cả các cuộc trò chuyện của bạn</string>
+    <string name="intercom_see_past_conversations">Xem các cuộc trò chuyện cũ</string>
+    <string name="intercom_see_previous_conversations">Xem các cuộc trò chuyện trước đây của bạn</string>
+    <string name="intercom_send">Gửi</string>
+    <string name="intercom_send_a_message_reply_time">Thời gian trả lời thông thường là</string>
+    <string name="intercom_send_us_a_message">Gửi tin nhắn cho chúng tôi</string>
+    <string name="intercom_send_us_a_message_bot">Gửi tin nhắn cho chúng tôi và bot của chúng tôi sẽ trả lời ngay lập tức</string>
+    <string name="intercom_settings">Cài đặt</string>
+    <string name="intercom_shared_by">Được chia sẻ bởi</string>
+    <string name="intercom_show_less">Hiển thị ít hơn</string>
+    <string name="intercom_single_article">1 Bài viết</string>
+    <string name="intercom_single_collection">1 bộ sưu tập</string>
+    <string name="intercom_some_things_failed_to_load">Không tải được một số thứ. Thử lại.</string>
+    <string name="intercom_something_went_wrong_try_again">Đã xảy ra sự cố. Hãy thử lại.</string>
+    <string name="intercom_source">Nguồn</string>
+    <string name="intercom_sources">Nguồn</string>
+    <string name="intercom_spaces_error_description">Không thể tải nội dung</string>
+    <string name="intercom_spaces_error_title">Đã xảy ra lỗi</string>
+    <string name="intercom_start_a_conversation">Bắt đầu trò chuyện...</string>
+    <string name="intercom_start_another_conversation">Bắt đầu cuộc trò chuyện khác</string>
+    <string name="intercom_start_conversation">Bắt đầu một hội thoại</string>
+    <string name="intercom_status">Tình trạng</string>
+    <string name="intercom_still_generating_answer">Vẫn đang tạo câu trả lời...</string>
+    <string name="intercom_still_thinking">Vẫn đang suy nghĩ...</string>
+    <string name="intercom_still_working_on_it">Vẫn đang tìm hiểu...</string>
+    <string name="intercom_stop_upload">Dừng tải lên</string>
+    <string name="intercom_storage_access_request">Để xem ảnh, bạn cần cho phép truy cập vào bộ nhớ</string>
+    <string name="intercom_string_is_incorrect">Có vẻ không đúng</string>
+    <string name="intercom_submit">Gửi</string>
+    <string name="intercom_suggested_articles">Các bài viết đề xuất</string>
+    <string name="intercom_surveys_all_options_response_hint">Vui lòng chọn tất cả các tùy chọn phù hợp</string>
+    <string name="intercom_surveys_dismiss">Bỏ qua khảo sát</string>
+    <string name="intercom_surveys_done_button">Xong</string>
+    <string name="intercom_surveys_dropdown_default_option">Vui lòng chọn một phản hồi...</string>
+    <string name="intercom_surveys_email_error">Vui lòng nhập địa chỉ email hợp lệ</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">Vui lòng chọn {response_count} tùy chọn</string>
+    <string name="intercom_surveys_from_company">Khảo sát từ {company}</string>
+    <string name="intercom_surveys_from_teammate">Khảo sát của {sender_name} từ {company}</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">Câu hỏi này yêu cầu ít nhất {response_count} tùy chọn để chọn</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">Câu hỏi này yêu cầu {response_count} tùy chọn để chọn</string>
+    <string name="intercom_surveys_multi_star_rating">{count} sao</string>
+    <string name="intercom_surveys_multiselect_other_option">Khác (Vui lòng nêu rõ)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">Vui lòng nêu rõ</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">Nhập câu trả lời</string>
+    <string name="intercom_surveys_multiselect_other_option_value">Khác</string>
+    <string name="intercom_surveys_next_button">Tiếp</string>
+    <string name="intercom_surveys_nps_lower_label">Không có khả năng</string>
+    <string name="intercom_surveys_nps_upper_label">Rất có khả năng</string>
+    <string name="intercom_surveys_number_error">Vui lòng nhập số</string>
+    <string name="intercom_surveys_one_star_rating">1 sao</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">Câu hỏi {questioin_number} trong tổng số {question_count}</string>
+    <string name="intercom_surveys_required_question">Đây là một câu hỏi bắt buộc</string>
+    <string name="intercom_surveys_required_response">Đây là phản hồi bắt buộc</string>
+    <string name="intercom_surveys_response_range_response_hint">Vui lòng chọn tối thiểu {minimum_response_count} và tối đa {maximum_response_count} tùy chọn</string>
+    <string name="intercom_surveys_response_too_long">Vui lòng giữ câu trả lời tối đa {character_count} ký tự</string>
+    <string name="intercom_surveys_response_too_short">Vui lòng đảm bảo câu trả lời có tối thiểu {character_count} ký tự</string>
+    <string name="intercom_surveys_sender_image">Hình ảnh người gửi khảo sát</string>
+    <string name="intercom_surveys_single_response_hint">Vui lòng chọn 1 tùy chọn</string>
+    <string name="intercom_surveys_telephone_error">Vui lòng nhập số điện thoại hợp lệ</string>
+    <string name="intercom_surveys_text_input_question_placeholder">Vui lòng nhập phản hồi của bạn ở đây...</string>
+    <string name="intercom_take_a_photo">Chụp ảnh</string>
+    <string name="intercom_tap_to_send_image">Chạm để gửi một ảnh</string>
+    <string name="intercom_tasks_space_title">Nhiệm vụ</string>
+    <string name="intercom_team_name_custom_response_delay_2">{app_name} thường trả lời trong một ngày</string>
+    <string name="intercom_team_name_custom_response_delay_3">{app_name} thường trả lời trong một tuần</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} thường trả lời trong một ngày làm việc</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} thường trả lời trong hai ngày làm việc</string>
+    <string name="intercom_teammate_from_company">{name} từ {company}</string>
+    <string name="intercom_tell_us_more">Cho chúng tôi biết thêm…</string>
+    <string name="intercom_tell_us_what_you_need">Hãy cho chúng tôi biết bạn cần giúp gì và bot của chúng tôi sẽ cố gắng đáp ứng</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">Xin cảm ơn! Nhóm sẽ trả lời trong một ngày làm việc</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">Xin cảm ơn! Nhóm sẽ trả lời trong vòng hai ngày làm việc</string>
+    <string name="intercom_thanks_for_letting_us_know">Cảm ơn bạn đã thông báo cho chúng tôi</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">Cảm ơn bạn! Nhóm sẽ trả lời sớm nhất có thể</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">Mã quốc gia đó có vẻ không đúng</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">Địa chỉ email đó có vẻ không đúng</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">Số đó có vẻ không đúng</string>
+    <string name="intercom_that_number_has_too_many_digits">Số đó có quá nhiều chữ số</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">Số đó bị thiếu một vài chữ số</string>
+    <string name="intercom_that_number_needs_a_prefix">Số đó cần có đầu số (+ hoặc 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">Nhóm có thể trợ giúp nếu cần</string>
+    <string name="intercom_the_team_typically_replies_in_hours">Nhóm thường trả lời trong vài giờ.</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">Nhóm thường trả lời trong một ngày làm việc.</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">Nhóm thường trả lời trong vòng hai ngày làm việc</string>
+    <string name="intercom_thinking">Đang suy nghĩ...</string>
+    <string name="intercom_ticket_could_not_be_created">Không thể tạo vé</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">Tạo vé {ticket_type_title}</string>
+    <string name="intercom_ticket_current_status">Trạng thái hiện tại: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">Trạng thái hiện tại: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">Thuộc tính vé;</string>
+    <string name="intercom_ticket_details_for_title">Chi tiết vé cho {title}</string>
+    <string name="intercom_ticket_details_notification_detail">Bạn sẽ được thông báo tại đây và qua email tại</string>
+    <string name="intercom_ticket_has_been_created">Vé đã được tạo</string>
+    <string name="intercom_ticket_has_been_updated">Vé đã được cập nhật</string>
+    <string name="intercom_ticket_sla_details">Chi tiết SLA: {sla_details}</string>
+    <string name="intercom_ticket_status_details">Chi tiết trạng thái: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">Đã chuyển vé vào {status} • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} đã chuyển vé vào {status} • {timestamp}</string>
+    <string name="intercom_tickets_add_file">Thêm tập tin</string>
+    <string name="intercom_tickets_add_files">Thêm tập tin</string>
+    <string name="intercom_tickets_create_ticket">Tạo vé</string>
+    <string name="intercom_tickets_create_ticket_fallback">Vui lòng trả lời với thông tin sau và sẽ có người sớm liên hệ lại với bạn.</string>
+    <string name="intercom_tickets_created_confirmation_header">Vé được tạo</string>
+    <string name="intercom_tickets_cta_text">Bạn có câu hỏi về vé này?</string>
+    <string name="intercom_tickets_email_copy">Hồi âm và cập nhật vé sẽ được gửi đến email này</string>
+    <string name="intercom_tickets_email_subject">Vé {ticket_type_name} của bạn</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">Vé {ticket_type_name} #{ticket_id} của bạn</string>
+    <string name="intercom_tickets_empty_state_text">Vé của bạn sẽ được hiển thị ở đây</string>
+    <string name="intercom_tickets_empty_state_title">Không có vé</string>
+    <string name="intercom_tickets_estimated_resolution">Thời gian ước tính để giải quyết: {duration}</string>
+    <string name="intercom_tickets_files_added">Đã thêm tập tin</string>
+    <string name="intercom_tickets_have_a_question">Bạn có câu hỏi về vấn đề này?</string>
+    <string name="intercom_tickets_in_progress_status_detail">Chúng tôi đang làm việc này 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} đang làm việc này!</string>
+    <string name="intercom_tickets_is_resolved">Vé này đã được giải quyết chưa?</string>
+    <string name="intercom_tickets_log_a_ticket">Ghi một vé</string>
+    <string name="intercom_tickets_resolved_status_detail">Chúng tôi đã hoàn thành vé của bạn</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} đã hoàn thành vé của bạn</string>
+    <string name="intercom_tickets_sla">Ước tính sẽ được giải quyết {time}</string>
+    <string name="intercom_tickets_space_title">Vé</string>
+    <string name="intercom_tickets_status_change_event">Vé hiện {status} • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">Chúng tôi đã hoàn thành vé của bạn</string>
+    <string name="intercom_tickets_status_description_more_info">Chúng tôi cần thêm thông tin</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} đã chuyển vé của bạn đến</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} đã chuyển vé #{ticket_id} của bạn đến</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">Vé của bạn đã chuyển đến</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">Vé #{ticket_id} của bạn đã được chuyển đến</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">Vé của bạn đã được</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">Vé #{ticket_id} của bạn đã được</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">Chúng tôi sẽ sớm lấy vé của bạn</string>
+    <string name="intercom_tickets_status_description_working_on">Chúng tôi đang xử lý vé của bạn</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} đã chuyển vé vào {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">Vé đã được chuyển vào {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">Vé đã được {submitted_status} • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">Đang thực hiện</string>
+    <string name="intercom_tickets_status_resolved">Đã giải quyết</string>
+    <string name="intercom_tickets_status_submitted">Đã gửi</string>
+    <string name="intercom_tickets_status_waiting_on_you">Đang đợi bạn</string>
+    <string name="intercom_tickets_submitted_confirmation_header">Vé đã được gửi!</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">Chúng tôi sẽ thông báo cho bạn khi vé của bạn có cập nhật</string>
+    <string name="intercom_tickets_submitted_status_detail">Chúng ta sẽ sớm lấy vé</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} sẽ sớm lấy vé</string>
+    <string name="intercom_tickets_unread">Vé. Bạn có cập nhật vé chưa đọc.</string>
+    <string name="intercom_tickets_updates_prompt">Bạn sẽ nhận được thông tin cập nhật trong Messenger và qua email</string>
+    <string name="intercom_tickets_view_ticket">Xem chi tiết vé</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">Chúng tôi cần thêm thông tin từ bạn</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} cần thêm thông tin</string>
+    <string name="intercom_time_day_ago">{delta} ngày trước</string>
+    <string name="intercom_time_future_1h">1 giờ</string>
+    <string name="intercom_time_future_2h">2 giờ</string>
+    <string name="intercom_time_future_30m">30 phút</string>
+    <string name="intercom_time_future_3h">3 giờ</string>
+    <string name="intercom_time_future_day_0">Thứ Hai</string>
+    <string name="intercom_time_future_day_1">Thứ Ba</string>
+    <string name="intercom_time_future_day_2">Thứ Tư</string>
+    <string name="intercom_time_future_day_3">Thứ Năm</string>
+    <string name="intercom_time_future_day_4">Thứ Sáu</string>
+    <string name="intercom_time_future_day_5">Thứ Bảy</string>
+    <string name="intercom_time_future_day_6">Chủ Nhật</string>
+    <string name="intercom_time_future_later_today">Trong hôm nay</string>
+    <string name="intercom_time_future_next_week">Tuần tới</string>
+    <string name="intercom_time_future_tomorrow">Ngày mai</string>
+    <string name="intercom_time_hour_ago">{delta} giờ trước</string>
+    <string name="intercom_time_just_now">Vừa xong</string>
+    <string name="intercom_time_minute_ago">{delta} phút trước</string>
+    <string name="intercom_time_week_ago">{delta} tuần trước</string>
+    <string name="intercom_time_yesterday">hôm qua</string>
+    <string name="intercom_try_again">Thử lại</string>
+    <string name="intercom_try_again_minute">Hãy thử lại sau ít phút.</string>
+    <string name="intercom_try_use_different_keywords">Hãy thử sử dụng các từ khóa khác nhau hoặc nhập câu hỏi đầy đủ của bạn</string>
+    <string name="intercom_twitter_follow">Theo dõi chúng tôi trên Twitter</string>
+    <string name="intercom_two_business_days">Hai ngày làm việc</string>
+    <string name="intercom_type_a_number">Nhập một số…</string>
+    <string name="intercom_typically_replies_in_one_business_day">Thường trả lời trong một ngày làm việc</string>
+    <string name="intercom_typically_replies_in_two_business_days">Thường trả lời trong vòng hai ngày làm việc</string>
+    <string name="intercom_unread_message_count">{unread_count} chưa đọc</string>
+    <string name="intercom_upfront_collection_form_close_out">Bạn có thể trở lại đây bất kỳ lúc nào để xem hồi âm và gửi nội dung cập nhật.</string>
+    <string name="intercom_upfront_collection_form_introduction">Chia sẻ một số ngữ cảnh để giúp nhóm phản hồi tốt hơn và nhanh hơn.</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">Cám ơn bạn đã gửi ngữ cảnh đó. Để tiết kiệm thời gian sau này, bạn có thể bổ sung thêm thông tin bây giờ.</string>
+    <string name="intercom_upfront_collection_form_subtitle">Gửi cho nhóm một số ngữ cảnh</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">Họ sẽ luôn ghi nhớ ngữ cảnh này</string>
+    <string name="intercom_upfront_collection_form_title">Được trợ giúp nhanh hơn</string>
+    <string name="intercom_upfront_collection_form_title_submitted">Đã gửi đến nhóm!</string>
+    <string name="intercom_upload_failed">Tải lên không thành công</string>
+    <string name="intercom_upload_max_files_allowed">Được phép tối đa {limit} tập tin</string>
+    <string name="intercom_upload_max_files_size">Kích thước tập tin tối đa là {limit}MB</string>
+    <string name="intercom_user_avatar_image">Hình ảnh đại diện của người dùng</string>
+    <string name="intercom_view_all">Xem tất cả</string>
+    <string name="intercom_view_conversation">Xem cuộc trò chuyện</string>
+    <string name="intercom_view_more_details">Xem thêm chi tiết</string>
+    <string name="intercom_view_post">Xem bài đăng</string>
+    <string name="intercom_we_run_on_intercom">Phát triển bởi Intercom</string>
+    <string name="intercom_working_on_it">Đang tìm hiểu...</string>
+    <string name="intercom_you">Bạn</string>
+    <string name="intercom_you_are_all_up_to_date">Bản tin nóng!</string>
+    <string name="intercom_you_have_new_messages">Bạn có tin nhắn mới.</string>
+    <string name="intercom_you_rated_the_conversation">Bạn đã xếp hạng cuộc trò chuyện</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">Bạn sẽ được thông báo tại đây và qua email</string>
+    <string name="intercom_your_checklists">Danh sách kiểm tra của bạn</string>
+    <string name="intercom_your_conversations">Cuộc trò chuyện của bạn</string>
+    <string name="intercom_your_recent_conversations">Cuộc trò chuyện gần đây</string>
+    <string name="intercom_your_recent_message">Tin nhắn gần đây</string>
+    <string name="intercom_your_recent_messages">Tin nhắn gần đây</string>
+    <string name="intercom_your_ticket">Vé của bạn</string>
+    <string name="item_view_role_description">Thẻ</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Thu gọn bảng dưới cùng"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Đóng bảng dưới cùng"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Nút kéo"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Mở rộng bảng dưới cùng"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Bảng dưới cùng"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Ngày đã nhập"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Ngày đã nhập: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Ngày không khớp với định dạng dự kiến: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Ngày không được phép: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Ngày không thuộc phạm vi năm dự kiến %1$s – %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Ngày"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Không có"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Chọn ngày"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Ngày đã chọn"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Lựa chọn hiện tại: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Chuyển đến năm %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Không có"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Cuộn để hiện những năm trước"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Cuộn để hiện những năm sau"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Chuyển sang chế độ nhập lịch"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Vuốt để chọn một năm hoặc nhấn để chuyển lại về chọn một ngày"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Chuyển sang chế độ nhập văn bản"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Chuyển sang tháng tiếp theo"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Chuyển về tháng trước"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Chuyển sang chọn năm"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Chọn ngày"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Hôm nay"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Bộ chọn năm hiển thị"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Phạm vi ngày đã nhập không hợp lệ"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Nhập ngày"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Trong khoảng"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Ngày kết thúc"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Cuộn để hiện tháng sau"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Cuộn để hiện tháng trước"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Ngày bắt đầu"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Chọn ngày"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Hộp thoại"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Đã thu gọn"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Đã mở rộng"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Tìm kiếm"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Đóng"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Các đề xuất ở bên dưới"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"SA"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Giờ"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d giờ"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Chọn giờ"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d giờ"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"nhập giờ"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Phút"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Chọn phút"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d phút"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"nhập phút"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Chọn SA hoặc CH"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"CH"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Hiện chú giải công cụ"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Chú giải công cụ"</string>
+    <string name="material_clock_toggle_content_description">Chọn SA hoặc CH</string>
+    <string name="material_hour_24h_suffix">%1$s giờ</string>
+    <string name="material_hour_selection">Chọn giờ</string>
+    <string name="material_hour_suffix">%1$s giờ</string>
+    <string name="material_minute_selection">Chọn phút</string>
+    <string name="material_minute_suffix">%1$s phút</string>
+    <string name="material_timepicker_am">SA</string>
+    <string name="material_timepicker_clock_mode_description">Chuyển sang chế độ đồng hồ để nhập thời gian.</string>
+    <string name="material_timepicker_hour">Giờ</string>
+    <string name="material_timepicker_minute">Phút</string>
+    <string name="material_timepicker_pm">CH</string>
+    <string name="material_timepicker_select_time">Chọn thời gian</string>
+    <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
+    <string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
+    <string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Hơn %1$d thông báo mới</string>
+    <string name="mtrl_picker_a11y_next_month">Chuyển sang tháng tiếp theo</string>
+    <string name="mtrl_picker_a11y_prev_month">Chuyển về tháng trước</string>
+    <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
+    <string name="mtrl_picker_cancel">Hủy</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Chọn ngày</string>
+    <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
+    <string name="mtrl_picker_day_of_week_column_header">Cột ngày: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Định dạng không hợp lệ.</string>
+    <string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Sử dụng: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Phạm vi không hợp lệ.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Chuyển tới năm %1$s</string>
+    <string name="mtrl_picker_out_of_range">Nằm ngoài phạm vi: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Ngày bắt đầu – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Ngày kết thúc</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Chọn dải ô</string>
+    <string name="mtrl_picker_range_header_unselected">Ngày bắt đầu – Ngày kết thúc</string>
+    <string name="mtrl_picker_save">Lưu</string>
+    <string name="mtrl_picker_text_input_date_hint">Ngày</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Ngày kết thúc</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Ngày bắt đầu</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Chuyển sang chế độ nhập lịch</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Nhấn để chuyển sang chế độ chọn một ngày</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Chuyển sang chế độ nhập văn bản</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Nhấn để chuyển sang chế độ chọn một năm</string>
+    <string name="mtrl_timepicker_cancel">Huỷ</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Trình đơn điều hướng"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Chưa chọn"</string>
+    <string msgid="875452955155264703" name="off">"Đang tắt"</string>
+    <string msgid="8655164131929253426" name="on">"Đang bật"</string>
+    <string name="password_toggle_content_description">Hiện mật khẩu</string>
+    <string msgid="5941395253238309765" name="range_end">"Điểm kết thúc phạm vi"</string>
+    <string msgid="7097486360902471446" name="range_start">"Điểm bắt đầu phạm vi"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tìm kiếm"</string>
+    <string msgid="6043586758067023" name="selected">"Đã chọn"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Chuyển"</string>
+    <string msgid="1672349317127674378" name="tab">"Thẻ"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g>%%."</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"chú thích"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"hiện chú thích"</string>
+</resources>

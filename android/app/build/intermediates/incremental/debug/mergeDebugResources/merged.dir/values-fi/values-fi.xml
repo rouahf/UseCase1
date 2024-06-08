@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25x</item>
+    <item>0,5x</item>
+    <item>0,75x</item>
+    <item>Normaali</item>
+    <item>1,25x</item>
+    <item>1,5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">Siirry eteenpäin %d sekunti</item>
+    <item quantity="other">Siirry eteenpäin %d sekuntia</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">Siirry taaksepäin %d sekunti</item>
+    <item quantity="other">Siirry taaksepäin %d sekuntia</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d uusi ilmoitus</item>
+    <item quantity="other">%d uutta ilmoitusta</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Lisäasetukset"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"POIS PÄÄLTÄ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"PÄÄLLÄ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Vaihto+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"välilyönti"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Valikko+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Hakukysely"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Jaa…"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Jaa: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Tiivistä"</string>
+    <string name="bottomsheet_action_collapse">Tiivistä alapaneeli</string>
+    <string name="bottomsheet_action_expand">Laajenna alapaneeli</string>
+    <string name="bottomsheet_action_expand_halfway">Laajenna puoliväliin</string>
+    <string name="bottomsheet_drag_handle_clicked">Vetokahvaa kaksoisnapautettu</string>
+    <string name="bottomsheet_drag_handle_content_description">Vetokahva</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Vastaa"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Hylkää"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Lopeta puhelu"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Saapuva puhelu"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Käynnissä oleva puhelu"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Seulotaan saapuvaa puhelua"</string>
+    <string name="character_counter_content_description">%1$d/%2$d merkkiä kirjoitettu</string>
+    <string name="character_counter_overflowed_content_description">Merkkiraja ylitetty: %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Tyhjennä teksti</string>
+    <string msgid="406453423630273620" name="close_drawer">"Sulje navigointivalikko"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Sulje taulukko"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Ota käyttöön</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s ei toimi, ellet ota Google Play Palveluita käyttöön.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Ota Google Play Palvelut käyttöön</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Asenna</string>
+    <string name="common_google_play_services_install_text">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Palveluiden saatavuus</string>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_unknown_issue">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Päivitä</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s ei toimi, ellet päivitä Google Play Palveluita.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Päivitä Google Play Palvelut</string>
+    <string name="common_google_play_services_updating_text">%1$s ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä.</string>
+    <string name="common_google_play_services_wear_update_text">Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian.</string>
+    <string name="common_open_on_phone">Avaa puhelimessa</string>
+    <string name="common_signin_button_text">Kirjaudu sisään</string>
+    <string name="common_signin_button_text_long">Kirjaudu Google-tilille</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Virheellinen syöte"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Ponnahdusikkuna"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Avattava valikko"</string>
+    <string name="error_icon_content_description">Virhe</string>
+    <string name="exo_controls_cc_disabled_description">Ota tekstitykset käyttöön</string>
+    <string name="exo_controls_cc_enabled_description">Poista tekstitykset käytöstä</string>
+    <string name="exo_controls_fastforward_description">Kelaa eteenpäin</string>
+    <string name="exo_controls_fullscreen_enter_description">Siirry koko näytön tilaan</string>
+    <string name="exo_controls_fullscreen_exit_description">Sulje koko näytön tila</string>
+    <string name="exo_controls_hide">Näytä soittimen säätimet</string>
+    <string name="exo_controls_next_description">Seuraava</string>
+    <string name="exo_controls_overflow_hide_description">Piilota lisäasetukset</string>
+    <string name="exo_controls_overflow_show_description">Näytä lisäasetukset</string>
+    <string name="exo_controls_pause_description">Keskeytä</string>
+    <string name="exo_controls_play_description">Toista</string>
+    <string name="exo_controls_playback_speed">Nopeus</string>
+    <string name="exo_controls_previous_description">Edellinen</string>
+    <string name="exo_controls_repeat_all_description">Tila: Toista kaikki. Vaihda.</string>
+    <string name="exo_controls_repeat_off_description">Tila: Älä toista. Vaihda.</string>
+    <string name="exo_controls_repeat_one_description">Tila: Toista yksi. Vaihda.</string>
+    <string name="exo_controls_rewind_description">Kelaa taaksepäin</string>
+    <string name="exo_controls_seek_bar_description">Toiston edistyminen</string>
+    <string name="exo_controls_settings_description">Asetukset</string>
+    <string name="exo_controls_show">Näytä soittimen säätimet</string>
+    <string name="exo_controls_shuffle_off_description">Ota satunnaistoisto käyttöön</string>
+    <string name="exo_controls_shuffle_on_description">Poista satunnaistoisto käytöstä</string>
+    <string name="exo_controls_stop_description">Lopeta</string>
+    <string name="exo_controls_vr_description">VR-tila</string>
+    <string name="exo_download_completed">Lataus valmis</string>
+    <string name="exo_download_description">Lataa</string>
+    <string name="exo_download_downloading">Ladataan</string>
+    <string name="exo_download_failed">Lataus epäonnistui</string>
+    <string name="exo_download_notification_channel_name">Lataukset</string>
+    <string name="exo_download_paused">Lataukset keskeytetty</string>
+    <string name="exo_download_paused_for_network">Lataukse odottavat verkkoyhteyttä</string>
+    <string name="exo_download_paused_for_wifi">Lataukset odottavat Wi-Fi-yhteyttä</string>
+    <string name="exo_download_removing">Poistetaan latauksia</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mb/s</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Vaihtoehtoinen</string>
+    <string name="exo_track_role_closed_captions">Tekstitykset</string>
+    <string name="exo_track_role_commentary">Kommenttiraita</string>
+    <string name="exo_track_role_supplementary">Lisämateriaali</string>
+    <string name="exo_track_selection_auto">Automaattinen</string>
+    <string name="exo_track_selection_none">–</string>
+    <string name="exo_track_selection_title_audio">Ääni</string>
+    <string name="exo_track_selection_title_text">Teksti</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround-ääni</string>
+    <string name="exo_track_surround_5_point_1">5.1-surround-ääni</string>
+    <string name="exo_track_surround_7_point_1">7.1-surround-ääni</string>
+    <string name="exo_track_unknown">Tuntematon</string>
+    <string name="exo_track_unknown_name">Tuntematon (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">Näytä avattava valikko</string>
+    <string name="icon_content_description">Valintaikkunan kuvake</string>
+    <string msgid="6827826412747255547" name="in_progress">"Kesken"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Osittain tarkistettu"</string>
+    <string name="intercom_access_background_location_message">Mene laitteesi asetuksiin salliaksesi sovellukselle sijaintisi käytön taustalla</string>
+    <string name="intercom_access_background_location_title">Salli aina käyttöoikeus sijaintiisi</string>
+    <string name="intercom_access_device_settings">Salli valokuviesi käyttöoikeus laitteesi asetuksista</string>
+    <string name="intercom_access_photos">Valokuviesi käyttöoikeus</string>
+    <string name="intercom_active_15m_ago">Aktiivinen edellisen {minutes} m aikana</string>
+    <string name="intercom_active_day_ago">Aktiivinen {days} pv sitten</string>
+    <string name="intercom_active_hour_ago">Aktiivinen {hours} h sitten</string>
+    <string name="intercom_active_minute_ago">Aktiivinen {minutes} m sitten</string>
+    <string name="intercom_active_state">Aktiivinen</string>
+    <string name="intercom_active_week_ago">Aktiivinen yli viikko sitten</string>
+    <string name="intercom_add">Lisää</string>
+    <string name="intercom_ai_answer">Tekoälyvastaus</string>
+    <string name="intercom_ai_answer_information">Tekoälyvastaus, tietoa</string>
+    <string name="intercom_ai_bot">Tekoälybotti</string>
+    <string name="intercom_allow_access">Salli käyttö</string>
+    <string name="intercom_allow_storage_access">Salli tallennustilan käyttö nähdäksesi valokuvasi</string>
+    <string name="intercom_almost_there">Melkein valmista...</string>
+    <string name="intercom_also_in_this_conversation">Myös tässä keskustelussa</string>
+    <string name="intercom_android_activated_message">Android-sovellus on nyt integroitu Intercom-käyttöympäristön kanssa</string>
+    <string name="intercom_answer">Vastaus</string>
+    <string name="intercom_app_settings">Sovellusasetukset</string>
+    <string name="intercom_article_double_author">Tekijät: {author_first_name1} ja {author_first_name2}</string>
+    <string name="intercom_article_load_error">Et voinut ladata artikkelia</string>
+    <string name="intercom_article_multiple_authors">Tekijät: {author_first_name1} ja {number_of_other_authors} muuta</string>
+    <string name="intercom_article_question">Saitko vastauksen kysymykseesi?</string>
+    <string name="intercom_article_response">Annoit vastauksen</string>
+    <string name="intercom_article_search_hint_text">Hae artikkeleita...</string>
+    <string name="intercom_article_search_search_results">Hakutulokset</string>
+    <string name="intercom_article_single_author">Tekijä: {author_first_name}</string>
+    <string name="intercom_ask_a_question">Kysy kysymys</string>
+    <string name="intercom_ask_a_question_with_ellipsis">Kysy jotain...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">Kysy vielä jotain...</string>
+    <string name="intercom_ask_our_bot_a_question">Kysy botiltamme</string>
+    <string name="intercom_asked_about">Puheenaiheena</string>
+    <string name="intercom_assigned_to_admin">Määritetty käyttäjälle {admin}</string>
+    <string name="intercom_attribute_collector_negative">Ei</string>
+    <string name="intercom_attribute_collector_positive">Kyllä</string>
+    <string name="intercom_available_teammates">Vapaat tiimiläiset: {available_teammates}</string>
+    <string name="intercom_avatar">Avatar</string>
+    <string name="intercom_avatars">Avatarit</string>
+    <string name="intercom_away_state">Poissa</string>
+    <string name="intercom_bot">Botti</string>
+    <string name="intercom_bot_answers_instantly">Botti vastaa heti</string>
+    <string name="intercom_bot_expectation_text">Bottimme osaa vastata moniin yleisiin kysymyksiin</string>
+    <string name="intercom_bot_is_still_thinking">Botti miettii vielä...</string>
+    <string name="intercom_bot_is_thinking">Botti miettii...</string>
+    <string name="intercom_browse_all_help_topics">Selaa kaikkia ohjeen aiheita</string>
+    <string name="intercom_browse_collections">Selaa kokoelmia</string>
+    <string name="intercom_cancel">Peruuta</string>
+    <string name="intercom_chat_with_us">Chattaa kanssamme</string>
+    <string name="intercom_check_later_for_updates">Katso myöhemmin uudelleen.</string>
+    <string name="intercom_checklist_card_first_step">Ensimmäinen vaihe</string>
+    <string name="intercom_checklist_card_next_step">Seuraava vaihe</string>
+    <string name="intercom_checklist_completed">Valmis</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">Noin {minutes} minuuttia jäljellä</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">Noin 1 minuutti jäljellä</string>
+    <string name="intercom_checklist_mark_step_as_complete">Merkitse valmiiksi</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">Noin {minutes} minuuttia</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">Noin 1 minuutti</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} vaihetta</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">{steps_completed} / {total_steps} valmis</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">1/{total_steps} valmiina</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 vaihe</string>
+    <string name="intercom_checklist_sender_name">Jakaja {name}</string>
+    <string name="intercom_checklist_step_action_button">Vaiheen toimintopainike</string>
+    <string name="intercom_checklist_step_completed">Valmis</string>
+    <string name="intercom_choose_one">Valitse yksi…</string>
+    <string name="intercom_choose_the_date">Choose the date…</string>
+    <string name="intercom_clear">Tyhjennä</string>
+    <string name="intercom_close">Sulje</string>
+    <string name="intercom_congratulations">Onnittelut</string>
+    <string name="intercom_connected">Yhteys muodostettu</string>
+    <string name="intercom_contact_support">Ota yhteyttä tukeen</string>
+    <string name="intercom_contact_us">Ota meihin yhteyttä</string>
+    <string name="intercom_continue_the_conversation">Jatka keskustelua</string>
+    <string name="intercom_conversation_card_office_hours_header">Milloin olemme taas paikalla</string>
+    <string name="intercom_conversation_card_reply_time_header">Normaali vastausaikamme</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">Tavallinen vastausaika</string>
+    <string name="intercom_conversation_has_ended">Keskustelu on päättynyt</string>
+    <string name="intercom_conversation_number_and_description">Keskustelun numero {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">Keskustelut</string>
+    <string name="intercom_conversations_space_title">Keskustelut</string>
+    <string name="intercom_conversations_with_app">Keskustelut – {name}</string>
+    <string name="intercom_copied_to_clipboard">Kopioitu leikepöydälle</string>
+    <string name="intercom_couldnt_complete_action">Toimintoa ei voitu suorittaa loppuun</string>
+    <string name="intercom_couldnt_load_apps">Sovellusten lataus epäonnistui.</string>
+    <string name="intercom_couldnt_load_content">Sisällön lataus epäonnistui</string>
+    <string name="intercom_couldnt_load_messenger">Messengerin lataus epäonnistui.</string>
+    <string name="intercom_create_a_ticket">Luo tukipyyntö</string>
+    <string name="intercom_currently_no_help_articles">Ohjeartikkeleita ei ole tällä hetkellä saatavilla.</string>
+    <string name="intercom_delete_attachment">Poista liitetiedosto</string>
+    <string name="intercom_delivered">Toimitettu</string>
+    <string name="intercom_disappointed_face_emoji">Pettyneet kasvot</string>
+    <string name="intercom_dismiss">Ohita</string>
+    <string name="intercom_empty_conversations">Tiimin viestit näkyvät täällä</string>
+    <string name="intercom_enter_text_placeholder">Kirjoita tekstiä…</string>
+    <string name="intercom_error_loading_conversation">Keskustelun lataus epäonnistui</string>
+    <string name="intercom_error_loading_ticket">Tukipyynnön lataus epäonnistui</string>
+    <string name="intercom_expected_response_delay_10800">alle 3 tuntia</string>
+    <string name="intercom_expected_response_delay_120">alle 2 minuuttia</string>
+    <string name="intercom_expected_response_delay_1200">alle 20 minuuttia</string>
+    <string name="intercom_expected_response_delay_14400">alle 4 tuntia</string>
+    <string name="intercom_expected_response_delay_172800">2 päivää</string>
+    <string name="intercom_expected_response_delay_180">alle 3 minuuttia</string>
+    <string name="intercom_expected_response_delay_1800">alle 30 minuutin</string>
+    <string name="intercom_expected_response_delay_18000">alle 5 tuntia</string>
+    <string name="intercom_expected_response_delay_21600">alle 6 tuntia</string>
+    <string name="intercom_expected_response_delay_240">alle 4 minuuttia</string>
+    <string name="intercom_expected_response_delay_259200">3 päivässä</string>
+    <string name="intercom_expected_response_delay_300">alle 5 minuuttia</string>
+    <string name="intercom_expected_response_delay_345600">4 päivässä</string>
+    <string name="intercom_expected_response_delay_3600">alle tunti</string>
+    <string name="intercom_expected_response_delay_43200">alle 2 tunnissa</string>
+    <string name="intercom_expected_response_delay_432000">5 päivässä</string>
+    <string name="intercom_expected_response_delay_518400">6 päivää</string>
+    <string name="intercom_expected_response_delay_60">alle 1 minuuttia</string>
+    <string name="intercom_expected_response_delay_600">alle 10 minuuttia</string>
+    <string name="intercom_expected_response_delay_604800">alle viikko</string>
+    <string name="intercom_expected_response_delay_7200">alle 2 tuntia</string>
+    <string name="intercom_expected_response_delay_86400">1 päivä</string>
+    <string name="intercom_expected_response_delay_900">alle 15 minuuttia</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} tarraa</string>
+    <string name="intercom_facebook_like">Tykkää meistä Facebookissa</string>
+    <string name="intercom_failed_delivery">Viestin toimitus ei onnistunut</string>
+    <string name="intercom_failed_to_load_conversation">Keskustelujen lataus epäonnistui</string>
+    <string name="intercom_failed_to_load_tickets">Tukipyyntöjesi lataus epäonnistui</string>
+    <string name="intercom_failed_to_load_tickets_with_app">Tukipyyntöjesi lataus epäonnistui sovelluksessa {app_name}</string>
+    <string name="intercom_failed_to_send">Lähetys epäonnistui</string>
+    <string name="intercom_field_is_required">Kentän {field_name} nimi vaaditaan</string>
+    <string name="intercom_file_access_failed">En pysty käyttämään tiedostoa</string>
+    <string name="intercom_file_max_limit">Enintään {limit} tiedostoa</string>
+    <string name="intercom_file_saved">Tiedosto tallennettu</string>
+    <string name="intercom_file_too_big">Lähetettävien tiedostojen enimmäiskoko on {limit} Mt</string>
+    <string name="intercom_file_type_not_allowed">Tiedostotyyppi ei ole sallittu</string>
+    <string name="intercom_files">Tiedostot</string>
+    <string name="intercom_gallery">Galleria</string>
+    <string name="intercom_generating_answer">Vastausta luodaan...</string>
+    <string name="intercom_get_help">Hanki apua</string>
+    <string name="intercom_get_notified_by_email">Tilaa ilmoitukset sähköpostitse</string>
+    <string name="intercom_gif_attribution">tarjoajana {providername}</string>
+    <string name="intercom_gifs_load_error">GIF-kuvien lataus epäonnistui</string>
+    <string name="intercom_give_it_another_try">Kokeile uudelleen</string>
+    <string name="intercom_go_to_device_settings">Voit sallia käytön laitteesi sovellusasetusten käyttöoikeusvalikosta</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">Suurisilmäiset virnistävät kasvot</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+1 muu</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+{other_participant_count} muuta</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">{other_participant_count} muuta osallistuvat myös</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name} osallistuu myös</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} ja 1 muu osallistuvat myös</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} ja {other_participant_count} muuta osallistuvat myös</string>
+    <string name="intercom_group_conversation_one_person_also_participating">1 muu osallistuu myös</string>
+    <string name="intercom_help_center">Ohjekeskus</string>
+    <string name="intercom_help_space_title">Ohje</string>
+    <string name="intercom_home_space_title">Koti</string>
+    <string name="intercom_how_can_we_help">Miten voimme auttaa?</string>
+    <string name="intercom_how_would_you_rate_this">Miten arvioisit tämän?</string>
+    <string name="intercom_image_attached">(kuva liitetty)</string>
+    <string name="intercom_inbox_error_state_title">Jokin meni vikaan</string>
+    <string name="intercom_last_active_hours_ago">Aktiivinen viimeksi {mins} tuntia sitten</string>
+    <string name="intercom_last_active_mins_ago">Aktiivinen viimeksi {mins} minuuttia sitten</string>
+    <string name="intercom_last_active_over_a_week">Aktiivinen viimeksi yli 1 viikko sitten</string>
+    <string name="intercom_learn_more">Lue lisää</string>
+    <string name="intercom_loading">Lataa</string>
+    <string name="intercom_message_failed_try_again">Lähetys epäonnistui. Napauta ja yritä uudelleen.</string>
+    <string name="intercom_message_placeholder">Viesti…</string>
+    <string name="intercom_message_seen">Nähty</string>
+    <string name="intercom_message_state_sending">Lähetetään…</string>
+    <string name="intercom_message_summary">Viestin yhteenveto: {summary}, tiimiläisen nimi: {name}, viestin lähetysaika: {sentTime}. </string>
+    <string name="intercom_message_summary_with_teammate_status">Viestin yhteenveto: {summary}, tiimiläisen nimi: {name}, tiimiläisen tila: {adminStatus}, viestin lähetysaika: {sentTime}. </string>
+    <string name="intercom_message_unread">Viesti on lukematon.</string>
+    <string name="intercom_message_unseen">Ei vielä nähty</string>
+    <string name="intercom_messages_space_title">Viestit</string>
+    <string name="intercom_messenger_bot_reply_time">Bottimme vastaa välittömästi</string>
+    <string name="intercom_multiple_articles">{total_articles} artikkelia</string>
+    <string name="intercom_multiple_collections">{total_collection} kokoelmaa</string>
+    <string name="intercom_name_and_1_other">{name} ja 1 muu</string>
+    <string name="intercom_name_and_x_others">{name} ja {count} muuta</string>
+    <string name="intercom_navigation_back">Takaisin</string>
+    <string name="intercom_need_camera_access">{app_name} tarvitsee kameran käyttöoikeuden, jotta voit ottaa kuvia ja videoita. Napauta Asetukset > Käyttöoikeudet, ja ota Kamera käyttöön.</string>
+    <string name="intercom_neutral_face_emoji">Neutraalit kasvot</string>
+    <string name="intercom_new_conversation">Uusi keskustelu</string>
+    <string name="intercom_new_message">Uusi viesti</string>
+    <string name="intercom_new_messages">Sinulla on {n} uutta viestiä</string>
+    <string name="intercom_new_notifications">Uudet ilmoitukset</string>
+    <string name="intercom_news">Uutiset</string>
+    <string name="intercom_news_empty_title">Ei vielä uutisia</string>
+    <string name="intercom_news_latest_subtitle">Tiimiltä {team_name}</string>
+    <string name="intercom_news_latest_title">Uusin</string>
+    <string name="intercom_news_older_title">Vanhemmat</string>
+    <string name="intercom_news_space_title">Uutiset</string>
+    <string name="intercom_no_articles_to_display">Ei vielä artikkeleita</string>
+    <string name="intercom_no_conversations">Ei keskusteluja</string>
+    <string name="intercom_no_gifs_found">GIF-kuvia ei löytynyt</string>
+    <string name="intercom_no_gifs_matching_query">Emme löytäneet yhtään hakuasi vastaavaa GIF-kuvaa</string>
+    <string name="intercom_no_help_articles_to_display">Ei ohjeartikkeleita</string>
+    <string name="intercom_no_messages_from_the_team">Ei viestejä tiimiltä</string>
+    <string name="intercom_no_network_connection">Ei verkkoyhteyttä</string>
+    <string name="intercom_no_photos">Ei valokuvia</string>
+    <string name="intercom_no_photos_on_device">Tällä laitteella ei ole valokuvia</string>
+    <string name="intercom_no_results_for_searchterm">Ei tuloksia haulle {searchTerm}</string>
+    <string name="intercom_no_tasks">Ei tehtäviä</string>
+    <string name="intercom_no_tasks_available_currently">Tehtäviä ei ole tällä hetkellä saatavilla.</string>
+    <string name="intercom_not_now">Ei nyt</string>
+    <string name="intercom_nothing_to_see_here_yet">Ei vielä mitään nähtävää</string>
+    <string name="intercom_notification_channel_actions_description">Sisällytä linkkejä ja suorita toiminto sovelluksessa</string>
+    <string name="intercom_notification_channel_actions_title">Toiminnot</string>
+    <string name="intercom_notification_channel_chat_replies_description">Vastausilmoitukset sovelluksen keskusteluista</string>
+    <string name="intercom_notification_channel_chat_replies_title">Keskustelujen vastaukset</string>
+    <string name="intercom_notification_channel_new_chats_description">Sovelluksesta lähetetyt uudet keskusteluviestit</string>
+    <string name="intercom_notification_channel_new_chats_title">Uudet keskustelut</string>
+    <string name="intercom_number_is_incorrect">Numero ei vaikuta täysin oikealta</string>
+    <string name="intercom_ok">OK</string>
+    <string name="intercom_one_new_message">Sinulla on uusi viesti</string>
+    <string name="intercom_our_bot_answers_instantly">Bottimme vastaa välittömästi</string>
+    <string name="intercom_page_not_found">Sivua ei ole enää olemassa</string>
+    <string name="intercom_permission_denied">Tämä käyttöoikeus evättiin</string>
+    <string name="intercom_photo_access_denied">Et sallinut valokuviesi käyttöä</string>
+    <string name="intercom_photo_and_video_library">Valokuva- ja videokirjasto</string>
+    <string name="intercom_placeholder_datepicker">PP-KK-VVVV</string>
+    <string name="intercom_placeholder_email_input">Kirjoita sähköpostiosoite tähän...</string>
+    <string name="intercom_placeholder_numerical_inputs">Kirjoita numero tähän...</string>
+    <string name="intercom_placeholder_text_inputs">Kirjoita teksti tähän...</string>
+    <string name="intercom_please_select">Valitse...</string>
+    <string name="intercom_plus_x_more">+{n} muuta</string>
+    <string name="intercom_powered_by_intercom">Palvelun tarjoaa Intercom</string>
+    <string name="intercom_profile_location">{time} – {location}</string>
+    <string name="intercom_rate_your_conversation">Arvostele keskustelu</string>
+    <string name="intercom_recent_ticket">Uusin tukipyyntö</string>
+    <string name="intercom_recent_tickets">Uusimmat tukipyynnöt</string>
+    <string name="intercom_record_a_video">Tallenna video</string>
+    <string name="intercom_reload">Lataa uudelleen</string>
+    <string name="intercom_reply">Vastaa</string>
+    <string name="intercom_reply_from_admin">Vastaus {name}</string>
+    <string name="intercom_reply_to_conversation">Kirjoita vastaus</string>
+    <string name="intercom_retry">Yritä uudelleen</string>
+    <string name="intercom_saving">Tallennetaan...</string>
+    <string name="intercom_search_browse_empty_state_text">Valitettavasti hakusi ei tuottanut tuloksia. Muotoile haku uudelleen.</string>
+    <string name="intercom_search_for_help">Hae apua</string>
+    <string name="intercom_search_gif">Hae GIF-kuvia…</string>
+    <string name="intercom_search_help_articles">Hae ohjeartikkeleita</string>
+    <string name="intercom_see_all">Katso kaikki</string>
+    <string name="intercom_see_all_conversations">Näytä kaikki keskustelut</string>
+    <string name="intercom_see_past_conversations">Katso menneet keskustelut</string>
+    <string name="intercom_see_previous_conversations">Näytä edelliset keskustelut</string>
+    <string name="intercom_send">Lähetä</string>
+    <string name="intercom_send_a_message_reply_time">Tavallinen vastausaika on</string>
+    <string name="intercom_send_us_a_message">Lähetä meille viesti</string>
+    <string name="intercom_send_us_a_message_bot">Lähetä meille viesti, niin bottimme vastaa välittömästi</string>
+    <string name="intercom_settings">Asetukset</string>
+    <string name="intercom_shared_by">Jakaja</string>
+    <string name="intercom_show_less">Näytä vähemmän</string>
+    <string name="intercom_single_article">1 artikkeli</string>
+    <string name="intercom_single_collection">1 kokoelma</string>
+    <string name="intercom_some_things_failed_to_load">Kaikki lataukset eivät onnistuneet. Yritä uudelleen.</string>
+    <string name="intercom_something_went_wrong_try_again">Jokin meni pieleen. Yritä uudelleen.</string>
+    <string name="intercom_source">Lähde</string>
+    <string name="intercom_sources">Lähteet</string>
+    <string name="intercom_spaces_error_description">Sisältöä ei voitu ladata</string>
+    <string name="intercom_spaces_error_title">Jokin meni vikaan</string>
+    <string name="intercom_start_a_conversation">Aloita keskustelu</string>
+    <string name="intercom_start_another_conversation">Aloita uusi keskustelu</string>
+    <string name="intercom_start_conversation">Aloita keskustelu</string>
+    <string name="intercom_status">Tila</string>
+    <string name="intercom_still_generating_answer">Vastausta luodaan edelleen...</string>
+    <string name="intercom_still_thinking">Botti miettii vielä...</string>
+    <string name="intercom_still_working_on_it">Edelleen työn alla...</string>
+    <string name="intercom_stop_upload">Lopeta lataus</string>
+    <string name="intercom_storage_access_request">Sinun täytyy sallia tallennustilan käyttö nähdäksesi valokuvasi</string>
+    <string name="intercom_string_is_incorrect">Tämä ei vaikuta täysin oikealta</string>
+    <string name="intercom_submit">Lähetä</string>
+    <string name="intercom_suggested_articles">Articles-ehdotukset</string>
+    <string name="intercom_surveys_all_options_response_hint">Valitse kaikki sopivat vaihtoehdot</string>
+    <string name="intercom_surveys_dismiss">Ohita kysely</string>
+    <string name="intercom_surveys_done_button">Valmis</string>
+    <string name="intercom_surveys_dropdown_default_option">Valitse vastaus...</string>
+    <string name="intercom_surveys_email_error">Anna kelvollinen sähköpostiosoite</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">Valitse {response_count} vaihtoehtoa</string>
+    <string name="intercom_surveys_from_company">Kysely yritykseltä {company}</string>
+    <string name="intercom_surveys_from_teammate">Kyselyn lähetti {sender_name} yrityksestä {company}</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">Kysymyksessä on valittava vähintään {response_count} vaihtoehtoa</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">Kysymyksessä on valittava {response_count} vaihtoehtoa</string>
+    <string name="intercom_surveys_multi_star_rating">{count} tähteä</string>
+    <string name="intercom_surveys_multiselect_other_option">Muu (tarkenna)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">Tarkenna</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">Kirjoita vastaus</string>
+    <string name="intercom_surveys_multiselect_other_option_value">Muu</string>
+    <string name="intercom_surveys_next_button">Seuraava</string>
+    <string name="intercom_surveys_nps_lower_label">Epätodennäköisesti</string>
+    <string name="intercom_surveys_nps_upper_label">Erittäin todennäköisesti</string>
+    <string name="intercom_surveys_number_error">Anna numero</string>
+    <string name="intercom_surveys_one_star_rating">1 tähti</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">Kysymys {questioin_number}/{question_count}</string>
+    <string name="intercom_surveys_required_question">Tämä on pakollinen kysymys</string>
+    <string name="intercom_surveys_required_response">Tämä on pakollinen vastaus</string>
+    <string name="intercom_surveys_response_range_response_hint">Valitse vähintään {minimum_response_count} ja enintään {maximum_response_count} vaihtoehtoa</string>
+    <string name="intercom_surveys_response_too_long">Vastauksen pituus saa olla enintään {character_count} merkkiä</string>
+    <string name="intercom_surveys_response_too_short">Vastauksen pitää olla vähintään {character_count} merkkiä pitkä</string>
+    <string name="intercom_surveys_sender_image">Kyselyn lähettäjän kuva</string>
+    <string name="intercom_surveys_single_response_hint">Valitse 1 vaihtoehto</string>
+    <string name="intercom_surveys_telephone_error">Anna kelvollinen puhelinnumero</string>
+    <string name="intercom_surveys_text_input_question_placeholder">Kirjoita vastaus tähän...</string>
+    <string name="intercom_take_a_photo">Ota valokuva</string>
+    <string name="intercom_tap_to_send_image">Napauta lähettääksesi kuvan</string>
+    <string name="intercom_tasks_space_title">Tehtävät</string>
+    <string name="intercom_team_name_custom_response_delay_2">{app_name} vastaa tavallisesti vuorokauden kuluessa.</string>
+    <string name="intercom_team_name_custom_response_delay_3">{app_name} vastaa tavallisesti viikon kuluessa</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} vastaa tavallisesti yhden arkipäivän kuluessa</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} vastaa tavallisesti kahden arkipäivän kuluessa</string>
+    <string name="intercom_teammate_from_company">{name} – {company}</string>
+    <string name="intercom_tell_us_more">Kerro lisää…</string>
+    <string name="intercom_tell_us_what_you_need">Kerro, mihin tarvitset apua, niin bottimme vastaa parhaansa mukaan</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">Kiitos! Tiimi vastaa yhden arkipäivän kuluessa</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">Kiitos! Tiimi vastaa kahden arkipäivän kuluessa</string>
+    <string name="intercom_thanks_for_letting_us_know">Kiitos viestistäsi</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">Kiitos! Tiimi vastaa mahdollisimman pian.</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">Maakoodi ei vaikuta täysin oikealta</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">Osoite ei vaikuta täysin oikealta</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">Numero ei vaikuta täysin oikealta</string>
+    <string name="intercom_that_number_has_too_many_digits">Numerossa on liian monta lukua</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">Numerosta puuttuu muutama luku</string>
+    <string name="intercom_that_number_needs_a_prefix">Numero tarvitsee etuliitteen (+ tai 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">Tiimi tulee tarvittaessa avuksi</string>
+    <string name="intercom_the_team_typically_replies_in_hours">Tiimi vastaa tavallisesti muutamassa tunnissa.</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">Tiimi vastaa tavallisesti yhden arkipäivän kuluessa.</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">Tiimi vastaa tavallisesti kahden arkipäivän kuluessa</string>
+    <string name="intercom_thinking">Botti miettii...</string>
+    <string name="intercom_ticket_could_not_be_created">Tukipyyntöä ei voitu luoda</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">Luo {ticket_type_title} tukipyyntö</string>
+    <string name="intercom_ticket_current_status">Nykyinen tila: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">Nykyinen tila: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">Tukipyynnön ominaisuudet;</string>
+    <string name="intercom_ticket_details_for_title">Tukipyynnön tiedot kohteelle {title}</string>
+    <string name="intercom_ticket_details_notification_detail">Saat ilmoituksen tähän ja sähköpostitse osoitteeseen</string>
+    <string name="intercom_ticket_has_been_created">Tukipyyntö on luotu</string>
+    <string name="intercom_ticket_has_been_updated">Tukipyyntö on päivitetty</string>
+    <string name="intercom_ticket_sla_details">SLA-tiedot: {sla_details}</string>
+    <string name="intercom_ticket_status_details">Tilan tiedot: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">Tukipyyntö siirretty tilaan {status} • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} siirsi tukipyynnön tilaan {status} • {timestamp}</string>
+    <string name="intercom_tickets_add_file">Lisää tiedosto</string>
+    <string name="intercom_tickets_add_files">Lisää tiedostoja</string>
+    <string name="intercom_tickets_create_ticket">Luo tukipyyntö</string>
+    <string name="intercom_tickets_create_ticket_fallback">Lähetä vastauksessasi seuraavat tiedot, niin otamme sinuun pian yhteyttä.</string>
+    <string name="intercom_tickets_created_confirmation_header">Tukipyyntö on luotu</string>
+    <string name="intercom_tickets_cta_text">Onko sinulla kysyttävää tästä tukipyynnöstä?</string>
+    <string name="intercom_tickets_email_copy">Vastaukset ja tukipyyntöpäivitykset lähetetään tähän sähköpostiosoitteeseen</string>
+    <string name="intercom_tickets_email_subject">{ticket_type_name} tukipyyntösi</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">{ticket_type_name} lippusi #{ticket_id}</string>
+    <string name="intercom_tickets_empty_state_text">Tukipyyntösi näkyvät täällä</string>
+    <string name="intercom_tickets_empty_state_title">Ei tukipyyntöjä</string>
+    <string name="intercom_tickets_estimated_resolution">Arvioitu aika ratkaisuun: {duration}</string>
+    <string name="intercom_tickets_files_added">Lisätyt tiedostot</string>
+    <string name="intercom_tickets_have_a_question">Onko sinulla tätä asiaa koskevaa kysyttävää?</string>
+    <string name="intercom_tickets_in_progress_status_detail">Tätä käsitellään parhaillaan 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} selvittää asiaa!</string>
+    <string name="intercom_tickets_is_resolved">Onko tämä tukipyyntö ratkaistu?</string>
+    <string name="intercom_tickets_log_a_ticket">Lähetä tukipyyntö</string>
+    <string name="intercom_tickets_resolved_status_detail">Tukipyyntösi on käsitelty</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} on käsitellyt tukipyyntösi</string>
+    <string name="intercom_tickets_sla">Arvioitu ratkaistavaksi {time}</string>
+    <string name="intercom_tickets_space_title">Tukipyynnöt</string>
+    <string name="intercom_tickets_status_change_event">Tukipyyntö on nyt {status} • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">Tukipyyntösi on käsitelty</string>
+    <string name="intercom_tickets_status_description_more_info">Tarvitsemme lisätietoja</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} siirsi palvelupyyntösi tilaan</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} siirsi lippusi #{ticket_id} tilaan</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">Palvelupyyntösi on siirretty tilaan</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">Lippusi #{ticket_id} on siirretty tilaan</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">Palvelupyyntösi tila on</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">Lippusi #{ticket_id} on</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">Käsittelemme tukipyyntösi pian</string>
+    <string name="intercom_tickets_status_description_working_on">Käsittelemme tukipyyntöäsi</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} siirsi tukipyynnön tilaan {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">Tukipyyntö siirretty tilaan {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">Tukipyyntö on {submitted_status} - {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">Käynnissä</string>
+    <string name="intercom_tickets_status_resolved">Ratkaistu</string>
+    <string name="intercom_tickets_status_submitted">Lähetetty</string>
+    <string name="intercom_tickets_status_waiting_on_you">Odottaa sinua</string>
+    <string name="intercom_tickets_submitted_confirmation_header">Tukipyyntö on lähetetty</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">Ilmoitamme sinulle, kun tukipyyntöäsi käsitellään</string>
+    <string name="intercom_tickets_submitted_status_detail">Otamme tämän pian käsittelyyn</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} ottaa tämän pian käsittelyyn</string>
+    <string name="intercom_tickets_unread">Tukipyynnöt. Sinulla on lukemattomia tukipyyntöpäivityksiä.</string>
+    <string name="intercom_tickets_updates_prompt">Saat päivityksiä Messengerissä ja sähköpostitse</string>
+    <string name="intercom_tickets_view_ticket">Näytä tukipyynnön tiedot</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">Tarvitsemme sinulta lisätietoja</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} tarvitsee lisätietoja</string>
+    <string name="intercom_time_day_ago">{delta} pv sitten</string>
+    <string name="intercom_time_future_1h">1 tunti</string>
+    <string name="intercom_time_future_2h">2 tuntia</string>
+    <string name="intercom_time_future_30m">30 minuutin</string>
+    <string name="intercom_time_future_3h">3 tuntia</string>
+    <string name="intercom_time_future_day_0">Maanantai</string>
+    <string name="intercom_time_future_day_1">Tiistai</string>
+    <string name="intercom_time_future_day_2">Keskiviikko</string>
+    <string name="intercom_time_future_day_3">Torstai</string>
+    <string name="intercom_time_future_day_4">Perjantai</string>
+    <string name="intercom_time_future_day_5">Lauantai</string>
+    <string name="intercom_time_future_day_6">Sunnuntai</string>
+    <string name="intercom_time_future_later_today">Myöhemmin tänään</string>
+    <string name="intercom_time_future_next_week">Ensi viikolla</string>
+    <string name="intercom_time_future_tomorrow">Huomenna</string>
+    <string name="intercom_time_hour_ago">{delta} h sitten</string>
+    <string name="intercom_time_just_now">Juuri nyt</string>
+    <string name="intercom_time_minute_ago">{delta} m sitten</string>
+    <string name="intercom_time_week_ago">{delta} vkoa sitten</string>
+    <string name="intercom_time_yesterday">eilen</string>
+    <string name="intercom_try_again">Yritä uudelleen</string>
+    <string name="intercom_try_again_minute">Yritä uudelleen hetken kuluttua.</string>
+    <string name="intercom_try_use_different_keywords">Kokeile käyttää muita avainsanoja tai kirjoita kysymyksesi kokonaan</string>
+    <string name="intercom_twitter_follow">Seuraa meitä Twitterissä</string>
+    <string name="intercom_two_business_days">Kaksi arkipäivää</string>
+    <string name="intercom_type_a_number">Kirjoita numero…</string>
+    <string name="intercom_typically_replies_in_one_business_day">Vastaa tavallisesti yhden arkipäivän kuluessa</string>
+    <string name="intercom_typically_replies_in_two_business_days">Vastaa tavallisesti kahden arkipäivän kuluessa</string>
+    <string name="intercom_unread_message_count">{unread_count} lukematonta</string>
+    <string name="intercom_upfront_collection_form_close_out">Voit palata tänne milloin vain nähdäksesi vastauksia ja lähettääksesi päivityksiä.</string>
+    <string name="intercom_upfront_collection_form_introduction">Määrittele asiayhteys, jotta tiimi voi vastata paremmin ja nopeammin.</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">Kiitos, kun lähetit tietoa asiayhteydestä. Nyt voit antaa lisätietoja säästääksesi aikaa myöhemmin.</string>
+    <string name="intercom_upfront_collection_form_subtitle">Lähetä tiimille tietoa asiayhteydestä</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">He ottavat tämän asiayhteyden huomioon</string>
+    <string name="intercom_upfront_collection_form_title">Saa apua nopeammin</string>
+    <string name="intercom_upfront_collection_form_title_submitted">Lähetetty tiimille!</string>
+    <string name="intercom_upload_failed">Lataus epäonnistui</string>
+    <string name="intercom_upload_max_files_allowed">Tiedostoja sallitaan enintään {limit}</string>
+    <string name="intercom_upload_max_files_size">Tiedoston enimmäiskoko on {limit} Mt</string>
+    <string name="intercom_user_avatar_image">Käyttäjän avatar</string>
+    <string name="intercom_view_all">Näytä kaikki</string>
+    <string name="intercom_view_conversation">Näytä keskustelu</string>
+    <string name="intercom_view_more_details">Näytä lisätiedot</string>
+    <string name="intercom_view_post">Näytä julkaisu</string>
+    <string name="intercom_we_run_on_intercom">Toimimme Intercom-käyttöympäristössä</string>
+    <string name="intercom_working_on_it">Työn alla...</string>
+    <string name="intercom_you">Sinä</string>
+    <string name="intercom_you_are_all_up_to_date">Olet ajan tasalla!</string>
+    <string name="intercom_you_have_new_messages">Sinulla on uusia viestejä.</string>
+    <string name="intercom_you_rated_the_conversation">Arvioit keskustelun</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">Saat ilmoituksen tähän ja sähköpostitse</string>
+    <string name="intercom_your_checklists">Tarkistuslistat</string>
+    <string name="intercom_your_conversations">Keskustelusi</string>
+    <string name="intercom_your_recent_conversations">Viimeaikaiset keskustelut</string>
+    <string name="intercom_your_recent_message">Uusin viesti</string>
+    <string name="intercom_your_recent_messages">Uusimmat viestit</string>
+    <string name="intercom_your_ticket">Tukipyyntösi</string>
+    <string name="item_view_role_description">Välilehti</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Tiivistä alapaneeli"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Hylkää alapaneeli"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Vetokahva"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Laajenna alapaneeli"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Alapaneeli"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Lisätty päivämäärä"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Lisätty päivämäärä: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Päivämäärä ei vastaa odotettua mallia: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Päivämäärä ei sallittu: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Päivämäärä ei sisälly odotettuun vuosiaikaväliin: %1$s–%2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Päivämäärä"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"–"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Valitse päivämäärä"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Valittu päivämäärä"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Nykyinen valinta: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Siirry vuoteen %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"–"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Vieritä nähdäksesi aiemmat vuodet"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Vieritä nähdäksesi myöhemmät vuodet"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Vaihda syöttötavaksi kalenteri"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Valitse vuosi pyyhkäisemällä tai palaa päivän valintaan napauttamalla"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Vaihda tekstinsyöttötilaan"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Vaihda seuraavaan kuukauteen"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Vaihda edelliseen kuukauteen"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Vaihda vuoden valintaan"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Valitse päivämäärä"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Tänään"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Vuosivalitsin näkyvillä"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Virheellinen aikaväli"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Lisää päivämäärät"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Valitulla välillä"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Päättymispäivä"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Vieritä nähdäksesi seuraavan kuukauden"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Vieritä nähdäksesi edellisen kuukauden"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Alkamispäivä"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Valitse päivämäärät"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Valintaikkuna"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Tiivistetty"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Laajennettu"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Hae"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Ohita"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Ehdotuksia alla"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AP"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Tunti"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d h"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Valitse tunti"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"Kello %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"tuntien osalta"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minuutti"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Valitse minuutit"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d minuuttia"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"minuuttien osalta"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Valitse AP tai IP"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"IP"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Näytä vihjeteksti"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Vihjeteksti"</string>
+    <string name="material_clock_toggle_content_description">Valitse AP tai IP</string>
+    <string name="material_hour_24h_suffix">%1$s tuntia</string>
+    <string name="material_hour_selection">Valitse tunti</string>
+    <string name="material_hour_suffix">klo %1$s</string>
+    <string name="material_minute_selection">Valitse minuutit</string>
+    <string name="material_minute_suffix">%1$s minuuttia</string>
+    <string name="material_timepicker_am">ap</string>
+    <string name="material_timepicker_clock_mode_description">Vaihda ajan syöttämiseen kellotilassa.</string>
+    <string name="material_timepicker_hour">Tunnit</string>
+    <string name="material_timepicker_minute">Minuutti</string>
+    <string name="material_timepicker_pm">ip</string>
+    <string name="material_timepicker_select_time">Valitse aika</string>
+    <string name="material_timepicker_text_input_mode_description">Vaihda ajan syöttämiseen tekstitilassa.</string>
+    <string name="mtrl_badge_numberless_content_description">Uusi ilmoitus</string>
+    <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Yli %1$d uutta ilmoitusta</string>
+    <string name="mtrl_picker_a11y_next_month">Vaihda seuraavaan kuukauteen</string>
+    <string name="mtrl_picker_a11y_prev_month">Vaihda edelliseen kuukauteen</string>
+    <string name="mtrl_picker_announce_current_selection">Nykyinen valinta: %1$s</string>
+    <string name="mtrl_picker_cancel">Peru</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Valitse päivämäärä</string>
+    <string name="mtrl_picker_date_header_unselected">Valittu päivämäärä</string>
+    <string name="mtrl_picker_day_of_week_column_header">Päiväsarake: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Virheellinen muoto</string>
+    <string name="mtrl_picker_invalid_format_example">Esimerkki: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Käytä muotoa %1$s</string>
+    <string name="mtrl_picker_invalid_range">Virheellinen alue</string>
+    <string name="mtrl_picker_navigate_to_year_description">Siirry vuoteen %1$s</string>
+    <string name="mtrl_picker_out_of_range">Aikavälin ulkop.: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Alkamispäivä – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – päättymispäivä</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Valitse jakso</string>
+    <string name="mtrl_picker_range_header_unselected">Alkamispäivä – päättymispäivä</string>
+    <string name="mtrl_picker_save">Tallenna</string>
+    <string name="mtrl_picker_text_input_date_hint">Päivämäärä</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Päättymispäivä</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Alkamispäivä</string>
+    <string name="mtrl_picker_text_input_day_abbr">p</string>
+    <string name="mtrl_picker_text_input_month_abbr">k</string>
+    <string name="mtrl_picker_text_input_year_abbr">v</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Vaihda syöttötavaksi kalenteri</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Siirry päivän valintaan napauttamalla</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Valitse syöttötavaksi teksti</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Siirry vuoden valintaan napauttamalla</string>
+    <string name="mtrl_timepicker_cancel">Peru</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigointivalikko"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Ei valittu"</string>
+    <string msgid="875452955155264703" name="off">"Pois"</string>
+    <string msgid="8655164131929253426" name="on">"Päällä"</string>
+    <string name="password_toggle_content_description">Näytä salasana</string>
+    <string msgid="5941395253238309765" name="range_end">"Alueen loppu"</string>
+    <string msgid="7097486360902471446" name="range_start">"Alueen alku"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Haku"</string>
+    <string msgid="6043586758067023" name="selected">"Valittu"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Vaihda"</string>
+    <string msgid="1672349317127674378" name="tab">"Välilehti"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> prosenttia"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"vihjeteksti"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"näytä vihjeteksti"</string>
+</resources>

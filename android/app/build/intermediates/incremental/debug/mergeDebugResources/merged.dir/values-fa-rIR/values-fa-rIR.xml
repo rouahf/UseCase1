@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intercom_access_background_location_message">به تنظیمات دستگاه خود بروید تا برنامه بتواند از موقعیت مکانی شما در پس‌زمینه استفاده کند</string>
+    <string name="intercom_access_background_location_title">همیشه اجازه دسترسی به موقعیت مکانی خود را بدهید</string>
+    <string name="intercom_access_device_settings">به تنظیمات دستگاه خود بروید تا اجازه دسترسی به عکس‌های خود را بدهید</string>
+    <string name="intercom_access_photos">به عکس‌های خود دسترسی داشته باشید</string>
+    <string name="intercom_active_15m_ago">در {minutes} دقیقه پیش فعال بوده است</string>
+    <string name="intercom_active_day_ago">{days} روز پیش فعال بوده است</string>
+    <string name="intercom_active_hour_ago">{hours} ساعت پیش فعال بوده است</string>
+    <string name="intercom_active_minute_ago">{minutes} دقیقه پیش فعال بوده است</string>
+    <string name="intercom_active_state">فعال</string>
+    <string name="intercom_active_week_ago">بیش از 1 هفته پیش فعال بوده است</string>
+    <string name="intercom_add">اضافه کردن</string>
+    <string name="intercom_ai_answer">پاسخ هوش مصنوعی</string>
+    <string name="intercom_ai_answer_information">پاسخ هوش مصنوعی، اطلاعات</string>
+    <string name="intercom_ai_bot">ربات هوش مصنوعی</string>
+    <string name="intercom_allow_access">اجازه دسترسی</string>
+    <string name="intercom_allow_storage_access">لطفاً برای مشاهده عکس‌هایتان، به فضای ذخیره‌سازی اجازه دسترسی بدهید</string>
+    <string name="intercom_almost_there">تقریباً تمام است...</string>
+    <string name="intercom_also_in_this_conversation">همچنین در این گفتگو</string>
+    <string name="intercom_android_activated_message">برنامه Android شما اکنون با پلتفرم Intercom یکپارچه شده است</string>
+    <string name="intercom_answer">پاسخ</string>
+    <string name="intercom_app_settings">تنظیمات برنامه</string>
+    <string name="intercom_article_double_author">توسط {author_first_name1} و {author_first_name2}</string>
+    <string name="intercom_article_load_error">بارگیری مقاله امکان‌پذیر نبود</string>
+    <string name="intercom_article_multiple_authors">توسط {author_first_name1} و {number_of_other_authors} دیگر</string>
+    <string name="intercom_article_question">آیا این به پرسش شما پاسخ داد؟</string>
+    <string name="intercom_article_response">شما واکنش نشان دادید با</string>
+    <string name="intercom_article_search_hint_text">جستجوی مقالات...</string>
+    <string name="intercom_article_search_search_results">نتایج جستجو</string>
+    <string name="intercom_article_single_author">توسط {author_first_name}</string>
+    <string name="intercom_ask_a_question">یک پرسش بپرسید</string>
+    <string name="intercom_ask_a_question_with_ellipsis">سؤالی بپرسید...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">سؤال دیگری بپرسید...</string>
+    <string name="intercom_ask_our_bot_a_question">از ربات ما سؤالی بپرسید</string>
+    <string name="intercom_asked_about">پرسیده شده در مورد</string>
+    <string name="intercom_assigned_to_admin">به {admin} اختصاص داده شد</string>
+    <string name="intercom_attribute_collector_negative">خیر</string>
+    <string name="intercom_attribute_collector_positive">بله</string>
+    <string name="intercom_available_teammates">هم تیمی‌های در دسترس: {available_teammates}</string>
+    <string name="intercom_avatar">آواتار</string>
+    <string name="intercom_avatars">آواتارها</string>
+    <string name="intercom_away_state">دور</string>
+    <string name="intercom_bot">ربات</string>
+    <string name="intercom_bot_answers_instantly">ربات بلافاصله پاسخ می‌دهد</string>
+    <string name="intercom_bot_expectation_text">ربات ما می‌تواند به بسیاری از پرسش‌های رایج پاسخ دهد</string>
+    <string name="intercom_bot_is_still_thinking">ربات همچنان درحال فکر کردن...</string>
+    <string name="intercom_bot_is_thinking">ربات درحال فکر کردن...</string>
+    <string name="intercom_browse_all_help_topics">همه موضوعات راهنما را مرور کنید</string>
+    <string name="intercom_browse_collections">مجموعه‌ها را مرور کنید</string>
+    <string name="intercom_cancel">لغو</string>
+    <string name="intercom_chat_with_us">با ما گپ بزنید</string>
+    <string name="intercom_check_later_for_updates">برای به‌روزرسانی بعداً مراجعه کنید.</string>
+    <string name="intercom_checklist_card_first_step">مرحله اول</string>
+    <string name="intercom_checklist_card_next_step">مرحله بعدی</string>
+    <string name="intercom_checklist_completed">تکمیل شد</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">حدود {minutes} دقیقه باقی مانده است</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">حدود 1 دقیقه باقی مانده است</string>
+    <string name="intercom_checklist_mark_step_as_complete">علامت‌گذاری به‌عنوان تکمیل‌شده</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">حدود {minutes} دقیقه</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">حدود 1 دقیقه</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} مرحله</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">{steps_completed} از {total_steps} مرحله انجام شد</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">1 از {total_steps} مرحله انجام شد</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 مرحله</string>
+    <string name="intercom_checklist_sender_name">اشتراک‌گذاری‌شده توسط {name}</string>
+    <string name="intercom_checklist_step_action_button">دکمه اقدام مرحله</string>
+    <string name="intercom_checklist_step_completed">تکمیل شد</string>
+    <string name="intercom_choose_one">یکی را انتخاب کنید…</string>
+    <string name="intercom_choose_the_date">تاریخ را انتخاب کنید…</string>
+    <string name="intercom_clear">پاک کردن</string>
+    <string name="intercom_close">بستن</string>
+    <string name="intercom_congratulations">تبریک می‌گوییم</string>
+    <string name="intercom_connected">شما متصل هستید</string>
+    <string name="intercom_contact_support">با پشتیبانی تماس بگیرید</string>
+    <string name="intercom_contact_us">با ما تماس بگیرید</string>
+    <string name="intercom_continue_the_conversation">به گفتگو ادامه دهید</string>
+    <string name="intercom_conversation_card_office_hours_header">دوباره آنلاین خواهیم شد</string>
+    <string name="intercom_conversation_card_reply_time_header">زمان پاسخگویی معمول ما</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">زمان معمول پاسخگویی</string>
+    <string name="intercom_conversation_has_ended">گفتگوی شما به پایان رسیده است</string>
+    <string name="intercom_conversation_number_and_description">شماره گفتگو {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">گفتگوها</string>
+    <string name="intercom_conversations_space_title">گفتگوها</string>
+    <string name="intercom_conversations_with_app">گفتگوها با {name}</string>
+    <string name="intercom_copied_to_clipboard">در کلیپ‌بورد کپی شد</string>
+    <string name="intercom_couldnt_complete_action">تکمیل این اقدام امکان‌پذیر نبود</string>
+    <string name="intercom_couldnt_load_apps">بارگیری برنامه‌ها امکان‌پذیر نبود.</string>
+    <string name="intercom_couldnt_load_content">بارگیری محتوا امکان‌پذیر نبود</string>
+    <string name="intercom_couldnt_load_messenger">بارگیری پیام‌رسان امکان‌پذیر نبود.</string>
+    <string name="intercom_create_a_ticket">ایجاد یک درخواست پشتیبانی</string>
+    <string name="intercom_currently_no_help_articles">در حال حاضر، هیچ مقاله کمکی در دسترس نیست.</string>
+    <string name="intercom_delete_attachment">حذف پیوست</string>
+    <string name="intercom_delivered">تحویل‌داده‌شده</string>
+    <string name="intercom_disappointed_face_emoji">چهره ناامید</string>
+    <string name="intercom_dismiss">بستن</string>
+    <string name="intercom_empty_conversations">پیام‌های تیم در اینجا نشان داده می‌شود</string>
+    <string name="intercom_enter_text_placeholder">متنی وارد کنید…</string>
+    <string name="intercom_error_loading_conversation">بارگیری گفتگو امکان‌پذیر نبود</string>
+    <string name="intercom_error_loading_ticket">بارگیری این درخواست پشتیبانی امکان‌پذیر نبود</string>
+    <string name="intercom_expected_response_delay_10800">کمتر از 3 ساعت</string>
+    <string name="intercom_expected_response_delay_120">کمتر از 2 دقیقه</string>
+    <string name="intercom_expected_response_delay_1200">کمتر از 20 دقیقه</string>
+    <string name="intercom_expected_response_delay_14400">کمتر از 4 ساعت</string>
+    <string name="intercom_expected_response_delay_172800">2 روز</string>
+    <string name="intercom_expected_response_delay_180">کمتر از 3 دقیقه</string>
+    <string name="intercom_expected_response_delay_1800">کمتر از 30 دقیقه</string>
+    <string name="intercom_expected_response_delay_18000">کمتر از 5 ساعت</string>
+    <string name="intercom_expected_response_delay_21600">کمتر از 6 ساعت</string>
+    <string name="intercom_expected_response_delay_240">کمتر از 4 دقیقه</string>
+    <string name="intercom_expected_response_delay_259200">3 روز</string>
+    <string name="intercom_expected_response_delay_300">کمتر از 5 دقیقه</string>
+    <string name="intercom_expected_response_delay_345600">4 روز</string>
+    <string name="intercom_expected_response_delay_3600">کمتر از 1 ساعت</string>
+    <string name="intercom_expected_response_delay_43200">کمتر از 12 ساعت</string>
+    <string name="intercom_expected_response_delay_432000">5 روز</string>
+    <string name="intercom_expected_response_delay_518400">6 روز</string>
+    <string name="intercom_expected_response_delay_60">کمتر از 1 دقیقه</string>
+    <string name="intercom_expected_response_delay_600">کمتر از 10 دقیقه</string>
+    <string name="intercom_expected_response_delay_604800">کمتر از 1 هفته</string>
+    <string name="intercom_expected_response_delay_7200">کمتر از 2 ساعت</string>
+    <string name="intercom_expected_response_delay_86400">1 روز</string>
+    <string name="intercom_expected_response_delay_900">کمتر از 15 دقیقه</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} برچسب</string>
+    <string name="intercom_facebook_like">ما را در Facebook لایک کنید</string>
+    <string name="intercom_failed_delivery">تحویل پیام امکان‌پذیر نبود</string>
+    <string name="intercom_failed_to_load_conversation">گفتگوی شما بارگیری نشد</string>
+    <string name="intercom_failed_to_load_tickets">بارگیری درخواست‌های پشتیبانی شما امکان‌پذیر نبود</string>
+    <string name="intercom_failed_to_load_tickets_with_app">بارگیری درخواست‌های پشتیبانی شما با {app_name} امکان‌پذیر نبود</string>
+    <string name="intercom_failed_to_send">ارسال امکان‌پذیر نبود</string>
+    <string name="intercom_field_is_required">فیلد {field_name} الزامی است</string>
+    <string name="intercom_file_access_failed">دسترسی به آن فایل امکان‌پذیر نیست</string>
+    <string name="intercom_file_max_limit">حداکثر {limit} فایل</string>
+    <string name="intercom_file_saved">پرونده ذخیره شد</string>
+    <string name="intercom_file_too_big">فایل‌های بیش از {limit} مگابایت ارسال نمی‌شود</string>
+    <string name="intercom_file_type_not_allowed">نوع فایل مجاز نیست</string>
+    <string name="intercom_files">فایل‌ها</string>
+    <string name="intercom_gallery">گالری</string>
+    <string name="intercom_generating_answer">درحال ایجاد پاسخ...</string>
+    <string name="intercom_get_help">کمک بگیرید</string>
+    <string name="intercom_get_notified_by_email">از طریق ایمیل مطلع شوید</string>
+    <string name="intercom_gif_attribution">از طریق {providername}</string>
+    <string name="intercom_gifs_load_error">بارگیری گیف‌ها امکان‌پذیر نبود</string>
+    <string name="intercom_give_it_another_try">دوباره امتحان کنید</string>
+    <string name="intercom_go_to_device_settings">برای اجازه دسترسی، به منوی مجوزهای
+ تنظیمات برنامه دستگاه خود بروید</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">صورت خندان با چشمان درشت</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+1 دیگر</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+{other_participant_count} نفر دیگر</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">{other_participant_count} نفر دیگر نیز شرکت می‌کنند</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name} نیز شرکت می‌کند</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} و 1 نفر دیگر نیز شرکت می‌کنند</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} و {other_participant_count} نفر دیگر نیز شرکت می‌کنند</string>
+    <string name="intercom_group_conversation_one_person_also_participating">1 نفر دیگر نیز شرکت می‌کند</string>
+    <string name="intercom_help_center">مرکز راهنمایی</string>
+    <string name="intercom_help_space_title">کمک</string>
+    <string name="intercom_home_space_title">صفحه اصلی</string>
+    <string name="intercom_how_can_we_help">چطور می‌توانیم کمک کنیم؟</string>
+    <string name="intercom_how_would_you_rate_this">شما به این چه امتیازی می‌دهید؟</string>
+    <string name="intercom_image_attached">(تصویر پیوست شده)</string>
+    <string name="intercom_inbox_error_state_title">مشکلی پیش آمد</string>
+    <string name="intercom_last_active_hours_ago">آخرین بار {mins} چند ساعت پیش فعال بوده است</string>
+    <string name="intercom_last_active_mins_ago">آخرین بار {mins} دقیقه پیش فعال بوده است</string>
+    <string name="intercom_last_active_over_a_week">آخرین بار بیش از 1 هفته پیش فعال بوده است</string>
+    <string name="intercom_learn_more">بیشتر بدانید</string>
+    <string name="intercom_loading">بارگذاری</string>
+    <string name="intercom_message_failed_try_again">ارسال نشد؛ برای امتحان مجدد، ضربه بزنید</string>
+    <string name="intercom_message_placeholder">پیام...</string>
+    <string name="intercom_message_seen">دیده</string>
+    <string name="intercom_message_state_sending">در حال ارسال…</string>
+    <string name="intercom_message_summary">خلاصه پیام: {summary} ، نام هم‌تیمی: {name}، زمان ارسال پیام: {sentTime} . </string>
+    <string name="intercom_message_summary_with_teammate_status">خلاصه پیام: {summary} ، نام هم‌تیمی: {name}، وضعیت هم‌تیمی: {adminStatus} ، زمان ارسال پیام: {sentTime}. </string>
+    <string name="intercom_message_unread">پیام خوانده نشده است.</string>
+    <string name="intercom_message_unseen">هنوز دیده نشده است</string>
+    <string name="intercom_messages_space_title">پیام‌ها</string>
+    <string name="intercom_messenger_bot_reply_time">ربات ما فوراً پاسخ خواهد داد</string>
+    <string name="intercom_multiple_articles">{total_articles} مقاله</string>
+    <string name="intercom_multiple_collections">{total_collection} مجموعه</string>
+    <string name="intercom_name_and_1_other">{name} و 1 دیگر</string>
+    <string name="intercom_name_and_x_others">{name} و {count} نفر دیگر</string>
+    <string name="intercom_navigation_back">بازگشت</string>
+    <string name="intercom_need_camera_access">برای آنکه بتوانید عکس و فیلم بگیرید، {app_name} باید به دوربین دسترسی داشته باشد. روی تنظیمات > مجوزها ضربه بزنید، و دوربین را روشن کنید.</string>
+    <string name="intercom_neutral_face_emoji">چهره خنثی</string>
+    <string name="intercom_new_conversation">گفتگوی جدید</string>
+    <string name="intercom_new_message">پیام جدید</string>
+    <string name="intercom_new_messages">شما {n} پیام جدید دارید</string>
+    <string name="intercom_new_notifications">اطلاعیه‌های جدید</string>
+    <string name="intercom_news">اخبار</string>
+    <string name="intercom_news_empty_title">هنوز خبری نیست</string>
+    <string name="intercom_news_latest_subtitle">از تیم {team_name}</string>
+    <string name="intercom_news_latest_title">آخرین</string>
+    <string name="intercom_news_older_title">قدیمی‌تر</string>
+    <string name="intercom_news_space_title">اخبار</string>
+    <string name="intercom_no_articles_to_display">هنوز مقاله‌ای وجود ندارد</string>
+    <string name="intercom_no_conversations">گفتگویی وجود نداشت</string>
+    <string name="intercom_no_gifs_found">هیچ گیفی پیدا نشد</string>
+    <string name="intercom_no_gifs_matching_query">هیچ فایل گیفی مطابق با درخواست شما پیدا نکردیم</string>
+    <string name="intercom_no_help_articles_to_display">هیچ مقاله کمکی وجود ندارد</string>
+    <string name="intercom_no_messages_from_the_team">هیچ پیامی از طرف تیم وجود ندارد</string>
+    <string name="intercom_no_network_connection">بدون اتصال به شبکه</string>
+    <string name="intercom_no_photos">بدون عکس</string>
+    <string name="intercom_no_photos_on_device">هیچ عکسی در این دستگاه وجود ندارد</string>
+    <string name="intercom_no_results_for_searchterm">هیچ نتیجه‌ای برای {searchTerm} وجود ندارد</string>
+    <string name="intercom_no_tasks">وظیفه‌ای موجود نیست</string>
+    <string name="intercom_no_tasks_available_currently">در حال حاضر، هیچ وظیفه‌ای در دسترس نیست.</string>
+    <string name="intercom_not_now">الان نه</string>
+    <string name="intercom_nothing_to_see_here_yet">هنوز چیزی برای دیدن در اینجا وجود ندارد</string>
+    <string name="intercom_notification_channel_actions_description">حاوی پیوندهایی برای انجام یک اقدام در این برنامه است</string>
+    <string name="intercom_notification_channel_actions_title">اقدامات</string>
+    <string name="intercom_notification_channel_chat_replies_description">به اعلان‌های چت‌ها در این برنامه پاسخ دهید</string>
+    <string name="intercom_notification_channel_chat_replies_title">پاسخ‌های چت</string>
+    <string name="intercom_notification_channel_new_chats_description">پیام‌های چت جدید از این برنامه ارسال شده است</string>
+    <string name="intercom_notification_channel_new_chats_title">چت‌های جدید</string>
+    <string name="intercom_number_is_incorrect">آن شماره کاملاً درست به‌نظر نمی‌رسد</string>
+    <string name="intercom_ok">تأیید</string>
+    <string name="intercom_one_new_message">شما پیام جدیدی دارید</string>
+    <string name="intercom_our_bot_answers_instantly">ربات ما فوراً پاسخ می‌دهد</string>
+    <string name="intercom_page_not_found">آن صفحه دیگر اینجا نیست</string>
+    <string name="intercom_permission_denied">این مجوز رد شد</string>
+    <string name="intercom_photo_access_denied">شما دسترسی به عکس‌های خود را نپذیرفتید</string>
+    <string name="intercom_photo_and_video_library">کتابخانه عکس و ویدئو</string>
+    <string name="intercom_placeholder_datepicker">DD-MM-YYYYYYY</string>
+    <string name="intercom_placeholder_email_input">ایمیل را از اینجا وارد کنید...</string>
+    <string name="intercom_placeholder_numerical_inputs">شماره را اینجا وارد کنید...</string>
+    <string name="intercom_placeholder_text_inputs">متن را اینجا وارد کنید...</string>
+    <string name="intercom_please_select">لطفاً انتخاب کنید...</string>
+    <string name="intercom_plus_x_more">+{n} مورد بیشتر</string>
+    <string name="intercom_powered_by_intercom">تحت پشتیبانی توسط Intercom</string>
+    <string name="intercom_profile_location">ساعت {time} در {location}</string>
+    <string name="intercom_rate_your_conversation">به گفتگوی خود امتیاز بدهید</string>
+    <string name="intercom_recent_ticket">درخواست پشتیبانی اخیر</string>
+    <string name="intercom_recent_tickets">درخواست‌های پشتیبانی اخیر</string>
+    <string name="intercom_record_a_video">یک ویدیو ضبط کنید</string>
+    <string name="intercom_reload">بارگیری مجدد</string>
+    <string name="intercom_reply">پاسخ</string>
+    <string name="intercom_reply_from_admin">پاسخ از {name}</string>
+    <string name="intercom_reply_to_conversation">پاسخی بنویسید…</string>
+    <string name="intercom_retry">امتحان مجدد</string>
+    <string name="intercom_saving">در حال ذخیره شدن...</string>
+    <string name="intercom_search_browse_empty_state_text">با عرض پوزش، ما نتوانستیم نتیجه‌ای برای آن پیدا کنیم. سعی کنید جستجوی خود را مجدداً بنویسید.</string>
+    <string name="intercom_search_for_help">در جستجوی راهنما</string>
+    <string name="intercom_search_gif">گیف‌ها را جستجو کنید…</string>
+    <string name="intercom_search_help_articles">مقالات راهنما را جستجو کنید</string>
+    <string name="intercom_see_all">مشاهده همه</string>
+    <string name="intercom_see_all_conversations">همه گفتگوهای خود را ببینید</string>
+    <string name="intercom_see_past_conversations">مشاهده مورد قبلی</string>
+    <string name="intercom_see_previous_conversations">گفتگوهای قبلی خود را مشاهده کنید</string>
+    <string name="intercom_send">ارسال</string>
+    <string name="intercom_send_a_message_reply_time">زمان معمول پاسخگویی عبارت است از</string>
+    <string name="intercom_send_us_a_message">برای ما یک پیام بفرستید</string>
+    <string name="intercom_send_us_a_message_bot">برای ما پیام ارسال کنید و ربات ما فوراً پاسخ خواهد داد</string>
+    <string name="intercom_settings">تنظیمات</string>
+    <string name="intercom_shared_by">اشتراک‌گذاری‌شده توسط</string>
+    <string name="intercom_show_less">نمایش کمتر</string>
+    <string name="intercom_single_article">1 مقاله</string>
+    <string name="intercom_single_collection">1 مجموعه</string>
+    <string name="intercom_some_things_failed_to_load">برخی موارد بارگیری نشدند. دوباره امتحان کنید.</string>
+    <string name="intercom_something_went_wrong_try_again">مشکلی پیش آمد. دوباره امتحان کنید.</string>
+    <string name="intercom_source">منبع</string>
+    <string name="intercom_sources">منابع</string>
+    <string name="intercom_spaces_error_description">محتوا بارگیری نشد</string>
+    <string name="intercom_spaces_error_title">مشکلی رخ داده است</string>
+    <string name="intercom_start_a_conversation">شروع یک گفتگو</string>
+    <string name="intercom_start_another_conversation">گفتگوی دیگری را شروع کنید</string>
+    <string name="intercom_start_conversation">گفتگویی را شروع کنید…</string>
+    <string name="intercom_status">وضعیت</string>
+    <string name="intercom_still_generating_answer">همچنان درحال ایجاد پاسخ...</string>
+    <string name="intercom_still_thinking">همچنان درحال تفکر...</string>
+    <string name="intercom_still_working_on_it">همچنان درحال کار کردن روی آن...</string>
+    <string name="intercom_stop_upload">قطع بارگذاری</string>
+    <string name="intercom_storage_access_request">برای دیدن عکس‌هایتان، باید اجازه دسترسی به فضای ذخیره‌سازی را بدهید</string>
+    <string name="intercom_string_is_incorrect">به نظر می‌رسد که کاملاً درست نیست</string>
+    <string name="intercom_submit">ارسال</string>
+    <string name="intercom_suggested_articles">مقالات پیشنهادی</string>
+    <string name="intercom_surveys_all_options_response_hint">لطفاً همه گزینه‌های اعمال‌شده را انتخاب کنید</string>
+    <string name="intercom_surveys_dismiss">رد نظرسنجی</string>
+    <string name="intercom_surveys_done_button">انجام شد</string>
+    <string name="intercom_surveys_dropdown_default_option">لطفاً یک پاسخ را انتخاب کنید...</string>
+    <string name="intercom_surveys_email_error">لطفاً یک نشانی ایمیل معتبر وارد کنید</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">لطفاً {response_count} گزینه را انتخاب کنید</string>
+    <string name="intercom_surveys_from_company">نظرسنجی از {company}</string>
+    <string name="intercom_surveys_from_teammate">نظرسنجی توسط {sender_name} از {company}</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">برای این پرسش، حداقل باید {response_count} گزینه انتخاب شود</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">این پرسش نیاز به انتخاب {response_count} گزینه دارد</string>
+    <string name="intercom_surveys_multi_star_rating">{count} ستاره</string>
+    <string name="intercom_surveys_multiselect_other_option">مورد دیگر (لطفاً مشخص کنید)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">لطفاً مشخص کنید</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">پاسخ را وارد کنید</string>
+    <string name="intercom_surveys_multiselect_other_option_value">مورد دیگر</string>
+    <string name="intercom_surveys_next_button">بعدی</string>
+    <string name="intercom_surveys_nps_lower_label">محتمل نیست</string>
+    <string name="intercom_surveys_nps_upper_label">به احتمال زیاد</string>
+    <string name="intercom_surveys_number_error">لطفاً یک شماره وارد کنید</string>
+    <string name="intercom_surveys_one_star_rating">1 ستاره</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">پرسش {questioin_number} از {question_count} پرسش</string>
+    <string name="intercom_surveys_required_question">این یک پرسش الزامی است</string>
+    <string name="intercom_surveys_required_response">این یک پاسخ ضروری است</string>
+    <string name="intercom_surveys_response_range_response_hint">لطفاً حداقل {minimum_response_count} و حداکثر {maximum_response_count} گزینه را انتخاب کنید</string>
+    <string name="intercom_surveys_response_too_long">لطفاً پاسخ‌ها را حداکثر تا {character_count} نویسه نگه دارید</string>
+    <string name="intercom_surveys_response_too_short">لطفاً مطمئن شوید که پاسخ‌ها حداقل {character_count} نویسه دارند</string>
+    <string name="intercom_surveys_sender_image">بررسی تصویر فرستنده</string>
+    <string name="intercom_surveys_single_response_hint">لطفاً 1 گزینه را انتخاب کنید</string>
+    <string name="intercom_surveys_telephone_error">لطفاً یک شماره تلفن معتبر وارد کنید</string>
+    <string name="intercom_surveys_text_input_question_placeholder">لطفاً پاسخ خود را اینجا تایپ کنید...</string>
+    <string name="intercom_take_a_photo">یک عکس بگیرید</string>
+    <string name="intercom_tap_to_send_image">ضربه بزنید تا یک تصویر ارسال شود</string>
+    <string name="intercom_tasks_space_title">وظایف</string>
+    <string name="intercom_team_name_custom_response_delay_2">{app_name} معمولاً ظرف یک روز، پاسخ می‌دهد</string>
+    <string name="intercom_team_name_custom_response_delay_3">{app_name} معمولاً ظرف یک هفته، پاسخ می‌دهد</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} معمولاً ظرف یک روز کاری، پاسخ می‌دهد</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} معمولاً ظرف دو روز کاری، پاسخ می‌دهد</string>
+    <string name="intercom_teammate_from_company">{name} از {company}</string>
+    <string name="intercom_tell_us_more">بیشتر به ما بگویید…</string>
+    <string name="intercom_tell_us_what_you_need">به ما بگویید در چه زمینه‌ای به کمک نیاز دارید و ربات ما تمام تلاش خود را برای پاسخگویی به کار خواهد گرفت</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">سپاسگزاریم! تیم ظرف یک روز کاری، پاسخ خواهد داد</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">سپاسگزاریم! تیم ظرف دو روز کاری، پاسخ خواهد داد</string>
+    <string name="intercom_thanks_for_letting_us_know">ممنون از اینکه ما را در جریان گذاشتید</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">سپاسگزاریم! تیم در اسرع وقت پاسخ خواهد داد</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">آن کد کشور کاملاً درست به‌نظر نمی‌رسد</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">آن ایمیل کاملاً درست به‌نظر نمی‌رسد</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">آن شماره کاملاً درست به‌نظر نمی‌رسد</string>
+    <string name="intercom_that_number_has_too_many_digits">آن شماره دارای ارقام بسیار زیادی است</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">چند رقمی در آن شماره وجود ندارد</string>
+    <string name="intercom_that_number_needs_a_prefix">آن شماره به یک پیشوند (+ یا 00) نیاز دارد.</string>
+    <string name="intercom_the_team_can_help_if_needed">تیم می‌تواند در صورت نیاز کمک کند</string>
+    <string name="intercom_the_team_typically_replies_in_hours">تیم معمولاً ظرف چند ساعت، پاسخ می‌دهد.</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">تیم معمولاً ظرف یک روز کاری، پاسخ می‌دهد.</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">تیم معمولاً ظرف دو روز کاری، پاسخ می‌دهد</string>
+    <string name="intercom_thinking">درحال تفکر...</string>
+    <string name="intercom_ticket_could_not_be_created">درخواست پشتیبانی ایجاد نشد</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">درخواست پشتیبانی {ticket_type_title} را ایجاد کنید</string>
+    <string name="intercom_ticket_current_status">وضعیت فعلی: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">وضعیت فعلی: {current_status_title} ، {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">ویژگی‌های درخواست پشتیبانی؛</string>
+    <string name="intercom_ticket_details_for_title">جزئیات درخواست پشتیبانی برای {title}</string>
+    <string name="intercom_ticket_details_notification_detail">در اینجا و از طریق ایمیل به شما اطلاع‌رسانی خواهد شد</string>
+    <string name="intercom_ticket_has_been_created">درخواست پشتیبانی ایجاد شده است</string>
+    <string name="intercom_ticket_has_been_updated">درخواست پشتیبانی به‌روزرسانی شده است</string>
+    <string name="intercom_ticket_sla_details">جزئیات SLA: {sla_details}</string>
+    <string name="intercom_ticket_status_details">جزئیات وضعیت: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">درخواست پشتیبانی به {status} • {timestamp} منتقل شد</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} درخواست پشتیبانی را به {status} منتقل کرد • {timestamp}</string>
+    <string name="intercom_tickets_add_file">افزودن فایل</string>
+    <string name="intercom_tickets_add_files">افزودن فایل‌ها</string>
+    <string name="intercom_tickets_create_ticket">ایجاد درخواست پشتیبانی</string>
+    <string name="intercom_tickets_create_ticket_fallback">لطفاً با اطلاعات زیر پاسخ دهید تا شخصی به‌زودی با شما تماس بگیرد.</string>
+    <string name="intercom_tickets_created_confirmation_header">درخواست پشتیبانی ایجاد شده</string>
+    <string name="intercom_tickets_cta_text">درباره این درخواست پشتیبانی پرسشی دارید؟</string>
+    <string name="intercom_tickets_email_copy">پاسخ‌ها و به‌روزرسانی‌های درخواست پشتیبانی به این ایمیل ارسال می‌شود</string>
+    <string name="intercom_tickets_email_subject">درخواست پشتیبانی {ticket_type_name} شما</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">درخواست پشتیبانی {ticket_type_name} #{ticket_id} شما</string>
+    <string name="intercom_tickets_empty_state_text">درخواست‌های پشتیبانی شما در اینجا نشان داده می‌شود</string>
+    <string name="intercom_tickets_empty_state_title">بدون درخواست پشتیبانی</string>
+    <string name="intercom_tickets_estimated_resolution">زمان تخمینی برای حل‌وفصل: {duration}</string>
+    <string name="intercom_tickets_files_added">فایل‌های اضافه‌شده</string>
+    <string name="intercom_tickets_have_a_question">درمورد این موضوع سؤالی دارید؟</string>
+    <string name="intercom_tickets_in_progress_status_detail">ما داریم روی این کار می‌کنیم 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} در حال کار روی این مورد است!</string>
+    <string name="intercom_tickets_is_resolved">آیا این درخواست پشتیبانی حل‌وفصل شده است؟</string>
+    <string name="intercom_tickets_log_a_ticket">یک درخواست پشتیبانی ثبت کنید</string>
+    <string name="intercom_tickets_resolved_status_detail">درخواست پشتیبانی شما را کامل کرده‌ایم</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} درخواست پشتیبانی شما را تکمیل کرده است</string>
+    <string name="intercom_tickets_sla">تخمین زده می‌شود در {time} حل‌وفصل شود</string>
+    <string name="intercom_tickets_space_title">تیکت‌ها</string>
+    <string name="intercom_tickets_status_change_event">درخواست پشتیبانی در حال حاضر {status} است {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">درخواست پشتیبانی شما را کامل کرده‌ایم</string>
+    <string name="intercom_tickets_status_description_more_info">ما به اطلاعات بیشتری نیاز داریم</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} درخواست پشتیبانی شما را انتقال داد به</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} درخواست پشتیبانی #{ticket_id} شما را انتقال داد به</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">درخواست پشتیبانی شما انتقال یافت به</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">درخواست پشتیبانی #{ticket_id} شما انتقال یافته به</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">درخواست پشتیبانی شما</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">درخواست پشتیبانی #{ticket_id} شما شده است</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">به‌زودی درخواست پشتیبانی شما را دریافت می‌کنیم</string>
+    <string name="intercom_tickets_status_description_working_on">در حال کار روی درخواست پشتیبانی شما هستیم</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} درخواست پشتیبانی را به {status} {timestamp} منتقل کرد</string>
+    <string name="intercom_tickets_status_event_moved_automation">درخواست پشتیبانی به {status} {timestamp} منتقل شد</string>
+    <string name="intercom_tickets_status_event_submitted">درخواست پشتیبانی {submitted_status} • {timestamp} شده است</string>
+    <string name="intercom_tickets_status_in_progress">در حال انجام</string>
+    <string name="intercom_tickets_status_resolved">حل‌وفصل‌شده</string>
+    <string name="intercom_tickets_status_submitted">ارسال شده</string>
+    <string name="intercom_tickets_status_waiting_on_you">در انتظار شما</string>
+    <string name="intercom_tickets_submitted_confirmation_header">درخواست پشتیبانی ارسال شده است</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">وقتی درخواست پشتیبانی شما به‌روزرسانی شود، به شما اطلاع می‌دهیم</string>
+    <string name="intercom_tickets_submitted_status_detail">ما به‌زودی این را انتخاب خواهیم کرد</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} به‌زودی این را انتخاب خواهد کرد</string>
+    <string name="intercom_tickets_unread">درخواست‌های پشتیبانی. درخواست‌های پشتیبانی خوانده‌نشده جدیدی دارید.</string>
+    <string name="intercom_tickets_updates_prompt">به‌روزرسانی‌ها را در پیام‌رسان و از طریق ایمیل دریافت خواهید کرد</string>
+    <string name="intercom_tickets_view_ticket">مشاهده جزئیات درخواست پشتیبانی</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">ما به اطلاعات بیشتری از شما نیاز داریم</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} به اطلاعات بیشتری نیاز دارد</string>
+    <string name="intercom_time_day_ago">{delta} روز قبل</string>
+    <string name="intercom_time_future_1h">ظرف 1 ساعت</string>
+    <string name="intercom_time_future_2h">ظرف 2 ساعت</string>
+    <string name="intercom_time_future_30m">ظرف 30 دقیقه</string>
+    <string name="intercom_time_future_3h">ظرف 3 ساعت</string>
+    <string name="intercom_time_future_day_0">دوشنبه</string>
+    <string name="intercom_time_future_day_1">سه‌شنبه</string>
+    <string name="intercom_time_future_day_2">چهارشنبه</string>
+    <string name="intercom_time_future_day_3">پنج‌شنبه</string>
+    <string name="intercom_time_future_day_4">جمعه</string>
+    <string name="intercom_time_future_day_5">شنبه</string>
+    <string name="intercom_time_future_day_6">یکشنبه</string>
+    <string name="intercom_time_future_later_today">امروز در فرصتی دیگر</string>
+    <string name="intercom_time_future_next_week">هفته بعد</string>
+    <string name="intercom_time_future_tomorrow">فردا</string>
+    <string name="intercom_time_hour_ago">{delta} ساعت پیش</string>
+    <string name="intercom_time_just_now">همین الان</string>
+    <string name="intercom_time_minute_ago">{delta} دقیقه پیش</string>
+    <string name="intercom_time_week_ago">{delta} هفته پیش</string>
+    <string name="intercom_time_yesterday">دیروز</string>
+    <string name="intercom_try_again">دوباره امتحان کنید</string>
+    <string name="intercom_try_again_minute">یک دقیقه دیگر دوباره امتحان کنید</string>
+    <string name="intercom_try_use_different_keywords">کلیدواژه مختلفی را امتحان کنید یا پرسش خود را کامل تایپ کنید</string>
+    <string name="intercom_twitter_follow">ما را در Twitter دنبال کنید</string>
+    <string name="intercom_two_business_days">دو روز کاری</string>
+    <string name="intercom_type_a_number">شماره‌ای را تایپ کنید…</string>
+    <string name="intercom_typically_replies_in_one_business_day">معمولاً ظرف یک روز کاری، پاسخ می‌دهد</string>
+    <string name="intercom_typically_replies_in_two_business_days">معمولاً ظرف دو روز کاری، پاسخ می‌دهد</string>
+    <string name="intercom_unread_message_count">{unread_count} خوانده‌نشده</string>
+    <string name="intercom_upfront_collection_form_close_out">برای دیدن پاسخ‌ها و ارسال به‌روزرسانی‌ها، می‌توانید در هر زمان به اینجا بازگردید.</string>
+    <string name="intercom_upfront_collection_form_introduction">مقداری اطلاعات جانبی به اشتراک بگذارید تا به تیم کمک کند بهتر و سریعتر پاسخ دهد.</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">از ارسال آن متن سپاسگزاریم. برای صرفه‌جویی در زمان بعداً، همین حالا به راحتی جزئیات بیشتری را اضافه کنید.</string>
+    <string name="intercom_upfront_collection_form_subtitle">مقداری اطلاعات جانبی برای تیم بفرستید</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">آنها این زمینه را در ذهن خواهند داشت</string>
+    <string name="intercom_upfront_collection_form_title">سریعتر کمک بگیرید</string>
+    <string name="intercom_upfront_collection_form_title_submitted">برای تیم ارسال شد!</string>
+    <string name="intercom_upload_failed">بارگذاری انجام نشد</string>
+    <string name="intercom_upload_max_files_allowed">حداکثر تعداد فایل مجاز {limit} است</string>
+    <string name="intercom_upload_max_files_size">حداکثر حجم فایل {limit} مگابایت است</string>
+    <string name="intercom_user_avatar_image">تصویر آواتار کاربر</string>
+    <string name="intercom_view_all">مشاهده همه</string>
+    <string name="intercom_view_conversation">مشاهده گفتگو</string>
+    <string name="intercom_view_more_details">مشاهده جزئیات بیشتر</string>
+    <string name="intercom_view_post">مشاهده پست</string>
+    <string name="intercom_we_run_on_intercom">ما با Intercom کار می‌کنیم</string>
+    <string name="intercom_working_on_it">درحال کار کردن روی آن...</string>
+    <string name="intercom_you">شما</string>
+    <string name="intercom_you_are_all_up_to_date">همه موارد را بررسی کردید!</string>
+    <string name="intercom_you_have_new_messages">پیام‌های جدیدی دارید.</string>
+    <string name="intercom_you_rated_the_conversation">شما به گفتگو امتیاز دادید</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">در اینجا و از طریق ایمیل، به شما اطلاع داده خواهد شد</string>
+    <string name="intercom_your_checklists">فهرست‌های بررسی شما</string>
+    <string name="intercom_your_conversations">گفتگوهای شما</string>
+    <string name="intercom_your_recent_conversations">گفتگوهای اخیر</string>
+    <string name="intercom_your_recent_message">پیام اخیر</string>
+    <string name="intercom_your_recent_messages">پیام‌های اخیر</string>
+    <string name="intercom_your_ticket">درخواست پشتیبانی شما</string>
+</resources>

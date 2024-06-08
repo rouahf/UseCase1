@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25×</item>
+    <item>0,5×</item>
+    <item>0,75×</item>
+    <item>Normál</item>
+    <item>1,25×</item>
+    <item>1,5×</item>
+    <item>2×</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">Előretekerés %d másodperccel</item>
+    <item quantity="other">Előretekerés %d másodperccel</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">Visszatekerés %d másodperccel</item>
+    <item quantity="other">Visszatekerés %d másodperccel</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d új értesítés</item>
+    <item quantity="other">%d új értesítés</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Fel"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Az összes megtekintése"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Válasszon alkalmazást"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BE"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Szóköz"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="bottomsheet_action_collapse">Az alsó lap összecsukása</string>
+    <string name="bottomsheet_action_expand">Az alsó lap kibontása</string>
+    <string name="bottomsheet_action_expand_halfway">Kibontás félig</string>
+    <string name="bottomsheet_drag_handle_clicked">Duplán koppintott a csúszkára</string>
+    <string name="bottomsheet_drag_handle_content_description">Csúszka</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Fogadás"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Videó"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Elutasítás"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Befejezés"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Bejövő hívás"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Hívás folyamatban"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Bejövő hívás szűrése"</string>
+    <string name="character_counter_content_description">Begépelt karakterszám: %2$d/%1$d</string>
+    <string name="character_counter_overflowed_content_description">Maximális karakterszám túllépve: %2$d/%1$d</string>
+    <string name="clear_text_end_icon_content_description">Szöveg törlése</string>
+    <string msgid="406453423630273620" name="close_drawer">"Navigációs menü bezárása"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Munkalap bezárása"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Engedélyezés</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">A(z) %1$s alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play-szolgáltatások engedélyezése</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Telepítés</string>
+    <string name="common_google_play_services_install_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">A Google Play-szolgáltatások beszerzése</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-szolgáltatások elérhetősége</string>
+    <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
+    <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
+    <string name="common_google_play_services_unsupported_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Frissítés</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">A Google Play-szolgáltatások frissítése</string>
+    <string name="common_google_play_services_updating_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van.</string>
+    <string name="common_google_play_services_wear_update_text">A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát.</string>
+    <string name="common_open_on_phone">Megnyitás a telefonon</string>
+    <string name="common_signin_button_text">Bejelentkezés</string>
+    <string name="common_signin_button_text_long">Bejelentkezés Google-fiókkal</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Érvénytelen adat"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Előugró ablak"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Legördülő menü"</string>
+    <string name="error_icon_content_description">Hiba</string>
+    <string name="exo_controls_cc_disabled_description">Feliratok bekapcsolása</string>
+    <string name="exo_controls_cc_enabled_description">Feliratok kikapcsolása</string>
+    <string name="exo_controls_fastforward_description">Előretekerés</string>
+    <string name="exo_controls_fullscreen_enter_description">Teljes képernyő</string>
+    <string name="exo_controls_fullscreen_exit_description">Kilépés a teljes képernyős módból</string>
+    <string name="exo_controls_hide">Lejátszásvezérlők elrejtése</string>
+    <string name="exo_controls_next_description">Következő</string>
+    <string name="exo_controls_overflow_hide_description">További beállítások elrejtése</string>
+    <string name="exo_controls_overflow_show_description">További beállítások megjelenítése</string>
+    <string name="exo_controls_pause_description">Szüneteltetés</string>
+    <string name="exo_controls_play_description">Lejátszás</string>
+    <string name="exo_controls_playback_speed">Sebesség</string>
+    <string name="exo_controls_previous_description">Előző</string>
+    <string name="exo_controls_repeat_all_description">Jelenlegi: Összes ismétlése. Ismétlés mód be/ki.</string>
+    <string name="exo_controls_repeat_off_description">Jelenlegi: Nincs ismétlés. Ismétlés mód be/ki.</string>
+    <string name="exo_controls_repeat_one_description">Jelenlegi: Egy ismétlése. Ismétlés mód be/ki.</string>
+    <string name="exo_controls_rewind_description">Visszatekerés</string>
+    <string name="exo_controls_seek_bar_description">Lejátszási folyamat</string>
+    <string name="exo_controls_settings_description">Beállítások</string>
+    <string name="exo_controls_show">Lejátszásvezérlők mutatása</string>
+    <string name="exo_controls_shuffle_off_description">Keverés mód bekapcsolása</string>
+    <string name="exo_controls_shuffle_on_description">Keverés mód kikapcsolása</string>
+    <string name="exo_controls_stop_description">Leállítás</string>
+    <string name="exo_controls_vr_description">VR-mód</string>
+    <string name="exo_download_completed">A letöltés befejeződött</string>
+    <string name="exo_download_description">Letöltés</string>
+    <string name="exo_download_downloading">Letöltés folyamatban</string>
+    <string name="exo_download_failed">Nem sikerült a letöltés</string>
+    <string name="exo_download_notification_channel_name">Letöltések</string>
+    <string name="exo_download_paused">Letöltések szüneteltetve</string>
+    <string name="exo_download_paused_for_network">A letöltések hálózatra várakoznak</string>
+    <string name="exo_download_paused_for_wifi">A letöltések Wi-Fi-re várakoznak</string>
+    <string name="exo_download_removing">Letöltések törlése folyamatban</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternatív</string>
+    <string name="exo_track_role_closed_captions">Felirat</string>
+    <string name="exo_track_role_commentary">Kommentár</string>
+    <string name="exo_track_role_supplementary">Kiegészítő</string>
+    <string name="exo_track_selection_auto">Automatikus</string>
+    <string name="exo_track_selection_none">Nincs</string>
+    <string name="exo_track_selection_title_audio">Hang</string>
+    <string name="exo_track_selection_title_text">Szöveg</string>
+    <string name="exo_track_selection_title_video">Videó</string>
+    <string name="exo_track_stereo">Sztereó</string>
+    <string name="exo_track_surround">Térhatású hangzás</string>
+    <string name="exo_track_surround_5_point_1">5.1-es térhatású hangzás</string>
+    <string name="exo_track_surround_7_point_1">7.1-es térhatású hangzás</string>
+    <string name="exo_track_unknown">Ismeretlen</string>
+    <string name="exo_track_unknown_name">Ismeretlen (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">Legördülő menü megjelenítése</string>
+    <string name="icon_content_description">Párbeszédpanel ikonja</string>
+    <string msgid="6827826412747255547" name="in_progress">"Folyamatban"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Részlegesen ellenőrizve"</string>
+    <string name="intercom_access_background_location_message">Nyissa meg eszközének beállításait, és engedélyezze, hogy az alkalmazás használja az Ön helyét a háttérben.</string>
+    <string name="intercom_access_background_location_title">Mindig engedélyezze a hozzáférést a tartózkodási helyéhez.</string>
+    <string name="intercom_access_device_settings">A fényképeidhez való hozzáférés engedélyezéséhez nyisd meg az eszközöd beállításait</string>
+    <string name="intercom_access_photos">Hozzáférés a fényképekhez</string>
+    <string name="intercom_active_15m_ago">Aktivitás: az elmúlt {minutes} percben</string>
+    <string name="intercom_active_day_ago">Aktivitás: {days} nappal ezelőtt</string>
+    <string name="intercom_active_hour_ago">Aktivitás: {hours} órával ezelőtt</string>
+    <string name="intercom_active_minute_ago">Aktivitás: {minutes} perccel ezelőtt</string>
+    <string name="intercom_active_state">Aktív</string>
+    <string name="intercom_active_week_ago">Aktivitás: több mint egy héttel ezelőtt</string>
+    <string name="intercom_add">Hozzáadás</string>
+    <string name="intercom_ai_answer">MI-válasz</string>
+    <string name="intercom_ai_answer_information">MI-válasz, információ</string>
+    <string name="intercom_ai_bot">MI-robot</string>
+    <string name="intercom_allow_access">Hozzáférés engedélyezése</string>
+    <string name="intercom_allow_storage_access">Kérjük, engedélyezd a tárhelyhez való hozzáférést fényképeid megtekintéséhez</string>
+    <string name="intercom_almost_there">Mindjárt kész vagyok…</string>
+    <string name="intercom_also_in_this_conversation">A beszélgetés további résztvevői</string>
+    <string name="intercom_android_activated_message">Az Android-alkalmazás integrálása sikeres az Intercom-platformmal</string>
+    <string name="intercom_answer">Válasz</string>
+    <string name="intercom_app_settings">Alkalmazás beállításai</string>
+    <string name="intercom_article_double_author">Szerzők: {author_first_name1} és {author_first_name2}</string>
+    <string name="intercom_article_load_error">A cikk betöltése sikertelen</string>
+    <string name="intercom_article_multiple_authors">Szerzők: {author_first_name1} és további {number_of_other_authors}</string>
+    <string name="intercom_article_question">Segített megválaszolni a kérdését?</string>
+    <string name="intercom_article_response">A következőnek küldött visszajelzést:</string>
+    <string name="intercom_article_search_hint_text">Articles keresése...</string>
+    <string name="intercom_article_search_search_results">Keresési eredmények</string>
+    <string name="intercom_article_single_author">Szerző: {author_first_name}</string>
+    <string name="intercom_ask_a_question">Tegyen fel kérdést</string>
+    <string name="intercom_ask_a_question_with_ellipsis">Kérdezzen…</string>
+    <string name="intercom_ask_another_question_with_ellipsis">Tegyen fel egy másik kérdést…</string>
+    <string name="intercom_ask_our_bot_a_question">Kérdezzen a robotunktól</string>
+    <string name="intercom_asked_about">A következőt kérdezte</string>
+    <string name="intercom_assigned_to_admin">Hozzárendelve a következőhöz: {admin}</string>
+    <string name="intercom_attribute_collector_negative">Nem</string>
+    <string name="intercom_attribute_collector_positive">Igen</string>
+    <string name="intercom_available_teammates">Rendelkezésre álló csapattársak: {available_teammates}</string>
+    <string name="intercom_avatar">Avatar</string>
+    <string name="intercom_avatars">Avatarok</string>
+    <string name="intercom_away_state">Távol</string>
+    <string name="intercom_bot">Robot</string>
+    <string name="intercom_bot_answers_instantly">A robot azonnal válaszol</string>
+    <string name="intercom_bot_expectation_text">Robotunk számos gyakori kérdésre tud választ adni</string>
+    <string name="intercom_bot_is_still_thinking">A robot még mindig gondolkodik…</string>
+    <string name="intercom_bot_is_thinking">A robot gondolkodik…</string>
+    <string name="intercom_browse_all_help_topics">Tallózás az összes súgótémában</string>
+    <string name="intercom_browse_collections">Gyűjtemények böngészése</string>
+    <string name="intercom_cancel">Mégse</string>
+    <string name="intercom_chat_with_us">Csevegjen velünk</string>
+    <string name="intercom_check_later_for_updates">Nézzen vissza később a frissítésekért.</string>
+    <string name="intercom_checklist_card_first_step">Első lépés</string>
+    <string name="intercom_checklist_card_next_step">Következő lépés</string>
+    <string name="intercom_checklist_completed">Befejezett</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">Körülbelül {minutes} perc van hátra</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">Körülbelül 1 perc maradt</string>
+    <string name="intercom_checklist_mark_step_as_complete">Megjelölés befejezettként</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">Körülbelül {minutes} perc</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">Körülbelül 1 perc</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} lépés</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">{steps_completed}/{total_steps} végrehajtva</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">{total_steps}/1 végrehajtva</string>
+    <string name="intercom_checklist_number_of_steps_singular">1 lépés</string>
+    <string name="intercom_checklist_sender_name">Megosztotta: {name}</string>
+    <string name="intercom_checklist_step_action_button">Lépés akciógomb</string>
+    <string name="intercom_checklist_step_completed">Befejezett</string>
+    <string name="intercom_choose_one">Válassz egyet…</string>
+    <string name="intercom_choose_the_date">Choose the date…</string>
+    <string name="intercom_clear">Törlés</string>
+    <string name="intercom_close">Bezárás</string>
+    <string name="intercom_congratulations">Gratulálunk</string>
+    <string name="intercom_connected">A csatlakozás sikeres</string>
+    <string name="intercom_contact_support">Kapcsolat az ügyfélszolgálattal</string>
+    <string name="intercom_contact_us">Kapcsolatfelvétel</string>
+    <string name="intercom_continue_the_conversation">Beszélgetés folytatása</string>
+    <string name="intercom_conversation_card_office_hours_header">Ekkor leszünk újra online</string>
+    <string name="intercom_conversation_card_reply_time_header">Szokásos válaszidőnk</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">Szokásos válaszadási idő</string>
+    <string name="intercom_conversation_has_ended">Beszélgetése véget ért.</string>
+    <string name="intercom_conversation_number_and_description">Beszélgetés száma {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">Beszélgetések</string>
+    <string name="intercom_conversations_space_title">Beszélgetések</string>
+    <string name="intercom_conversations_with_app">Beszélgetések ({name})</string>
+    <string name="intercom_copied_to_clipboard">Vágólapra másolva</string>
+    <string name="intercom_couldnt_complete_action">A művelet befejezése sikertelen</string>
+    <string name="intercom_couldnt_load_apps">Az alkalmazások betöltése sikertelen.</string>
+    <string name="intercom_couldnt_load_content">A tartalom betöltése sikertelen</string>
+    <string name="intercom_couldnt_load_messenger">A Messenger betöltése sikertelen.</string>
+    <string name="intercom_create_a_ticket">Jegy létrehozása</string>
+    <string name="intercom_currently_no_help_articles">Jelenleg nem áll rendelkezésre súgócikk.</string>
+    <string name="intercom_delete_attachment">Melléklet törlése</string>
+    <string name="intercom_delivered">Kézbesítve</string>
+    <string name="intercom_disappointed_face_emoji">Csalódott arc</string>
+    <string name="intercom_dismiss">Bezárás</string>
+    <string name="intercom_empty_conversations">Itt jelennek meg a csapattól érkező üzenetek</string>
+    <string name="intercom_enter_text_placeholder">Írja be a szöveget…</string>
+    <string name="intercom_error_loading_conversation">A beszélgetés betöltése sikertelen</string>
+    <string name="intercom_error_loading_ticket">Nem sikerült betölteni a jegyet</string>
+    <string name="intercom_expected_response_delay_10800">3 órán belül</string>
+    <string name="intercom_expected_response_delay_120">2 percen belül</string>
+    <string name="intercom_expected_response_delay_1200">20 percen belül</string>
+    <string name="intercom_expected_response_delay_14400">4 órán belül</string>
+    <string name="intercom_expected_response_delay_172800">2 nap</string>
+    <string name="intercom_expected_response_delay_180">3 percen belül</string>
+    <string name="intercom_expected_response_delay_1800">30 percen belül</string>
+    <string name="intercom_expected_response_delay_18000">5 órán belül</string>
+    <string name="intercom_expected_response_delay_21600">6 órán belül</string>
+    <string name="intercom_expected_response_delay_240">4 percen belül</string>
+    <string name="intercom_expected_response_delay_259200">3 nap</string>
+    <string name="intercom_expected_response_delay_300">5 percen belül</string>
+    <string name="intercom_expected_response_delay_345600">4 nap</string>
+    <string name="intercom_expected_response_delay_3600">1 órán belül</string>
+    <string name="intercom_expected_response_delay_43200">12 órán belül</string>
+    <string name="intercom_expected_response_delay_432000">5 nap</string>
+    <string name="intercom_expected_response_delay_518400">6 nap</string>
+    <string name="intercom_expected_response_delay_60">1 percen belül</string>
+    <string name="intercom_expected_response_delay_600">10 percen belül</string>
+    <string name="intercom_expected_response_delay_604800">1 héten belül</string>
+    <string name="intercom_expected_response_delay_7200">2 órán belül</string>
+    <string name="intercom_expected_response_delay_86400">1 nap</string>
+    <string name="intercom_expected_response_delay_900">15 percen belül</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} címke</string>
+    <string name="intercom_facebook_like">Kövess minket a Facebookon</string>
+    <string name="intercom_failed_delivery">Az üzenet kézbesítése sikertelen</string>
+    <string name="intercom_failed_to_load_conversation">A beszélgetések betöltése sikertelen</string>
+    <string name="intercom_failed_to_load_tickets">Nem sikerült betölteni a jegyeit</string>
+    <string name="intercom_failed_to_load_tickets_with_app">Nem sikerült betölteni a jegyeit a következővel: {app_name}</string>
+    <string name="intercom_failed_to_send">Az elküldés sikertelen</string>
+    <string name="intercom_field_is_required">A(z) {field_name} mező kitöltése kötelező.</string>
+    <string name="intercom_file_access_failed">A fájl nem érhető el</string>
+    <string name="intercom_file_max_limit">Maximum {limit} fájl</string>
+    <string name="intercom_file_saved">Fájl mentve</string>
+    <string name="intercom_file_too_big">{limit} MB feletti fájlok nem küldhetők</string>
+    <string name="intercom_file_type_not_allowed">A fájltípus nem megengedett</string>
+    <string name="intercom_files">Fájlok</string>
+    <string name="intercom_gallery">Galéria</string>
+    <string name="intercom_generating_answer">Válasz generálása folyamatban...</string>
+    <string name="intercom_get_help">Súgó kérése</string>
+    <string name="intercom_get_notified_by_email">Értesítés kérése e-mailben</string>
+    <string name="intercom_gif_attribution">a következőn keresztül: {providername}</string>
+    <string name="intercom_gifs_load_error">A GIF-ek betöltése sikertelen</string>
+    <string name="intercom_give_it_another_try">Próbálkozás újból</string>
+    <string name="intercom_go_to_device_settings">A hozzáférés engedélyezéséhez keresd fel eszközöd beállításai között az Engedélyek menüpontot</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">Vigyorgó arc nagy szemekkel</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">+1 másik</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">+további {other_participant_count}</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">További {other_participant_count} személy is részt vesz</string>
+    <string name="intercom_group_conversation_name_also_participating">{participant_name} is részt vesz</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">{participant_name} és további 1 személy is részt vesz</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} és további {other_participant_count} személy is részt vesz</string>
+    <string name="intercom_group_conversation_one_person_also_participating">További 1 személy is részt vesz</string>
+    <string name="intercom_help_center">Súgóközpont</string>
+    <string name="intercom_help_space_title">Súgó</string>
+    <string name="intercom_home_space_title">Főoldal</string>
+    <string name="intercom_how_can_we_help">Miben segíthetünk?</string>
+    <string name="intercom_how_would_you_rate_this">Hogyan értékelnéd?</string>
+    <string name="intercom_image_attached">(kép csatolva)</string>
+    <string name="intercom_inbox_error_state_title">Hiba történt</string>
+    <string name="intercom_last_active_hours_ago">Utoljára aktív {mins} órával ezelőtt</string>
+    <string name="intercom_last_active_mins_ago">Utoljára aktív {mins} perccel ezelőtt</string>
+    <string name="intercom_last_active_over_a_week">Utoljára aktív több mint 1 héttel ezelőtt</string>
+    <string name="intercom_learn_more">Tudjon meg többet</string>
+    <string name="intercom_loading">Betöltés</string>
+    <string name="intercom_message_failed_try_again">A küldés sikertelen, koppints az ismételt próbálkozáshoz</string>
+    <string name="intercom_message_placeholder">Üzenet…</string>
+    <string name="intercom_message_seen">Elolvasva</string>
+    <string name="intercom_message_state_sending">Küldés…</string>
+    <string name="intercom_message_summary">Üzenet összefoglalása: {summary}, Csapattárs neve: {name}, Üzenet elküldésének ideje: {sentTime}. </string>
+    <string name="intercom_message_summary_with_teammate_status">Üzenet összefoglalása: {summary}, Csapattárs neve: {name}, Csapattárs státusza: {adminStatus}, Üzenet elküldésének ideje: {sentTime}. </string>
+    <string name="intercom_message_unread">Az üzenet olvasatlan.</string>
+    <string name="intercom_message_unseen">Olvasatlan</string>
+    <string name="intercom_messages_space_title">Üzenetek</string>
+    <string name="intercom_messenger_bot_reply_time">Robotunk azonnal válaszol</string>
+    <string name="intercom_multiple_articles">{total_articles} cikk</string>
+    <string name="intercom_multiple_collections">{total_collection} collections</string>
+    <string name="intercom_name_and_1_other">{name} és további 1 felhasználó</string>
+    <string name="intercom_name_and_x_others">{name} és további {count} felhasználó</string>
+    <string name="intercom_navigation_back">Vissza</string>
+    <string name="intercom_need_camera_access">Ahhoz, hogy Ön fényképeket és videókat készíthessen, a(z) {app_name} alkalmazásnak hozzá kell férnie a kamerájához. Koppintson a Beállítások > Engedélyek elemre, és engedélyezze a kamera hozzáférését.</string>
+    <string name="intercom_neutral_face_emoji">Semleges arc</string>
+    <string name="intercom_new_conversation">Új beszélgetés</string>
+    <string name="intercom_new_message">Új üzenet</string>
+    <string name="intercom_new_messages">{n} új üzeneted érkezett</string>
+    <string name="intercom_new_notifications">Új értesítések</string>
+    <string name="intercom_news">Hírek</string>
+    <string name="intercom_news_empty_title">Még nincs hír</string>
+    <string name="intercom_news_latest_subtitle">A(z) {team_name} csapattól</string>
+    <string name="intercom_news_latest_title">Legfrissebbek</string>
+    <string name="intercom_news_older_title">Régebbi</string>
+    <string name="intercom_news_space_title">Hírek</string>
+    <string name="intercom_no_articles_to_display">Még nincsenek cikkek</string>
+    <string name="intercom_no_conversations">Nincsenek beszélgetések</string>
+    <string name="intercom_no_gifs_found">Nem találhatók GIF-ek</string>
+    <string name="intercom_no_gifs_matching_query">Egy GIF-et sem találtunk, amely megfelelne a keresési feltételeidnek</string>
+    <string name="intercom_no_help_articles_to_display">Nincs súgócikk</string>
+    <string name="intercom_no_messages_from_the_team">Nincsenek megjelenítendő üzenetek a csapattól</string>
+    <string name="intercom_no_network_connection">Nincs hálózati kapcsolat</string>
+    <string name="intercom_no_photos">Nem találhatók fényképek</string>
+    <string name="intercom_no_photos_on_device">Nem találhatók fényképek az eszközön</string>
+    <string name="intercom_no_results_for_searchterm">Nincs eredmény a következőre: {searchTerm}</string>
+    <string name="intercom_no_tasks">Nincsenek feladatok</string>
+    <string name="intercom_no_tasks_available_currently">Jelenleg nincsenek elérhető feladatok.</string>
+    <string name="intercom_not_now">Később</string>
+    <string name="intercom_nothing_to_see_here_yet">Ez a felület egyelőre üres</string>
+    <string name="intercom_notification_channel_actions_description">Hivatkozások a különböző műveletekhez ebben az alkalmazásban</string>
+    <string name="intercom_notification_channel_actions_title">Műveletek</string>
+    <string name="intercom_notification_channel_chat_replies_description">Válaszértesítések a csevegésekből ebben az alkalmazásban</string>
+    <string name="intercom_notification_channel_chat_replies_title">Csevegőüzenetek</string>
+    <string name="intercom_notification_channel_new_chats_description">Ebből az alkalmazásból küldött új csevegőüzenetek</string>
+    <string name="intercom_notification_channel_new_chats_title">Új csevegések</string>
+    <string name="intercom_number_is_incorrect">A telefonszám nem tűnik helyesnek</string>
+    <string name="intercom_ok">Megfelelő</string>
+    <string name="intercom_one_new_message">Új üzeneted érkezett</string>
+    <string name="intercom_our_bot_answers_instantly">Robotunk azonnal válaszol</string>
+    <string name="intercom_page_not_found">Az az oldal már nincs itt.</string>
+    <string name="intercom_permission_denied">Az engedély megtagadva</string>
+    <string name="intercom_photo_access_denied">Megtagadtad a fényképeidhez való hozzáférést</string>
+    <string name="intercom_photo_and_video_library">Fotó- és videókönyvtár</string>
+    <string name="intercom_placeholder_datepicker">NN-HH-ÉÉÉÉ</string>
+    <string name="intercom_placeholder_email_input">Írja be az e-mail címét ide...</string>
+    <string name="intercom_placeholder_numerical_inputs">Írja be a számot ide...</string>
+    <string name="intercom_placeholder_text_inputs">Írja be a szöveget ide...</string>
+    <string name="intercom_please_select">Kérjük, válasszon...</string>
+    <string name="intercom_plus_x_more">több {n}</string>
+    <string name="intercom_powered_by_intercom">A funkciókat az Intercom biztosítja</string>
+    <string name="intercom_profile_location">{time} – {location}</string>
+    <string name="intercom_rate_your_conversation">Értékeld a beszélgetést</string>
+    <string name="intercom_recent_ticket">Legutóbbi jegy</string>
+    <string name="intercom_recent_tickets">Legutóbbi jegyek</string>
+    <string name="intercom_record_a_video">Videófelvétel</string>
+    <string name="intercom_reload">Újratöltés</string>
+    <string name="intercom_reply">Válasz</string>
+    <string name="intercom_reply_from_admin">Választ írt {name}</string>
+    <string name="intercom_reply_to_conversation">Válasz írása</string>
+    <string name="intercom_retry">Újra</string>
+    <string name="intercom_saving">Mentés...</string>
+    <string name="intercom_search_browse_empty_state_text">Sajnáljuk, erre nincs találatunk. Fogalmazza át a keresését.</string>
+    <string name="intercom_search_for_help">Keresés a súgóban</string>
+    <string name="intercom_search_gif">GIF-ek keresése…</string>
+    <string name="intercom_search_help_articles">Súgó Articles keresése</string>
+    <string name="intercom_see_all">Összes megtekintése</string>
+    <string name="intercom_see_all_conversations">Összes beszélgetés megtekintése</string>
+    <string name="intercom_see_past_conversations">Korábbi beszélgetések megtekintése</string>
+    <string name="intercom_see_previous_conversations">Előző beszélgetések megtekintése</string>
+    <string name="intercom_send">Küldés</string>
+    <string name="intercom_send_a_message_reply_time">A szokásos válaszadási idő</string>
+    <string name="intercom_send_us_a_message">Küldjön üzenetet nekünk!</string>
+    <string name="intercom_send_us_a_message_bot">Küldjön nekünk üzenetet, és botunk azonnal válaszolni fog.</string>
+    <string name="intercom_settings">Beállítások</string>
+    <string name="intercom_shared_by">Megosztotta:</string>
+    <string name="intercom_show_less">Kevesebb mutatása</string>
+    <string name="intercom_single_article">1 cikk</string>
+    <string name="intercom_single_collection">1 collection</string>
+    <string name="intercom_some_things_failed_to_load">Néhány dolog nem töltődött be. Próbálja újra.</string>
+    <string name="intercom_something_went_wrong_try_again">Valami hiba történt. Próbálja meg újra.</string>
+    <string name="intercom_source">Forrás</string>
+    <string name="intercom_sources">Források</string>
+    <string name="intercom_spaces_error_description">A tartalmat nem sikerült betölteni.</string>
+    <string name="intercom_spaces_error_title">Valami hiba történt.</string>
+    <string name="intercom_start_a_conversation">Beszélgetés indítása</string>
+    <string name="intercom_start_another_conversation">Új beszélgetés indítása</string>
+    <string name="intercom_start_conversation">Beszélgetés indítása</string>
+    <string name="intercom_status">Állapot</string>
+    <string name="intercom_still_generating_answer">Még mindig tart a válasz generálása…</string>
+    <string name="intercom_still_thinking">Még mindig gondolkodom…</string>
+    <string name="intercom_still_working_on_it">Még mindig dolgozom rajta…</string>
+    <string name="intercom_stop_upload">Feltöltés leállítása</string>
+    <string name="intercom_storage_access_request">Fényképeid megtekintéséhez engedélyezned kell a tárhelyhez való hozzáférést</string>
+    <string name="intercom_string_is_incorrect">Nem tűnik helyesnek</string>
+    <string name="intercom_submit">Küldés</string>
+    <string name="intercom_suggested_articles">Ajánlott cikkek</string>
+    <string name="intercom_surveys_all_options_response_hint">Kérjük, válassza ki az összes megfelelő lehetőséget.</string>
+    <string name="intercom_surveys_dismiss">Felmérés elvetése</string>
+    <string name="intercom_surveys_done_button">Kész</string>
+    <string name="intercom_surveys_dropdown_default_option">Kérjük, válasszon ki egy választ...</string>
+    <string name="intercom_surveys_email_error">Kérjük, valós e-mail címet adjon meg.</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">Kérjük, válasszon {response_count} lehetőséget.</string>
+    <string name="intercom_surveys_from_company">{company} vállalat felmérése</string>
+    <string name="intercom_surveys_from_teammate">Felmérés készítője: {sender_name} a(z) {company} vállalattól</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">Ehhez a kérdéshez legalább {response_count} lehetőséget ki kell választani.</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">Ehhez a kérdéshez {response_count} lehetőséget kell kiválasztani.</string>
+    <string name="intercom_surveys_multi_star_rating">{count} csillag</string>
+    <string name="intercom_surveys_multiselect_other_option">Egyéb (kérjük, részletezze)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">Kérjük, részletezze.</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">Válasz beírása</string>
+    <string name="intercom_surveys_multiselect_other_option_value">Egyéb</string>
+    <string name="intercom_surveys_next_button">Következő</string>
+    <string name="intercom_surveys_nps_lower_label">Nem valószínű</string>
+    <string name="intercom_surveys_nps_upper_label">Nagyon valószínű</string>
+    <string name="intercom_surveys_number_error">Kérjük, adjon meg egy számot.</string>
+    <string name="intercom_surveys_one_star_rating">1 csillag</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">{questioin_number}/{question_count} kérdés</string>
+    <string name="intercom_surveys_required_question">Ez kötelező kérdés.</string>
+    <string name="intercom_surveys_required_response">Kötelezően kitöltendő válasz</string>
+    <string name="intercom_surveys_response_range_response_hint">Kérjük, válasszon legalább {minimum_response_count} és legfeljebb {maximum_response_count} lehetőséget.</string>
+    <string name="intercom_surveys_response_too_long">A válaszok legfeljebb {character_count} karakterből állhatnak.</string>
+    <string name="intercom_surveys_response_too_short">A válaszoknak legalább {character_count} karakterből kell állniuk.</string>
+    <string name="intercom_surveys_sender_image">Felmérés küldőjének képe</string>
+    <string name="intercom_surveys_single_response_hint">Kérjük, válasszon 1 lehetőséget.</string>
+    <string name="intercom_surveys_telephone_error">Kérjük, érvényes telefonszámot adjon meg.</string>
+    <string name="intercom_surveys_text_input_question_placeholder">Kérjük, írja be ide a válaszát...</string>
+    <string name="intercom_take_a_photo">Fotókészítés</string>
+    <string name="intercom_tap_to_send_image">Fénykép küldéséhez koppints</string>
+    <string name="intercom_tasks_space_title">Feladatok</string>
+    <string name="intercom_team_name_custom_response_delay_2">A(z) {app_name} általában egy napon belül válaszol.</string>
+    <string name="intercom_team_name_custom_response_delay_3">A(z) {app_name} általában egy héten belül válaszol.</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">{app_name} általában egy munkanapon belül válaszol.</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">{app_name} általában két munkanapon belül válaszol.</string>
+    <string name="intercom_teammate_from_company">{name} – {company}</string>
+    <string name="intercom_tell_us_more">Adj meg további részleteket…</string>
+    <string name="intercom_tell_us_what_you_need">Mondja el, miben segíthetünk, és robotunk mindent megtesz annak érdekében, hogy válaszoljon a kérdésére.</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">Köszönjük! Munkatársaink egy munkanapon belül válaszolnak.</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">Köszönjük! Csapatunk két munkanapon belül válaszolni fog.</string>
+    <string name="intercom_thanks_for_letting_us_know">Köszönjük a visszajelzésed</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">Köszönjük! Csapatunk válaszol, amint tud.</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">Az országhívószám nem tűnik helyesnek</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">Az e-mail-cím nem tűnik helyesnek</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">A telefonszám nem tűnik helyesnek</string>
+    <string name="intercom_that_number_has_too_many_digits">A telefonszám túl sok számjegyet tartalmaz</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">A telefonszámból hiányzik pár számjegy</string>
+    <string name="intercom_that_number_needs_a_prefix">A szám elé kell egy előtag (+ vagy 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">Munkatársaink szükség esetén segítenek</string>
+    <string name="intercom_the_team_typically_replies_in_hours">Csapatunk általában néhány órán belül válaszol.</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">Munkatársaink általában egy munkanapon belül válaszolnak.</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">Csapatunk általában két munkanapon belül válaszol.</string>
+    <string name="intercom_thinking">Gondolkodom…</string>
+    <string name="intercom_ticket_could_not_be_created">A jegyet nem sikerült létrehozni</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">{ticket_type_title} jegy létrehozása</string>
+    <string name="intercom_ticket_current_status">Aktuális állapot: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">Aktuális állapot: {current_status_title}, {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">Jegyjellemzők;</string>
+    <string name="intercom_ticket_details_for_title">Jegy részletei a következőhöz: {title}</string>
+    <string name="intercom_ticket_details_notification_detail">Itt és e-mailben is értesítjük ezen a címen:</string>
+    <string name="intercom_ticket_has_been_created">Jegy létrehozva</string>
+    <string name="intercom_ticket_has_been_updated">Jegy frissítve</string>
+    <string name="intercom_ticket_sla_details">SLA részletek: {sla_details}</string>
+    <string name="intercom_ticket_status_details">Állapot részletei a következőhöz: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">A jegy {status} állapotba került ekkor: • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">{teammate} áthelyezte a jegyet {status} állapotba ekkor: {timestamp}</string>
+    <string name="intercom_tickets_add_file">Fájl hozzáadása</string>
+    <string name="intercom_tickets_add_files">Fájlok hozzáadása</string>
+    <string name="intercom_tickets_create_ticket">Jegy létrehozása</string>
+    <string name="intercom_tickets_create_ticket_fallback">Kérjük, válaszoljon az alábbi információkkal, és valaki hamarosan kapcsolatba lép Önnel.</string>
+    <string name="intercom_tickets_created_confirmation_header">Jegy létrehozva</string>
+    <string name="intercom_tickets_cta_text">Kérdése van ezzel a jeggyel kapcsolatban?</string>
+    <string name="intercom_tickets_email_copy">A válaszokat és a jegyek frissítéseit erre az e-mail címre küldjük.</string>
+    <string name="intercom_tickets_email_subject">Az Ön {ticket_type_name} jegye</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">Az Ön {ticket_type_name} jegye (jegyszám: {ticket_id})</string>
+    <string name="intercom_tickets_empty_state_text">Jegyei itt fognak megjelenni</string>
+    <string name="intercom_tickets_empty_state_title">Nincsenek jegyek</string>
+    <string name="intercom_tickets_estimated_resolution">Becsült idő a megoldásig: {duration}</string>
+    <string name="intercom_tickets_files_added">Fájlok hozzáadva</string>
+    <string name="intercom_tickets_have_a_question">Kérdése van ezzel a hibával kapcsolatban?</string>
+    <string name="intercom_tickets_in_progress_status_detail">Dolgozunk rajta. 🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">{first_name} dolgozik rajta!</string>
+    <string name="intercom_tickets_is_resolved">Megoldották ezt a jegyet?</string>
+    <string name="intercom_tickets_log_a_ticket">Jegy naplózása</string>
+    <string name="intercom_tickets_resolved_status_detail">Befejeztük a jegyét.</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">{first_name} befejezte az Ön jegyét.</string>
+    <string name="intercom_tickets_sla">Megoldás becsült időpontja: {time}</string>
+    <string name="intercom_tickets_space_title">Jegyek</string>
+    <string name="intercom_tickets_status_change_event">A jegy új állapota: {status} – {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">Befejeztük a jegyét.</string>
+    <string name="intercom_tickets_status_description_more_info">További információkra van szükségünk</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">{admin_first_name} a jegyet áthelyezte ide:</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">{admin_first_name} a következőre módosította az Ön {ticket_id} számú jegye állapotát:</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">A jegye átkerült ide:</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">Az Ön {ticket_id} számú jegyének állapota erre módosult:</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">Az Ön jegye</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">Az Ön {ticket_id} számú jegye</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">Hamarosan foglalkozunk a jegyével.</string>
+    <string name="intercom_tickets_status_description_working_on">Már dolgozunk a jegyén.</string>
+    <string name="intercom_tickets_status_event_moved">{teammate} áthelyezte a jegyet a {status} állapotba ekkor: {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">Jegy áthelyezve ide: {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">A jegy {submitted_status} ekkor: • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">Folyamatban</string>
+    <string name="intercom_tickets_status_resolved">Megoldva</string>
+    <string name="intercom_tickets_status_submitted">Beküldve</string>
+    <string name="intercom_tickets_status_waiting_on_you">Önre vár</string>
+    <string name="intercom_tickets_submitted_confirmation_header">Jegy beküldve</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">Értesítjük, amint valami hír érkezik a jegyéről.</string>
+    <string name="intercom_tickets_submitted_status_detail">Hamarosan felvesszük.</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">{first_name} hamarosan fel fogja venni.</string>
+    <string name="intercom_tickets_unread">Jegyek. Olvasatlan jegyfrissítései vannak.</string>
+    <string name="intercom_tickets_updates_prompt">A Messengerben és e-mailben kap értesítést a hírekről.</string>
+    <string name="intercom_tickets_view_ticket">A jegy részleteinek megtekintése</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">További információkra van szükségünk Öntől.</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">{first_name} további információkat kér</string>
+    <string name="intercom_time_day_ago">{delta} nappal ezelőtt</string>
+    <string name="intercom_time_future_1h">1 óra</string>
+    <string name="intercom_time_future_2h">2 óra</string>
+    <string name="intercom_time_future_30m">30 perc</string>
+    <string name="intercom_time_future_3h">3 óra</string>
+    <string name="intercom_time_future_day_0">hétfő</string>
+    <string name="intercom_time_future_day_1">kedd</string>
+    <string name="intercom_time_future_day_2">szerda</string>
+    <string name="intercom_time_future_day_3">csütörtök</string>
+    <string name="intercom_time_future_day_4">péntek</string>
+    <string name="intercom_time_future_day_5">szombat</string>
+    <string name="intercom_time_future_day_6">vasárnap</string>
+    <string name="intercom_time_future_later_today">később ma</string>
+    <string name="intercom_time_future_next_week">jövő héten</string>
+    <string name="intercom_time_future_tomorrow">holnap</string>
+    <string name="intercom_time_hour_ago">{delta} órával ezelőtt</string>
+    <string name="intercom_time_just_now">Épp most</string>
+    <string name="intercom_time_minute_ago">{delta} perccel ezelőtt</string>
+    <string name="intercom_time_week_ago">{delta} héttel ezelőtt</string>
+    <string name="intercom_time_yesterday">tegnap</string>
+    <string name="intercom_try_again">Próbáld újra</string>
+    <string name="intercom_try_again_minute">Próbálkozz újra egy perc múlva.</string>
+    <string name="intercom_try_use_different_keywords">Próbáljon meg más kulcsszavakat használni, vagy írja be a teljes kérdését.</string>
+    <string name="intercom_twitter_follow">Kövess minket a Twitteren</string>
+    <string name="intercom_two_business_days">Két munkanap</string>
+    <string name="intercom_type_a_number">Írj be egy számot…</string>
+    <string name="intercom_typically_replies_in_one_business_day">Általában egy munkanapon belül válaszol.</string>
+    <string name="intercom_typically_replies_in_two_business_days">Általában két munkanapon belül válaszol.</string>
+    <string name="intercom_unread_message_count">{unread_count} olvasatlan</string>
+    <string name="intercom_upfront_collection_form_close_out">Bármikor visszatérhet ide, hogy megnézze a válaszokat, és újabb híreket küldjön.</string>
+    <string name="intercom_upfront_collection_form_introduction">Osszon meg néhány háttérinformációt, hogy munkatársaink hatékonyabban és gyorsabban tudjanak reagálni.</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">Köszönjük, hogy elküldte ezt a háttérinformációt. Hogy később időt spórolhasson, adjon meg most további részleteket.</string>
+    <string name="intercom_upfront_collection_form_subtitle">Küldjön a csapatnak néhány háttérinformációt.</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">Szem előtt fogják tartani ezeket a háttérinformációkat.</string>
+    <string name="intercom_upfront_collection_form_title">Gyorsabb segítség</string>
+    <string name="intercom_upfront_collection_form_title_submitted">Elküldve a csapatnak!</string>
+    <string name="intercom_upload_failed">A feltöltés nem sikerült</string>
+    <string name="intercom_upload_max_files_allowed">Legfeljebb {limit} fájl engedélyezett</string>
+    <string name="intercom_upload_max_files_size">A fájl maximális mérete {limit} MB</string>
+    <string name="intercom_user_avatar_image">Felhasználó avatár képe</string>
+    <string name="intercom_view_all">Összes megtekintése</string>
+    <string name="intercom_view_conversation">Beszélgetés megtekintése</string>
+    <string name="intercom_view_more_details">További részletek megtekintése</string>
+    <string name="intercom_view_post">Bejegyzés megtekintése</string>
+    <string name="intercom_we_run_on_intercom">Fejlesztette az Intercom</string>
+    <string name="intercom_working_on_it">Dolgozom rajta…</string>
+    <string name="intercom_you">Te</string>
+    <string name="intercom_you_are_all_up_to_date">Egyelőre mindent megnéztél!</string>
+    <string name="intercom_you_have_new_messages">Új üzenetei érkeztek.</string>
+    <string name="intercom_you_rated_the_conversation">Értékelted a beszélgetést</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">Itt és e-mailben is értesítjük</string>
+    <string name="intercom_your_checklists">Az Ön ellenőrzőlistái</string>
+    <string name="intercom_your_conversations">Korábbi beszélgetések</string>
+    <string name="intercom_your_recent_conversations">Legutóbbi beszélgetések</string>
+    <string name="intercom_your_recent_message">Legutóbbi üzenet</string>
+    <string name="intercom_your_recent_messages">Legutóbbi üzenetek</string>
+    <string name="intercom_your_ticket">Az Ön jegye</string>
+    <string name="item_view_role_description">Lap</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Az alsó lap összecsukása"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Az alsó lap elvetése"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Fogópont"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Az alsó lap kibontása"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Alsó lap"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Megadott dátum"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Megadott dátum: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"A dátum nem felel meg a várt formátumnak: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Nem engedélyezett dátum: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"A dátum a várt időtartományon (%1$s – %2$s) kívül esik"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Dátum"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Nincs"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Dátum kiválasztása"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Kiválasztott dátum"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Jelenleg kiválasztva: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Navigálás a következő évhez: %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Nincs"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Görgessen a korábbi évek megjelenítéséhez"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Görgessen a későbbi évek megjelenítéséhez"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Váltás naptárbeviteli módra"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Csúsztatással kiválaszthatja a kívánt évet, vagy koppintással visszaválthat a nap kiválasztásához."</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Váltás szövegbeviteli módra"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Váltás a következő hónapra"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Váltás az előző hónapra"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Váltás az év kiválasztására"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Dátum kiválasztása"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Ma"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Látható az évválasztó"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Érvénytelen a megadott dátumtartomány"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Dátumok megadása"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Tartományon belül"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Záró dátum"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Görgessen a következő hónap megjelenítéséhez"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Görgessen az előző hónap megjelenítéséhez"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Kezdő dátum"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Dátumok kiválasztása"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Párbeszédpanel"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Összecsukva"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Kibontva"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Keresés"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Elvetés"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Javaslatok alább"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"de."</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Óra"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d óra"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Óra kiválasztása"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d óra"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"óra megadása"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Perc"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Perc kiválasztása"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d perc"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"perc megadása"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Napszak kiválasztása"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"du."</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Elemleírás megjelenítése"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Elemleírás"</string>
+    <string name="material_clock_toggle_content_description">Válassza ki, hogy délelőtt vagy délután</string>
+    <string name="material_hour_24h_suffix">%1$s óra</string>
+    <string name="material_hour_selection">Óra kiválasztása</string>
+    <string name="material_hour_suffix">%1$s óra</string>
+    <string name="material_minute_selection">Perc kiválasztása</string>
+    <string name="material_minute_suffix">%1$s perc</string>
+    <string name="material_timepicker_am">de.</string>
+    <string name="material_timepicker_clock_mode_description">Időbevitelhez váltson óramódba.</string>
+    <string name="material_timepicker_hour">Óra</string>
+    <string name="material_timepicker_minute">Perc</string>
+    <string name="material_timepicker_pm">du.</string>
+    <string name="material_timepicker_select_time">Időpont kiválasztása</string>
+    <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
+    <string name="mtrl_badge_numberless_content_description">Új értesítés</string>
+    <string name="mtrl_chip_close_icon_content_description">Eltávolítás (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Több mint %1$d új értesítés</string>
+    <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
+    <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
+    <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_cancel">Mégse</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
+    <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Napok oszlopa: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Érvénytelen formátum.</string>
+    <string name="mtrl_picker_invalid_format_example">Példa: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Használja ezt: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Érvénytelen tartomány.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ugrás ehhez az évhez: %1$s</string>
+    <string name="mtrl_picker_out_of_range">Tartományon kívül: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Kezdés dátuma – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Befejezés dátuma</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Válasszon dátumtartományt</string>
+    <string name="mtrl_picker_range_header_unselected">Kezdés dátuma – Befejezés dátuma</string>
+    <string name="mtrl_picker_save">Mentés</string>
+    <string name="mtrl_picker_text_input_date_hint">Dátum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Befejezés dátuma</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Kezdés dátuma</string>
+    <string name="mtrl_picker_text_input_day_abbr">N</string>
+    <string name="mtrl_picker_text_input_month_abbr">H</string>
+    <string name="mtrl_picker_text_input_year_abbr">É</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Váltás naptárbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Koppintson a nap kiválasztásához</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Váltás szövegbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Koppintson az év kiválasztásához</string>
+    <string name="mtrl_timepicker_cancel">Mégse</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigációs menü"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Nincs kijelölve"</string>
+    <string msgid="875452955155264703" name="off">"Ki"</string>
+    <string msgid="8655164131929253426" name="on">"Be"</string>
+    <string name="password_toggle_content_description">Jelszó megjelenítése</string>
+    <string msgid="5941395253238309765" name="range_end">"Tartomány vége"</string>
+    <string msgid="7097486360902471446" name="range_start">"Tartomány kezdete"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Keresés"</string>
+    <string msgid="6043586758067023" name="selected">"Kijelölve"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Kapcsoló"</string>
+    <string msgid="1672349317127674378" name="tab">"Lap"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> százalék."</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"elemleírás"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"elemleírás megjelenítése"</string>
+</resources>

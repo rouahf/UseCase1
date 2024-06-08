@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>أسرع بـ 0.25 مرة</item>
+    <item>أسرع بـ 0.5 مرات</item>
+    <item>أسرع بـ 0.75 مرة</item>
+    <item>عادية</item>
+    <item>أسرع بـ 1.25 مرة</item>
+    <item>أسرع بـ 1.5 مرة</item>
+    <item>أسرع بمرتين</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+    <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+    <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+    <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+    <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+    <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+    <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+    <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+    <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d إشعار جديد</item>
+    <item quantity="one">إشعار جديد واحد (%d)</item>
+    <item quantity="two">إشعاران جديدان (%d)</item>
+    <item quantity="few">%d إشعارات جديدة</item>
+    <item quantity="many">%d إشعارًا جديدًا</item>
+    <item quantity="other">%d إشعار جديد</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تم"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"مفعّلة"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="bottomsheet_action_collapse">تصغير البطاقة السفلية</string>
+    <string name="bottomsheet_action_expand">توسيع البطاقة السفلية</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="bottomsheet_drag_handle_clicked">تم النقر مرّتين على مقبض السحب.</string>
+    <string name="bottomsheet_drag_handle_content_description">مقبض السحب</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"ردّ"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"فيديو"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"رفض"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"قطع الاتصال"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"مكالمة واردة"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"مكالمة جارية"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"يتم فحص المكالمة الواردة"</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
+    <string msgid="406453423630273620" name="close_drawer">"إغلاق قائمة التنقل"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"إغلاق الورقة"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">تفعيل</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">‏تفعيل خدمات Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">تثبيت</string>
+    <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏مدى توفّر خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
+    <string name="common_google_play_services_unsupported_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">تحديث</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="common_google_play_services_wear_update_text">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_signin_button_text">تسجل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول عبر Google</string>
+    <string msgid="8038256446254964252" name="default_error_message">"إدخال غير صالح"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"نافذة منبثقة"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"قائمة منسدلة"</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="exo_controls_cc_disabled_description">تفعيل الترجمة</string>
+    <string name="exo_controls_cc_enabled_description">إيقاف الترجمة</string>
+    <string name="exo_controls_fastforward_description">تقديم سريع</string>
+    <string name="exo_controls_fullscreen_enter_description">دخول إلى وضع ملء الشاشة</string>
+    <string name="exo_controls_fullscreen_exit_description">خروج من وضع ملء الشاشة</string>
+    <string name="exo_controls_hide">إخفاء عناصر التحكم بالمشغّل</string>
+    <string name="exo_controls_next_description">التالي</string>
+    <string name="exo_controls_overflow_hide_description">إخفاء الإعدادات الإضافية</string>
+    <string name="exo_controls_overflow_show_description">عرض الإعدادات الإضافية</string>
+    <string name="exo_controls_pause_description">إيقاف مؤقت</string>
+    <string name="exo_controls_play_description">تشغيل</string>
+    <string name="exo_controls_playback_speed">السرعة</string>
+    <string name="exo_controls_previous_description">السابق</string>
+    <string name="exo_controls_repeat_all_description">الوضع الحالي: تكرار الكل. تبديل وضع التكرار</string>
+    <string name="exo_controls_repeat_off_description">الوضع الحالي: عدم التكرار. تبديل وضع التكرار</string>
+    <string name="exo_controls_repeat_one_description">الوضع الحالي: التكرار مرة واحدة. تبديل وضع التكرار</string>
+    <string name="exo_controls_rewind_description">ترجيع</string>
+    <string name="exo_controls_seek_bar_description">مستوى تقدُّم التشغيل</string>
+    <string name="exo_controls_settings_description">الإعدادات</string>
+    <string name="exo_controls_show">عرض عناصر التحكم بالمشغّل</string>
+    <string name="exo_controls_shuffle_off_description">تفعيل وضع الترتيب العشوائي</string>
+    <string name="exo_controls_shuffle_on_description">إيقاف وضع الترتيب العشوائي</string>
+    <string name="exo_controls_stop_description">إيقاف</string>
+    <string name="exo_controls_vr_description">وضع VR</string>
+    <string name="exo_download_completed">اكتمل التنزيل</string>
+    <string name="exo_download_description">تنزيل</string>
+    <string name="exo_download_downloading">جارٍ التنزيل.</string>
+    <string name="exo_download_failed">تعذّر التنزيل</string>
+    <string name="exo_download_notification_channel_name">عمليات التنزيل</string>
+    <string name="exo_download_paused">تمّ إيقاف عمليات التنزيل مؤقتًا.</string>
+    <string name="exo_download_paused_for_network">عمليات التنزيل في انتظار الاتصال بالشبكة</string>
+    <string name="exo_download_paused_for_wifi">عمليات التنزيل في انتظار اتصال Wi-Fi.</string>
+    <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
+    <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
+    <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">بديل</string>
+    <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
+    <string name="exo_track_role_commentary">التعليقات</string>
+    <string name="exo_track_role_supplementary">تكميلي</string>
+    <string name="exo_track_selection_auto">تلقائي</string>
+    <string name="exo_track_selection_none">بدون اختيار</string>
+    <string name="exo_track_selection_title_audio">صوت</string>
+    <string name="exo_track_selection_title_text">نص</string>
+    <string name="exo_track_selection_title_video">فيديو</string>
+    <string name="exo_track_stereo">استريو</string>
+    <string name="exo_track_surround">صوت مجسّم</string>
+    <string name="exo_track_surround_5_point_1">صوت مجسّم 5.1</string>
+    <string name="exo_track_surround_7_point_1">صوت مجسّم 7.1</string>
+    <string name="exo_track_unknown">غير معروف</string>
+    <string name="exo_track_unknown_name">غير معروف (%1$s)</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
+    <string msgid="6827826412747255547" name="in_progress">"قيد التقدم"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"تم وضع علامة في المربّع بشكل جزئي"</string>
+    <string name="intercom_access_background_location_message">انتقل إلى إعدادات جهازك؛ لتمكين التطبيق من استخدام معلومات موقعك في الخلفية</string>
+    <string name="intercom_access_background_location_title">السماح بالوصول إلى معلومات موقعك طوال الوقت</string>
+    <string name="intercom_access_device_settings">انتقل إلى إعدادات جهازك للسماح بالوصول إلى صورك</string>
+    <string name="intercom_access_photos">الوصول إلى صورك</string>
+    <string name="intercom_active_15m_ago">د الأخيرة {minutes} نشط في</string>
+    <string name="intercom_active_day_ago">نشط منذ {days} ي</string>
+    <string name="intercom_active_hour_ago">نشط منذ {hours} س</string>
+    <string name="intercom_active_minute_ago">نشط منذ {minutes} د</string>
+    <string name="intercom_active_state">نشط</string>
+    <string name="intercom_active_week_ago">نشط منذ أكثر من أسبوع</string>
+    <string name="intercom_add">إضافة</string>
+    <string name="intercom_ai_answer">الإجابة مقدمة بواسطة الذكاء الاصطناعي.</string>
+    <string name="intercom_ai_answer_information">معلومات عن إجابة الذكاء الاصطناعي</string>
+    <string name="intercom_ai_bot">روبوت الذكاء الاصطناعي</string>
+    <string name="intercom_allow_access">السماح بالوصول</string>
+    <string name="intercom_allow_storage_access">يُرجى السماح بالوصول إلى التخزين لعرض صورك</string>
+    <string name="intercom_almost_there">أوشكت على الانتهاء...</string>
+    <string name="intercom_also_in_this_conversation">أيضًا في هذه المحادثة</string>
+    <string name="intercom_android_activated_message">تطبيق Android الخاص بك مدمج الآن مع نظام Intercom</string>
+    <string name="intercom_answer">الإجابة</string>
+    <string name="intercom_app_settings">إعدادات التطبيقات</string>
+    <string name="intercom_article_double_author">بواسطة {author_first_name1} و{author_first_name2}</string>
+    <string name="intercom_article_load_error">تعذر تحميل المقالة</string>
+    <string name="intercom_article_multiple_authors">بواسطة {author_first_name1} و{number_of_other_authors} آخرين</string>
+    <string name="intercom_article_question">هل هذا يجيب على سؤالك؟</string>
+    <string name="intercom_article_response">لقد تفاعلت مع</string>
+    <string name="intercom_article_search_hint_text">...ابحث المقالات</string>
+    <string name="intercom_article_search_search_results">نتائج البحث</string>
+    <string name="intercom_article_single_author">بواسطة {author_first_name}</string>
+    <string name="intercom_ask_a_question">أطرح سؤالًا</string>
+    <string name="intercom_ask_a_question_with_ellipsis">اطرح سؤالا...</string>
+    <string name="intercom_ask_another_question_with_ellipsis">اطرح سؤالا آخر...</string>
+    <string name="intercom_ask_our_bot_a_question">اطرح سؤالًا على الروبوت الخاص بنا</string>
+    <string name="intercom_asked_about">بخصوص</string>
+    <string name="intercom_assigned_to_admin">تم الإسناد إلى {admin}</string>
+    <string name="intercom_attribute_collector_negative">لا</string>
+    <string name="intercom_attribute_collector_positive">نعم</string>
+    <string name="intercom_available_teammates">زملاء الفريق المتاحون هم: {available_teammates}</string>
+    <string name="intercom_avatar">الصورة الرمزية</string>
+    <string name="intercom_avatars">الصور الرمزية</string>
+    <string name="intercom_away_state">بعيد</string>
+    <string name="intercom_bot">Bot</string>
+    <string name="intercom_bot_answers_instantly">سوف يقوم الروبوت بالرد على الفور</string>
+    <string name="intercom_bot_expectation_text">يستطيع الروبوت الخاص بنا الإجابة على العديد من الأسئلة الشائعة</string>
+    <string name="intercom_bot_is_still_thinking">لا زال الروبوت يفكر...</string>
+    <string name="intercom_bot_is_thinking">الربوت يفكر...</string>
+    <string name="intercom_browse_all_help_topics">تصفح جميع موضوعات المساعدة</string>
+    <string name="intercom_browse_collections">تصفح المجموعات</string>
+    <string name="intercom_cancel">إلغاء</string>
+    <string name="intercom_chat_with_us">دردش معنا</string>
+    <string name="intercom_check_later_for_updates">للاطلاع على التحديثات؛ تحقق مرة أخرى لاحقًا.</string>
+    <string name="intercom_checklist_card_first_step">الخطوة الأولى</string>
+    <string name="intercom_checklist_card_next_step">الخطوة التالية</string>
+    <string name="intercom_checklist_completed">اكتملت</string>
+    <string name="intercom_checklist_in_progress_time_remaining_plural">{minutes} دقائق متبقية</string>
+    <string name="intercom_checklist_in_progress_time_remaining_singular">دقيقة واحدة تقريبًا متبقية</string>
+    <string name="intercom_checklist_mark_step_as_complete">ضع علامة كمكتملة</string>
+    <string name="intercom_checklist_not_started_time_remaining_plural">{minutes} دقيقة تقريبًا</string>
+    <string name="intercom_checklist_not_started_time_remaining_singular">دقيقة واحدة تقريبًا</string>
+    <string name="intercom_checklist_number_of_steps_plural">{number_of_steps} خطوات</string>
+    <string name="intercom_checklist_number_of_steps_progress_plural">اكتملت {steps_completed} خطوات من {total_steps}</string>
+    <string name="intercom_checklist_number_of_steps_progress_singular">تم الانتهاء من خطوة واحدة من أصل {total_steps}</string>
+    <string name="intercom_checklist_number_of_steps_singular">خطوة واحدة</string>
+    <string name="intercom_checklist_sender_name">قام {name} بالمشاركة</string>
+    <string name="intercom_checklist_step_action_button">زر إجراء الخطوة</string>
+    <string name="intercom_checklist_step_completed">اكتملت</string>
+    <string name="intercom_choose_one">اختر واحدًا…</string>
+    <string name="intercom_choose_the_date">Choose the date…</string>
+    <string name="intercom_clear">محو</string>
+    <string name="intercom_close">إغلاق</string>
+    <string name="intercom_congratulations">تهانينا</string>
+    <string name="intercom_connected">أنت الآن متصل</string>
+    <string name="intercom_contact_support">الاتصال بفريق الدعم</string>
+    <string name="intercom_contact_us">اتصل بنا</string>
+    <string name="intercom_continue_the_conversation">إكمال المحادثة</string>
+    <string name="intercom_conversation_card_office_hours_header">موعد عودتنا إلى الإنترنت</string>
+    <string name="intercom_conversation_card_reply_time_header">وقت الرد المعتاد لدينا</string>
+    <string name="intercom_conversation_card_reply_time_header_m5">سنعود: غدًا</string>
+    <string name="intercom_conversation_has_ended">انتهت محادثتك</string>
+    <string name="intercom_conversation_number_and_description">رقم المحادثة {conversation_number}: {conversation_description}</string>
+    <string name="intercom_conversations">المحادثات</string>
+    <string name="intercom_conversations_space_title">المحادثات</string>
+    <string name="intercom_conversations_with_app">المحادثات مع {name}</string>
+    <string name="intercom_copied_to_clipboard">تم النسخ إلى الحافظة</string>
+    <string name="intercom_couldnt_complete_action">تعذر إكمال هذا الإجراء</string>
+    <string name="intercom_couldnt_load_apps">.تعذر تحميل التطبيقات</string>
+    <string name="intercom_couldnt_load_content">تعذر تحميل المحتوى</string>
+    <string name="intercom_couldnt_load_messenger">.تعذر تحميل Messenger</string>
+    <string name="intercom_create_a_ticket">إنشاء تذكرة</string>
+    <string name="intercom_currently_no_help_articles">لا توجد مقالات مساعدة متاحة في الوقت الحالي.</string>
+    <string name="intercom_delete_attachment">حذف المرفقات</string>
+    <string name="intercom_delivered">تم تسليمها</string>
+    <string name="intercom_disappointed_face_emoji">وجه مُحبَط</string>
+    <string name="intercom_dismiss">تجاهل</string>
+    <string name="intercom_empty_conversations">ستُعرضُ الرسائل الواردة من الفريق هنا</string>
+    <string name="intercom_enter_text_placeholder">أدخل النص...</string>
+    <string name="intercom_error_loading_conversation">تعذر تحميل المحادثة</string>
+    <string name="intercom_error_loading_ticket">تعذر تحميل التذكرة</string>
+    <string name="intercom_expected_response_delay_10800">أقل من 3 ساعات</string>
+    <string name="intercom_expected_response_delay_120">أقل من دقيقتين</string>
+    <string name="intercom_expected_response_delay_1200">أقل من 20 دقيقة</string>
+    <string name="intercom_expected_response_delay_14400">أقل من 4 ساعات</string>
+    <string name="intercom_expected_response_delay_172800">يومان</string>
+    <string name="intercom_expected_response_delay_180">أقل من 3 دقائق</string>
+    <string name="intercom_expected_response_delay_1800">أقل من 30 دقيقة</string>
+    <string name="intercom_expected_response_delay_18000">أقل من 5 ساعات</string>
+    <string name="intercom_expected_response_delay_21600">أقل من 6 ساعات</string>
+    <string name="intercom_expected_response_delay_240">أقل من 4 دقائق</string>
+    <string name="intercom_expected_response_delay_259200">3 أيام</string>
+    <string name="intercom_expected_response_delay_300">أقل من 5 دقائق</string>
+    <string name="intercom_expected_response_delay_345600">4 أيام</string>
+    <string name="intercom_expected_response_delay_3600">أقل من ساعة</string>
+    <string name="intercom_expected_response_delay_43200">أقل من 12 ساعة</string>
+    <string name="intercom_expected_response_delay_432000">5 أيام</string>
+    <string name="intercom_expected_response_delay_518400">6 أيام</string>
+    <string name="intercom_expected_response_delay_60">أقل من دقيقة واحدة</string>
+    <string name="intercom_expected_response_delay_600">أقل من 10 دقائق</string>
+    <string name="intercom_expected_response_delay_604800">أقل من أسبوع</string>
+    <string name="intercom_expected_response_delay_7200">أقل من ساعتين</string>
+    <string name="intercom_expected_response_delay_86400">يوم واحد</string>
+    <string name="intercom_expected_response_delay_900">أقل من 15 دقيقة</string>
+    <string name="intercom_extra_labels_count">+ {labels_count} عنوان</string>
+    <string name="intercom_facebook_like">تابعنا على Facebook</string>
+    <string name="intercom_failed_delivery">تعذر تسليم الرسالة</string>
+    <string name="intercom_failed_to_load_conversation">تعذر تحميل محادثاتك</string>
+    <string name="intercom_failed_to_load_tickets">تعذر تحميل تذاكرك</string>
+    <string name="intercom_failed_to_load_tickets_with_app">تعذر تحميل تذاكرك باستخدام {app_name}</string>
+    <string name="intercom_failed_to_send">تعذر الإرسال</string>
+    <string name="intercom_field_is_required">بيانات حقل {field_name} مطلوبة</string>
+    <string name="intercom_file_access_failed">يتعذر إرسال هذا الملف</string>
+    <string name="intercom_file_max_limit">حد أقصى {limit} ملفات</string>
+    <string name="intercom_file_saved">تم حفظ الملف</string>
+    <string name="intercom_file_too_big">يتعذر إرسال الملفات التي تتجاوز {limit} ميجابايت</string>
+    <string name="intercom_file_type_not_allowed">نوع الملف هذا غير مسموح به</string>
+    <string name="intercom_files">الملفات</string>
+    <string name="intercom_gallery">معرض الصور</string>
+    <string name="intercom_generating_answer">جارٍ تكوين الإجابة...</string>
+    <string name="intercom_get_help">الحصول على مساعدة</string>
+    <string name="intercom_get_notified_by_email">تلقي الرد عبر البريد الإلكتروني</string>
+    <string name="intercom_gif_attribution">عبر {providername}</string>
+    <string name="intercom_gifs_load_error">تعذر تحميل صور GIF</string>
+    <string name="intercom_give_it_another_try">منحه محاولة أخرى</string>
+    <string name="intercom_go_to_device_settings">للمساح بحق الوصول، انتقل إلى قائمة الأذونات بإعدادات التطبيقات بالجهاز</string>
+    <string name="intercom_grinning_face_with_big_eyes_emoji">وجه بابتسامة عريضة وعيون واسعة</string>
+    <string name="intercom_group_conversation_1_other_participant_count_short">أكثر من شخص آخر</string>
+    <string name="intercom_group_conversation_multiple_other_participant_count_short">أكثر من {other_participant_count} آخرين</string>
+    <string name="intercom_group_conversation_multiple_person_also_participating">{other_participant_count} آخرون أيضًا يشاركون</string>
+    <string name="intercom_group_conversation_name_also_participating">يشارك {participant_name} هو أيضًا</string>
+    <string name="intercom_group_conversation_name_and_1_other_also_particiapting">يشارك {participant_name} وشخص آخر أيضًا</string>
+    <string name="intercom_group_conversation_name_and_multiple_others_also_participating">{participant_name} و {other_participant_count} آخرون يشاركون هم أيضًا</string>
+    <string name="intercom_group_conversation_one_person_also_participating">يشارك شخص آخر أيضًا</string>
+    <string name="intercom_help_center">مركز المساعدة</string>
+    <string name="intercom_help_space_title">المساعدة</string>
+    <string name="intercom_home_space_title">الصفحة الرئيسية</string>
+    <string name="intercom_how_can_we_help">كيف يمكننا مساعدتك؟</string>
+    <string name="intercom_how_would_you_rate_this">ما تقييمك لهذا؟</string>
+    <string name="intercom_image_attached">(تم إرفاق الصورة)</string>
+    <string name="intercom_inbox_error_state_title">حدث خطأ</string>
+    <string name="intercom_last_active_hours_ago">آخر نشاط منذ {mins} ساعات</string>
+    <string name="intercom_last_active_mins_ago">آخر نشاط منذ {mins} دقيقة</string>
+    <string name="intercom_last_active_over_a_week">آخر نشاط منذ أكثر من أسبوع</string>
+    <string name="intercom_learn_more">تعرف على المزيد</string>
+    <string name="intercom_loading">جارٍ التحميل</string>
+    <string name="intercom_message_failed_try_again">تعذر الإرسال، اضغط لإعادة المحاولة</string>
+    <string name="intercom_message_placeholder">اكتب رسالة...</string>
+    <string name="intercom_message_seen">تمت رؤيتها</string>
+    <string name="intercom_message_state_sending">…إرسال</string>
+    <string name="intercom_message_summary">ملخص الرسالة: {summary}، اسم زميل الفريق: {name}، وقت إرسال الرسالة: {sentTime}. </string>
+    <string name="intercom_message_summary_with_teammate_status">ملخص الرسالة: {summary}، اسم زميل الفريق: {name}، حالة زميل الفريق: {adminStatus}، وقت إرسال الرسالة: {sentTime}. </string>
+    <string name="intercom_message_unread">الرسالة غير مقروءة.</string>
+    <string name="intercom_message_unseen">لم تتم رؤيتها بعد</string>
+    <string name="intercom_messages_space_title">الرسائل</string>
+    <string name="intercom_messenger_bot_reply_time">وسيرد برنامج الروبوت عليها على الفور</string>
+    <string name="intercom_multiple_articles">{total_articles} مقالات</string>
+    <string name="intercom_multiple_collections">{total_collection} مجموعات</string>
+    <string name="intercom_name_and_1_other">{name} وشخص آخر</string>
+    <string name="intercom_name_and_x_others">{name} و{count} آخرين</string>
+    <string name="intercom_navigation_back">رجوع</string>
+    <string name="intercom_need_camera_access">{app_name} يحتاج إلى السماح له بالوصول إلى الكاميرا؛ لتتمكن من التقاط الصور وتسجيل مقاطع فيديو. انقر: الإعدادات > الأذونات، ثم شغِّل الكاميرا.</string>
+    <string name="intercom_neutral_face_emoji">وجه محايد</string>
+    <string name="intercom_new_conversation">محادثة جديدة</string>
+    <string name="intercom_new_message">رسالة جديدة</string>
+    <string name="intercom_new_messages">لديك {n} رسائل جديدة</string>
+    <string name="intercom_new_notifications">إشعارات جديدة</string>
+    <string name="intercom_news">الأخبار</string>
+    <string name="intercom_news_empty_title">لا من أخبار حتى الآن</string>
+    <string name="intercom_news_latest_subtitle">من فريق {team_name}</string>
+    <string name="intercom_news_latest_title">آخر الأخبار</string>
+    <string name="intercom_news_older_title">الأقدم</string>
+    <string name="intercom_news_space_title">الأخبار</string>
+    <string name="intercom_no_articles_to_display">لا توجد مقالات حتى الآن</string>
+    <string name="intercom_no_conversations">لم يتم إجراء محادثات</string>
+    <string name="intercom_no_gifs_found">لم يتم العثور على أي صور GIF</string>
+    <string name="intercom_no_gifs_matching_query">تعذر العثور على أي صور GIF مطابقة لاستعلامك</string>
+    <string name="intercom_no_help_articles_to_display">لا توجد مقالات مساعدة</string>
+    <string name="intercom_no_messages_from_the_team">لا توجد رسائل من الفريق</string>
+    <string name="intercom_no_network_connection">لا يوجد اتصال بالشبكة</string>
+    <string name="intercom_no_photos">بلا صور</string>
+    <string name="intercom_no_photos_on_device">لا توجد أي صور على هذا الجهاز</string>
+    <string name="intercom_no_results_for_searchterm">لا توجد نتائج لعملية البحث {searchTerm}</string>
+    <string name="intercom_no_tasks">لا من مهام</string>
+    <string name="intercom_no_tasks_available_currently">لا من مهام متاحة حاليًا.</string>
+    <string name="intercom_not_now">ليس الآن</string>
+    <string name="intercom_nothing_to_see_here_yet">ليس هناك شيء هنا بعد</string>
+    <string name="intercom_notification_channel_actions_description">تحتوي على روابط لاتخاذ إجراءً في هذا التطبيق</string>
+    <string name="intercom_notification_channel_actions_title">الإجراءات</string>
+    <string name="intercom_notification_channel_chat_replies_description">إشعارات الرد من المحادثات الموجودة في هذا التطبيق</string>
+    <string name="intercom_notification_channel_chat_replies_title">ردود المحادثة</string>
+    <string name="intercom_notification_channel_new_chats_description">رسائل المحادثة الجديدة المرسلة من هذا التطبيق</string>
+    <string name="intercom_notification_channel_new_chats_title">محادثات جديدة</string>
+    <string name="intercom_number_is_incorrect">يبدو أن هذا الرقم غير صحيح</string>
+    <string name="intercom_ok">جيد</string>
+    <string name="intercom_one_new_message">ثمة رسالة جديدة لديك</string>
+    <string name="intercom_our_bot_answers_instantly">الروبوت الخاص بنا يردُ على الفور</string>
+    <string name="intercom_page_not_found">لم تعُد تلك الصفحة موجودة هنا</string>
+    <string name="intercom_permission_denied">تم رفض طلب الإذن هذا</string>
+    <string name="intercom_photo_access_denied">لقد رفضت السماح بالوصول إلى صورك</string>
+    <string name="intercom_photo_and_video_library">مكتبة الصور والفيديو</string>
+    <string name="intercom_placeholder_datepicker">DD-MM-YYYY</string>
+    <string name="intercom_placeholder_email_input">أدخل البريد الإلكتروني هنا...</string>
+    <string name="intercom_placeholder_numerical_inputs">أدخل الرقم هنا...</string>
+    <string name="intercom_placeholder_text_inputs">أدخل النص هنا...</string>
+    <string name="intercom_please_select">يرجى تحديد خيار...</string>
+    <string name="intercom_plus_x_more">+{n} أكثر</string>
+    <string name="intercom_powered_by_intercom">مشغل بواسطة Intercom</string>
+    <string name="intercom_profile_location">{time} في {location}</string>
+    <string name="intercom_rate_your_conversation">قيّم محادثتك</string>
+    <string name="intercom_recent_ticket">التذكرة الأخيرة</string>
+    <string name="intercom_recent_tickets">التذاكر الأخيرة</string>
+    <string name="intercom_record_a_video">تسجيل فيديو</string>
+    <string name="intercom_reload">إعادة التحميل</string>
+    <string name="intercom_reply">الرد</string>
+    <string name="intercom_reply_from_admin">رد من {name}</string>
+    <string name="intercom_reply_to_conversation">اكتب ردًا</string>
+    <string name="intercom_retry">إعادة المحاولة</string>
+    <string name="intercom_saving">جاري الحفظ...</string>
+    <string name="intercom_search_browse_empty_state_text">.المعذرة، لا أستطيع أن أجد جوابًا عن ذلك. حاول أن تُعيد صياغة مصطلح البحث الذي أدخلته</string>
+    <string name="intercom_search_for_help">البحث عن مساعدة</string>
+    <string name="intercom_search_gif">بحث عن صور GIF…</string>
+    <string name="intercom_search_help_articles">البحث في مقالات المساعدة</string>
+    <string name="intercom_see_all">رؤية الكل</string>
+    <string name="intercom_see_all_conversations">مشاهدة جميع محادثاتك</string>
+    <string name="intercom_see_past_conversations">رؤية المحادثات السابقة</string>
+    <string name="intercom_see_previous_conversations">عرض محادثاتك السابقة</string>
+    <string name="intercom_send">إرسال</string>
+    <string name="intercom_send_a_message_reply_time">وقت الرد المعتاد هو</string>
+    <string name="intercom_send_us_a_message">أرسل لنا رسالة</string>
+    <string name="intercom_send_us_a_message_bot">ابعث لنا رسالة، وسيرد الروبوت لدينا عليها على الفور</string>
+    <string name="intercom_settings">الإعدادات</string>
+    <string name="intercom_shared_by">تمت المشاركة بواسطة</string>
+    <string name="intercom_show_less">عرض أقل</string>
+    <string name="intercom_single_article">مقال واحد</string>
+    <string name="intercom_single_collection">مجموعة واحدة</string>
+    <string name="intercom_some_things_failed_to_load">فشلت عملية التحميل لبعض الأشياء حاول مرة أخرى</string>
+    <string name="intercom_something_went_wrong_try_again">.حدث خطأ. حاول مرة أخرى</string>
+    <string name="intercom_source">مصدر</string>
+    <string name="intercom_sources">المصادر</string>
+    <string name="intercom_spaces_error_description">تعذر تحميل المحتوى</string>
+    <string name="intercom_spaces_error_title">حدث خطأ ما</string>
+    <string name="intercom_start_a_conversation">بدء محادثة</string>
+    <string name="intercom_start_another_conversation">بدء محادثة أخرى</string>
+    <string name="intercom_start_conversation">بدء محادثة</string>
+    <string name="intercom_status">الحالة</string>
+    <string name="intercom_still_generating_answer">عملية تكوين الإجابة لا زالت جارية...</string>
+    <string name="intercom_still_thinking">ما زال التفكير جارٍ...</string>
+    <string name="intercom_still_working_on_it">مازال العمل جاري علي اجابة</string>
+    <string name="intercom_stop_upload">إيقاف التحميل</string>
+    <string name="intercom_storage_access_request">لعرض صورك، يتعين عليك السماح بالوصول إلى التخزين</string>
+    <string name="intercom_string_is_incorrect">يبدو أن هذا غير صحيح</string>
+    <string name="intercom_submit">تقديم</string>
+    <string name="intercom_suggested_articles">المقالات المقترحة</string>
+    <string name="intercom_surveys_all_options_response_hint">حدد جميع الخيارات المنطبقة، من فضلك</string>
+    <string name="intercom_surveys_dismiss">إخفاء استطلاع الرأي</string>
+    <string name="intercom_surveys_done_button">تم</string>
+    <string name="intercom_surveys_dropdown_default_option">يرجى اختيار رد...</string>
+    <string name="intercom_surveys_email_error">يُرجى إدخال عنوان بريد إلكتروني صالح</string>
+    <string name="intercom_surveys_fixed_response_count_response_hint">حدد {response_count} خيارات، من فضلك</string>
+    <string name="intercom_surveys_from_company">استطلاع رأي من شركة {company}</string>
+    <string name="intercom_surveys_from_teammate">استطلاع بواسطة {sender_name} من شركة {company}</string>
+    <string name="intercom_surveys_multi_select_too_few_responses">يحتاج هذا السؤال أن يتم تحديد {response_count} خيارات على الأقل</string>
+    <string name="intercom_surveys_multi_select_too_many_responses">يحتاج هذا السؤال أن يتم تحديد {response_count} خيارات</string>
+    <string name="intercom_surveys_multi_star_rating">{count} نجوم</string>
+    <string name="intercom_surveys_multiselect_other_option">غير ذلك (يرجى التحديد)</string>
+    <string name="intercom_surveys_multiselect_other_option_input_label">الرجاء التحديد</string>
+    <string name="intercom_surveys_multiselect_other_option_input_placeholder">أدخل الإجابة</string>
+    <string name="intercom_surveys_multiselect_other_option_value">شيء آخر</string>
+    <string name="intercom_surveys_next_button">التالي</string>
+    <string name="intercom_surveys_nps_lower_label">غير محتمل</string>
+    <string name="intercom_surveys_nps_upper_label">محتمل جدًا</string>
+    <string name="intercom_surveys_number_error">يرجى إدخال رقم</string>
+    <string name="intercom_surveys_one_star_rating">نجمة واحدة</string>
+    <string name="intercom_surveys_question_question_number_of_question_count">السؤال رقم {questioin_number} من أصل {question_count}</string>
+    <string name="intercom_surveys_required_question">هذا سؤال مطلوب</string>
+    <string name="intercom_surveys_required_response">هذه إجابة مطلوبة</string>
+    <string name="intercom_surveys_response_range_response_hint">يُرجى تحديد عدد من الخيارات لا يقل عن {minimum_response_count} ولا يزيد عن {maximum_response_count}</string>
+    <string name="intercom_surveys_response_too_long">يُرجى إبقاء عدد الأحرف في الإجابات بحيث لا يزيد عن {character_count} حرف</string>
+    <string name="intercom_surveys_response_too_short">يرجى التأكد من أن الإجابات لا تقل عن {character_count} حرفًا</string>
+    <string name="intercom_surveys_sender_image">صورة مرسل استطلاع الرأي</string>
+    <string name="intercom_surveys_single_response_hint">حدد خيارًا واحدًا، من فضلك</string>
+    <string name="intercom_surveys_telephone_error">يُرجى إدخال رقم هاتف صالح</string>
+    <string name="intercom_surveys_text_input_question_placeholder">الرجاء كتابة إجابتك هنا...</string>
+    <string name="intercom_take_a_photo">التقاط صورة</string>
+    <string name="intercom_tap_to_send_image">اضغط لإرسال صورة</string>
+    <string name="intercom_tasks_space_title">المهام</string>
+    <string name="intercom_team_name_custom_response_delay_2">عادةً ما يرد {app_name} في غضون يوم</string>
+    <string name="intercom_team_name_custom_response_delay_3">يرد {app_name} عادةً في غضون أسبوع</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_one_business_day">يرد {app_name} عادةً خلال يوم عمل واحد.</string>
+    <string name="intercom_team_name_proactive_expected_response_delay_two_business_days">يرد {app_name} عادةً خلال يومي عمل</string>
+    <string name="intercom_teammate_from_company">{name} من {company}</string>
+    <string name="intercom_tell_us_more">اطلعنا على المزيد…</string>
+    <string name="intercom_tell_us_what_you_need">أخبرنا بما تحتاج إلى مساعدة فيه، وسيبذل الروبوت الخاص بنا قصارى جهده ليقدم لك أفضل إجابة</string>
+    <string name="intercom_thanks_custom_response_delay_one_business_day">شكرًا! سيقوم الفريق بالرد خلال يوم عمل واحد</string>
+    <string name="intercom_thanks_custom_response_delay_two_business_days">شكرًا! سيقوم الفريق بالرد خلال يومي عمل</string>
+    <string name="intercom_thanks_for_letting_us_know">شكرًا لإطلاعنا على الأمر</string>
+    <string name="intercom_thanks_proactive_expected_response_delay_unknown">شكرًا! سيرد الفريق في أقرب وقت ممكن</string>
+    <string name="intercom_that_country_code_doesnt_look_quite_right">يبدو أن كود الدولة هذا غير صحيح</string>
+    <string name="intercom_that_email_address_doesnt_look_quite_right">يبدو أن هذا البريد الإلكتروني غير صحيح</string>
+    <string name="intercom_that_number_doesnt_look_quite_right">يبدو أن هذا الرقم غير صحيح</string>
+    <string name="intercom_that_number_has_too_many_digits">يحتوي هذا الرقم على أرقام كثيرة جدًا</string>
+    <string name="intercom_that_number_is_missing_a_few_digits">يبدو أن بضعة أرقام مفقودة من هذا الرقم</string>
+    <string name="intercom_that_number_needs_a_prefix">يحتاج هذا الرقم إلى بادئة (+ أو 00)</string>
+    <string name="intercom_the_team_can_help_if_needed">يستطيع الفريق تقديم مساعدة إذا لزم الأمر</string>
+    <string name="intercom_the_team_typically_replies_in_hours">.عادةً ما يرد الفريق في غضون بضع ساعات</string>
+    <string name="intercom_the_team_typically_replies_in_one_business_day">.يقوم الفريق عادةً بالرد خلال يوم عمل واحد</string>
+    <string name="intercom_the_team_typically_replies_in_two_business_days">يرد الفريق عادةً خلال يومي عمل</string>
+    <string name="intercom_thinking">التفكير جارٍ...</string>
+    <string name="intercom_ticket_could_not_be_created">لا يمكن إنشاء تذكرة طلب دعم</string>
+    <string name="intercom_ticket_create_ticket_with_type_title">إنشاء تذكرة {ticket_type_title}</string>
+    <string name="intercom_ticket_current_status">الحالة الحالية: {current_status_title}</string>
+    <string name="intercom_ticket_current_status_with_date">الحالة الحالية: {current_status_title}، {date}</string>
+    <string name="intercom_ticket_details_attributes_accessibility_text">سمات تذكرة طلب الدعم؛</string>
+    <string name="intercom_ticket_details_for_title">تفاصيل تذكرة طلب الخدمة من أجل {title}</string>
+    <string name="intercom_ticket_details_notification_detail">سيتم إبلاغك هنا، وعبر البريد الإلكتروني على العنوان:</string>
+    <string name="intercom_ticket_has_been_created">أُنشِئت التذكرةُ</string>
+    <string name="intercom_ticket_has_been_updated">حُدِثت بياناتُ التذكرة</string>
+    <string name="intercom_ticket_sla_details">تفاصيل اتفاقية مستوى الخدمة (SLA):{sla_details}</string>
+    <string name="intercom_ticket_status_details">تفاصيل الحالة: {status_details}</string>
+    <string name="intercom_ticket_status_event_moved_automation_with_bullet_point">تغيَّرت حالة تذكرة طلب الدعم إلى {status} • {timestamp}</string>
+    <string name="intercom_ticket_status_event_moved_with_bullet_point">غيَّر {teammate} حالة تذكرة طلب الدعم إلى {status} • {timestamp}</string>
+    <string name="intercom_tickets_add_file">إضافة ملف</string>
+    <string name="intercom_tickets_add_files">إضافة ملفات</string>
+    <string name="intercom_tickets_create_ticket">إنشاء تذكرة دعم</string>
+    <string name="intercom_tickets_create_ticket_fallback">يُرجى الرد مع تضمين المعلومات التالية، وسيقوم شخص ما بالرد عليك قريبًا.</string>
+    <string name="intercom_tickets_created_confirmation_header">أُنشئت التذكرة</string>
+    <string name="intercom_tickets_cta_text">هل لديك أي سؤال عن هذه التذكرة؟</string>
+    <string name="intercom_tickets_email_copy">ستُرسل الردود وأية تحديثات بشأن تذاكر طلبات الدعم على عنوان البريد الإلكتروني هذا</string>
+    <string name="intercom_tickets_email_subject">تذكرة {ticket_type_name} الخاصة بك</string>
+    <string name="intercom_tickets_email_subject_with_ticket_id">تذكرة {ticket_type_name} رقم #{ticket_id} الخاصة بك</string>
+    <string name="intercom_tickets_empty_state_text">ستُعرضُ تذاكرك هنا</string>
+    <string name="intercom_tickets_empty_state_title">لا توجد تذاكر</string>
+    <string name="intercom_tickets_estimated_resolution">الوقت المقدر للحل: {duration}</string>
+    <string name="intercom_tickets_files_added">الملفات التي تمت إضافتها</string>
+    <string name="intercom_tickets_have_a_question">هل لديك سؤال بخصوص هذه المشكلة؟</string>
+    <string name="intercom_tickets_in_progress_status_detail">نحن بصدد معالجة هذا الطلب🙌</string>
+    <string name="intercom_tickets_in_progress_status_detail_with_assignee">يعمل {first_name} على معالجة هذا!</string>
+    <string name="intercom_tickets_is_resolved">هل تم حل المشكلة في هذه التذكرة؟</string>
+    <string name="intercom_tickets_log_a_ticket">تسجيل تذكرة دعم</string>
+    <string name="intercom_tickets_resolved_status_detail">لقد أتممنا معالجة تذكرة الدعم الخاصة بك</string>
+    <string name="intercom_tickets_resolved_status_detail_with_assignee">أتمم {first_name} معالجة تذكرة طلب الدعم الخاصة بك</string>
+    <string name="intercom_tickets_sla">ومن المقدر أن يتم حله خلال {time}</string>
+    <string name="intercom_tickets_space_title">التذاكر</string>
+    <string name="intercom_tickets_status_change_event">حالة التذكرة الآن: {status} • {timestamp}</string>
+    <string name="intercom_tickets_status_description_completed">لقد أكملنا معالجة تذكرتك</string>
+    <string name="intercom_tickets_status_description_more_info">نحن بحاجة إلى مزيدٍ من المعلومات</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin">نقل {admin_first_name} تذكرة الدعم الخاصة بك إلى</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_admin_with_ticket_id">نقل {admin_first_name} تذكرتك رقم #{ticket_id} إلى</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator">نُقلت تذكرة الدعم بك إلى</string>
+    <string name="intercom_tickets_status_description_prefix_status_changed_by_operator_with_ticket_id">نُقِلَت تذكرَتك رقم #{ticket_id} إلى</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted">تم إرسال تذكرتك</string>
+    <string name="intercom_tickets_status_description_prefix_when_submitted_with_ticket_id">لقد تحولت حالة تذكرتك رقم #{ticket_id} إلى</string>
+    <string name="intercom_tickets_status_description_well_pick_up_soon">سننظر في تذكرتك قريبًا</string>
+    <string name="intercom_tickets_status_description_working_on">جاري معالجة تذكرتك</string>
+    <string name="intercom_tickets_status_event_moved">قام {teammate} بنقل التذكرة إلى {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_moved_automation">تحولت حالة تذكرة طلب الدعم إلى {status} {timestamp}</string>
+    <string name="intercom_tickets_status_event_submitted">لقد تم {submitted_status} تذكرة طلب الدعم • {timestamp}</string>
+    <string name="intercom_tickets_status_in_progress">قيد المعالجة</string>
+    <string name="intercom_tickets_status_resolved">تم الحل</string>
+    <string name="intercom_tickets_status_submitted">تم الإرسال</string>
+    <string name="intercom_tickets_status_waiting_on_you">في انتظار ردٍ منك</string>
+    <string name="intercom_tickets_submitted_confirmation_header">تم تقديم تذكرة طلب الدعم</string>
+    <string name="intercom_tickets_submitted_confirmation_paragraph">سنبلغك بمجرد وجود تحديث في حالة تذكرتك</string>
+    <string name="intercom_tickets_submitted_status_detail">سنبدأ معالجة هذا الطلب قريبًا</string>
+    <string name="intercom_tickets_submitted_status_detail_with_assignee">سيبدأ {first_name} في معالجة هذا الطلب قريبًا</string>
+    <string name="intercom_tickets_unread">التذاكر. لديك تحديثات بخصوص التذكرة لم تقرأها.</string>
+    <string name="intercom_tickets_updates_prompt">ستتلقى تحديثات عبر برنامج المراسلة ماسنجر ومن خلال البريد الإلكتروني</string>
+    <string name="intercom_tickets_view_ticket">عرض تفاصيل تذكرة طلب الدعم</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail">نحتاج المزيد من المعلومات منك</string>
+    <string name="intercom_tickets_waiting_on_customer_status_detail_with_assignee">يحتاج {first_name} إلى مزيد من المعلومات</string>
+    <string name="intercom_time_day_ago">منذ {delta} ي</string>
+    <string name="intercom_time_future_1h">ساعة واحدة</string>
+    <string name="intercom_time_future_2h">ساعتان</string>
+    <string name="intercom_time_future_30m">30 دقيقة</string>
+    <string name="intercom_time_future_3h">3 ساعات</string>
+    <string name="intercom_time_future_day_0">الإثنين</string>
+    <string name="intercom_time_future_day_1">الثلاثاء</string>
+    <string name="intercom_time_future_day_2">الأربعاء</string>
+    <string name="intercom_time_future_day_3">الخميس</string>
+    <string name="intercom_time_future_day_4">الجمعة</string>
+    <string name="intercom_time_future_day_5">السبت</string>
+    <string name="intercom_time_future_day_6">الأحد</string>
+    <string name="intercom_time_future_later_today">اليوم بوقت لاحق</string>
+    <string name="intercom_time_future_next_week">الأسبوع التالي</string>
+    <string name="intercom_time_future_tomorrow">غدًا</string>
+    <string name="intercom_time_hour_ago">منذ {delta} س</string>
+    <string name="intercom_time_just_now">الآن</string>
+    <string name="intercom_time_minute_ago">منذ {delta} د</string>
+    <string name="intercom_time_week_ago">منذ {delta} أ</string>
+    <string name="intercom_time_yesterday">الأمس</string>
+    <string name="intercom_try_again">حاول مرة أخرى</string>
+    <string name="intercom_try_again_minute">.حاول مرة أخرى في غضون دقيقة</string>
+    <string name="intercom_try_use_different_keywords">جرِّب استخدام كلمات مختلفة أو اكتب سؤالك كاملًا</string>
+    <string name="intercom_twitter_follow">تابعنا على Twitter</string>
+    <string name="intercom_two_business_days">يومي عمل</string>
+    <string name="intercom_type_a_number">اكتب رقمًا…</string>
+    <string name="intercom_typically_replies_in_one_business_day">يرد عادةً خلال يوم عمل واحد</string>
+    <string name="intercom_typically_replies_in_two_business_days">يرد عادةً خلال يومي عمل</string>
+    <string name="intercom_unread_message_count">{unread_count} غير مقروء</string>
+    <string name="intercom_upfront_collection_form_close_out">.يمكنك العودة هنا بأي وقت لمشاهدة الردود وإرسال التحديثات</string>
+    <string name="intercom_upfront_collection_form_introduction">.قم بمشاركة بعض المحتويات مع أعضاء الفريق لمساعدتهم على الرد بشكل أسرع وأفضل</string>
+    <string name="intercom_upfront_collection_form_submission_confirmation">.شكرًا على إرسال هذه المحتويات. لتوفير الوقت لاحقًا، لا تتردد بإضافة مزيد من التفاصيل الآن</string>
+    <string name="intercom_upfront_collection_form_subtitle">إرسال بعض المحتويات إلى أعضاء الفريق</string>
+    <string name="intercom_upfront_collection_form_subtitle_submitted">سيأخذون هذه المحتويات بعين الاعتبار</string>
+    <string name="intercom_upfront_collection_form_title">الحصول على المساعدة بشكل أسرع</string>
+    <string name="intercom_upfront_collection_form_title_submitted">!تم الإرسال إلى الفريق</string>
+    <string name="intercom_upload_failed">فشلت عملية التحميل</string>
+    <string name="intercom_upload_max_files_allowed">الحد الأقصى لعدد الملفات المسموح بها هو {limit} ملفات</string>
+    <string name="intercom_upload_max_files_size">الحد الأقصى لحجم الملف هو {limit} ميجابايت</string>
+    <string name="intercom_user_avatar_image">الصورة الرمزية للمستخدم</string>
+    <string name="intercom_view_all">عرض الكل</string>
+    <string name="intercom_view_conversation">عرض المحادثة</string>
+    <string name="intercom_view_more_details">عرض المزيد من التفاصيل</string>
+    <string name="intercom_view_post">عرض المنشور</string>
+    <string name="intercom_we_run_on_intercom">يتم إجراء المحادثة من Intercom</string>
+    <string name="intercom_working_on_it">جاري العمل علي اجابة</string>
+    <string name="intercom_you">أنت</string>
+    <string name="intercom_you_are_all_up_to_date">وكان هذا كل شيء!</string>
+    <string name="intercom_you_have_new_messages">لديك رسائل جديدة.</string>
+    <string name="intercom_you_rated_the_conversation">لقد قمت بتقييم محادثتك</string>
+    <string name="intercom_youll_be_notified_here_and_by_email">ستتلقى إخطارًا هنا وعبر البريد الإلكتروني</string>
+    <string name="intercom_your_checklists">قوائم المراجعة الخاصة بك</string>
+    <string name="intercom_your_conversations">محادثاتك</string>
+    <string name="intercom_your_recent_conversations">المحادثات الأخيرة</string>
+    <string name="intercom_your_recent_message">الرسالة الأخيرة</string>
+    <string name="intercom_your_recent_messages">الرسائل الأخيرة</string>
+    <string name="intercom_your_ticket">التذكرة الخاصة بك</string>
+    <string name="item_view_role_description">علامة تبويب</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"تصغير البطاقة السفلية"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"إغلاق البطاقة السفلية"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"مقبض السحب"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"توسيع البطاقة السفلية"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"بطاقة سفلية"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"التاريخ الذي تم إدخاله"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"‏التاريخ الذي تم إدخاله: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"‏لا يتوافق التاريخ مع النمط المتوقَّع: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"‏التاريخ غير مسموح به: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"‏التاريخ خارج نطاق السنوات المتوقَّع: ‎%1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"التاريخ"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"بدون تاريخ"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"اختيار تاريخ"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"التاريخ المحدَّد"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"‏الاختيار الحالي: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"‏الانتقال إلى سنة %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"بدون تاريخ"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"انتقِل للأسفل أو للأعلى لإظهار السنوات السابقة."</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"انتقِل للأسفل أو للأعلى لإظهار السنوات التالية."</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"التبديل إلى وضع \"الإدخال في التقويم\""</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"مرِّر سريعًا لتحديد سنة، أو انقر للرجوع إلى تحديد يوم."</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"التبديل إلى \"وضع إدخال النص\""</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"التغيير إلى الشهر التالي"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"التغيير إلى الشهر السابق"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"التبديل لاختيار سنة"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"اختيار تاريخ"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"اليوم"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"أداة اختيار السنوات مرئية"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"إدخال نطاق زمني غير صالح"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"إدخال التواريخ"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"في النطاق"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"تاريخ الانتهاء"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"انتقِل للأسفل أو للأعلى لإظهار الشهر التالي."</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"انتقِل للأسفل أو للأعلى لإظهار الشهر السابق."</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"تاريخ البدء"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"اختيار التواريخ"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"مربّع حوار"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"مصغَّرة"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"موسَّعة"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"شريط بحث"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"إغلاق"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"إليك الاقتراحات"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"ص"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"ساعة"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"‏%1$d ساعة"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"اختيار الساعة"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"‏الساعة %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"الساعات"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"دقيقة"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"اختيار الدقائق"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"‏%1$d دقيقة"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"الدقائق"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"يُرجى اختيار \"ص\" أو \"م\"."</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"م"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"إظهار التلميح"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"تلميح"</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_24h_suffix">%1$s ساعة</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_cancel">إلغاء</string>
+    <string name="mtrl_picker_confirm">حسنًا</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع \"الإدخال في التقويم\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="mtrl_timepicker_cancel">إلغاء</string>
+    <string name="mtrl_timepicker_confirm">حسنًا</string>
+    <string msgid="542007171693138492" name="navigation_menu">"قائمة تنقل"</string>
+    <string msgid="6610465462668679431" name="not_selected">"غير محدّد"</string>
+    <string msgid="875452955155264703" name="off">"غير مفعّل"</string>
+    <string msgid="8655164131929253426" name="on">"مفعّل"</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string msgid="5941395253238309765" name="range_end">"نهاية النطاق"</string>
+    <string msgid="7097486360902471446" name="range_start">"بداية النطاق"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
+    <string msgid="6043586758067023" name="selected">"محدّد"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"تبديل"</string>
+    <string msgid="1672349317127674378" name="tab">"علامة تبويب"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> في المئة."</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"تلميح"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"إظهار التلميح"</string>
+</resources>

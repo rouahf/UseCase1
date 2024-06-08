@@ -1,0 +1,25 @@
+buildscript {
+    ext.kotlin_version = '1.5.31' // Utilisez une version valide de Kotlin Gradle
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.1.0'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    project.evaluationDependsOn(":app")
+}
+
+rootProject.buildDir = "../build"
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
